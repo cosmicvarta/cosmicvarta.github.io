@@ -1,0 +1,664 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CosmicVarta.</title>
+    <description> Platform for promoting Indian astronomy research to the public.</description>
+    <link>/</link>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 18 Aug 2021 22:23:17 +0530</pubDate>
+    <lastBuildDate>Wed, 18 Aug 2021 22:23:17 +0530</lastBuildDate>
+    <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Deciphering The Mysteries of The Quiet Sun Explosions</title>
+        <description>&lt;p&gt;The outer atmosphere (the corona) of the Sun poses a long standing mystery regarding its tem-perature.  The solar corona is composed of plasma (ionised gas) that emits strongly in X-rays andultraviolet radiation.  Its temperature exceeds a million degree kelvin, while the visible surface (thephotosphere)  is  at  6000K.  One  of  the  theories  to  understand  the  so-called  ’coronal  heating  prob-lem’ proposes the occurrence of a large number of small scale explosions (known as microflares andnanoflares) on the Sun.  It is known that these flares are a manifestation of the magnetic field of theSun that is generated in its interior.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/lakshitha_article1.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig.1 - Caption to this image can be  used like this
+&lt;/p&gt;
+
+&lt;p&gt;But the Sun’s magnetic field is not constant, it varies with anaverage period of 11 years, which is known as the solar cycle.  Approximately every 11 years, the Sun’smagnetic field reverses.  In other words, the north pole becomes the south pole, and vice versa.  The flip of the poles is an end product of the slow evolution of Sun’s magnetic field over time.  As the cycle progresses,  all of the Sun’s activities related to its magnetic field (such as sunspots,  flares,  coronalmass ejections) builds to a maximum (when the magnetic field reverses).  Then the Sun settles backdown to a minimum, before the whole cycle starts again.  The Sun was in a very low state of activityduring the minima of solar cycle 24 covering the year 2019.  It was in fact the quietest the Sun has been in the last 100 years!&lt;/p&gt;
+
+&lt;p&gt;During this quiet period of the Sun, at the mid of the year 2019, Chandrayaan 2 was launchedwith the several instruments/payloads to observed our moon and the Sun.  Among them CLASS is aninstrument to understand the abundance of elements present on the moon. But this requires knowledgeof the X-rays emitted from the Sun.  Thus, the orbiter also carried an instrument called Solar X-rayMonitor (XSM). XSM observed the Sun during its deepest minima of solar cycle 24, covering the year2019-2020 with a good temporal and energy resolution.  Using observations during this time, SantoshVadawale and his team has uncovered some fascinating information about the quiescent Sun.  Theyhave shown that during this period small scale transients, so-called microflares (smaller counterpartof the conventional solar flares) are occurring everywhere on the solar disk.Solar flares are eruptions of electromagnetic radiation of all wavelengths from the Sun.  They lastfrom a few minutes to a few hours.  Flares are classified depending on the energy they release during its  peak  in  the  soft  X  rays.   Though  the  number  of  large  flares  increase  with  the  progress  of  thesolar cycle, this study suggested that small flares, called microflares, keep exploding on the Sun at alltimes.  Though the definition of microflares has varied though the years due to the sensitivity of theinstrument, in this study flares having a peak flux below 10−8W m−2are considered as microflares.During this period of extremely quiet solar corona when no active regions were present on the disk,Santosh  Vadawale  and  team  identified  a  total  of  98  microflares  from  76  days.   The  microflares  aremarked in the lightcurve (Figure 1).  Most of the microflares were seen to behave similar to largerflares having a fast rise and a slow decay.  Some microflares did not follow this behaviour possibly1
+due to blending of multiple microflares or they intrinsically have a different origin.  The temperatureand emission measure of these microflares are determined.  Temperature tells how hot the plasma getsduring the explosion while the emission measure gives an idea about the density of plasma emittedat that particular temperature.  The temperature is found to be between 3-6 MK and the emission measure is in the order of 1046cm−3.&lt;/p&gt;
+
+&lt;p&gt;The  XSM  microflare  locations  are  identified  in  the  extreme  ultraviolet  images  obtained  fromNASA’s ‘Solar Dynamics Observatory’ and from the X-ray images obtained by the Japanese HINODEX-ray Telescope. Most microflares were seen to be associated with X-ray Bright Points. ‘Solar Dynam-ics Observatory’ HMI magnetograms were used to analyse the corresponding photospheric magneticfield.  They observed the microflares to be associated with magnetic bipolar regions having weakerfield strengths, which indicates magnetic reconnection happening at smaller scales (Figure 2).This is also the first statistical survey of X-ray microflares outside active regions.  By plotting thefrequency distribution of microflares, the team has given evidence for the hypothesis that small scaleheating events occur everywhere on the Sun and they contribute to coronal heating.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/2041-8213/abf0b0&quot; target=&quot;_blank&quot;&gt; Observations Of The Quiet Sun During The Deepest Solar Minimum Of The PastCentury With Chandrayaan-2 XSM – Sub-A Class Microflares Outside Active Regions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Santosh Vadawale&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; N. P. S. Mithun, Biswajit Mondal, Aveek Sarkar, P. Janardhan, Bhuwan Joshi, AnilBhardwaj,  M.  Shanmugam,  Arpit  R.  Patel,  Hitesh  Kumar  L.  Adalja,  Shiv  Kumar  Goyal,  TinkalLadiya, Neeraj Kumar Tiwari, Nishant Singh, Sushil Kumar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Physical Research Laboratory, Ahmedabad&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Tue, 17 Aug 2021 00:00:00 +0530</pubDate>
+        <link>/lakshitha1/</link>
+        <guid isPermaLink="true">/lakshitha1/</guid>
+        
+        <category>sun</category>
+        
+        <category>corona</category>
+        
+        <category>x-ray</category>
+        
+        
+        <category>Solar_Physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to CosmicVarta</title>
+        <description>&lt;p&gt;Come join us on a journey which will take you to the world of stars, galaxies and beyond and feel enthralled by unlocking the mysteries of the universe.&lt;/p&gt;
+
+&lt;p&gt;4 minutes to read&lt;/p&gt;
+
+&lt;h1 id=&quot;what-is-cosmicvarta&quot;&gt;What is CosmicVarta?&lt;/h1&gt;
+
+&lt;p&gt;Astronomy is truly a global subject. The boundaries between the nations, people, ethnicities do not exist for  astonomers. We all think of the entire humankind as one.&lt;/p&gt;
+
+&lt;p&gt;However, India is a country where astronomy is equated wih astrology by even the well educated individuals. This itself is a paradox, as the Indian civilsation has a rich history of astronomical observations and calculations (expand). It becomes necessary and a responsibility for profesional astronomers to present a platform where the authentic research being carried out is presented and discussed in language which a ‘non-expert’ individual can understand. Moreover, while high quality research is communicated through the  reputed journals, the students who are not dealng with he subject on a day to day basis might find it diiffuciut to grasp. We present &lt;strong&gt;CosmicVarta&lt;/strong&gt; as an online platform where we simplify the current astronomical research being carried out so that people from every background can grasp the essence of the results.&lt;/p&gt;
+
+&lt;p&gt;We are a group of Ph.D students, who all are working towards our doctoral thesis and through this platform, we want to share the astronomical  research being carried out by the Indian astronomers scattered all over the country. Another area where we’d like the users to utilize this platfomr is: career guidance in astronomy.&lt;/p&gt;
+
+&lt;p&gt;Research in astronomy is pursued at only a handful of research insitututes, hence prospective studens may often find it challenging to find relevant information. Through this portal you may find information regarding the various career optiona available, various positions available at astronomy institues in india and the other necessary information.&lt;/p&gt;
+
+&lt;p&gt;This portal will also serve as a information hub regarding various softwares and databases that are available to be used by the public for free. We can even help students who are  looking for short term projects using such huge volume of data by connecting with the scientists working actively in that area of research.&lt;/p&gt;
+
+&lt;p&gt;Come join us on a journey which will take yopu the wonderful world of stars, galaxies and beyond; and feel enthralled by unlocking of the keys to the mysteries of the universe which the scientists are doing on a daily basis.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Tue, 03 Aug 2021 00:00:00 +0530</pubDate>
+        <link>/welcome_to_cosmicvarta/</link>
+        <guid isPermaLink="true">/welcome_to_cosmicvarta/</guid>
+        
+        <category>sun</category>
+        
+        <category>corona</category>
+        
+        <category>x-ray</category>
+        
+        
+        <category>Solar_Physics</category>
+        
+      </item>
+    
+      <item>
+        <title>Welcome to the website.</title>
+        <description>&lt;p&gt;As an introduction to the website, let’s write a love letter to our intended audience, so that people get a feel about what this place is all about.&lt;/p&gt;
+
+&lt;p&gt;Check out the &lt;a href=&quot;https://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Thu, 03 Jun 2021 00:00:00 +0530</pubDate>
+        <link>/new_post/</link>
+        <guid isPermaLink="true">/new_post/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+      <item>
+        <title>A sample post on this webpage</title>
+        <description>&lt;p&gt;As an introduction to the website, let’s write a love letter to our intended audience, so that people get a feel about what this place is all about.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://beautifuljekyll.com/plans/&quot;&gt;&lt;img src=&quot;https://images.unsplash.com/photo-1472712739516-7ad2b786e1f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;amp;ixlib=rb-1.2.1&amp;amp;auto=format&amp;amp;fit=crop&amp;amp;w=1050&amp;amp;q=80&quot; alt=&quot;&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;#(tentative)&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;By &lt;a href=&quot;https://deanattali.com&quot;&gt;Vivek Kumar Jha&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Quasar accretion disks&lt;/strong&gt; are very difficult to undestand owing to their larger distances and singificantly smappler angular resoultions on earth.&lt;/p&gt;
+
+&lt;p&gt;** Bold like this**&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Italic like this&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;we-can-generate-our-own-toc-like-this&quot;&gt;We can generate our own TOC like this:&lt;/h2&gt;
+
+&lt;h2 id=&quot;table-of-contents&quot;&gt;Table of contents&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;#features&quot;&gt;Features&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#sponsors&quot;&gt;Sponsors 🏆&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#build-your-website-in-3-steps&quot;&gt;&lt;strong&gt;Build your website in 3 steps&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#plans&quot;&gt;Plans&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#add-your-own-content&quot;&gt;Add your own content&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#customizing-parameters-for-each-page&quot;&gt;Customizing parameters for each page&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#supported-parameters&quot;&gt;Supported parameters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#featured-users-success-stories&quot;&gt;Featured users (success stories!)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#faq-and-support&quot;&gt;FAQ and support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#credits&quot;&gt;Credits and contributions&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;embed-of-a-youtube-video&quot;&gt;Embed of a youtube video.&lt;/h2&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/0Soqggmccxk&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h1 id=&quot;features&quot;&gt;Features&lt;/h1&gt;
+
+&lt;p&gt;Check out &lt;a href=&quot;https://beautifuljekyll.com/updates/&quot;&gt;&lt;em&gt;What’s New?&lt;/em&gt;&lt;/a&gt; to see the latest features.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;SIMPLE&lt;/strong&gt;: The primary goal of Beautiful Jekyll is to allow literally &lt;em&gt;anyone&lt;/em&gt; to create a website in a few minutes.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Modern&lt;/strong&gt;: Uses the latest best practices and technologies to achieve nearly perfect scores on Google Chrome’s Audit.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mobile-first&lt;/strong&gt;: Designed to look great on both large-screen and small-screen (mobile) devices.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Highly customizable&lt;/strong&gt;: Many personalization settings such as changing the background colour/image, adding a logo.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Flexible usage&lt;/strong&gt;: Use Beautiful Jekyll directly on GitHub or via a Ruby gem - choose the best &lt;a href=&quot;#build-your-website-in-3-steps&quot;&gt;development method&lt;/a&gt; for you.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Battle-tested&lt;/strong&gt;: By using Beautiful Jekyll, you’ll be joining 50,000+ users enjoying this theme since 2015.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;SEO and social media support&lt;/strong&gt;: Customize how your site looks on Google and when shared on social media.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Comments support&lt;/strong&gt;: Add comments to any page using either &lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt;, &lt;a href=&quot;https://developers.facebook.com/docs/plugins/comments&quot;&gt;Facebook comments&lt;/a&gt;, &lt;a href=&quot;https://utteranc.es/&quot;&gt;Utterances&lt;/a&gt;, or &lt;a href=&quot;https://staticman.net&quot;&gt;Staticman&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tags&lt;/strong&gt;: Any blog post can be tagged with keywords, and an index page showing all the tags is automatically generated.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Analytics&lt;/strong&gt;: Easily integrate Google Analytics, or other analytics platforms, to track visits to your website.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Photos support&lt;/strong&gt;: Any page can have a full-width cover photo and thumbnail.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;RSS&lt;/strong&gt;: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;p&gt;Copy&lt;/p&gt;
+</description>
+        <pubDate>Sat, 01 May 2021 00:00:00 +0530</pubDate>
+        <link>/demo/</link>
+        <guid isPermaLink="true">/demo/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+      <item>
+        <title>A new post</title>
+        <description>&lt;p&gt;This is a new post. Let’s see where it goes.
+We can add as many posts like this and they get updated automatically!&lt;/p&gt;
+
+&lt;h1 id=&quot;header-1&quot;&gt;Header 1&lt;/h1&gt;
+
+&lt;p&gt;This is a new post. Let’s see where it goes.
+We can add as many posts like this and they get updated automatically!This is a new post. Let’s see where it goes.
+We can add as many posts like this and they get updated automatically!&lt;/p&gt;
+
+&lt;h1 id=&quot;header-2&quot;&gt;header 2&lt;/h1&gt;
+&lt;p&gt;This is a new post. Let’s see where it goes.
+We can add as many posts like this and they get updated automatically!
+This is a new post. Let’s see where it goes.
+We can add as many posts like this and they get updated automatically!&lt;/p&gt;
+
+&lt;h2 id=&quot;subheader-21&quot;&gt;Subheader 2.1&lt;/h2&gt;
+
+&lt;p&gt;This is a new post. Let’s see where it goes.
+We can add as many posts like this and they get updated automatically!This is a new post. Let’s see where it goes.
+We can add as many posts like this and they get updated automatically!&lt;/p&gt;
+
+&lt;h1 id=&quot;header-3&quot;&gt;header 3&lt;/h1&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;p&gt;Copy&lt;/p&gt;
+</description>
+        <pubDate>Fri, 23 Apr 2021 00:00:00 +0530</pubDate>
+        <link>/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">/welcome-to-jekyll/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+      <item>
+        <title>Flake it till you make it</title>
+        <description>&lt;p&gt;Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?&lt;/p&gt;
+
+&lt;p&gt;The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.&lt;/p&gt;
+
+&lt;p&gt;At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.&lt;/p&gt;
+
+&lt;p&gt;A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;p&gt;Copy&lt;/p&gt;
+</description>
+        <pubDate>Wed, 26 Feb 2020 00:00:00 +0530</pubDate>
+        <link>/flake-it-till-you-make-it/</link>
+        <guid isPermaLink="true">/flake-it-till-you-make-it/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+      <item>
+        <title>Powerful things we can use on the website</title>
+        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor. If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;html&quot;&gt;HTML&lt;/h4&gt;
+
+&lt;div class=&quot;language-html highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nt&quot;&gt;&amp;lt;li&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;ml-1 mr-1&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;a&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;target=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;_blank&quot;&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;href=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;#&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;i&lt;/span&gt; &lt;span class=&quot;na&quot;&gt;class=&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;fab fa-twitter&quot;&lt;/span&gt;&lt;span class=&quot;nt&quot;&gt;&amp;gt;&amp;lt;/i&amp;gt;&lt;/span&gt;
+    &lt;span class=&quot;nt&quot;&gt;&amp;lt;/a&amp;gt;&lt;/span&gt;
+&lt;span class=&quot;nt&quot;&gt;&amp;lt;/li&amp;gt;&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;css&quot;&gt;CSS&lt;/h4&gt;
+
+&lt;div class=&quot;language-css highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.c&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#999988&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;font-style&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;italic&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;nc&quot;&gt;.highlight&lt;/span&gt; &lt;span class=&quot;nc&quot;&gt;.err&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#a61717&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+    &lt;span class=&quot;nl&quot;&gt;background-color&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;m&quot;&gt;#e3d2d2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;;&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;js&quot;&gt;JS&lt;/h4&gt;
+
+&lt;div class=&quot;language-js highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+4
+5
+6
+7
+8
+9
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;c1&quot;&gt;// alertbar later&lt;/span&gt;
+&lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nb&quot;&gt;document&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scroll&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;kd&quot;&gt;function&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;()&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+    &lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;k&quot;&gt;this&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;scrollTop&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;if&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;y&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;&amp;gt;&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;280&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeIn&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;else&lt;/span&gt; &lt;span class=&quot;p&quot;&gt;{&lt;/span&gt;
+        &lt;span class=&quot;nx&quot;&gt;$&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;s1&quot;&gt;.alertbar&lt;/span&gt;&lt;span class=&quot;dl&quot;&gt;'&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;).&lt;/span&gt;&lt;span class=&quot;nx&quot;&gt;fadeOut&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;();&lt;/span&gt;
+    &lt;span class=&quot;p&quot;&gt;}&lt;/span&gt;
+&lt;span class=&quot;p&quot;&gt;});&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;python&quot;&gt;Python&lt;/h4&gt;
+
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;ruby&quot;&gt;Ruby&lt;/h4&gt;
+
+&lt;div class=&quot;language-ruby highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;nb&quot;&gt;require&lt;/span&gt; &lt;span class=&quot;s1&quot;&gt;'redcarpet'&lt;/span&gt;
+&lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;no&quot;&gt;Redcarpet&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;new&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Hello World!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
+&lt;span class=&quot;nb&quot;&gt;puts&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;markdown&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;to_html&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h4 id=&quot;c&quot;&gt;C&lt;/h4&gt;
+
+&lt;div class=&quot;language-c highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;n&quot;&gt;printf&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;Hello World&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0530</pubDate>
+        <link>/powerful-things-markdown-editor/</link>
+        <guid isPermaLink="true">/powerful-things-markdown-editor/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        <category>new_tag</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+      <item>
+        <title>Another article in a long list of articles.</title>
+        <description>&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0530</pubDate>
+        <link>/first-mass-produced/</link>
+        <guid isPermaLink="true">/first-mass-produced/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+      <item>
+        <title>A sample post can be structured like this</title>
+        <description>&lt;p&gt;There are lots of powerful things you can do with the Markdown editor&lt;/p&gt;
+
+&lt;p&gt;If you’ve gotten pretty comfortable with writing in Markdown, then you may enjoy some more advanced tips about the types of things you can do with Markdown!&lt;/p&gt;
+
+&lt;p&gt;As with the last post about the editor, you’ll want to be actually editing this post as you read it so that you can see all the Markdown code we’re using.&lt;/p&gt;
+
+&lt;h2 id=&quot;special-formatting&quot;&gt;Special formatting&lt;/h2&gt;
+
+&lt;p&gt;As well as bold and italics, you can also use some other special formatting in Markdown when the need arises, for example:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;del&gt;strike through&lt;/del&gt;&lt;/li&gt;
+  &lt;li&gt;==highlight==&lt;/li&gt;
+  &lt;li&gt;*escaped characters*&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;writing-code-blocks&quot;&gt;Writing code blocks&lt;/h2&gt;
+
+&lt;p&gt;There are two types of code elements which can be inserted in Markdown, the first is inline, and the other is block. Inline code is formatted by wrapping any word or words in back-ticks, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;like this&lt;/code&gt;. Larger snippets of code can be displayed across multiple lines using triple back ticks:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;table class=&quot;rouge-table&quot;&gt;&lt;tbody&gt;&lt;tr&gt;&lt;td class=&quot;rouge-gutter gl&quot;&gt;&lt;pre class=&quot;lineno&quot;&gt;1
+2
+3
+&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;rouge-code&quot;&gt;&lt;pre&gt;.my-link {
+    text-decoration: underline;
+}
+&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/tbody&gt;&lt;/table&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;If you want to get really fancy, you can even add syntax highlighting using Rouge.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/8.jpg&quot; alt=&quot;walking&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;reference-lists&quot;&gt;Reference lists&lt;/h2&gt;
+
+&lt;p&gt;The quick brown jumped over the lazy.&lt;/p&gt;
+
+&lt;p&gt;Another way to insert links in markdown is using reference lists. You might want to use this style of linking to cite reference material in a Wikipedia-style. All of the links are listed at the end of the document, so you can maintain full separation between content and its source or reference.&lt;/p&gt;
+
+&lt;h2 id=&quot;full-html&quot;&gt;Full HTML&lt;/h2&gt;
+
+&lt;p&gt;Perhaps the best part of Markdown is that you’re never limited to just Markdown. You can write HTML directly in the Markdown editor and it will just work as HTML usually does. No limits! Here’s a standard YouTube embed code as an example:&lt;/p&gt;
+
+&lt;p&gt;&lt;iframe style=&quot;width:100%;&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Cniqsc9QfDo?rel=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0530</pubDate>
+        <link>/education/</link>
+        <guid isPermaLink="true">/education/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+      <item>
+        <title>Cover images is  a necessity for the articles to be readable!</title>
+        <description>&lt;p&gt;The die cut has also been employed in the non-juvenile sphere as well, a recent example being Jonathan Safran Foer’s ambitious Tree of Codes.&lt;/p&gt;
+
+&lt;p&gt;As for this particular rendition of Charles Perrault’s classic tale, the text and design is by Lydia Very (1823-1901), sister of Transcendentalist poet Jones Very. The gruesome ending of the original - which sees Little Red Riding Hood being gobbled up as well as her grandmother - is avoided here, the gore giving way to the less bloody aims of the morality tale, and the lesson that one should not disobey one’s mother.&lt;/p&gt;
+
+&lt;p&gt;The first mass-produced book to deviate from a rectilinear format, at least in the United States, is thought to be this 1863 edition of Red Riding Hood, cut into the shape of the protagonist herself with the troublesome wolf curled at her feet. Produced by the Boston-based publisher Louis Prang, this is the first in their “Doll Series”, a set of five “die-cut” books, known also as shape books — the other titles being Robinson Crusoe, Goody Two-Shoes (also written by Red Riding Hood author Lydia Very), Cinderella, and King Winter.&lt;/p&gt;
+
+&lt;p&gt;An 1868 Prang catalogue would later claim that such “books in the shape of a regular paper Doll… originated with us”.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;It would seem the claim could also extend to die cut books in general, as we can’t find anything sooner, but do let us know in the comments if you have further light to shed on this! Such books are, of course, still popular in children’s publishing today, though the die cutting is not now limited to mere outlines, as evidenced in a beautiful 2014 version of the same Little Red Riding Hood story.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0530</pubDate>
+        <link>/acumulated-experience/</link>
+        <guid isPermaLink="true">/acumulated-experience/</guid>
+        
+        <category>tag1</category>
+        
+        <category>tag2</category>
+        
+        <category>tag3</category>
+        
+        
+        <category>Cat1</category>
+        
+        <category>Cat2</category>
+        
+        <category>Cat3</category>
+        
+      </item>
+    
+  </channel>
+</rss>

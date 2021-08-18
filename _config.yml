@@ -1,0 +1,103 @@
+# Site
+name: "Welcome to CosmicVarta"
+title: "CosmicVarta."
+description: " Platform for promoting Indian astronomy research to the public."
+logo: 'assets/images/logo_new2.png'
+favicon: 'assets/images/logo-icon2.png'
+baseurl:
+google_analytics: 'UA-46278016-1'
+disqus:
+include: ["_pages"]
+permalink: /:title/
+
+# Authors
+authors:
+ Vivek:
+    name: Vivek Kumar Jha
+    display_name: Vivek Kumar Jha
+    avatar: assets/images/vivek.jpg
+    email: cosmicvarta@gmail.com
+    web: https://viveikjha.github.io
+    twitter: https://www.researchgate.net/profile/Vivek-Jha-9
+    description: "Ph.D. student in extragalactic astrophysics. Interested in resolving the innermost regions of Supermassive black holes in AGN."
+
+ Lakshitha:
+    name: Lakshitha Nama Mahesh
+    display_name: Lakshitha Nama Mahesh
+    avatar: 'assets/images/lakshitha.jpg'
+    email: cosmicvarta@gmail.com
+    web: https://www.researchgate.net/profile/Lakshitha-Mahesh
+    twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
+    description: "Research scholar working in the field of solar and stellar spectroscopy, trying to understand their atmosphere."
+
+ Ketan:
+    name: Ketan
+    display_name: Ketan
+    avatar: 'assets/images/ketan.jpg'
+    email: cosmicvarta@gmail.com
+    web: https://www.researchgate.net/profile/Lakshitha-Mahesh
+    twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
+    description: "PhD student in high energy astrophysics studying accretion powered pulsars. Research interests include astronomy instrumentation and data analysis."
+
+ Anusha:
+    name: Anusha
+    display_name: Anusha
+    avatar: 'assets/images/anusha.jpg'
+    email: cosmicvarta@gmail.com
+    web: https://www.researchgate.net/profile/Lakshitha-Mahesh
+    twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
+    description: "Anusha currently works as a Research Assistant studying emission-line stars observationally and trying to understand their evolution and properties"
+
+ Gourav:
+        name: Gourav
+        display_name: Gourav Banerjee
+        avatar: 'assets/images/gourav.jpg'
+        email: cosmicvarta@gmail.com
+        web: https://www.researchgate.net/profile/Lakshitha-Mahesh
+        twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
+        description: " PhD scholar working in the field of optical spectroscopy of emission-line star studies, especially understanding the disc physics of Classical Be stars."
+
+
+
+
+
+# Plugins
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+
+# Pagination
+paginate: 6
+paginate_path: /page:num/
+
+# Other
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  syntax_highlighter_opts:
+    block:
+      line_numbers: true
+
+
+# Adsense (change to "enabled" to activate, also your client id and ad slot. Create a new ad unit from your Adsense account to get the slot.)
+adsense: "disabled"
+adsense-data-ad-client: "ca-pub-3412143450191416"
+adsense-data-ad-slot: "1363087678"
+
+# Lazy Images ("enabled" or "disabled")
+lazyimages: "disabled"
+
+exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
