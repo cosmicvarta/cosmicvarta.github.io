@@ -1,0 +1,78 @@
+I"1<p>As an introduction to the website, let’s write a love letter to our intended audience, so that people get a feel about what this place is all about.</p>
+
+<p><a href="https://beautifuljekyll.com/plans/"><img src="https://images.unsplash.com/photo-1472712739516-7ad2b786e1f7?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&amp;ixlib=rb-1.2.1&amp;auto=format&amp;fit=crop&amp;w=1050&amp;q=80" alt="" /></a></p>
+
+<p>#(tentative)</p>
+
+<blockquote>
+  <p>By <a href="https://deanattali.com">Vivek Kumar Jha</a></p>
+</blockquote>
+
+<p><strong>Quasar accretion disks</strong> are very difficult to undestand owing to their larger distances and singificantly smappler angular resoultions on earth.</p>
+
+<p>** Bold like this**</p>
+
+<p><em>Italic like this</em></p>
+
+<h2 id="we-can-generate-our-own-toc-like-this">We can generate our own TOC like this:</h2>
+
+<h2 id="table-of-contents">Table of contents</h2>
+
+<ul>
+  <li><a href="#features">Features</a></li>
+  <li><a href="#sponsors">Sponsors 🏆</a></li>
+  <li><a href="#build-your-website-in-3-steps"><strong>Build your website in 3 steps</strong></a></li>
+  <li><a href="#plans">Plans</a></li>
+  <li><a href="#add-your-own-content">Add your own content</a></li>
+  <li><a href="#customizing-parameters-for-each-page">Customizing parameters for each page</a></li>
+  <li><a href="#supported-parameters">Supported parameters</a></li>
+  <li><a href="#featured-users-success-stories">Featured users (success stories!)</a></li>
+  <li><a href="#faq-and-support">FAQ and support</a></li>
+  <li><a href="#credits">Credits and contributions</a></li>
+</ul>
+
+<h2 id="embed-of-a-youtube-video">Embed of a youtube video.</h2>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0Soqggmccxk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<h1 id="features">Features</h1>
+
+<p>Check out <a href="https://beautifuljekyll.com/updates/"><em>What’s New?</em></a> to see the latest features.</p>
+
+<ul>
+  <li><strong>SIMPLE</strong>: The primary goal of Beautiful Jekyll is to allow literally <em>anyone</em> to create a website in a few minutes.</li>
+  <li><strong>Modern</strong>: Uses the latest best practices and technologies to achieve nearly perfect scores on Google Chrome’s Audit.</li>
+  <li><strong>Mobile-first</strong>: Designed to look great on both large-screen and small-screen (mobile) devices.</li>
+  <li><strong>Highly customizable</strong>: Many personalization settings such as changing the background colour/image, adding a logo.</li>
+  <li><strong>Flexible usage</strong>: Use Beautiful Jekyll directly on GitHub or via a Ruby gem - choose the best <a href="#build-your-website-in-3-steps">development method</a> for you.</li>
+  <li><strong>Battle-tested</strong>: By using Beautiful Jekyll, you’ll be joining 50,000+ users enjoying this theme since 2015.</li>
+  <li><strong>SEO and social media support</strong>: Customize how your site looks on Google and when shared on social media.</li>
+  <li><strong>Comments support</strong>: Add comments to any page using either <a href="https://disqus.com/">Disqus</a>, <a href="https://developers.facebook.com/docs/plugins/comments">Facebook comments</a>, <a href="https://utteranc.es/">Utterances</a>, or <a href="https://staticman.net">Staticman</a>.</li>
+  <li><strong>Tags</strong>: Any blog post can be tagged with keywords, and an index page showing all the tags is automatically generated.</li>
+  <li><strong>Analytics</strong>: Easily integrate Google Analytics, or other analytics platforms, to track visits to your website.</li>
+  <li><strong>Photos support</strong>: Any page can have a full-width cover photo and thumbnail.</li>
+  <li><strong>RSS</strong>: An RSS feed is automatically created, so you can even host a podcast easily with Beautiful Jekyll.</li>
+</ul>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-github-io.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<p>Copy</p>
+:ET
