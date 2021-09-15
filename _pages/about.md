@@ -6,22 +6,30 @@ permalink: /about
 comments: False
 ---
 
-
-We are cosmic varta team. Here our mission will be posted, alongwith our motivations.
-This is the personal profile for all the people too. We should use hyperlinks to link back to our personal pages/social media profiles wherever available.
+<img src="assets/images/night_unsplash.jpg">
 
 
 
+# What is CosmicVarta?
+
+Astronomy is truly a global subject. The boundaries between the nations, people, ethnicities do not exist for  astonomers. We all think of the entire humankind as one. Hence, it becomes necessary and a responsibility for profesional astronomers to present a platform where the authentic research being carried out is presented and discussed in language which a 'non-expert' individual can understand. Moreover, while high quality research is communicated through the  reputed journals, the students who are not dealing with he subject on a day to day basis might find it diiffuciut to grasp.
 
 
-#### Our story
+We thought over this problem and came up with **CosmicVarta** as an online platform where we simplify the current astronomical research being carried out so that people from every background can grasp the essence of the results. **CosmicVarta**  is intended to be a portal where the current research is presented ina simplified way and subsequently discussed by people so that everyone can have a glimpse into the excitng world of astronomical research. Through this portal, we will present reviews of recently published articles, interviews with the eminent scientists working in the field of astornomy and astrophysics all over India and also serve as a platofmr to discuss the research in a simplied manner.
 
-We all are Ph.D students at various institutions in India. We are united by our love towrds astronomy and the need to communicate the research to the general audience. (Add some more text here...)
+Research in astronomy is pursued at only a handful of research insitututes, hence prospective students may often find it challenging to find relevant information. Through this portal you may find information regarding the various career options available, various positions available at astronomy institues in india and the other related information. This portal will also serve as a information hub regarding various softwares and databases that are available to be used by the public for free. We can even help students who are  looking for short term projects using such huge volume of data by connecting with the scientists working actively in that area of research.
+
+Come join us on a journey which will take you the wonderful world of stars, galaxies and beyond; and feel enthralled by unlocking of the keys to the mysteries of the universe which the scientists are doing on a daily basis.
 
 
-#### The members
+# Who  are we?
 
-Alow us to introduce ourselves ;)
+ We are a group of enthusiastic young researchers, mostly PhD scholars in astrophysics, who wish to make available lndian astronomy research to all interested minds. We keep a track of recent research papers published by lndian astronomers. Their works are written in simple language and published for others to read, understand, enjoy and perhaps motivate them to pursue astronomy research in the future.
+
+
+
+
+Allow us to introduce ourselves :)
 
 
 <p align="center">
@@ -69,7 +77,7 @@ I also love football :soccer:.
 <p align="center">
   <img src="assets/images/lakshitha.jpg" height="300" width="260" style="border-radius:50%">
 </p>
-<h2> <span style="color:blue">Lakshitha Nama Mahesh</span></h2>
+<h2> <span style="color:blue">Lakshitha Nama</span></h2>
 
 
 
@@ -94,16 +102,6 @@ Hi everyone. I am Vivek. I am a  Ph.D student at ARIES, Nainital. My research so
 ---
 
 
-<p align="center">
-  <img src="assets/images/night_unsplash3.jpg" height="auto" width="300" style="border-radius:50%">
-</p>
-## Person 6
-
-
-Dummy
-
----
-
 
 
 
@@ -120,7 +118,7 @@ Dummy
     */
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-github-io.disqus.com/embed.js';
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();

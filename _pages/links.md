@@ -1,14 +1,47 @@
 ---
 layout: page
-title: About us
+title: Useful links
 subtitle: The cosmic varta team
 permalink: /links
 comments: False
 ---
-# Upcoming articles here.
+
+<img src="assets/images/links.jpg">
+
+## Useful links
+
+A lot of data and softwares are available publicly for free. Be it the database from the Sloan Digital Sky Surey, to the upcoming facilites, a lot of data and the tools to acces them are publicly available nowadays. We just attach links to a few of them, so that interested people may keep a track of them. Of course, members of the **CosmicVarta** team use a lot of these sofawres and databases on a uusal basis, toards their Ph.D degrees! If you have any problem, you may ask us through the forms available in the [contact](/contact) section, or even in the comments section below.
 
 
+### 1. SDSS
 
+### 2. GAIA
+
+### NED-databases
+
+### SIMBAD
+
+SIMBAD is used to search for any object in the sky. Please go through this article about how to use SIMBAD.
+
+
+[How to search for any location using SIMBAD?](/about)
+
+### The NASA ADS
+
+### arXiv preprint server
+
+### The NASA IPAC database
+
+
+### The HEASARC archive.
+
+### Other useful Links
+
+[NASA public data](https://www.nasa.gov/open/data.html)
+
+[ESO public archives](https://www.eso.org/public/outreach/eduoff/aol/market/data/archive/)
+
+[Astrosat public data](https://www.isro.gov.in/update/26-sep-2018/archival-data-of-astrosat-released)
 <div id="disqus_thread"></div>
 <script>
     /**
@@ -22,7 +55,7 @@ comments: False
     */
     (function() { // DON'T EDIT BELOW THIS LINE
     var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-github-io.disqus.com/embed.js';
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
     s.setAttribute('data-timestamp', +new Date());
     (d.head || d.body).appendChild(s);
     })();

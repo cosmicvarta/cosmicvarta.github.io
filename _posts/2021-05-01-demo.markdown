@@ -2,10 +2,12 @@
 layout: post
 title:  A sample post on this webpage
 subtitle: Just demonstrating the post creation.
+permalink: /ketan_demo_article
 author: Ketan
 categories: [ Cat1, Cat2, Cat3 ]
 tags: [tag1,tag2,tag3]
 image: assets/images/night_unsplash2.jpg
+hidden: False
 ---
 As an introduction to the website, let's write a love letter to our intended audience, so that people get a feel about what this place is all about.
 

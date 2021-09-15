@@ -25,7 +25,7 @@ Research in astronomy is pursued at only a handful of research insitututes, henc
 This portal will also serve as a information hub regarding various softwares and databases that are available to be used by the public for free. We can even help students who are  looking for short term projects using such huge volume of data by connecting with the scientists working actively in that area of research.
 
 
-Come join us on a journey which will take yopu the wonderful world of stars, galaxies and beyond; and feel enthralled by unlocking of the keys to the mysteries of the universe which the scientists are doing on a daily basis.
+Come join us on a journey which will take you the wonderful world of stars, galaxies and beyond; and feel enthralled by unlocking of the keys to the mysteries of the universe which the scientists are doing on a daily basis.
 
 
 <div id="disqus_thread"></div>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>CosmicVarta.</title>
+    <title> Welcome to CosmicVarta.</title>
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 18 Aug 2021 22:23:17 +0530</pubDate>
-    <lastBuildDate>Wed, 18 Aug 2021 22:23:17 +0530</lastBuildDate>
+    <pubDate>Wed, 15 Sep 2021 18:53:28 +0530</pubDate>
+    <lastBuildDate>Wed, 15 Sep 2021 18:53:28 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -56,8 +56,8 @@ due to blending of multiple microflares or they intrinsically have a different o
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 </description>
         <pubDate>Tue, 17 Aug 2021 00:00:00 +0530</pubDate>
-        <link>/lakshitha1/</link>
-        <guid isPermaLink="true">/lakshitha1/</guid>
+        <link>/lakshitha_solar_article_corona</link>
+        <guid isPermaLink="true">/lakshitha_solar_article_corona</guid>
         
         <category>sun</category>
         
@@ -88,7 +88,7 @@ due to blending of multiple microflares or they intrinsically have a different o
 
 &lt;p&gt;This portal will also serve as a information hub regarding various softwares and databases that are available to be used by the public for free. We can even help students who are  looking for short term projects using such huge volume of data by connecting with the scientists working actively in that area of research.&lt;/p&gt;
 
-&lt;p&gt;Come join us on a journey which will take yopu the wonderful world of stars, galaxies and beyond; and feel enthralled by unlocking of the keys to the mysteries of the universe which the scientists are doing on a daily basis.&lt;/p&gt;
+&lt;p&gt;Come join us on a journey which will take you the wonderful world of stars, galaxies and beyond; and feel enthralled by unlocking of the keys to the mysteries of the universe which the scientists are doing on a daily basis.&lt;/p&gt;
 
 &lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
 &lt;script&gt;
@@ -253,8 +253,8 @@ due to blending of multiple microflares or they intrinsically have a different o
 &lt;p&gt;Copy&lt;/p&gt;
 </description>
         <pubDate>Sat, 01 May 2021 00:00:00 +0530</pubDate>
-        <link>/demo/</link>
-        <guid isPermaLink="true">/demo/</guid>
+        <link>/ketan_demo_article</link>
+        <guid isPermaLink="true">/ketan_demo_article</guid>
         
         <category>tag1</category>
         

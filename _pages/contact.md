@@ -1,30 +1,17 @@
 ---
 layout: page
-title: About us
+title: Contact
 subtitle: The cosmic varta team
 permalink: /contact
 comments: False
 ---
-# Upcoming articles here.
+<img src="assets/images/team_effort.jpg">
+# Contact Us.
 
+CosmicVarta is a team effort and we thrive on the feedback provided by our readers. If you want any information regarding the website, or the content or if you have any suggestions regarding how to improve the website, please use the form below. We respond to the valuable comments and highly encourage our readers to connect with us.
 
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeiQ2HJtraobBF9KwBb4xzU16rn-0S-2sTmKgN8gaLYAEjoAg/viewform?embedded=true" width="900" height="600" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
-<div id="disqus_thread"></div>
-<script>
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-github-io.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+CosmicVarta is available on the popular social media platforms. Please feel free to like, comment and share our content in order to give it a wider audience.
+
+----

@@ -1,9 +1,9 @@
 # Site
-name: "Welcome to CosmicVarta"
-title: "CosmicVarta."
+name: "CosmicVarta"
+title: " Welcome to CosmicVarta."
 description: " Platform for promoting Indian astronomy research to the public."
-logo: 'assets/images/logo_new2.png'
-favicon: 'assets/images/logo-icon2.png'
+logo: 'assets/images/logo_modern.jpg'
+favicon: 'assets/images/logo_modern.jpg'
 baseurl:
 google_analytics: 'UA-46278016-1'
 disqus:
@@ -22,8 +22,8 @@ authors:
     description: "Ph.D. student in extragalactic astrophysics. Interested in resolving the innermost regions of Supermassive black holes in AGN."
 
  Lakshitha:
-    name: Lakshitha Nama Mahesh
-    display_name: Lakshitha Nama Mahesh
+    name: Lakshitha Nama
+    display_name: Lakshitha Nama
     avatar: 'assets/images/lakshitha.jpg'
     email: cosmicvarta@gmail.com
     web: https://www.researchgate.net/profile/Lakshitha-Mahesh
@@ -57,6 +57,14 @@ authors:
         twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
         description: " PhD scholar working in the field of optical spectroscopy of emission-line star studies, especially understanding the disc physics of Classical Be stars."
 
+ Anjasha:
+      name: Anjasha
+      display_name: Anjasha
+      avatar: 'assets/images/gourav.jpg'
+      email: cosmicvarta@gmail.com
+      web: https://www.researchgate.net/profile/Lakshitha-Mahesh
+      twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
+      description: " PhD scholar working in the field of optical spectroscopy of emission-line star studies, especially understanding the disc physics of Classical Be stars."
 
 
 
@@ -98,6 +106,6 @@ adsense-data-ad-client: "ca-pub-3412143450191416"
 adsense-data-ad-slot: "1363087678"
 
 # Lazy Images ("enabled" or "disabled")
-lazyimages: "disabled"
+lazyimages: "enabled"
 
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
