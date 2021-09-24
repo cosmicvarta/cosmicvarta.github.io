@@ -5,7 +5,7 @@ subtitle: The cosmic varta team
 permalink: /contact
 comments: False
 ---
-<img src="assets/images/team_effort.jpg">
+<img src="assets/images/contact.jpg">
 # Contact Us.
 
 CosmicVarta is a team effort and we thrive on the feedback provided by our readers. If you want any information regarding the website, or the content or if you have any suggestions regarding how to improve the website, please use the form below. We respond to the valuable comments and highly encourage our readers to connect with us.

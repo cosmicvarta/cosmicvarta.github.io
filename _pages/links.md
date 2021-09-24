@@ -10,6 +10,8 @@ comments: False
 
 ## Useful links
 
+
+Take some inspiration from NCRA webste [here](http://www.ncra.tifr.res.in/ncra/miscellaneous/information/useful-websites)
 A lot of data and softwares are available publicly for free. Be it the database from the Sloan Digital Sky Surey, to the upcoming facilites, a lot of data and the tools to acces them are publicly available nowadays. We just attach links to a few of them, so that interested people may keep a track of them. Of course, members of the **CosmicVarta** team use a lot of these sofawres and databases on a uusal basis, toards their Ph.D degrees! If you have any problem, you may ask us through the forms available in the [contact](/contact) section, or even in the comments section below.
 
 
