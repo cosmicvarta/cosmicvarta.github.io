@@ -2,8 +2,8 @@
 name: "CosmicVarta"
 title: " Welcome to CosmicVarta."
 description: " Platform for promoting Indian astronomy research to the public."
-logo: 'assets/images/logo_modern.png'
-favicon: 'assets/images/logo_modern.png'
+logo: 'assets/images/cv.png'
+favicon: 'assets/images/cv.png'
 baseurl:
 google_analytics: 'UA-46278016-1'
 disqus:
