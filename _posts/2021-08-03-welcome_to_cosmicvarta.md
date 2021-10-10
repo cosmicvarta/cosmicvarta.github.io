@@ -2,11 +2,13 @@
 layout: post
 title:  "Welcome to CosmicVarta"
 author: Lakshitha
-categories: [Solar_Physics]
+categories: [Solar_Physics, popular]
 tags: [sun, corona, x-ray]
 image: assets/images/night_unsplash3.jpg
 featured: true
 hidden: False
+popular: true
+
 ---
 Come join us on a journey which will take you to the world of stars, galaxies and beyond and feel enthralled by unlocking the mysteries of the universe.
 

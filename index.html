@@ -40,22 +40,63 @@ title:
 
     <div class="section-title">
 
-        <h2><span>Recent</span></h2>
+        <h2><span>Popular articles</span></h2>
+
 
     </div>
 
     <div class="row listrecent">
 
-        {% for post in paginator.posts %}
+      {% for post in paginator.posts %}
 
-        {% include postbox.html %}
+            {% if post.popular == true %}
 
-        {% endfor %}
+                {% include postbox_popular.html %}
 
+            {% endif %}
+
+      {% endfor %}
+
+</section>
+
+{% if paginator.next_page %}
+  <a class="ml-1 mr-1" href="categories#popular">more popular articles &raquo;</a>
+{% else %}
+  <span>more articles &raquo;</span>
+{% endif %}
+
+</div>
+<hr>
+
+<section class="recent-posts">
+
+    <div class="section-title">
+
+        <h2><span>Review articles</span></h2>
+
+    </div>
+
+    <div class="row listrecent">
+
+      {% for post in paginator.posts %}
+
+            {% if post.review== true %}
+
+                {% include postbox_review.html %}
+
+            {% endif %}
+
+      {% endfor %}
     </div>
 
 </section>
 
+{% if paginator.next_page %}
+  <a class="ml-1 mr-1" href="categories#review">more review articles &raquo;</a>
+{% else %}
+  <span>more articles &raquo;</span>
+{% endif %}
+<hr>
 
 <section class="recent-posts">
 
@@ -77,6 +118,8 @@ title:
 
 </section>
 
+
+
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
@@ -85,3 +128,6 @@ title:
     {% include pagination.html %}
 </span>
 </div>
+
+<hr>
+<hr>

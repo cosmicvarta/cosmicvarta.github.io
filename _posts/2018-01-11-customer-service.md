@@ -9,6 +9,7 @@ description: "Featured articles can be the ones which have been most read/most l
 featured: true
 hidden: true
 rating: 4.5
+popular: true
 ---
 
 Featured articles can be the ones which have been most read/most liked or most important scientific discoveries.Featured articles can be the ones which have been most read/most liked or most important scientific discoveries.

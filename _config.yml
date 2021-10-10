@@ -66,7 +66,24 @@ authors:
       twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
       description: " PhD scholar working in the field of optical spectroscopy of emission-line star studies, especially understanding the disc physics of Classical Be stars."
 
+ Vishal Upendran:
+      name: Vishal Upendran
+      display_name: Vishal Upendran
+      avatar: 'assets/images/vishal_upendran.jpg'
+      email: uvishal1995@gmail.com
+      web: https://vishal-upendran.github.io/
+      twitter: https://vishal-upendran.github.io/
+      description: "Vishal is a 4th year research scholar at the Inter University Centre for Astronomy and Astrophysics, Pune. He studies various aspects of the solar atmosphere and near-Earth spaceweather. He does so through space and ground based astronomy, theoretical simulations and through machine learning."
 
+
+ Aritra Chakrabarty:
+      name: Aritra Chakrabarty
+      display_name: Aritra Chakrabarty
+      avatar: 'assets/images/aritra_c.jpg'
+      email: aritra@iiap.res.in
+      web: www.linkedin.com/in/aritra-chakrabarty-60149077/
+      twitter: www.linkedin.com/in/aritra-chakrabarty-60149077/
+      description: "I am a postdoctoral researcher at the Indian Institute of Astrophysics working on the characterization of exoplanets. My primary research interest lies in modeling and simulating the physio-chemical processes occurring in the atmospheres of the exoplanets. I also perform indirect observation of the close-in exoplanets using Indian telescopes."
 
 
 # Plugins
