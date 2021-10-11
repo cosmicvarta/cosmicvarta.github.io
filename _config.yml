@@ -85,6 +85,16 @@ authors:
       twitter: https://linkedin.com/in/aritra-chakrabarty-60149077/
       description: "I am a postdoctoral researcher at the Indian Institute of Astrophysics working on the characterization of exoplanets. My primary research interest lies in modeling and simulating the physio-chemical processes occurring in the atmospheres of the exoplanets. I also perform indirect observation of the close-in exoplanets using Indian telescopes."
 
+ Vishnu Madhu:
+      name: Vishnu Madhu
+      display_name: Vishnu Madhu
+      avatar: 'assets/images/vishnu_profile.png'
+      email: vishnu.mthss@gmail.com
+      web: https://www.researchgate.net/profile/Vishnu-Madhu-2
+      twitter: https://www.facebook.com/vishnu.madhu.144
+      description: "I'm a PhD student at the Indian Institute of Astrophysics, Bengaluru. My topic of research is solar physics, particularly solar magnetic field and spectropolarimetry."
+
+
 
 # Plugins
 plugins:

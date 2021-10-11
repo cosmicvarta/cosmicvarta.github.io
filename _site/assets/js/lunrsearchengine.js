@@ -28,7 +28,7 @@ var documents = [{
     "id": 5,
     "url": "/",
     "title": "",
-    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       Popular articles:        {% for post in paginator. posts %}      {% if post. popular == true %}        {% include postbox_popular. html %}      {% endif %}   {% endfor %}&lt;/section&gt;{% if paginator. next_page %} more popular articles &raquo;{% else %} more articles &raquo;{% endif %}      Review articles:        {% for post in paginator. posts %}      {% if post. review== true %}        {% include postbox_review. html %}      {% endif %}   {% endfor %}  {% if paginator. next_page %} more review articles &raquo;{% else %} more articles &raquo;{% endif %}      All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 6,
     "url": "/links",
@@ -53,12 +53,12 @@ var documents = [{
     "id": 10,
     "url": "/page2/",
     "title": "",
-    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       Popular articles:        {% for post in paginator. posts %}      {% if post. popular == true %}        {% include postbox_popular. html %}      {% endif %}   {% endfor %}&lt;/section&gt;{% if paginator. next_page %} more popular articles &raquo;{% else %} more articles &raquo;{% endif %}      Review articles:        {% for post in paginator. posts %}      {% if post. review== true %}        {% include postbox_review. html %}      {% endif %}   {% endfor %}  {% if paginator. next_page %} more review articles &raquo;{% else %} more articles &raquo;{% endif %}      All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 11,
     "url": "/page3/",
     "title": "",
-    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       Popular articles:        {% for post in paginator. posts %}      {% if post. popular == true %}        {% include postbox_popular. html %}      {% endif %}   {% endfor %}&lt;/section&gt;{% if paginator. next_page %} more popular articles &raquo;{% else %} more articles &raquo;{% endif %}      Review articles:        {% for post in paginator. posts %}      {% if post. review== true %}        {% include postbox_review. html %}      {% endif %}   {% endfor %}  {% if paginator. next_page %} more review articles &raquo;{% else %} more articles &raquo;{% endif %}      All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 12,
     "url": "/solar-chromosphere-spectral-lines",

@@ -1,14 +1,7 @@
----
-layout: page
-title:
----
-
-{% if page.url == "/" %}
+I"8<p>{% if page.url == “/” %}</p>
 
 <!-- Featured>
 ================================================== -->
-
-
 
 <section class="featured-posts">
     <div class="section-title">
@@ -29,14 +22,10 @@ title:
     </div>
 </section>
 
-
-
-
-{% endif %}
+<p>{% endif %}</p>
 
 <!-- Posts Index
 ================================================== -->
-
 
 <section class="recent-posts">
 
@@ -58,8 +47,6 @@ title:
 
 </section>
 
-
-
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
@@ -69,5 +56,8 @@ title:
 </span>
 </div>
 
-<hr>
-<hr>
+<hr />
+
+<hr />
+
+:ET
