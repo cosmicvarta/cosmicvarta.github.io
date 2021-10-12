@@ -75,7 +75,7 @@ To know more, and understand what happens next, keep watching this space!
 
 
 **Original paper:**
-<a href="https://arxiv.org/abs/2109.04287" target="_blank"> Properties of the C II 1334 Å line in Coronal Hole and Quiet Sun as observed by IRIS</a>
+<a href="https://arxiv.org/abs/2109.04287" target="_blank"> </a>
 
 **First Author:** Vishal Upendran
 
