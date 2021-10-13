@@ -5,6 +5,7 @@ author: Vishal Upendran
 permalink: /vishal-machile-learning-solar-corona
 categories: [Solar and Stellar astrophysics]
 tags: [Solar physics, machine learning, coronal heating]
+class: [Popular article]
 image: assets/images/Fig1_Vishal_Upendran.png
 featured: False
 hidden: False

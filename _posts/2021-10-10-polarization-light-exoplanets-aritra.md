@@ -5,10 +5,11 @@ author: Aritra Chakrabarty
 permalink: /polarization-light-exoplanets-aritra
 categories: [Earth and planetary astrophysics, Review]
 tags: [Exoplanets, Polarization, Planetary atmospheres, Phase curves]
+class: [Review article]
 image: assets/images/aritra_cover_article.jpg
 featured: False
 hidden: False
-review: true
+
 
 ---
 

@@ -29,7 +29,9 @@
                                 {% endif %}
                             </h2>
 
-                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:25 }}</h4>
+
+                            <h4 class="card-text">{{ post.excerpt | strip_html | truncatewords:30 }}</h4>
+                            <hr> </hr>
                         </div>
                         <div class="card-footer b-0 bg-white mt-auto">
                             <div class="wrapfooter">
@@ -42,7 +44,7 @@
                                 {% endif %}
                                 </span>
                                 <span class="author-meta">
-                                <span class="post-name"><a target="_blank" href="{{ author.web }}">{{ author.display_name }}</a></span><br/>
+                                <span class="post-name"><a target="_blank" href="{{ author.web }}"><b>{{ author.display_name }}</a></span></b><br/>
                                 {% endif %}
                                 <span class="post-date">{{ post.date | date_to_string }}</span>
                                 </span>

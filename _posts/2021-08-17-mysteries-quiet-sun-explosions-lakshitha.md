@@ -5,6 +5,7 @@ author: Lakshitha
 permalink: /lakshitha_solar_article_corona
 categories: [Solar_Physics]
 tags: [sun, corona, x-ray]
+class: [Review article]
 image: assets/images/lakshitha_article1.png
 featured: False
 hidden: False
