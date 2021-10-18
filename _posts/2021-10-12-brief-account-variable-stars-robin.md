@@ -10,7 +10,7 @@ class: [General article]
 image: assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image_cover.png
 featured: False
 hidden: False
-review: true
+toc: False
 ---
 >Curiosity is what has driven mankind to observations of new phenomena. Every twinkling star in the night sky is definitely not due to the atmospheric refraction of earth. Rather, one might be looking at a variable star, each with a different origin story to tell. A study of variable stars enhances our understanding of the universe.
 >

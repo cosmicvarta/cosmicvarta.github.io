@@ -10,6 +10,7 @@ comments: False
 
 
 
+
 # What is CosmicVarta?
 
 Astronomy is truly a global subject. The boundaries between the nations, people, ethnicities do not exist for  astonomers. We all think of the entire humankind as one. Hence, it becomes necessary and a responsibility for profesional astronomers to present a platform where the authentic research being carried out is presented and discussed in language which a 'non-expert' individual can understand. Moreover, while high quality research is communicated through the  reputed journals, the students who are not dealing with he subject on a day to day basis might find it diiffuciut to grasp.
@@ -100,7 +101,6 @@ Hi everyone. I am Vivek. I am a  Ph.D student at ARIES, Nainital. My research so
 
 ---
 ---
-
 
 
 
