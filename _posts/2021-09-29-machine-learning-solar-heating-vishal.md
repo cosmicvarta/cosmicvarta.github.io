@@ -5,7 +5,7 @@ author: Vishal Upendran
 permalink: /vishal-machile-learning-solar-corona
 categories: [Solar and Stellar astrophysics]
 tags: [Solar physics, machine learning, coronal heating]
-class: [Popular article]
+class: [General article]
 image: assets/images/Fig1_Vishal_Upendran.png
 featured: False
 hidden: False
@@ -16,6 +16,7 @@ review: true
 >
 
 ---
+
 
 The Sun is a spectacular celestial object that has captivated humanity for long and holds many unresolved secrets. It is a huge ball of gas, mainly made of hydrogen, but containing many other elements like Sodium, Calcium, Magnesium, Iron, etc. Generally, the Sun is seen as a disc in the sky. This disc of the Sun is known as “photosphere”, or the surface of the Sun. However, during a total solar eclipse when the Sun is hidden by the moon, streams of gas may be seen extending outwards from the photosphere as shown below. This faint region of the solar atmosphere is called the “Solar corona”.
 

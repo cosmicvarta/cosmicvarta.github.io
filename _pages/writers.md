@@ -45,9 +45,9 @@ Write for the purpose of visibility among the general masses and for the purpose
 ---
 ---
 
-#### Volunteer for us.
+#### Do you want to contribute in any other way?.
 
-If you are passionate about science communication, but want to contribute in any other way, we may consider your request for voluntering options as well. We are seeking volunteers for maintaining our web page as well as other activities related to this portal. Do get in touch if you are interested in volunteering for us.
+If you are passionate about science communication, but want to contribute in any other way, we can consider your request for this option as well. We are seeking people who can help in maintaining our web page as well as other activities related to the handling of articles on this portal. Do get in touch if you are interested in contributing!!!
 
 You may use the [contact](/contact) section or the email below for any queries/comments related to submission of articles or any other queries.
 

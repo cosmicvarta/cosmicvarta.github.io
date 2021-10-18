@@ -9,14 +9,14 @@ comments: False
 
 # Career help:
 
-Welcome to the career help section. In this secton, one may find articles related to the various career options to the potential astronomers in India. We intend to use this page for linking the various institutions, where one can find the positions available (maybe news kind of thing), as well as the general entry procedures.
+Welcome to the career help section. In this section, one may find articles related to the various career options to the potential astronomers in India. We intend to use this page for linking the various institutions, where one can find the positions available, as well as the general entry procedures.
 
 
-## How to pursue a career in astrophysics?
+## Want to pursue a career in astrophysics?
 
-Well astrophysics is an exciting branch of physics isn't it? There are plenty of options available for young people willing to choose a career in this discipline. While in India, there is not much emphasis on astrophysic as a subjet right until you gradaute, wide variety of options open up after it.
+Well astronomy and astrophysics is an exciting branch of physics isn't it? There are plenty of options available for young people willing to choose a career in this discipline. While in India, there is not much emphasis on astrophysics as a subject right until you gradaute, wide variety of options open up after it.
 
-During M Sc. some universities offering M Sc. in physics, have the choieof astrophysics as a specialization. Some universities even have a  M Sc. n astronomy course (Osmania). But people hve an option of joiing the arous institutes for their dissertatio project.
+During M Sc. some universities have the choice of astrophysics as a specialization. Some universities even have a  M Sc. in astronomy course (Osmania). But people hve an option of joining the various institutes for their dissertation project.
 
 Places like IIA, IUCAA, ARIES etc. offer people the opportuity to conduct short terms projects in associations with a faculty mmber.
 
@@ -32,11 +32,8 @@ If, yes this is the right place to seek the information aout these things. We li
 
 #### ARIES, Nainital
 
-Situated adjacent to the picturesque hill town of Nainital, ARIES (an acronym of Aryabhatta Research Institute of Observational Sciences) is one of the leading research Institutes which specializes in observational Astronomy & Astrophysics and Atmospheric Sciences. The main research interests of Astronomy & Astrophysics division are in solar, planetary, stellar, galactic and extra-galactic astronomy including stellar variabilities, X-ray binaries, star clusters, nearby galaxies, quasars, and inherently transient events like supernovae and highly energetic Gamma Ray Bursts. Research focus in Atmospheric Sciences division is mainly in the lower part of the atmosphere and covers the studies on aerosols and trace gases. Moreover, to strengthen the scientific contribution, the Institute has extended its horizon to theoretical and numerical studies in Relativistic Astrophysics. The unique position of ARIES (79° East), places it at almost in the middle of 180° wide longitude band, between Canary Island (20° West) and Eastern Australia (157° East), and therefore complements observations which might not be possible from either of these two places. ARIES has made unique contribution from time to time.
+Situated adjacent to the picturesque hill town of Nainital, ARIES (an acronym of Aryabhatta Research Institute of Observational Sciences) is one of the leading research Institutes which specializes in observational Astronomy & Astrophysics and Atmospheric Sciences. The main research interests of Astronomy & Astrophysics division are in solar, planetary, stellar, galactic and extra-galactic astronomy including stellar variabilities, X-ray binaries, star clusters, nearby galaxies, quasars, and inherently transient events like supernovae and highly energetic Gamma Ray Bursts. Research focus in Atmospheric Sciences division is mainly in the lower part of the atmosphere and covers the studies on aerosols and trace gases. Moreover, to strengthen the scientific contribution, the Institute has extended its horizon to theoretical and numerical studies in Relativistic Astrophysics. The unique position of ARIES (79° East), places it at almost in the middle of 180° wide longitude band, between Canary Island (20° West) and Eastern Australia (157° East), and therefore complements observations which might not be possible from either of these two places. ARIES has made unique contribution from time to time. The Institute hosts three telescopes of apertures 104-cm, 130-cm and 3.6-mDOT. There is a 15-cm telescopes dedicated for solar observations. The 104-cm optical telescope is being used as a main observing facility by the ARIES scientists since 1972. It is equipped with 2k x 2k, and 1k x 1k liquid N cooled CCD cameras, fast photometer, spectrophotometer, and standard astronomical 2 filters. The telescope uses a SBIG ST-4 camera for auto-guiding through an auxiliary 20-cm telescope.
 
-The Institute hosts three telescopes of apertures 104-cm, 130-cm and 3.6-mDOT. There is a 15-cm telescopes dedicated for solar observations. The 104-cm optical telescope is being used as a main observing facility by the ARIES scientists since 1972. It is equipped with 2k x 2k, and 1k x 1k liquid N cooled CCD cameras, fast photometer, spectrophotometer, and standard astronomical 2 filters. The telescope uses a SBIG ST-4 camera for auto-guiding through an auxiliary 20-cm telescope.
-
-In order to carry out observations in the frontier areas of astronomy, the Institute has installed 130-cm and 360-cm optical telescopes at a site called 'Devasthal' at a distance of ~ 60-Km from ARIES, which has the advantages of having dark skies and excellent observing conditions. The Scientists from the Solar group of ARIES are also participating in the national projects like space coronagraph and National Large Solar Telescope (NLST). There are different instruments for observation of physical and optical properties of aerosols and trace gas. An 84-cm micro-pulse LIDAR system for high altitude studies of aerosols and a ST Radar (Stratosphere Troposphere Radar) to measure winds speed up to an altitude of around 20 km is also being setup.
 
 More information about the institute is available [here](https://aries.res.in/)
 
@@ -104,7 +101,7 @@ The National Centre for Radio Astrophysics of the Tata Institute of Fundamental 
 
 #### Various IITs
 
-Apart from these institutes, various IIITs have an astronomy department where faculty memebers are involved in active research.
+Apart from these institutes, various IITs have an astronomy department where faculty memebers are involved in active research.
 
 - IIT Bombay
 - IIT Indore. etc.
@@ -119,7 +116,10 @@ Universities have active members who are involved in reserch. Universities both 
 
 ## Short term internship programs.
 
-Various institutes offer a short term internship program for visiting students. IUCAA excels in this, with the ARIES and IIA faculties quite close to them. People from discipline other than physics and engineering backgrounds ca join these institutes
+Various institutes offer a short term internship program for visiting students. IUCAA excels in this, with the ARIES and IIA faculties quite close to them. People from discipline other than physics and engineering backgrounds ca join these institutes,
+
+---
+---
 
 <div id="disqus_thread"></div>
 <script>
@@ -140,3 +140,6 @@ Various institutes offer a short term internship program for visiting students. 
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+---
+---

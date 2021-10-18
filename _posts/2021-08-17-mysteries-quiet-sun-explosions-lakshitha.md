@@ -3,13 +3,12 @@ layout: post
 title:  "Deciphering The Mysteries of The Quiet Sun Explosions"
 author: Lakshitha
 permalink: /lakshitha_solar_article_corona
-categories: [Solar_Physics]
+categories: [Solar and Stellar astrophysics]
 tags: [sun, corona, x-ray]
 class: [Review article]
 image: assets/images/lakshitha_article1.png
 featured: False
 hidden: False
-review: true
 ---
 
 The outer atmosphere (the corona) of the Sun poses a long standing mystery regarding its tem-perature.  The solar corona is composed of plasma (ionised gas) that emits strongly in X-rays andultraviolet radiation.  Its temperature exceeds a million degree kelvin, while the visible surface (thephotosphere)  is  at  6000K.  One  of  the  theories  to  understand  the  so-called  ’coronal  heating  prob-lem’ proposes the occurrence of a large number of small scale explosions (known as microflares andnanoflares) on the Sun.  It is known that these flares are a manifestation of the magnetic field of theSun that is generated in its interior.
