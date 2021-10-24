@@ -1,0 +1,713 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/thumb.png">
+
+<title>Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission | CosmicVarta</title>
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission | Welcome to CosmicVarta.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission" />
+<meta name="author" content="Vishnu Madhu" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This article is the review of a journal paper on the Visible Emission Line Coronagraph, the primary payload onboard India’s first solar space mission, ADITYA-L1. The paper discusses some technical details of VELC and the work done in analyzing them. This article is an attempt to introduce the reader to the instrument, its science and the content of the paper in a simplified manner." />
+<meta property="og:description" content="This article is the review of a journal paper on the Visible Emission Line Coronagraph, the primary payload onboard India’s first solar space mission, ADITYA-L1. The paper discusses some technical details of VELC and the work done in analyzing them. This article is an attempt to introduce the reader to the instrument, its science and the content of the paper in a simplified manner." />
+<meta property="og:site_name" content="Welcome to CosmicVarta." />
+<meta property="og:image" content="/assets/images/technical_aspects_velc_aditya_vishnu/image1_vishnu.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-10-11T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/assets/images/technical_aspects_velc_aditya_vishnu/image1_vishnu.png" />
+<meta property="twitter:title" content="Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission" />
+<script type="application/ld+json">
+{"datePublished":"2021-10-11T00:00:00+05:30","url":"/velc_aditya_l1_article_vishnu","dateModified":"2021-10-11T00:00:00+05:30","@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/cv.png"},"name":"Vishnu Madhu"},"mainEntityOfPage":{"@type":"WebPage","@id":"/velc_aditya_l1_article_vishnu"},"author":{"@type":"Person","name":"Vishnu Madhu"},"image":"/assets/images/technical_aspects_velc_aditya_vishnu/image1_vishnu.png","description":"This article is the review of a journal paper on the Visible Emission Line Coronagraph, the primary payload onboard India’s first solar space mission, ADITYA-L1. The paper discusses some technical details of VELC and the work done in analyzing them. This article is an attempt to introduce the reader to the instrument, its science and the content of the paper in a simplified manner.","headline":"Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/cv.png" alt="CosmicVarta">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/about">About us</a>
+								</li>
+
+								<li class="nav-item">
+                <a target="_blank" class="nav-link" href="/upcoming"> Upcoming articles</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/writers"> Join us</a>
+								</li>
+
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/career_help">  Career help</a>
+								</li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/links"> Useful Links</a>
+								</li>
+
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="/contact"> Contact Us</a>
+                </li>
+
+
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">CosmicVarta</h1>
+    <p class="lead">
+         Platform for promoting Indian astronomy research to the public.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/velc_aditya_l1_article_vishnu" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/velc_aditya_l1_article_vishnu" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission&url=/velc_aditya_l1_article_vishnu" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+
+        <li class="ml-1 mr-1">
+              <a href="https://api.whatsapp.com/send?text=/velc_aditya_l1_article_vishnu" onClick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </li>
+
+
+
+
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/vishnu_profile.png" alt="Vishnu Madhu">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://www.researchgate.net/profile/Vishnu-Madhu-2">Vishnu Madhu</a><a target="_blank" href="https://www.facebook.com/vishnu.madhu.144" class="btn follow">Connect</a>
+                        <span class="author-description">I'm a PhD student at the Indian Institute of Astrophysics, Bengaluru. My topic of research is solar physics, particularly solar magnetic field and spectropolarimetry. <br><br>
+                          
+
+<b>7 min read</b>
+
+
+                        </span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+
+            
+            <!-- <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/technical_aspects_velc_aditya_vishnu/image1_vishnu.png" alt="Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission">
+            
+
+             -->
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+
+                <blockquote>
+  <p>This article is the review of a journal paper on the Visible Emission Line Coronagraph, the primary payload onboard India’s first solar space mission, ADITYA-L1. The paper discusses some technical details of VELC and the work done in analyzing them. This article is an attempt to introduce the reader to the instrument, its science and the content of the paper in a simplified manner.</p>
+
+  <hr />
+</blockquote>
+
+<script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
+
+<script type="text/javascript" id="MathJax-script" async="" src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js">
+</script>
+
+<p>ADITYA-L1 is an Indian satellite with seven payloads, planned to be launched next year. This satellite will not orbit the Earth; rather, it will be at the Lagrangian 1 (L1) point. The L1 point is the location in the Sun – Earth line where their combined gravitational pull equals the centripetal force needed for a small object to move with <a href="https://solarsystem.nasa.gov/resources/754/what-is-a-lagrange-point/">them</a>. This will be India’s first space mission to study the Sun. The Visible Emission Line Coronagraph (VELC) is arguably the primary payload in this mission, and the paper under discussion here deals with characterizing certain technical aspects of VELC.</p>
+
+<p align="center">
+  <img src="../assets/images/technical_aspects_velc_aditya_vishnu/image1_vishnu.png" />
+</p>
+
+<p align="center">
+Figure 1: Illustration of the ADITYA-L1 satellite with its payloads. Credits: <a href="https://www.isro.gov.in/aditya-l1-first-indian-mission-to-study-sun">ISRO</a>
+</p>
+
+<p>The VELC will observe the solar corona, which is the tenuous, outermost layer of the solar atmosphere. It will analyze the coronal temperature, plasma velocity, density, etc. It will also study Coronal Mass Ejections (CMEs) and the solar wind. CMEs are large clouds of fast-moving plasma, formed by spectacular explosions in the corona, whereas the solar wind is a continuous stream of charged particles the Sun sends out to interplanetary space. The mesmerizing aurora (also called polar lights) are caused by the interaction of the solar wind with the Earth’s magnetic field.</p>
+
+<h4 id="the-details-of-velc">The details of VELC</h4>
+
+<p>The VELC consists of a coronagraph, spectrograph, polarimetry module and detectors, aside from auxiliary optics.</p>
+
+<p>A coronagraph is an instrument used to observe the very dim solar corona, by blocking the bright central disk of the <a href="https://spaceweather.com/glossary/coronagraph.html">Sun</a>. Coronagraphs usually have a central occulter to block the light from the solar disk; like an artificial solar eclipse. This causes only the surrounding light from the corona to pass through the coronagraph and is available for further analysis or recording. In the case of VELC, instead of a central occulter, a mirror with a circular hole at its center is used to discard the disk light and reflect only the coronal light into the instrument.</p>
+
+<p>In general, coronagraphs occult not just the solar disk, but some of the surrounding regions also. This is to reduce the light scattered from the edge of the occulter. Here, the disadvantage is that we won’t be able to observe and study the lower corona, adjacent to the solar disk. For example, we say that the coronagraph field-of-view (FOV) starts from 2 radii of the Sun if it occults everything within a distance of twice the solar radius from the center of the Sun. The VELC will have the smallest occulting radius among coronagraphs, with the FOV starting from 1.05 radii of the Sun.</p>
+
+<p>A spectrograph is an instrument that splits polychromatic light (consisting of multiple wavelengths) into its constituent wavelengths (spectrum). This is similar to a prism splitting white light into VIBGYOR – at different angles from the face of the prism, we get different wavelengths of light. In VELC, a component called grating is used to generate the spectrum. If in a prism, refraction causes white light to split into different wavelengths, in the VELC grating, reflection, diffraction and interference together create the spectra.
+The presence or absence of certain wavelengths in light and their relative amplitudes can be used to find out details of the source of the light and the medium through which it travelled. Thus, the spectrum gives us details of the solar corona.</p>
+
+<p>Next comes the polarimetry module. Polarimetry is the technique of understanding the direction of electric and magnetic fields associated with an electromagnetic (EM) wave. We know that light is an EM wave and that the electric and magnetic fields are perpendicular to each other, and they lie in a plane (say, Plane A) perpendicular to the direction of propagation of light. But these EM fields could be oriented in infinitely many perpendicular directions in Plane A. The electric field and magnetic field could be oriented North-South and East-West respectively, or they could be oriented North-East – South-West and North-West – South-East, just to mention two examples.</p>
+
+<p>Light is a collection of photons and different photons could have different orientations of EM fields in Plane A as described above. The orientation of the EM fields depends on the process that creates the photon and the environment in which it is created. In general, a source of light will be an equal mix of all these different processes, with the result that the generated light will have EM fields in all directions in Plane A. We say that all directions in Plane A are equally probable for the EM field, and we call the resultant light unpolarised light.</p>
+
+<p>Now, if the source of photons has an asymmetry, i.e. if the processes that create a particular orientation of the EM field are in abundance, and/or if the source environment (say ambient EM fields) aides the generation of EM fields in a particular direction, then the light we observe will have an abundance of EM field oriented in that direction; now the light is said to be polarised.</p>
+
+<p>The magnetic field in a region affects the polarization of light generated from that region, and thus we can calculate the magnetic field by measuring the polarization. Understanding the distribution of magnetic fields is crucial to our analysis of the solar atmosphere. Thus, this is one of the ways in which measuring the polarisation of light helps us study the solar corona. For measuring polarisation, the polarimetry module contains special optics called the polarisation modulator and analyser.</p>
+
+<p>The detectors in VELC are CMOS-based. The detectors in normal DSLR cameras are also CMOS based, with the difference that the VELC detectors have very low noise and are adapted for use in space. When light falls on the pixels of these detectors, electrons are generated by the photoelectric effect. Higher the intensity of light, the higher the number of electrons generated. When the detector is read out, the internal circuitry will convert the electron count in each pixel to a digital count. This is how an image is generated by a CMOS detector.</p>
+
+<h4 id="the-path-of-light-through-velc">The path of light through VELC</h4>
+
+<p>The light entering the instrument from the coronagraph is split into two, based on its wavelength. This is done by a Dichroic Beam Splitter (DBS) which reflects light of a certain wavelength while transmitting other wavelengths. The reflected light (wavelength &lt; 5100 Å) goes to a section called the continuum channel while the transmitted light goes to another section called the spectral channel.</p>
+
+<p>In the continuum channel, a filter is used to cut down the wavelength to 5000 Å ± 5 Å (ie. green colour light). This light is then focused on a CMOS camera and the image of the corona is recorded.</p>
+
+<p>In the spectral channel, the light transmitted by the DBS is focused on a multi-slit before it goes to the spectrograph. The multi-slit is a unique feature of the VELC. It consists of four slits parallel to and equidistant from each other. A slit is used to restrict not the intensity of light, but the region from which the light is originating. Thus, each slit will observe only a narrow strip of the region in the corona. A multi-slit with four slits will observe four different locations in the corona simultaneously. Now, by moving either the multi-slit or the focused image on the multi-slit, we can observe different parts of the corona; this is called scanning the field-of-view (FOV), and scanning is done perpendicular to the length of the slit. Compared to a single-slit setup, four slits take only one-fourth the time to scan the same (FOV). This means the VELC can do observations four times faster than a single-slit spectrograph.</p>
+
+<p>After passing through the multi-slit, the light falls on the spectrograph grating, where it is split into multiple wavelengths as a function of the angle of reflection from the grating. Three wavelength bands (5303 Å: cyan - green colour, 7892 Å: red - near-infrared, 10747 Å: near-infrared) are filtered from this section and each directed to a separate CMOS detector, where the spectra of the corona at that wavelength are recorded.</p>
+
+<p>The 10747-channel has a polarimetry module in front of its detector. Thus we can find the polarization of light from the 10747-spectra.</p>
+
+<h4 id="overview-of-the-paper">Overview of the paper</h4>
+
+<p>Ritesh Patel and their team calculated the number of photons (photon count) and signal-to-noise-ratio (SNR) in all three wavelength bands in the spectral channel, for different exposure times, different widths of the multi-slit, different coronal heights, temperatures, etc. To calculate the photon count, we made use of the atomic database, CHIANTI. CHIANTI inputs environmental parameters like the temperature, electron density, etc., and instrument parameters like the instrument’s full-width-at-half-maximum (FWHM) (which depends on the slit-width), spectral dispersion, etc. It then gives a distribution of the photon count as a function of the wavelength.</p>
+
+<p>The SNR is a measure of the goodness of a signal. Whenever we make an observation, in addition to our signal, we also get noise from the surroundings. This consists of signals from other sources and the internal noise of the instrument. SNR is the ratio of the strength (power or amplitude) of our signal to the strength of the noise. For example, SNR=1 means that the signal and noise levels are the same. If SNR &lt; 1, we say that our signal is embedded in the noise. In such a condition, it will be difficult to discriminate noise from our signal. Thus, a large value of SNR is always preferred. In the case of VELC, SNR is calculated by comparing the CHIANTI photon count with the photon count from simulated instrument scatter and noise. This is done for all three wavelengths in the spectral channel.</p>
+
+<p>A larger slit width means more photons and higher SNR, but a smaller exposure time for our detectors, since they can only observe a certain amount of photons before getting saturated. For the VELC 10747-channel, the exposure time is fixed. So based on this exposure time, the slit-width is optimized to achieve the required photon count and SNR.</p>
+
+<p>The CHIANTI spectra is also transformed into a multi-slit spectral image, one for each wavelength (Figure 4 in the paper). These are how the outputs of the VELC spectral channel will look like. In this particular case, the synthetic spectra are created for CME (Coronal Mass Ejection) data from the K-Coronagraph at Mauna Loa Solar Observatory (MLSO/KCor).</p>
+
+<p>So, in this paper, we calculated the slit-width to optimize the observations of the VELC. We also generated the synthetic spectra for a CME. The data we got here will help in setting up observation procedures of the VELC to perfectly capture CMEs and other dynamical solar events.</p>
+
+<p><strong>Original paper:</strong>
+<a href="https://www.frontiersin.org/articles/10.3389/fspas.2021.660992/full"> Characterizing Spectral Channels of Visible Emission Line Coronagraph of Aditya-L1</a></p>
+
+<p><strong>First Author:</strong> Ritesh Patel</p>
+
+<p><strong>Co-authors:</strong> A.Megha, Arpit Kumar Srivastav, Vaibhav Pant, M.Vishnu, K.Sankarasubramanian, Dipankar Banerjee</p>
+
+<p><strong>First author’s Institution:</strong> Indian Institute of Astrophysics, Bangalore, India
+Aryabhatta Research Institute of Observational Sciences, Nainital, India</p>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<p>202</p>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2021-10-11">11 Oct 2021</time></span>
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#Instrumentation-and-Methods-for-Astrophysics">Instrumentation and Methods for Astrophysics</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#ADITYA">#ADITYA</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#VELC">#VELC</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#instrumentation">#instrumentation</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#multi-slit">#multi-slit</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#solar">#solar</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#solar-corona">#solar corona</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#spectroscopy">#spectroscopy</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+<h2>Related articles</h2>
+
+
+
+
+
+<ul>
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+</ul>
+
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = ''; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+
+<hr><hr>
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+
+</div>
+
+
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+
+
+<!-- Begin Footer
+================================================== -->
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+
+
+
+        <footer class="ftco-footer ftco-section" id="contact-section">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+
+
+                  <p>Beauty is that to what the human mind responds at its deepest and most profound.</p> <b><a href="https://quotefancy.com/quote/1645323/Subrahmanyan-Chandrasekhar-Beauty-is-that-to-what-the-human-mind-responds-at-its-deepest#:~:text=Subrahmanyan%20Chandrasekhar%20Quote%3A%20%E2%80%9CBeauty%20is,its%20deepest%20and%20most%20profound.%E2%80%9D"target=None>-Subrahmanyan Chandrasekhar</a></b></p>
+
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                  <h2 class="ftco-heading-2">Links</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="/index.html"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                    <li><a href="/about"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                    <li><a href="/writers"><span class="icon-long-arrow-right mr-2"></span>Join Us</a></li>
+                    <li><a href="/upcoming"><span class="icon-long-arrow-right mr-2"></span>Upcoming articles</a></li>
+                    <li><a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                 <div class="ftco-footer-widget mb-4">
+                  <h2 class="ftco-heading-2">Social media</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="https://facebook.com/cosmicvarta"><span class="icon-long-arrow-right mr-2"></span>Facebook</a></li>
+                    <li><a href="https://twitter.com/cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Twitter</a></li>
+                    <li><a href="https://www.youtube.com"target=None><span class="icon-long-arrow-right mr-2"></span>YouTube</a></li>
+                    <li><a href="https://www.medium.com/@cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Medium</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+                	<h2 class="ftco-heading-2">Enquiry </h2>
+                	<div class="block-23 mb-3">
+    	              <ul  class="list-unstyled">
+    	             <span class="icon icon-map-marker"></span><span class="text">   For any enquiry, you may drop in an email to us at:</span></li>
+
+    	               <a href="mailto:cosmicvarta@gmail.com"><span class="icon icon-envelope"></span><span class="text">cosmicvarta@gmail.com</span></a></li>
+    	              </ul>
+    	            </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 text-center">
+
+                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  <b>  Copyright © 2021 CosmicVarta.  All rights reserved </b> </p>
+
+
+
+              </div>
+            </div>
+          </div>
+        </footer>
+
+
+
+
+</body>
+</html>

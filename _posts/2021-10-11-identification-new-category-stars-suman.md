@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Using machine learning to infer Solar coronal heating"
+title:  "Suman's article here"
 author: Suman Bhattacharya
 permalink: /identification-new-category-stars-suman
 categories: [Solar and Stellar astrophysics]
@@ -16,6 +16,10 @@ review: true
 
 
 
+> This is Suman's article
+
+>
+---
 
 
 

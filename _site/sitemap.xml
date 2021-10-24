@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>/lakshitha_solar_article_corona</loc>
-<lastmod>2021-08-17T00:00:00+05:30</lastmod>
-</url>
-<url>
-<loc>/vishal-machile-learning-solar-corona</loc>
+<loc>/vishal_machine_learning_corona_article</loc>
 <lastmod>2021-09-29T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -21,7 +17,7 @@
 <lastmod>2021-10-10T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>/solar-chromosphere-spectral-lines</loc>
+<loc>/solar-chromosphere-spectral-lines-vishal</loc>
 <lastmod>2021-10-10T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -37,7 +33,7 @@
 <lastmod>2021-10-11T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>/most-extreme-stars-gourav/</loc>
+<loc>/most-extreme-stars-gourav</loc>
 <lastmod>2021-10-11T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -45,7 +41,7 @@
 <lastmod>2021-10-11T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>/technical-aspects-velc-aditya-solar-vishnu/</loc>
+<loc>/velc_aditya_l1_article_vishnu</loc>
 <lastmod>2021-10-11T00:00:00+05:30</lastmod>
 </url>
 <url>
@@ -57,12 +53,28 @@
 <lastmod>2021-10-12T00:00:00+05:30</lastmod>
 </url>
 <url>
-<loc>/classical-ae-stars-anusha/</loc>
+<loc>/classical-ae-stars-anusha</loc>
 <lastmod>2021-10-12T00:00:00+05:30</lastmod>
 </url>
 <url>
 <loc>/theoretical-model-shear-layer-bibhuti</loc>
 <lastmod>2021-10-12T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>/lakshitha_solar_article_corona</loc>
+<lastmod>2021-10-17T00:00:00+05:30</lastmod>
+</url>
+<url>
+<loc>/assets/images/vishal_chromosphere/2021-10-14-chromosphere-spectral-line-vishal/</loc>
+</url>
+<url>
+<loc>/assets/images/ae_stars_anusha/2021-10-14-classical_ae_stars-anusha/</loc>
+</url>
+<url>
+<loc>/vishal_machine_learning_corona_article</loc>
+</url>
+<url>
+<loc>/assets/images/technical_aspects_velc_aditya_vishnu/2021-10-14-velc-aditya-l1-vishnu/</loc>
 </url>
 <url>
 <loc>/about</loc>
@@ -108,6 +120,9 @@
 </url>
 <url>
 <loc>/category/solar-and-stellar-astrophysics/</loc>
+</url>
+<url>
+<loc>/category/instrumentation-and-methods-for-astrophysics/</loc>
 </url>
 <url>
 <loc>/page2/</loc>

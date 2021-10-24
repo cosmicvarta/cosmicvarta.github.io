@@ -103,7 +103,14 @@ authors:
       twitter: https://bibhuraushan.github.io
       description: "I am a senior research fellow at IIA, Banglore and ARIES, Nainital working in the area of Solar Astrophysics."
 
-
+ Robin Thomas:
+      name: Robin Thomas
+      display_name: Robin Thomas
+      avatar: 'assets/images/avatar.png'
+      email: robin.thomas@christuniversity.in
+      web: 
+      twitter:
+      description: "I am a research scholar at CHRIST (Deemed to be University), carrying out my research in Extragalactic astronomy. "
 # Plugins
 plugins:
   - jekyll-paginate

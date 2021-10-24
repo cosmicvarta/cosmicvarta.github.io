@@ -25,7 +25,7 @@ Scientists from the Inter-University Centre for Astronomy and Astrophysics (IUCA
 
 ![A new image here](../assets/images/Understanding-the-evolution-of-the-binary-star-system-Cen-X-3-ketan-images/image1.jpg)
 <p align = "center"> Figure 1: Illustration of an accretion-powered pulsar. The magnetic axis sweeps earth in every rotation of the neutron star due to misalignment between the rotational axis and the magnetic axis giving rise to highly periodic pulsations.<br>
-Image courtesy: <a href="https://onwardtotheedge.wordpress.com/2013/01/14/neutron-stars/">https://onwardtotheedge.wordpress.com/2013/01/14/neutron-stars/</a>
+The image used here is available at <a href="https://www.nrao.edu/images/pulsar_web.jpg"> this </a> URL.
 </p>
 
 Both stars are gravitationally bound and revolve around each other. The binary orbit can evolve due to matter exchange between the stars, mass loss from the binary system, and due to tidal interaction between the two stars. Studying the evolution of the orbit of such systems is important in understanding stellar structure and evolution. The results of these studies can be a **direct test for stellar structure models and evolution theories**. The **first step in doing such a study is to determine the binary orbit**. <br><br>

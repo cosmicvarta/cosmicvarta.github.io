@@ -5,9 +5,89 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 19 Oct 2021 02:21:10 +0530</pubDate>
-    <lastBuildDate>Tue, 19 Oct 2021 02:21:10 +0530</lastBuildDate>
+    <pubDate>Sun, 24 Oct 2021 14:46:50 +0530</pubDate>
+    <lastBuildDate>Sun, 24 Oct 2021 14:46:50 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Deciphering The Mysteries of The Quiet Sun Explosions</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;XSM onboard Chandrayaan 2 observed the Sun during its minimum activity period in 2019-2020. Using this data, the researchers have for the first time detected a very large number of small scale explosions, called microflares, happening on the Sun. The physical parameters of the microflares have been calculated and their spatial location is also detected using various satellites. The study also gives evidence that such small scale heating events occur everywhere on the Sun and they contribute to coronal heating.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The outer atmosphere (the corona) of the Sun poses a long standing mystery regarding its temperature. The solar corona is composed of plasma (ionised gas) that emits strongly in X-rays and ultraviolet radiation. Its temperature exceeds a million degree kelvin, while the visible surface (the photosphere) is at 6000K. One of the theories to understand the so-called ‘coronal heating problem’ proposes the occurrence of a large number of small scale explosions (known as microflares and nanoflares) on the Sun. It is known that these flares are a manifestation of the magnetic field of the Sun that is generated in its interior. But the Sun’s magnetic field is not constant, it varies with an average period of 11 years, which is known as the solar cycle. Approximately every 11 years, the Sun’s magnetic field reverses. In other words, the north pole becomes the south pole, and vice versa. The flip of the poles is an end product of the slow evolution of Sun’s magnetic field over time. As the cycle progresses, all of the Sun’s activities related to its magnetic field (such as sunspots, flares, coronal mass ejections) builds to a maximum (when the magnetic field reverses). Then the Sun settles back down to a minimum, before the whole cycle starts again. The Sun was in a very low state of activity during the minima of solar cycle 24 covering the year 2019. It was in fact the quietest the Sun has been in the last 100 years!&lt;/p&gt;
+
+&lt;p&gt;During this quiet period of the Sun, at the mid of the year 2019, Chandrayaan 2 was launched with the several instruments/payloads to observed our moon and the Sun. Among them CLASS is an instrument to understand the abundance of elements present on the moon. But this requires knowledge of the X-rays emitted from the Sun. Thus, the orbiter also carried an instrument called Solar X-ray  Monitor (XSM). XSM observed the Sun during its deepest minima of solar cycle 24, covering the year 2019-2020 with a good temporal and energy resolution. Using observations during this time, Santosh Vadawale and his team has uncovered some fascinating information about the quiescent Sun. They have shown that during this period small scale transients, so-called microflares (smaller counterpart of the conventional solar flares) are occurring everywhere on the solar disk.&lt;/p&gt;
+
+&lt;p&gt;Solar flares are eruptions of electromagnetic radiation of all wavelengths from the Sun. They last from a few minutes to a few hours. Flares are classified depending on the energy they release during its peak in the soft X rays. Though the number of large flares increase with the progress of the solar cycle, this study suggested that small flares, called microflares, keep exploding on the Sun at all times. Though the definition of microflares has varied though the years due to the sensitivity of the instrument, in this study flares having a peak flux below 10&lt;sup&gt;-8&lt;/sup&gt; W/m&lt;sup&gt;2&lt;/sup&gt; are considered as microflares. During this period of extremely quiet solar corona when no active regions were present on the disk, Santosh Vadawale and team identified a total of 98 microflares from 76 days. The microflares are marked in the lightcurve (Figure 1). Most of the microflares were seen to behave similar to larger flares having a fast rise and a slow decay. Some microflares did not follow this behaviour possibly due to blending of multiple microflares or they intrinsically have a different origin. The temperature and emission measure of these microflares are determined. Temperature tells how hot the plasma gets during the explosion while the emission measure gives an idea about the density of plasma emitted at that particular temperature. The temperature is found to be between 3-6 MK and the emission measure is in the order of 10&lt;sup&gt;46&lt;/sup&gt; cm&lt;sup&gt;-3&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/mysteries_quiet_sun_explosions_lakshitha/image1_lakshitha.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: XSM lightcurve during the period of deepest solar minima of the past century. Red vertical lines indicate the detected microflares outside the conventional active regions.
+Image source: &lt;a href=&quot;https://arxiv.org/pdf/2103.16644.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;The XSM microflare locations are identified in the extreme ultraviolet images obtained from NASA’s ‘Solar Dynamics Observatory’ and from the X-ray images obtained by the Japanese HINODE X-ray Telescope. Most microflares were seen to be associated with X-ray Bright Points. ‘Solar Dynamics Observatory’ HMI magnetograms were used to analyse the corresponding photospheric magnetic field. They observed the microflares to be associated with magnetic bipolar regions having  weaker field strengths, which indicates magnetic reconnection happening at smaller scales (Figure 2).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/mysteries_quiet_sun_explosions_lakshitha/image2_lakshitha.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Identification of the location of one of the XSM microflares with the 1–5 keV light curve shown in panel (a). Flare location is marked on the SDO AIA 94 &amp;Aring; full disk image in (b) and a 5’ × 5’ cutout is shown in panel (c). Panel (d) shows AIA 94 &amp;Aring; light curve for the flaring pixels as shown in panel f. FeXVIII image of the flare location is shown in panel (e) and the map of pixels of the flaring plasma based on FeXVIII emission is given in panel (f). Available synoptic HMI magnetograms and XRT Be-thin images nearest to the flare peak time are shown in panels g-j.
+Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16644.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;This is also the first statistical survey of X-ray microflares outside active regions. By plotting the frequency distribution of microflares, the team has given evidence for the hypothesis that small scale heating events occur everywhere on the Sun and they contribute to coronal heating.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/2041-8213/abf0b0&quot;&gt; Observations Of The Quiet Sun During The Deepest Solar Minimum Of The PastCentury With Chandrayaan-2 XSM – Sub-A Class Microflares Outside Active Regions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Santosh Vadawale&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; N. P. S. Mithun, Biswajit Mondal, Aveek Sarkar, P.Janardhan, Bhuwan Joshi, Anil Bhardwaj, M. Shanmugam, Arpit R. Patel, Hitesh Kumar L. Adalja, Shiv Kumar Goyal, Tinkal Ladiya, Neeraj Kumar Tiwari, Nishant Singh and Sushil Kumar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Physical Research Laboratory, Ahmedabad, Gujarat-380 009, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 17 Oct 2021 00:00:00 +0530</pubDate>
+        <link>/lakshitha_solar_article_corona</link>
+        <guid isPermaLink="true">/lakshitha_solar_article_corona</guid>
+        
+        <category>sun</category>
+        
+        <category>corona</category>
+        
+        <category>flares</category>
+        
+        <category>x-ray</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
     
       <item>
         <title>The First Theoretical Model of the Near-Surface Shear Layer of the Sun</title>
@@ -81,13 +161,120 @@ Fig.: The solar rotation profile calculated based on the theoretical model given
       </item>
     
       <item>
-        <title>Classical Ae Stars Anusha</title>
-        <description>
+        <title>Classical Ae stars: What are they? Why study them?</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Starting from the history of star classification in the millinniums, this interesting note will take you through some of the very basic concepts on emission-line stars. You will be able to understand what they are and why these type of stars are my special children. The article will pose a number of very fundamental yet unresolved questions on these groups waiting to be unraveled from the nature. PS: You will not regret opening this link!&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ae_stars_anusha/image1_anusha.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: The most comprehensive Hubble deep field image of the evolving universe.
+Image source:&lt;a href=&quot;https://www.hubblesite.org&quot;&gt;Hubblesite &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Author’s note:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;I can stare all day at the image above showing details of a large number of Galaxies and stars which are the building blocks of the visible universe we know. The expanding universe, the infrared afterglow, litter from the most distant parts of our universe, remind me of the nearer still, the largely unaffected bounty of the space in my presence. Even being an ignorant survival,  these depths and darkness leading one to their origin are intriguing.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;h4 id=&quot;introduction&quot;&gt;Introduction:&lt;/h4&gt;
+&lt;p&gt;The best way to understand a system is to observe and question their behavior leading to logical  reasons. In this manner, for ages, many incredible minds have corroborated the nature of stars,  observed them over years, mapped their positions to good accuracy, and questioned their fundamentals, for many which even today we do not know answers to. As a first step towards this process, we explore the different types of stars and their nature using the stellar spectral classification.&lt;/p&gt;
+
+&lt;h4 id=&quot;stellar-classification&quot;&gt;Stellar classification:&lt;/h4&gt;
+&lt;p&gt;The oldest ever known catalogue of stars in the sky dates back to the 2nd millennium BC (1531- 1155 BC), which upgraded in number over years. But, the catalogued stars were classified into different categories based on their observable properties only by the late 19th century. Through observations, we understand that stars differ in colour and temperature. To understand these observable differences, we categorized stars based on their temperature into different ‘stellar spectral types’, assigning one alphabet for each class. The sequence of stars presently adopted,  begins with the hottest stars, class O, and proceeds from hot to cool in the order: O, B, A, F, G,  K, and M. Most of the stars in the visible universe can be classified into one of these groups.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ae_stars_anusha/image3_anusha.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: The HR-diagram of stellar classifications. The X-axis shows different spectral types from hot massive O stars to cooler M stars.
+Image source: &lt;a href=&quot;https://www.astronomytrek.com/wp-content/uploads/2017/10/Star-Classification-Chart.jpg&quot;&gt; Astronomytrek &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Hot massive stars usually include stars in the spectral type range O to A. It is interesting though that the physical properties, internal structure, chemical nature, and the observables of hotter stars are very different from that of their cooler counterparts. A special category of these hot stars is the emission-line stars which show prominent emission features in their spectrum. A  closer look into this category reveals that not all hot massive stars show emission-line signatures. To date, we have insufficient details to explain why this nature is not universal. Many interesting studies have been conducted to date in examining the observational properties and statistical nature of these emission-line stars.&lt;/p&gt;
+
+&lt;h4 id=&quot;what-do-we-know-about-emission-line-stars&quot;&gt;What do we know about emission-line stars?&lt;/h4&gt;
+
+&lt;p&gt;As mentioned earlier, the term &lt;em&gt;emission-line stars&lt;/em&gt; (ELS) denote stellar objects that show emission features in their spectrum. In general, hot ELS include Classical Ae/Be type stars,  Herbig Ae/Be type stars, Wolf-Rayet stars, supergiants, etc. The mechanism of the emission-line formation differs between each of these classes.
+Taking into consideration Classical Ae/Be stars, a group of ELS enclosing hot massive Oe, Be,  and Ae stars (where ‘e’ stands for emission). The emission lines in this group of stars are known to originate from a cooler disk-shaped envelope surrounding the star. The disk is composed of ionized gas and surrounds the star equatorially. The mechanism of such a gaseous equatorial  disk formation is termed the Be phenomenon.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ae_stars_anusha/image2_anusha.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: An artistic impression of a Classical Be star. Note the presence of a circumstellar envelope in the shape of a disk surrounding the star.
+Image source: &lt;a href=&quot;https://en.wikipedia.org/wiki/Be_star&quot;&gt;Wikimedia commons  &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;h4 id=&quot;classical-be-and-classical-ae-stars&quot;&gt;Classical Be and Classical Ae stars&lt;/h4&gt;
+
+&lt;p&gt;As mentioned earlier, I consider Classical Be (CBe hereafter) and Classical Ae (CAe hereafter)  stars as one of the very interesting classes of objects. After 150+ years of their first detection, these stars still pose a great challenge in understanding them completely. The most fundamental (yet unresolved) question about these stars is that, &lt;em&gt;Why do these stars form a circumstellar disk?&lt;/em&gt; It has to be noted that not all B-type stars are CBe stars, not all A-type stars CAe stars. Why do we see a selection for this emission mechanism in nature?. The better we study these stars in detail,  the better we get to understand them.&lt;/p&gt;
+
+&lt;p&gt;This research article titled &lt;em&gt;Identification of new Classical Ae stars in the Galaxy using LAMOST DR5&lt;/em&gt; intends at compiling the very first homogeneous catalogue of the CAe stars from our  Galaxy.&lt;/p&gt;
+
+&lt;h4 id=&quot;identification-of-classical-ae-stars&quot;&gt;Identification of Classical Ae stars.&lt;/h4&gt;
+
+&lt;p&gt;This article makes use of one of the largest spectroscopic databases of the Galaxy – Large sky  Area Multi-Object fibre Spectroscopic Telescope (&lt;a href=&quot;http://www.lamost.org/public/?locale=en&quot;&gt;LAMOST&lt;/a&gt;), undertaken by the Chinese academy of sciences, situated at Xinglong Station, China. They identified about 4,789 A-type  emission-line stars (Hα shows emission profile) from the LAMOST database. As quoted  previously, many types of objects can show this emission feature. To identify the CAe stars, they made use of the infra-red photometric properties. The idea behind this selection is that the circumstellar disk of CBe/CAe stars will give rise to additional flux excess in the infrared region of the electromagnetic spectrum. By filtering out stars showing this additional flux, the team  identified 159 new CAe stars from the Galaxy.&lt;/p&gt;
+
+&lt;h4 id=&quot;cbe-stars-versus-cae-stars&quot;&gt;CBe stars versus CAe stars&lt;/h4&gt;
+
+&lt;p&gt;From Figure. 2 we understand that A-type stars are comparatively cooler than B-type stars.  Hence, the CAe stars are considered cooler counterparts of CBe stars. Though these systems show a similar presence of circumstellar disk, it is important to understand how their disk properties change concerning their temperature.
+This study provides a dedicated section on comparing the observed spectroscopic features of  CBe stars and the CAe stars. They were able to predict that the CAe stars could host smaller disks compared to CBe stars. Apart from hydrogen, this study identified the presence of ionized metallic lines of FeII, Ca II, OI, etc in the spectra of the CAe stars and that these features are similar to that of CBe stars.&lt;/p&gt;
+
+&lt;p&gt;This article provided new insights on the nature of the CAe stars and motivates the research community to study further study and compare them to CBe stars for a better understanding of the Be phenomenon.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021MNRAS.501.5927A/abstract&quot;&gt; Identification of new classical Ae stars in the Galaxy using LAMOST DR5&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Anusha.R&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Blesson Mathew, B.Shridharan.; R.Arun, S.Nidhi, Gourav Banerjee, Sreeja S Kartha, K.T.Paul, Suman Bhattacharyya&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt;  Department of Physics and Electronics, CHRIST (Deemed to be University), Bangalore 560029, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;hr /&gt;
 </description>
         <pubDate>Tue, 12 Oct 2021 00:00:00 +0530</pubDate>
-        <link>/classical-ae-stars-anusha/</link>
-        <guid isPermaLink="true">/classical-ae-stars-anusha/</guid>
+        <link>/classical-ae-stars-anusha</link>
+        <guid isPermaLink="true">/classical-ae-stars-anusha</guid>
         
+        <category>emission-line</category>
+        
+        <category>stars</category>
+        
+        <category>circumstellar matter</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
         
       </item>
     
@@ -142,8 +329,7 @@ Variable stars change in brightness over time. These changes can vary from as sm
 &lt;p&gt;Based on this system, a family tree of variable stars can be constructed. Such a tree is called a Variability Tree. A simplified version of the variability tree is given below.&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image1.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; Figure 1: Variability tree, denoting the various classes of variable stars.&lt;br /&gt;
-Credits: &lt;a href=&quot;https://www.atnf.csiro.au/&quot;&gt;https://www.atnf.csiro.au/&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt; Figure 1: Variability tree, denoting the various classes of variable stars. The image can be found &lt;a href=&quot;https://starlifecycleastro.weebly.com/variable-stars.html&quot;&gt;here&lt;/a&gt;.
 &lt;/p&gt;
 
 &lt;p&gt;The variable stars are classified into two groups based on the reason of variability in the observed intensities, Intrinsic and Extrinsic variable stars. They are further categorised into sub-classes, which are discussed below.&lt;/p&gt;
@@ -169,10 +355,11 @@ m - M = 5 log(d/10)
 
 &lt;p&gt;where &lt;em&gt;m&lt;/em&gt; is the apparent magnitude, &lt;em&gt;M&lt;/em&gt; the absolute magnitude and &lt;em&gt;d&lt;/em&gt; the distance to the star in parsecs.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; Figure 2: Light curve of cepheid Delta Cephei&lt;br /&gt;
-Credits: &lt;a href=&quot;https://www.aavso.org/&quot;&gt;https://www.aavso.org/&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image2.png&quot; /&gt;
 &lt;/p&gt;
+
+&lt;p&gt;Figure 2: Light curve of cepheid Delta Cephei. The image can be found &lt;a href=&quot;https://www.eso.org/public/outreach/eduoff/aol/market/collaboration/varstar/pg2.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h4 id=&quot;long-period-variables&quot;&gt;Long-period variables&lt;/h4&gt;
 
@@ -194,19 +381,21 @@ Credits: &lt;a href=&quot;https://www.aavso.org/&quot;&gt;https://www.aavso.org/
 
 &lt;p&gt;RV Tauri stars are yellow supergiants having a characteristic light variation with deep and shallow minima. Their periods, defined as the interval between two deep minima range from 30 to 150 days. They show brightness variations of up to 3 magnitudes. Some of these stars show long term cyclic variations from hundreds of thousands of days. Generally, their spectral class ranges from G to K.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image3.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; Figure 3: Light curve of RV Tauri star R Scuti&lt;br /&gt;
-Credits: &lt;a href=&quot;https://www.aavso.org/&quot;&gt;https://www.aavso.org/&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image3.png&quot; /&gt;
 &lt;/p&gt;
+
+&lt;p&gt;Figure 3: Light curve of RV Tauri star R Scuti. Image courtesy: &lt;a href=&quot;https://en.wikipedia.org/wiki/R_Scuti&quot;&gt; Wikimedia commons &lt;/a&gt;&lt;/p&gt;
 
 &lt;h4 id=&quot;52-cataclysmic-variable-stars&quot;&gt;5.2.	Cataclysmic variable stars&lt;/h4&gt;
 
 &lt;p&gt;Eruptive variables are stars varying in brightness because of violent outbursts caused by thermonuclear processes in their surface layers. They exhibit significant and rapid changes in their luminosity which is usually accompanied by mass outflow in the form of stellar winds of variable intensity. These are a system of two stars (binary system) orbiting very close to each other. One of them is a normal sunlike or giant star, while the other is a white dwarf. Some of the outermost material from the larger star is pulled away by the white dwarf’s gravity, but this material does not fall directly onto the white dwarf. Instead, it builds up in a disk called an accretion disk, which orbits the white dwarf. Thus, the eruptive variable star is a combination of normal or giant stars, white dwarf and accretion disk as shown in the following figure.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image4.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; Figure 4: A cataclysmic variable star&lt;br /&gt;
-Credits: &lt;a href=&quot;http://www.astrosurf.com/&quot;&gt;http://www.astrosurf.com/&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image4.png&quot; /&gt;
 &lt;/p&gt;
+
+&lt;p&gt;Figure 4: A cataclysmic variable star. The image can be found &lt;a href=&quot;http://astrosurf.com/vdesnoux/catvar/catvar.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;The combination of main-sequence or giant stars, white dwarf and accretion disk lead to celestial fireworks. So, instead of varying like pulsating variables, eruptive variables exhibit outbursts of activity. Some events may result in the destruction of the star while others can reoccur one or more times. These are called recurrent novae. The changes in their light curves are usually very unpredictable and tend to be sudden and dramatic.&lt;/p&gt;
 
@@ -230,10 +419,11 @@ Credits: &lt;a href=&quot;http://www.astrosurf.com/&quot;&gt;http://www.astrosur
 
 &lt;p&gt;Eclipsing binaries are binary star systems whose members eclipse each other, blocking one another’s light. As a result, the system looks occasionally fainter to observers on earth. The light curve of an eclipsing binary depends on the sizes and brightness of the stars, their separation from each other and the geometry of view from the earth. The process of eclipsing and the corresponding light curve of an eclipsing system is shown in the figure below.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image5.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; Figure 5: Eclipsing binary star&lt;br /&gt;
-Credits: &lt;a href=&quot;http://csep10.phys.utk.edu/astr161/index.html&quot;&gt;http://csep10.phys.utk.edu/astr161/index.html&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image5.png&quot; /&gt;
 &lt;/p&gt;
+
+&lt;p&gt;Figure 5: Eclipsing binary star. The image can be found &lt;a href=&quot;http://www.ifa.hawaii.edu/users/kud/teaching_15/6_DEB.pdf&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 &lt;h5 id=&quot;62-rotating-star&quot;&gt;6.2.	Rotating star&lt;/h5&gt;
 
@@ -267,6 +457,7 @@ Credits: &lt;a href=&quot;http://csep10.phys.utk.edu/astr161/index.html&quot;&gt
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 
 &lt;hr /&gt;
+&lt;hr /&gt;
 </description>
         <pubDate>Tue, 12 Oct 2021 00:00:00 +0530</pubDate>
         <link>/brief-account-variable-stars-robin</link>
@@ -286,65 +477,63 @@ Credits: &lt;a href=&quot;http://csep10.phys.utk.edu/astr161/index.html&quot;&gt
       <item>
         <title>The scientific legacy of Thanu Padmanabhan</title>
         <description>&lt;blockquote&gt;
-  &lt;p&gt;Thanu Padmanabhan, fondly known as Paddy, was an internationally acclaimed Indian theoretical physicist, whose research works are spread across a variety of topics in gravitation, quantum theory and the study of our universe. Progress in theoretical physics happens in two different, but equally important, ways. The first corresponds to significant advances achieved using existing theoretical frameworks, while the second corresponds to, what may be called, `paradigm shifts’. Padmanabhan’s immense contributions to physics have been on both of these fronts. About 300 papers in refereed international journals, about 10 books and numerous other articles that he has authored, spread over about four decades of his monumental career, is a testimonial to the impact he made in the field.&lt;/p&gt;
+  &lt;p&gt;Thanu Padmanabhan, fondly known as Paddy, was an internationally acclaimed Indian theoretical physicist, whose research works are spread across a variety of topics in gravitation, quantum theory and the study of our universe. Progress in theoretical physics happens in two different, but equally important, ways. The first corresponds to significant advances achieved using existing theoretical frameworks, while the second corresponds to, what may be called `paradigm shifts’. Padmanabhan’s immense contributions to physics have been on both of these fronts. About 300 papers in refereed international journals, about 10 books and numerous other articles that he has authored, spread over about four decades of his monumental career, is a testimonial to the impact he made in the field.&lt;/p&gt;
 
   &lt;hr /&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In 1977, a 20-year-old Padmanabhan started his research journey by investigating the interaction between gravitational waves and electromagnetic waves. The results of his mathematical study were published in the reputed journal `Pramana’, while he was still an undergraduate student at University College, Trivandrum. Little did his friends and colleagues know that this was only the start of a stellar career of one of the brightest and fastest thinkers of our time. We shall now briefly glance through some of his contributions in the decades that followed.&lt;/p&gt;
+&lt;p&gt;In 1977, a 20-year-old Padmanabhan started his research journey by investigating the interaction between gravitational waves and electromagnetic waves. The results of his mathematical study were published in the reputed journal &lt;em&gt;Pramana&lt;/em&gt;, while he was still an undergraduate student at University College, Trivandrum. Little did his friends and colleagues know that this was only the start of a stellar career of one of the brightest and fastest thinkers of our time. We shall now briefly glance through some of his contributions in the decades that followed.&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;It should be mentioned that the following `summary’ does not faithfully cover all of Padmanabhan’s contributions. This article is only an attempt to explain, in simpler terms, a few of his works that have influenced the author the most. ]&lt;/p&gt;
+  &lt;p&gt;It should be mentioned that the following `summary’ does not faithfully cover all of Padmanabhan’s contributions. This article is only an attempt to explain, in simpler terms, a few of his works that have influenced the author the most.&lt;/p&gt;
 
 &lt;/blockquote&gt;
 
-&lt;p&gt;When the Quantum meets Gravity&lt;/p&gt;
+&lt;h4 id=&quot;when-the-quantum-meets-gravity&quot;&gt;When the Quantum meets Gravity&lt;/h4&gt;
 
-&lt;p&gt;Quantum mechanics and the general theory of relativity are two of the foundational pillars on which theoretical physics, as we understand it today, is built. While quantum mechanics offers an efficient approach to understand physics at the smallest scales, general relativity furnishes the most satisfactory theory of gravitational interaction at our disposal today. Recall that according to our current understanding, there are four fundamental interactions in nature: the strong nuclear, the weak nuclear, the electromagnetic and the gravitational interactions [1]. A thorough understanding of the first three forces is essential to describe physics at the subatomic to the molecular level. On the other hand, while studying physics at these scales, theoretical physicists often ignore even the existence of gravity and get away with it quite safely! However, the effects of quantum mechanics are quite significant at these smallest scales. Hence, any sensible theory that attempts to describe phenomena at these levels must respect the principles of quantum mechanics. Fortunately, we have a remarkable model to describe the strong nuclear, weak nuclear and electromagnetic forces that incorporate quantum theory, namely, the Standard Model of particle physics (for a recent visual description of the Standard Model, see [2]).&lt;/p&gt;
+&lt;p&gt;Quantum mechanics and the general theory of relativity are two of the foundational pillars on which theoretical physics, as we understand it today, is built. While quantum mechanics offers an efficient approach to understand physics at the smallest scales, general relativity furnishes the most satisfactory theory of gravitational interaction at our disposal today. Recall that according to our current understanding, there are four fundamental interactions in nature: the strong nuclear, the weak nuclear, the electromagnetic and the gravitational interactions [1][1] Salam, Abdus. “Fundamental interaction.” Access Science (2020).[link]. A thorough understanding of the first three forces is essential to describe physics at the subatomic to the molecular level. On the other hand, while studying physics at these scales, theoretical physicists often ignore even the existence of gravity and get away with it quite safely! However, the effects of quantum mechanics are quite significant at these smallest scales. Hence, any sensible theory that attempts to describe phenomena at these levels must respect the principles of quantum mechanics. Fortunately, we have a remarkable model to describe the strong nuclear, weak nuclear and electromagnetic forces that incorporate quantum theory, namely, the Standard Model of particle physics (for a recent visual description of the Standard Model, see [2]).&lt;/p&gt;
 
-&lt;p&gt;Then the question arises, “What about gravity?”. It turns out that quantum mechanics does not play any significant role in the gravitational interactions that, say, govern the dynamics of our Solar system. This is true even for gravitational interactions at much larger scales, say galaxies, galaxy clusters and so on. Does that mean that we should not bother incorporating quantum theory into our models of gravity? The answer is NO! The reason is that there are scenarios in nature where both the effects of quantum mechanics as well as gravitational interactions are believed to be equally significant. One such scenario occurs, for instance, when we consider physics at the very early stages of our Universe. There is a simple trick that physicists use to decide whether a physical scenario demands a quantum theory of gravity. The idea is to check whether the typical length, time and energy scales of a given physical situation is comparable to a set of constants called the Planck length, Planck time and Plack energy, respectively. The reason this works is because the aforementioned &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Planck quantities' are defined solely in terms of the fundamental constants &lt;/code&gt;c’ (the speed of light), &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;h’ (the Planck’s constant) and &lt;/code&gt;G’ (gravitational constant)[3]. Recall that Planck’s constant (h) corresponds to quantum mechanics, the speed of light ( c ) to relativity and the gravitational constant (G), of course, to gravity. Therefore, it is reasonable to expect that the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;Planck quantities’ (constructed with h,c and G) correspond to &lt;/code&gt;quantum theories with general relativistic gravity’! Now, imagine the very early stages of the universe, say, just after or during the Big-Bang, when our universe was extremely `tiny’. During that era, the typical length, time and energy scales are believed to become comparable to the corresponding Planck quantities, hence signaling the need for a quantum theory of gravity to explain the physics at that time. A similar argument can also be made for the extremely dense interior of a black-hole, indicating that quantum gravity effects might be relevant there as well!&lt;/p&gt;
+&lt;p&gt;Then the question arises: &lt;em&gt;What about gravity?&lt;/em&gt;. It turns out that quantum mechanics does not play any significant role in the gravitational interactions that, say, govern the dynamics of our Solar system. This is true even for gravitational interactions at much larger scales, say galaxies, galaxy clusters and so on. Does that mean that we should not bother incorporating quantum theory into our models of gravity? The answer is NO! The reason is that there are scenarios in nature where both the effects of quantum mechanics as well as gravitational interactions are believed to be equally significant. One such scenario occurs, for instance, when we consider physics at the very early stages of our Universe. There is a simple trick that physicists use to decide whether a physical scenario demands a quantum theory of gravity. The idea is to check whether the typical length, time and energy scales of a given physical situation is comparable to a set of constants called the Planck length, Planck time and Plack energy, respectively. The reason this works is because the aforementioned &lt;em&gt;Planck quantities&lt;/em&gt; are defined solely in terms of the fundamental constants &lt;em&gt;c&lt;/em&gt; (the speed of light), &lt;em&gt;h&lt;/em&gt; (the Planck’s constant) and &lt;em&gt;G&lt;/em&gt; (gravitational constant)[3]. Recall that Planck’s constant (h) corresponds to quantum mechanics, the speed of light ( c ) to relativity and the gravitational constant (G), of course, to gravity. Therefore, it is reasonable to expect that the &lt;em&gt;Planck quantities&lt;/em&gt; (constructed with h,c and G) correspond to &lt;em&gt;quantum theories with general relativistic gravity&lt;/em&gt;! Now, imagine the very early stages of the universe, say, just after or during the Big-Bang, when our universe was extremely `tiny’. During that era, the typical length, time and energy scales are believed to become comparable to the corresponding Planck quantities, hence signaling the need for a quantum theory of gravity to explain the physics at that time. A similar argument can also be made for the extremely dense interior of a black-hole, indicating that quantum gravity effects might be relevant there as well!&lt;/p&gt;
 
-&lt;p&gt;Therefore, a ‘quantum theory of gravity’ (translates to “a consistent model of gravitational interaction that incorporates principles of quantum mechanics”) is crucial to understand nature deeply. Unfortunately, however, one of the major challenges in theoretical physics today is to combine the principles of quantum mechanics and general relativity, into a coherent quantum theory for gravity. The reason gravity has not been tamed this way is primarily because it is not simply a `force’ in the conventional sense. To better understand what makes gravity different, let us briefly review how gravity is described in Einstein’s general theory of relativity (GTR).&lt;/p&gt;
+&lt;p&gt;Therefore, a &lt;em&gt;quantum theory of gravity&lt;/em&gt; (translates to “a consistent model of gravitational interaction that incorporates principles of quantum mechanics”) is crucial to understand nature deeply. Unfortunately, however, one of the major challenges in theoretical physics today is to combine the principles of quantum mechanics and general relativity, into a coherent quantum theory for gravity. The reason gravity has not been tamed this way is primarily because it is not simply a `force’ in the conventional sense. To better understand what makes gravity different, let us briefly review how gravity is described in Einstein’s general theory of relativity (GTR).&lt;/p&gt;
 
-&lt;p&gt;Einstein taught us that ‘spacetime’– the union of space (the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;where’) and time (the &lt;/code&gt;when’)– is the most natural construct to base our understanding of gravity. When there is no matter, spacetime is quite uninteresting and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;flat’, say, like a flat rubber sheet. The presence of matter introduces non-trivial geometric features  on the spacetime, somewhat analogous to how placing a heavy ball on the rubber sheet stretches it.  Gravity, it turns out, is just a manifestation of such geometric features of spacetime. The geometry, in turn, can be mathematically described by a quantity called &lt;/code&gt;metric tensor’. Imagine the metric tensor as an object that tells us two basic pieces of information about the spacetime: &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;distances’ between two nearby points and &lt;/code&gt;angles’ between intersecting lines in the spacetime. Einstein’s famous field equations determine the precise manner in which metric tensor behaves in the presence of matter. On the other hand, in the absence of gravity, physicists usually consider the other interactions to play out in a flat background spacetime, much like how dancers (forces and particles) perform in an inert stage (spacetime). However, the presence of gravity has the consequence that the spacetime itself is dynamic! (Imagine the stage itself performing with the dancers!) To combine quantum mechanics with a realistic theory in which the spacetime itself is dynamic is a major challenge that theoretical physicists are facing even now.&lt;/p&gt;
+&lt;p&gt;Einstein taught us that &lt;em&gt;spacetime&lt;/em&gt;– the union of space (the ‘where’) and time (the ‘when’)– is the most natural construct to base our understanding of gravity. When there is no matter, spacetime is quite uninteresting and ‘flat’, say, like a flat rubber sheet. The presence of matter introduces non-trivial geometric features  on the spacetime, somewhat analogous to how placing a heavy ball on the rubber sheet stretches it.  Gravity, it turns out, is just a manifestation of such geometric features of spacetime. The geometry, in turn, can be mathematically described by a quantity called &lt;em&gt;metric tensor&lt;/em&gt;. Imagine the metric tensor as an object that tells us two basic pieces of information about the spacetime: ‘distances’ between two nearby points and ‘angles’ between intersecting lines in the spacetime. Einstein’s famous field equations determine the precise manner in which metric tensor behaves in the presence of matter. On the other hand, in the absence of gravity, physicists usually consider the other interactions to play out in a flat background spacetime, much like how dancers (forces and particles) perform in an inert stage (spacetime). However, the presence of gravity has the consequence that the spacetime itself is dynamic! (Imagine the stage itself performing with the dancers!) To combine quantum mechanics with a realistic theory in which the spacetime itself is dynamic is a major challenge that theoretical physicists are facing even now.&lt;/p&gt;
 
-&lt;p&gt;In the 1980’s Padmanabhan, along with his supervisor Prof. Jayant V Narlikar, made significant progress in tackling this challenge. An ingenious idea that was the key to some of their works was to consider a simpler scenario in which the dynamic content of gravity is captured by only a ‘piece’ of the metric-tensor, called the conformal factor. Roughly speaking, what this simple scenario meant was that they considered only the distance-providing piece of the metric tensor to be dynamic while restricting the angles to be &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;fixed’ (Recall that metric-tensor gives us &lt;/code&gt;distances’ and &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;angles’ in spacetime.). It turns out that this piece of gravity can be combined with quantum theory in a relatively straightforward way. Therefore, they could perform several calculations that would have been difficult or even impossible in attempts towards a &lt;/code&gt;full’ quantum theory of gravity.  Although their model might sound simple, it leads to important insights about the structure of the universe and spacetime in general, of which here we shall briefly look at only two.&lt;/p&gt;
+&lt;p&gt;In the 1980’s Padmanabhan, along with his supervisor Prof. Jayant V Narlikar, made significant progress in tackling this challenge. An ingenious idea that was the key to some of their works was to consider a simpler scenario in which the dynamic content of gravity is captured by only a ‘piece’ of the metric-tensor, called the conformal factor. Roughly speaking, what this simple scenario meant was that they considered only the distance-providing piece of the metric tensor to be dynamic while restricting the angles to be ‘fixed’ (Recall that metric-tensor gives us ‘distances’ and ‘angles’ in spacetime.). It turns out that this piece of gravity can be combined with quantum theory in a relatively straightforward way. Therefore, they could perform several calculations that would have been difficult or even impossible in attempts towards a ‘full’ quantum theory of gravity.  Although their model might sound simple, it leads to important insights about the structure of the universe and spacetime in general, of which here we shall briefly look at only two.&lt;/p&gt;
 
 &lt;p&gt;Before going into the insights that emerged from Padmanabhan’s and his collaborators’ studies, we have to understand certain basics of our universe’s past. There is irrefutable evidence now that our universe is expanding at an accelerated pace. What this implies is that if we imagine the evolution of our universe as a movie and play it in reverse, we would expect that the universe is contracting. Now, using the principles of general relativity and the assumption that our universe is made of reasonably realistic matter content , this thought experiment leads to the fact that the universe must have emerged from a single point in the past! Such a point is technically called a ‘singularity’ [4] and, in physics, the presence of such singularities signifies potential deficiencies of a theoretical framework. It is generally believed that a quantum theory of gravity would cure this problem. One of the important insights that emerged out of the works of Padmanabhan and Narlikar was that this belief is in fact well-founded.  For instance, one of the outcomes of their simple model was that the singularity at the beginning of our universe may be absent when quantum theory is considered! This might be viewed as a strong indication that a more complete quantum theory of gravity may also have the cure for singularity.&lt;/p&gt;
 
-&lt;p&gt;Another result that came out of their studies was that the distance between two points in spacetime cannot be made arbitrarily small, instead, there could be a lower limit called &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;zero-point length’. This is quite counter-intuitive because our intuition is that as we bring two points closer and closer, the distance between them eventually becomes zero! The reason for the breaking of our intuition is that quantum effects potentially modify the structure of spacetime at the smallest length scales. In fact, it is found that the presence of &lt;/code&gt;zero-point length’, or something resembling that concept, is a universal feature in several approaches to a quantum theory of gravity. This later motivated Padmanabhan and his collaborators to also investigate the implications of the ‘zero-point length’ in several other important contexts in theoretical physics, which eventually led to many useful physical insights.&lt;/p&gt;
+&lt;p&gt;Another result that came out of their studies was that the distance between two points in spacetime cannot be made arbitrarily small, instead, there could be a lower limit called ‘zero-point length’. This is quite counter-intuitive because our intuition is that as we bring two points closer and closer, the distance between them eventually becomes zero! The reason for the breaking of our intuition is that quantum effects potentially modify the structure of spacetime at the smallest length scales. In fact, it is found that the presence of `zero-point length’, or something resembling that concept, is a universal feature in several approaches to a quantum theory of gravity. This later motivated Padmanabhan and his collaborators to also investigate the implications of the ‘zero-point length’ in several other important contexts in theoretical physics, which eventually led to many useful physical insights.&lt;/p&gt;
 
-&lt;h2 id=&quot;the-grand-design-of-the-cosmos&quot;&gt;The grand design of the cosmos&lt;/h2&gt;
+&lt;h4 id=&quot;the-grand-design-of-the-cosmos&quot;&gt;The grand design of the cosmos&lt;/h4&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;The formation of large scale structures in the universe is probably the problem requiring a solution in cosmology.”
-— Thanu Padmanabhan
-(Source: http://www.iucaa.in/~paddy/)&lt;/p&gt;
+  &lt;p&gt;The formation of large scale structures in the universe is probably the problem requiring a solution in cosmology.&lt;br /&gt;
+— &lt;a href=&quot;http://www.iucaa.in/~paddy/&quot;&gt;Thanu Padmanabhan&lt;/a&gt;&lt;/p&gt;
 
 &lt;/blockquote&gt;
 
-&lt;p&gt;At sufficiently large scales, our universe is quite homogeneous and isotropic [5]. It is important to understand what one means by ‘sufficiently large scale’. To understand this better, let us consider a very large white sheet of paper. When looked at with naked eyes, the paper looks the same no matter at what point on the paper we are looking and which direction we are looking. But, if we zoom in using a powerful microscope, we will see that the paper is made of a network of microscopic plant fibres, which are arranged to form a uniform flat sheet at scales visible to our naked eyes. Of course, if we zoom in further, we will also find that the fibres themselves are made of cells, which in turn is made of molecules and so on. Similarly, in our universe, the stars are organized into galaxies, which in turn form galaxy groups that form galaxy clusters. These clusters are then arranged into filament-like structures, sheet-like structures and so on. Such large structures are separated by immense voids, hence creating a somewhat foamy texture to our universe, at a very large scale. Just as a paper looks homogeneous to us at scales greater than, say, a few millimetres (although it consists of intricate microscopic plant fibres), our universe is homogeneous at scales much greater than a few hundred million light-years (although, at smaller scales, it consists of several structures like galaxies, galaxy clusters, filaments etc., at various levels).&lt;/p&gt;
+&lt;p&gt;At sufficiently large scales, our universe is quite homogeneous and isotropic [5]. It is important to understand what one means by &lt;em&gt;sufficiently large scale&lt;/em&gt;. To understand this better, let us consider a very large white sheet of paper. When looked at with naked eyes, the paper looks the same no matter at what point on the paper we are looking and which direction we are looking. But, if we zoom in using a powerful microscope, we will see that the paper is made of a network of microscopic plant fibres, which are arranged to form a uniform flat sheet at scales visible to our naked eyes. Of course, if we zoom in further, we will also find that the fibres themselves are made of cells, which in turn is made of molecules and so on. Similarly, in our universe, the stars are organized into galaxies, which in turn form galaxy groups that form galaxy clusters. These clusters are then arranged into filament-like structures, sheet-like structures and so on. Such large structures are separated by immense voids, hence creating a somewhat foamy texture to our universe, at a very large scale. Just as a paper looks homogeneous to us at scales greater than, say, a few millimetres (although it consists of intricate microscopic plant fibres), our universe is homogeneous at scales much greater than a few hundred million light-years (although, at smaller scales, it consists of several structures like galaxies, galaxy clusters, filaments etc., at various levels).&lt;/p&gt;
 
-&lt;p&gt;The fact that the universe is quite homogeneous at sufficiently large scales and at the same time has elaborate structures at smaller scales provides us an important clue about the state of our universe when it was much younger. Scientists believe that in the very early stages of our universe, the density of matter must have been remarkably uniform (hence, the large-scale smoothness we observe today!). However, there must also have been very small variations in this density, as we move from one place to another in the universe. The large scale structures in our universe, that we described earlier, are believed to have formed due to the gravitational field of such density fluctuations. However, the precise manner in which these `primordial’ density fluctuations led to the formation of large scale structures is still not completely understood analytically. Efficient computer simulations have been developed by several scientists and collaborations to make progress in understanding this problem. Although such simulations are helpful in making concrete predictions, they often do not provide us with clear physical insight. To gain more insight one needs a greater analytical handle. According to Padmanabhan, “This is important since some people in this field use computers the way a drunkard uses a lamppost - for support, not illumination.” [6]&lt;/p&gt;
+&lt;p&gt;The fact that the universe is quite homogeneous at sufficiently large scales and at the same time has elaborate structures at smaller scales provides us an important clue about the state of our universe when it was much younger. Scientists believe that in the very early stages of our universe, the density of matter must have been remarkably uniform (hence, the large-scale smoothness we observe today!). However, there must also have been very small variations in this density, as we move from one place to another in the universe. The large scale structures in our universe, that we described earlier, are believed to have formed due to the gravitational field of such density fluctuations. However, the precise manner in which these `primordial’ density fluctuations led to the formation of large scale structures is still not completely understood analytically. Efficient computer simulations have been developed by several scientists and collaborations to make progress in understanding this problem. Although such simulations are helpful in making concrete predictions, they often do not provide us with clear physical insight. To gain more insight one needs a greater analytical handle. According to Padmanabhan, “&lt;em&gt;This is important since some people in this field use computers the way a drunkard uses a lamppost - for support, not illumination.&lt;/em&gt;” [6]&lt;/p&gt;
 
 &lt;p&gt;Padmanabhan contributed significantly to this direction by employing a wide range of tools in theoretical physics, which include, in particular, statistical mechanics. For instance, although the problem of cluster formation itself, in its entirety, is difficult to study analytically, Padmanabhan proposed a simple model in which one can divide the process of formation of structure into three convenient regimes. Each of these regimes was defined such that they could be independently dealt with reasonable analytical ease. He then proceeded to show how the results, in the three independent regimes, can be carefully combined to make predictions that are in good agreement with those from computer simulations. Such an approach shed more light on the underlying physics that drives the structure formation.&lt;/p&gt;
 
-&lt;h2 id=&quot;cosmological-constant-and-the-microstructure-of-spacetime&quot;&gt;Cosmological constant and the microstructure of spacetime&lt;/h2&gt;
+&lt;h4 id=&quot;cosmological-constant-and-the-microstructure-of-spacetime&quot;&gt;Cosmological constant and the microstructure of spacetime&lt;/h4&gt;
 
 &lt;p&gt;Observations show that our universe is expanding at an accelerated rate. The current accelerated expansion, in turn, seems to indicate that our universe is uniformly filled with a rather strange kind of energy called ‘Dark Energy’. Unlike other kinds of matter and energy, dark energy seems to create a sort of repulsive force at large scales, which tends to accelerate the expansion of our universe. It turns out that the effect of a uniform distribution of dark energy is mathematically equivalent to introducing a certain fundamental constant to Einstein’s field equations of general theory relativity. In this picture, dark energy is viewed as the manifestation of a new fundamental constant for our universe, called the cosmological constant. Moreover, to best explain the current observations, the cosmological constant must be a very small positive value, in a suitable unit.&lt;/p&gt;
 
-&lt;p&gt;On the other hand, according to the principles of quantum field theory (QFT), which is another pillar of theoretical physics, the &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;vacuum’ has a certain energy content and this energy has the same effect as that of a cosmological constant. I should caution that the term &lt;/code&gt;vacuum’ technically means the lowest energy state of a system. Moreover, due to quantum effects, the `vacuum’ in QFT, unlike the vacuum in the English dictionary(vacuum = a space entirely devoid of matter), has a richer structure. Consequently, the vacuum, according to QFT, must have a certain energy which is referred to as the ‘vacuum energy’. Since this vacuum energy also has an effect similar to the introduction of a cosmological constant, a certain fraction of the observed value of the cosmological constant must be the contribution from the vacuum energy. The problem, however, is that theoretically, this contribution seems to be gigantically larger than the observed value of the cosmological constant! This embarrassing disagreement between the observed value of the cosmological constant and the theoretical value of vacuum energy is referred to as the cosmological constant problem [7].&lt;/p&gt;
+&lt;p&gt;On the other hand, according to the principles of quantum field theory (QFT), which is another pillar of theoretical physics, the ‘vacuum’ has a certain energy content and this energy has the same effect as that of a cosmological constant. I should caution that the term ‘vacuum’ technically means the lowest energy state of a system. Moreover, due to quantum effects, the ‘vacuum’ in QFT, unlike the vacuum in the English dictionary(vacuum = a space entirely devoid of matter), has a richer structure. Consequently, the vacuum, according to QFT, must have a certain energy which is referred to as the ‘vacuum energy’. Since this vacuum energy also has an effect similar to the introduction of a cosmological constant, a certain fraction of the observed value of the cosmological constant must be the contribution from the vacuum energy. The problem, however, is that theoretically, this contribution seems to be gigantically larger than the observed value of the cosmological constant! This embarrassing disagreement between the observed value of the cosmological constant and the theoretical value of vacuum energy is referred to as the cosmological constant problem [7].&lt;/p&gt;
 
 &lt;p&gt;According to Padmanabhan, to resolve the cosmological constant problem, one must start by admitting that at the deeper level, spacetime is not the fundamental object describing gravity. Spacetime and gravity, according to Padmanabhan, must emerge from more fundamental microscopic structures. This is similar to how a large number of microscopic H2O molecules interact to form the emergent fluid that we call water. He also claimed, with compelling reasons, that a deeper theory of gravity should be sensitive to only the fluctuations of the vacuum energy, instead of the vacuum energy itself. In this framework, one should identify the cosmological constant with the fluctuations of the vacuum energy, instead of the total vacuum energy itself, which we already saw was gigantically large.  This furnishes a compelling approach for resolving the cosmological constant problem, which is still being seriously explored by many researchers across the world.&lt;/p&gt;
 
 &lt;p&gt;Note that fluids, which is an example of emergent phenomena, are described to some extent by a set of equations called the Navier-Stokes equations. Moreover, the presence of microscopic structure also implies that one can ascribe thermodynamic properties to these fluids. These thermodynamic quantities, in turn, must also satisfy certain thermodynamic identities. On the other hand, we have already seen that the dynamics of spacetime is described by Einstein’s field equations. To summarize, while emergent objects are characterized by certain kinds of features and related equations, gravity (or equivalently spacetime) is described by, what seems like, a totally different kind of equations. How does one reconcile this with the fact that spacetime(gravity) is emergent?&lt;/p&gt;
 
-&lt;p&gt;Padmanabhan and his collaborators showed that Einstein’s general relativity itself already contains strong evidence for the claim that spacetime is emergent. For example, they showed that when Einstein’s equations are suitably reformulated, it takes the form of the Navier-Stokes equation! In addition, in a different setting, Einstein’s equations also acquire the form of thermodynamic identities! They also demonstrated that this is a feature of a larger class of theories of gravity that are extensions of Einstein’s general relativity. This, clearly, can be considered as a strong hint of the emergent nature of spacetime and hence, gravity. This raises the deeper question: If spacetime is emergent, like say water, what is its microscopic structure, analogous to how water consists of microscopic H20 molecules? In his last decade, Padmanabhan had constantly considered this question, the answer to which would revolutionize physics forever. He also believed that the difficulties with combining quantum theory with gravity primarily arise because one usually assumes spacetime as the fundamental variable to describe gravity, while it is actually only an emergent variable. The answer to the above question could also lead to the simultaneous resolution of two of the most fundamental challenges in theoretical physics: (1) formulating a quantum theory of gravity and (2) the cosmological constant problem. If experimental and theoretical confirmation of Padmanabhan’s revolutionary perspective on gravity emerges in the future, it would mark the third significant paradigm shift in our understanding of gravity, following Newton’s law of gravitation and Einstein’s general theory of relativity!&lt;/p&gt;
+&lt;p&gt;Padmanabhan and his collaborators showed that Einstein’s general relativity itself already contains strong evidence for the claim that spacetime is emergent. For example, they showed that when Einstein’s equations are suitably reformulated, it takes the form of the Navier-Stokes equation! In addition, in a different setting, Einstein’s equations also acquire the form of thermodynamic identities! They also demonstrated that this is a feature of a larger class of theories of gravity that are extensions of Einstein’s general relativity. This, clearly, can be considered as a strong hint of the emergent nature of spacetime and hence, gravity. This raises the deeper question: If spacetime is emergent, like say water, what is its microscopic structure, analogous to how water consists of microscopic H&lt;sub&gt;2&lt;/sub&gt;0 molecules? In his last decade, Padmanabhan had constantly considered this question, the answer to which would revolutionize physics forever. He also believed that the difficulties with combining quantum theory with gravity primarily arise because one usually assumes spacetime as the fundamental variable to describe gravity, while it is actually only an emergent variable. The answer to the above question could also lead to the simultaneous resolution of two of the most fundamental challenges in theoretical physics: (1) formulating a quantum theory of gravity and (2) the cosmological constant problem. If experimental and theoretical confirmation of Padmanabhan’s revolutionary perspective on gravity emerges in the future, it would mark the third significant paradigm shift in our understanding of gravity, following Newton’s law of gravitation and Einstein’s general theory of relativity!&lt;/p&gt;
 
 &lt;h2 id=&quot;references&quot;&gt;References&lt;/h2&gt;
 
-&lt;p&gt;[1] Salam, Abdus. “Fundamental interaction.” Access Science (2020).[link]
-[2] Wolchover, N. “A new map of all the particles and forces.” Quanta Mag (2020).[link]
+&lt;p&gt;[2] Wolchover, N. “A new map of all the particles and forces.” Quanta Mag (2020).[link]
 [3] WOLFE, JOE. “The Planck scale: relativity meets quantum mechanics meets gravity.” (2005).[link]
 [4] https://www.universetoday.com/84147/singularity/
 [5] This is often referred to as the `Cosmological Principle’. However, some of the recent studies suggest that our universe may not be as smooth, at large scales, as we thought! See, for instance, Buchert, Thomas, et al., Int.J.Mod.Phys.D 25 (2016) 03, 1630007. [link]
@@ -367,13 +556,127 @@ Credits: &lt;a href=&quot;http://csep10.phys.utk.edu/astr161/index.html&quot;&gt
       </item>
     
       <item>
-        <title>Technical Aspects Velc Aditya Solar Vishnu</title>
-        <description>
+        <title>Technical aspects of VELC onboard ADITYA-L1: India’s first solar space mission</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This article is the review of a journal paper on the Visible Emission Line Coronagraph, the primary payload onboard India’s first solar space mission, ADITYA-L1. The paper discusses some technical details of VELC and the work done in analyzing them. This article is an attempt to introduce the reader to the instrument, its science and the content of the paper in a simplified manner.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;script src=&quot;https://polyfill.io/v3/polyfill.min.js?features=es6&quot;&gt;&lt;/script&gt;
+
+&lt;script type=&quot;text/javascript&quot; id=&quot;MathJax-script&quot; async=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js&quot;&gt;
+&lt;/script&gt;
+
+&lt;p&gt;ADITYA-L1 is an Indian satellite with seven payloads, planned to be launched next year. This satellite will not orbit the Earth; rather, it will be at the Lagrangian 1 (L1) point. The L1 point is the location in the Sun – Earth line where their combined gravitational pull equals the centripetal force needed for a small object to move with &lt;a href=&quot;https://solarsystem.nasa.gov/resources/754/what-is-a-lagrange-point/&quot;&gt;them&lt;/a&gt;. This will be India’s first space mission to study the Sun. The Visible Emission Line Coronagraph (VELC) is arguably the primary payload in this mission, and the paper under discussion here deals with characterizing certain technical aspects of VELC.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/technical_aspects_velc_aditya_vishnu/image1_vishnu.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Illustration of the ADITYA-L1 satellite with its payloads. Credits: &lt;a href=&quot;https://www.isro.gov.in/aditya-l1-first-indian-mission-to-study-sun&quot;&gt;ISRO&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The VELC will observe the solar corona, which is the tenuous, outermost layer of the solar atmosphere. It will analyze the coronal temperature, plasma velocity, density, etc. It will also study Coronal Mass Ejections (CMEs) and the solar wind. CMEs are large clouds of fast-moving plasma, formed by spectacular explosions in the corona, whereas the solar wind is a continuous stream of charged particles the Sun sends out to interplanetary space. The mesmerizing aurora (also called polar lights) are caused by the interaction of the solar wind with the Earth’s magnetic field.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-details-of-velc&quot;&gt;The details of VELC&lt;/h4&gt;
+
+&lt;p&gt;The VELC consists of a coronagraph, spectrograph, polarimetry module and detectors, aside from auxiliary optics.&lt;/p&gt;
+
+&lt;p&gt;A coronagraph is an instrument used to observe the very dim solar corona, by blocking the bright central disk of the &lt;a href=&quot;https://spaceweather.com/glossary/coronagraph.html&quot;&gt;Sun&lt;/a&gt;. Coronagraphs usually have a central occulter to block the light from the solar disk; like an artificial solar eclipse. This causes only the surrounding light from the corona to pass through the coronagraph and is available for further analysis or recording. In the case of VELC, instead of a central occulter, a mirror with a circular hole at its center is used to discard the disk light and reflect only the coronal light into the instrument.&lt;/p&gt;
+
+&lt;p&gt;In general, coronagraphs occult not just the solar disk, but some of the surrounding regions also. This is to reduce the light scattered from the edge of the occulter. Here, the disadvantage is that we won’t be able to observe and study the lower corona, adjacent to the solar disk. For example, we say that the coronagraph field-of-view (FOV) starts from 2 radii of the Sun if it occults everything within a distance of twice the solar radius from the center of the Sun. The VELC will have the smallest occulting radius among coronagraphs, with the FOV starting from 1.05 radii of the Sun.&lt;/p&gt;
+
+&lt;p&gt;A spectrograph is an instrument that splits polychromatic light (consisting of multiple wavelengths) into its constituent wavelengths (spectrum). This is similar to a prism splitting white light into VIBGYOR – at different angles from the face of the prism, we get different wavelengths of light. In VELC, a component called grating is used to generate the spectrum. If in a prism, refraction causes white light to split into different wavelengths, in the VELC grating, reflection, diffraction and interference together create the spectra.
+The presence or absence of certain wavelengths in light and their relative amplitudes can be used to find out details of the source of the light and the medium through which it travelled. Thus, the spectrum gives us details of the solar corona.&lt;/p&gt;
+
+&lt;p&gt;Next comes the polarimetry module. Polarimetry is the technique of understanding the direction of electric and magnetic fields associated with an electromagnetic (EM) wave. We know that light is an EM wave and that the electric and magnetic fields are perpendicular to each other, and they lie in a plane (say, Plane A) perpendicular to the direction of propagation of light. But these EM fields could be oriented in infinitely many perpendicular directions in Plane A. The electric field and magnetic field could be oriented North-South and East-West respectively, or they could be oriented North-East – South-West and North-West – South-East, just to mention two examples.&lt;/p&gt;
+
+&lt;p&gt;Light is a collection of photons and different photons could have different orientations of EM fields in Plane A as described above. The orientation of the EM fields depends on the process that creates the photon and the environment in which it is created. In general, a source of light will be an equal mix of all these different processes, with the result that the generated light will have EM fields in all directions in Plane A. We say that all directions in Plane A are equally probable for the EM field, and we call the resultant light unpolarised light.&lt;/p&gt;
+
+&lt;p&gt;Now, if the source of photons has an asymmetry, i.e. if the processes that create a particular orientation of the EM field are in abundance, and/or if the source environment (say ambient EM fields) aides the generation of EM fields in a particular direction, then the light we observe will have an abundance of EM field oriented in that direction; now the light is said to be polarised.&lt;/p&gt;
+
+&lt;p&gt;The magnetic field in a region affects the polarization of light generated from that region, and thus we can calculate the magnetic field by measuring the polarization. Understanding the distribution of magnetic fields is crucial to our analysis of the solar atmosphere. Thus, this is one of the ways in which measuring the polarisation of light helps us study the solar corona. For measuring polarisation, the polarimetry module contains special optics called the polarisation modulator and analyser.&lt;/p&gt;
+
+&lt;p&gt;The detectors in VELC are CMOS-based. The detectors in normal DSLR cameras are also CMOS based, with the difference that the VELC detectors have very low noise and are adapted for use in space. When light falls on the pixels of these detectors, electrons are generated by the photoelectric effect. Higher the intensity of light, the higher the number of electrons generated. When the detector is read out, the internal circuitry will convert the electron count in each pixel to a digital count. This is how an image is generated by a CMOS detector.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-path-of-light-through-velc&quot;&gt;The path of light through VELC&lt;/h4&gt;
+
+&lt;p&gt;The light entering the instrument from the coronagraph is split into two, based on its wavelength. This is done by a Dichroic Beam Splitter (DBS) which reflects light of a certain wavelength while transmitting other wavelengths. The reflected light (wavelength &amp;lt; 5100 Å) goes to a section called the continuum channel while the transmitted light goes to another section called the spectral channel.&lt;/p&gt;
+
+&lt;p&gt;In the continuum channel, a filter is used to cut down the wavelength to 5000 Å ± 5 Å (ie. green colour light). This light is then focused on a CMOS camera and the image of the corona is recorded.&lt;/p&gt;
+
+&lt;p&gt;In the spectral channel, the light transmitted by the DBS is focused on a multi-slit before it goes to the spectrograph. The multi-slit is a unique feature of the VELC. It consists of four slits parallel to and equidistant from each other. A slit is used to restrict not the intensity of light, but the region from which the light is originating. Thus, each slit will observe only a narrow strip of the region in the corona. A multi-slit with four slits will observe four different locations in the corona simultaneously. Now, by moving either the multi-slit or the focused image on the multi-slit, we can observe different parts of the corona; this is called scanning the field-of-view (FOV), and scanning is done perpendicular to the length of the slit. Compared to a single-slit setup, four slits take only one-fourth the time to scan the same (FOV). This means the VELC can do observations four times faster than a single-slit spectrograph.&lt;/p&gt;
+
+&lt;p&gt;After passing through the multi-slit, the light falls on the spectrograph grating, where it is split into multiple wavelengths as a function of the angle of reflection from the grating. Three wavelength bands (5303 Å: cyan - green colour, 7892 Å: red - near-infrared, 10747 Å: near-infrared) are filtered from this section and each directed to a separate CMOS detector, where the spectra of the corona at that wavelength are recorded.&lt;/p&gt;
+
+&lt;p&gt;The 10747-channel has a polarimetry module in front of its detector. Thus we can find the polarization of light from the 10747-spectra.&lt;/p&gt;
+
+&lt;h4 id=&quot;overview-of-the-paper&quot;&gt;Overview of the paper&lt;/h4&gt;
+
+&lt;p&gt;Ritesh Patel and their team calculated the number of photons (photon count) and signal-to-noise-ratio (SNR) in all three wavelength bands in the spectral channel, for different exposure times, different widths of the multi-slit, different coronal heights, temperatures, etc. To calculate the photon count, we made use of the atomic database, CHIANTI. CHIANTI inputs environmental parameters like the temperature, electron density, etc., and instrument parameters like the instrument’s full-width-at-half-maximum (FWHM) (which depends on the slit-width), spectral dispersion, etc. It then gives a distribution of the photon count as a function of the wavelength.&lt;/p&gt;
+
+&lt;p&gt;The SNR is a measure of the goodness of a signal. Whenever we make an observation, in addition to our signal, we also get noise from the surroundings. This consists of signals from other sources and the internal noise of the instrument. SNR is the ratio of the strength (power or amplitude) of our signal to the strength of the noise. For example, SNR=1 means that the signal and noise levels are the same. If SNR &amp;lt; 1, we say that our signal is embedded in the noise. In such a condition, it will be difficult to discriminate noise from our signal. Thus, a large value of SNR is always preferred. In the case of VELC, SNR is calculated by comparing the CHIANTI photon count with the photon count from simulated instrument scatter and noise. This is done for all three wavelengths in the spectral channel.&lt;/p&gt;
+
+&lt;p&gt;A larger slit width means more photons and higher SNR, but a smaller exposure time for our detectors, since they can only observe a certain amount of photons before getting saturated. For the VELC 10747-channel, the exposure time is fixed. So based on this exposure time, the slit-width is optimized to achieve the required photon count and SNR.&lt;/p&gt;
+
+&lt;p&gt;The CHIANTI spectra is also transformed into a multi-slit spectral image, one for each wavelength (Figure 4 in the paper). These are how the outputs of the VELC spectral channel will look like. In this particular case, the synthetic spectra are created for CME (Coronal Mass Ejection) data from the K-Coronagraph at Mauna Loa Solar Observatory (MLSO/KCor).&lt;/p&gt;
+
+&lt;p&gt;So, in this paper, we calculated the slit-width to optimize the observations of the VELC. We also generated the synthetic spectra for a CME. The data we got here will help in setting up observation procedures of the VELC to perfectly capture CMEs and other dynamical solar events.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fspas.2021.660992/full&quot;&gt; Characterizing Spectral Channels of Visible Emission Line Coronagraph of Aditya-L1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Ritesh Patel&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; A.Megha, Arpit Kumar Srivastav, Vaibhav Pant, M.Vishnu, K.Sankarasubramanian, Dipankar Banerjee&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Astrophysics, Bangalore, India
+Aryabhatta Research Institute of Observational Sciences, Nainital, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;p&gt;202&lt;/p&gt;
 </description>
         <pubDate>Mon, 11 Oct 2021 00:00:00 +0530</pubDate>
-        <link>/technical-aspects-velc-aditya-solar-vishnu/</link>
-        <guid isPermaLink="true">/technical-aspects-velc-aditya-solar-vishnu/</guid>
+        <link>/velc_aditya_l1_article_vishnu</link>
+        <guid isPermaLink="true">/velc_aditya_l1_article_vishnu</guid>
         
+        <category>solar</category>
+        
+        <category>instrumentation</category>
+        
+        <category>solar corona</category>
+        
+        <category>ADITYA</category>
+        
+        <category>VELC</category>
+        
+        <category>spectroscopy</category>
+        
+        <category>multi-slit</category>
+        
+        
+        <category>Instrumentation and Methods for Astrophysics</category>
         
       </item>
     
@@ -562,13 +865,300 @@ Fig. 8: The slow wind prediction, with the solar image on top, and importance ma
       </item>
     
       <item>
-        <title>Most Extreme Stars Gourav</title>
-        <description>
+        <title>Most Extreme Stars</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;A general article exploring some of the most extreme stars of the universe. Each one of them deserves the word ‘most’ for varied reasons. Just read and enjoy the mysterious cosmos sitting at home.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+
+&lt;p&gt;The splendor of the night sky has fascinated mankind since time immemorial. The divine beauty of the numerous twinkling stars caught the attention of the human beings since the ancient historic periods. I was also not an exception. I have loved the stars since childhood days. I watch them, observe their properties, research some of them and also like to write about them. The stars are not only for the astronomers, it is for all of us. In fact, recent advances in astronomy have proved that – “we are all Star Childs.” Yes, it may seem unbelievable to anybody who is not aware about astronomy, but it’s true that the elements with which we all and everything around us (like the chair, table, rockets, food, all animals etc.) are made of, were once created inside the centers of the stars. There are as many different kinds of stars, as there are stars themselves, each an individual. The nature of these stars, understanding their properties and evolution tell us the story of our own existence - the birth and death of the Sun on which we all depend.
+So, once in a sky observation camp at Murguma, Purulia district, West Bengal of India during the chill cold nights of November, 2007, I suddenly started thinking about the most extreme stars – the record holders in the stellar worlds! Within a year, I collected the details of more than 100 of such stars. Let us discuss about some of them today. After much hard work of about a month, I have selected 14 of them to talk. Though these are my personal favorites, I am sure some of my favorites will become yours also.
+Enough of introduction, now let’s dive into the bizarre worlds of the most extreme stars and try to appreciate the immense range of sparkling night sky beauties that nature has to offer.&lt;/p&gt;
+
+&lt;h2 id=&quot;stars-of-extreme-properties&quot;&gt;Stars of Extreme properties&lt;/h2&gt;
+
+&lt;h3 id=&quot;1-adhara&quot;&gt;1. ADHARA&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The brightest ultra violet star of the sky known till now.
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 1: Adhara &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The Northern Hemisphere constellation Canis Major is mainly appreciated for the star “Sirius” – the apparently brightest star of the night sky. But just near it twinkles another second magnitude (visual mag:- 1.51) star – Adhara. Situated at a distance of around 425 light years it marks the western foot of the mythical ‘Great Dog’ – Canis Major. Though we may neglect Adhara, but it is about 50 times further than Sirius – and still a bright second magnitude star. It is visually about 3700 times brighter than the Sun. But when we consider the ultraviolet radiation radiated from its surface, it is about 15,000 times brighter than our Sun! The radius of Adhara is about 13 times that of the Sun.
+It has left the main sequence stage and started its journey towards death. Combining these properties it has gained the status to be the brightest ultraviolet star of the sky as seen from Earth. So, if we could have seen in the ultraviolet band of the EM spectrum, Adhara would have been the brightest star of the night sky – not apparently but absolutely!&lt;/p&gt;
+
+&lt;h3 id=&quot;2-barnards-star&quot;&gt;2. BARNARD’S STAR&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The fastest moving star of the sky known
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Located in the constellation Ophiuchus and at a distance of 6 light years – Barnard’s star is one of the closest stars to Earth. Its visual magnitude is 9.5 and is too dim to be observed by naked eye.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 2: Location of Barnard's Star, ca. 2006 (south is up) &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;As all the stars of our galaxy go around the Milky Way galaxy on slightly different orbits, their positions change relative to each other. Such motions are extremely slow and
+are known as the ‘proper motion’ of stars. These motions are so slow that they are just unnoted and their positions change over a time longer than the history of the printed world. But discovered in 1916 by E.E. Barnard, Barnard’s star moves across the sky at a tremendous speed of 10 seconds of arc per year. Over an average human lifetime, it will move by two – tenths of a degree – almost half the angular diameter of the Full Moon. This may seem incredibly small to anyone reading this article. But it is a celestial record!! Barnard’s star is the fastest moving star known till date.
+It will leave Ophiucus for Hercules (on its way to Draco) in about the next 3300 years. When translated to a linear scale, its speed is measured as 140 kms per second – about seven times the speed of an average star. We need a modest telescope and a good star map to observe this ‘Usain Bolt’ of the starry sky. Just try to watch it once.&lt;/p&gt;
+
+&lt;h3 id=&quot;3-cd---380-245&quot;&gt;3. CD - 38&lt;sup&gt;0&lt;/sup&gt; 245&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The most metal poor star known
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Located at a distance of about 5000 light years in the Southern Hemisphere constellation ‘Sculptor’ this star was first catalogued during the ‘Southern Hemisphere’ sky survey during 1885 to 1930 at the Cordoba Observatory in Argentina. The catalogue of these stars is known as CD. Our star’s bizarre name CD – 38&lt;sup&gt;0&lt;/sup&gt; 245 means that it is the 245th star within the band that lies between 38&lt;sup&gt;0&lt;/sup&gt; and 39&lt;sup&gt;0&lt;/sup&gt; South ‘declination’ in the ‘CD’ catalogue.
+CD – 38&lt;sup&gt;0&lt;/sup&gt; 245 is a record holder due to one of its mind-boggling property. It is the most metal poor star known! Due to its extremely low metal abundance, it becomes difficult to classify this star in a spectral classification scheme. From its spectrum, its iron content is measured to be about ten – thousandth of that of the Sun! It is also one of the oldest known stars.
+The Universe was created by an event called Big Bang. It is thought that the Big Bang event created only Hydrogen, Helium and very less amount of Lithium. So, the first stars (i.e. the oldest stars) that formed after Big Bang should have very less metal content. But the point is - we do not find much of these types of metal–poor stars. The question is: where are these first generation stars? Thus, we see that CD – 38&lt;sup&gt;0&lt;/sup&gt; 245 not only holds a record, but points to a deep mystery. It is really one of those rare, very old stars whom you can call; hello, the stellar Grandfather!&lt;/p&gt;
+
+&lt;h3 id=&quot;4-eso-439--26&quot;&gt;4. ESO 439 – 26&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The faintest known White Dwarf
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;When low mass (0.8 – 2.5 Solar mass) or intermediate mass (about &amp;lt; 9 Solar mass) stars die, their carbon–oxygen core become exposed. These end states of low and medium mass stars are called white dwarfs – as they are very hot (so, white) and of very small size (like that of Earth) with diameter of about 10,000 kms (so, dwarf). The density of white dwarfs are extremely large – one sugar cube size mass of a white dwarf will weigh a ton! These white dwarfs are by nature very faint. Generally maximum white dwarfs are spotted in near distances (as we cannot see them at great distances due to their faintness) like the disks of our Galaxy. Their average absolute magnitude is about 16.
+But our star – ES0 439-269, located at a distance of about 140 light years in Hydra constellation, has an absolute magnitude of 17.4. This makes it the faintest known white dwarf less than one hundredth the apparent brightness of Pluto! But, just wait friends…
+May be it is the faintest – but not the coolest. As we may expect that the faintest white dwarfs will also be the coolest ones – not true for ESO 439-26. It’s surface temperature (4560K) is warmer than the current record of 3500 K (surface temperature) for a bit brighter companion
+WDO 346+246 – the coolest known white dwarf. So you see, our general assumptions about nature does not always hold.&lt;/p&gt;
+
+&lt;h3 id=&quot;5-gamma--2-velorum&quot;&gt;5. Gamma – 2 Velorum&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+A double star with the brightest known Wolf Rayet star
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Also called ‘Ragor’, this star is located about 840 light years away in the constellation Vela. With a visual magnitude of 1.78 it is visually about 11,000 times more luminous than the Sun. Moreover, it is a double star. The components take 76 days to orbit each other and are completely inseparable except by means of sophisticated interferometry. Its spectrum depicts that one of the component is a Wolf Rayet (WR) star.
+WR stars were discovered by French astronomers Charles Wolf and Georges Rayet in the nineteenth century. The most striking property of WR stars is that they do not contain hydrogen - the main content of any other type of main sequence star! WR stars are very hot, rare, extremely luminous, and superbly blue in color. They are also losing mass madly. The type of WR star which we are concerned is a ‘WC’ star. It is one of the two kinds of WR stars. WC stars shine the spectra of helium and carbon. Our Gamma – 2 Velorum consist a WC star. Its estimated surface temperature is around 50,000 K. Though it is brilliantly luminous in the visual band of the EM spectrum, its most of the radiation is in ultraviolet spectrum. If all the radiation is combined, this WC star (a component of the double star of Gamma – 2 Velorum) is around 50,000 – 1,00,000 times more luminous than the Sun!
+This is the brightest WR star known till date. The WC star has lost almost 20 - 30 times the mass of Sun since its birth and till loses mass at a rate of nearly a ten – thousandth of a solar mass per year. This rate is just horrific. It is around 1 billion (100,00,00,000) times the flow in the solar wind. This wind of the WC star carries out the carbon that was created through helium fusion. The carbon enriches the nearby stellar environment from where new stars may born in distant future. Just think a bit. We can see the primary process which ultimately forms new stars, then may be planets around it and then may be life timming in one of those distant future planets. This particular star thus gives us the flavor of star formation process to be witnessed. Moreover, this star is visible through naked eye from any place south of 40&lt;sup&gt;0&lt;/sup&gt;N latitude in the constellation Vela during any suitable time of the year. It is designated as ‘Spectral Gem of the Southern Skies’.&lt;/p&gt;
+
+&lt;h3 id=&quot;6-geminga&quot;&gt;6. Geminga&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+A weird radio-quiet Gamma Ray pulsar
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;A massive star (9 - 25 Solar mass) dies in a violent supernova explosion leaving behind a highly magnetized, extremely dense and small (around only 15 - 20 kms diameter) core made up of completely neutrons. This dead core is called a neutron star. It spins extremely fast (many times per second). As a neutron star spins, its magnetic axis wobbles. It radiates energy along this magnetic axis which is titled to its rotational axis. If the Earth is in the way of such a magnetic axis of any neutron star, then we receive a shot of energy or ‘pulses’ from that particular neutron star. This is why; neutron stars are also called “pulsars” .The magnetic fields of pulsars are about 100 million times that of earth’s magnetic fields. The pulsars spin so fast and energetically that they radiate not only in radio waves, but also in the optical, x-ray and even in high energy gamma-ray domains. These pulses originate from the magnetic fields through the energy of rotation of the pulsars. As pulsars become older, they lose energy and also pulses from top down. The high-energy gamma ray pulses first vanish, then gradually disappear x-ray and optical and at last they are left with only radio pulses.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 3: Geminga &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;But every radio astronomer got shocked in the year 1973. In 1973, an object was found in the constellation Gemini which was a bright gamma–ray source. More precise observations showed that it is pulsing at x-ray energies with a period of 0.237 seconds (4.2 times per second). It was named “Geminga”. Located 800 light years away, the field of the sky showed few stars when photographed. After much tenuous research, one very dim star (visual apparent magnitude 25.5) was identified as “Geminga”. The bizarre thing is that it is a pulsar which is radiating only high energy gamma rays and x-rays, not in optical and not even in radio! Its surface temperature is between 2,00,000-3,00,000 K and the age is estimated at around 3,40,000 years. It is the first known Gamma-Ray pulsar and extremely rare in its breed. Where are the radio waves? Is it really not emitting any radio emission? Or, is there something else? The answers to all these questions is,
+&lt;i&gt;“Nobody knows”…&lt;/i&gt;
+Just think about “Geminga” which literally means ‘not there’!&lt;/p&gt;
+
+&lt;h3 id=&quot;7-hd93129a&quot;&gt;7. HD93129A&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+Probably the most luminous star
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;The Southern Hemisphere sky has a spectacular constellation (other than crux the Southern Cross) to watch-Carina. It contains Eta-Carinae: the most massive confirmed star in our Galaxy. Also it has another wonder not quite visible to the naked eye (visual magnitude 7.3):- HD93129A - possibly the most luminous star of the Galaxy.
+This star is the luminary of a young dense cluster known as Trumpler 14 which is situated around 9000 light years away. It is a member of a binary system. Both it and its companion (HD93129B) is O3 star. Our star HD93129A, which is a supergiant, has an absolute magnitude of -6.7. If it was as close as the bright star Vega, it would have been far brighter than Venus. The two stars are estimated to have an orbit of at least 50,000 years.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 4: HD93129A &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Now look for its luminosity. With surface temperature of about 52,000 K it pours most of its radiation in the ultraviolet range. Combining all types of radiation, it is around 25, 00,000 (2.5 million) times brighter than Sun—somewhat less than Eta Carinae. But there is a catch. It has been revealed that about 1.7 magnitudes of its radiation are absorbed by intervening interstellar dust between it and us. If this absorption would not have absorbed HD93129A’s radiation and considering the huge uncertainties in distance, it could in fact top Eta Carinae’s luminosity. Its birth mass may have been greater than 120 solar masses.
+To orbit this star and receive the same radiation as we receive from the Sun on Earth, out Earth would have to be at a distance of 1600A.U away from the star i.e. 40 times the distance between Pluto and Sun. If the companion B star was not there, this hypothetical earth would take about 4800 years to complete one orbit. Just think of a severe harsh winter of 1200 years with temperature falling well below -200 degree Celsius!&lt;/p&gt;
+
+&lt;h3 id=&quot;8-eta-carinae&quot;&gt;8. ETA CARINAE&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The most massive known confirmed star in our Galaxy
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image5.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 5: Hubble Space Telescope image showing Eta Carinae and the bipolar Homunculus Nebula. &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Almost 8000 light years away in the constellation Carina lays a monster of the stellar world—Eta Carinae. One of the farthest visible naked eye star (apparent magnitude 5.0), it is around 50,00,000 times brighter than the Sun and buried in a dense cloud of its own making (the ‘Homunculus’ nebula as it is called ). It is an extremely violent star which became brighter than Vega (app.mag-1) in 1840 due to a massive
+eruption. Again shining to sixth magnitude in 1890, it faded away later and recently has become visible to the naked eye.
+Hubble Space Telescope (HST) revealed that the Homunculus is made of two oppositely moving (speed 400 kms/second) lobes nearly a light year across. They were created in the Great Eruption of 1840. The star’s terrific luminosity suggests a present mass of around 100 solar masses making it the most massive known confirmed star in our Galaxy.
+Modern observations in the nebular spectral lines also suggest a 5.6 years orbit pointing to the fact that may be Eta Carinae is a massive binary star system. Current estimates tell that the “primary” star has a mass of around 80 solar mass and the “secondary” has around 60 solar mass. The two may have been born with 200 solar mass.
+Recently in 2010, a star named R136a1 has been discovered in the ‘Tarantula Nebula’ of our nearby galaxy ‘Large Magellanic Cloud’. It is estimated to have a present mass of around 260-265 solar mass and is thought to have been born with about 320 solar masses! Though it is under close scrutiny till now, if the mass revealed is true then this will be surely the most massive star known till now.&lt;/p&gt;
+
+&lt;h3 id=&quot;9-r-leporis&quot;&gt;9. R LEPORIS&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The sky’s reddest naked eye star
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Have you seen the constellation Lepus (the Hare) just below Orion? Perhaps some of you know it for the blazing globular cluster M79. But leave M79, Lepus contains a record holding star in it – R Leporis or Hind’s Crimson star discovered by J.R. Hind in 1845. It is a long period variable like ‘Mira’ changing its brightness over a long 430 days period by a factor of 300 (visual magnitude 5.5 to 11.7). Located at a distance of about 820 light years and still to be a ‘Mira’ type variable, R Leporis must be a cool giant. Cool stars are reddish (recall Betelgeuse, Antares). It is 300 times more luminous than the Sun. But as it is a cool star, it emits mainly in the infrared region.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image6.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 6: The superb red color of R Leporis &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;There are two factors which contribute to its extreme red color. First it has exceptionally low surface temperature of about 2050K, making it one of the coolest giants known. Second, R Leporis is an arch ‘carbon star’. It is now a full blown carbon star. Injecting this carbon into interstellar space R Leporis is gradually forming a planetary nebula.
+Carbon molecules (mainly cyanogen) absorb a huge amount of blue light. So the more amount of carbon and the cooler the star, more and more blue light is absorbed. Thus, carbon stars are very red in colour. R Leporis, due to its extremely low surface temperature takes this redness to the highest limit. It is the reddest naked eye star of the sky!!
+Most of the carbon in our Galaxy seems to come from stars like this one. Every one of us is made of stellar dust which was parts of such long gone stars!&lt;/p&gt;
+
+&lt;h3 id=&quot;10-vv-cephei&quot;&gt;10. VV CEPHEI&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The largest known star
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;About 2000 light years away, in the constellation Cepheus lays a 4.91 visual magnitude (absolute mag – 6.75) M2 class supergiant star VV Cephei. It can dwarf any other known star in the sky due its massive size i.e. radius. It is the largest known star considering its radius. Being a part of a binary system its companion is a hot dwarf star whose spectral class is not properly known. Having a surface temperature of around 3,300 K, this super giant primary star VV Cephei has a luminosity of around 315000 times that of the Sun. From these properties, the radius of this star derived is about 8.0 A.U i.e. 85 percent the size of the orbit of Saturn!!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image7.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 7: Size comparison of VV Cephei A with our Sun &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;As it is a part of an eclipsing binary system, its companion dwarf star hides itself every 20.2 years behind this M supergiant. These orbital studies predict the approximate radius of the supergiant M star to be 8.8 A.U. Even a conservative analysis yields 7.4 A.U. This grand supergiant’s size is roughly half the size of its companion star’s orbit! Both the stars are estimated to have 20 solar masses.
+VV Cephei is closely followed in the size race by another supergiant (this time a single, not binary) in the same Cepheus constellation: MU Cephei (also called Herschel’s Garnet star). It is the second largest known star with a radius of about 7 A.U i.e. 40 percent larger than Jupiter’s orbit. Its visual magnitude is 4.1 and lies just a bit south of VV Cephei. So both the largest and second largest known stars of the sky can be seen through naked eye.&lt;/p&gt;
+
+&lt;h3 id=&quot;11-achernar&quot;&gt;11. ACHERNAR&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The flattest known star
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image8.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 8: Location of Achernar in Eridanus Constellation &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The constellation Eridanus starting from just below the brightest star of Orion i.e. ‘Rigel’ is a large constellation with many famous stars. It stretches through the sky towards south and ends at a bright star named Achernar- the brightest star of Eridanus. Not only this, Achernar is also the flattest star known till date! Having an apparent magnitude of 0.5 and at a distance of 143 light years it is rotating at a tremendous speed. This caused an appreciable equatorial bulge. Across its equator it is 55% wider than across its poles. Thus, the star’s equatorial regions are less dense and cooler than the areas near the poles. This phenomenon is called ‘gravity darkening’. Being a very bright star, it is easily observable through naked eye. This makes it a very rare celestial beauty- one of the very few stars in the sky with gravity darkening effect that can be observed easily with unaided eyes.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image9.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 9: Achernar: the flattest star known &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&quot;12-sgr-1900--14&quot;&gt;12. SGR 1900 + 14&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+Ultra –Magnetic neutron star that ionized the earth’s atmosphere
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Looking at the beautiful sparkling stars far away from us, please do not think that they cannot create any harm to us from such huge distances. They can really reach us and show how excessively powerful they are- and how extremely helpless and insignificant we are compared to them!
+One such major caution came on August 27, 1998 at 10:22 Greenwich Mean time (i.e. 15.52 P.M. IST) from a distance of about 20,000 light years in the direction of Aquila constellation.
+A newly formed pulsar is so dense that it develops a solid crust that re-adjusts as its rotation rate slows. The equator is bulged out due to its fast rotation. During this re
+adjusting phase, severe star quakes take place releasing immense energy. The bursts of this power can be unbelievable. Some of these pulsars emit relatively low energy gamma rays that last about a hundredth of a second. Such pulsars are called ‘Soft Gamma ray Repeaters’ or in short ‘SGR’.
+SGRs are very rare – only four have been found in our Galaxy till now. Two of them, SGR 1806-20 and our one i.e. SGR 1900 + 14 are well studied. SGRs are not only neutron stars – they are radio quiet pulsars like ‘Geminga’. SGR 1900+14 carries pulses of period 5.16 seconds.
+In 1992, theoreticians suggested that some supernovae can create neutron stars with unimaginable magnetic strengths, if conditions are correct. They are called ‘magnetars’. The more powerful the magnetic field, the greater the slowing down rate of their spin. The above mentioned two SGRs are actually magnetars with magnetic fields 500 billion times that of the Earth. They carry the strongest magnetic fields of the universe!!
+But the story does not stop here. On August 27, 1998 at 10.22 GMT, the magnetar SGR 1900+14 blasted an immense amount of energy towards us - 500,00,00,000 (five billion) times the energy produced by Sun per second. The intense energy radiated from this tremendous outburst immediately saturated the electronics aboard orbiting spacecrafts. Also our atmosphere got terribly affected! The ionosphere we know about is at a height of around 85 kms from Earth’s surface during night time. During day, sunlight ionizes the air and as a result the ionosphere comes to a height of around 60 kms from Earth’s surface.
+The outburst from SGR 1900+14 drove the ionosphere from the standard night time level to its standard day time level! SGR 1900+14 is 20,000 light years away. If it would have been 100 light years away- the earth would have been shattered within seconds!
+SGR 1900+14 showed the gigantic powers that stars can posses. It also taught us- “Earth is not at all a safe place from the sudden dangers of deep space.”
+So you see, the twinkling stars of the sky are not only mere dots, they can reach to us and even touch us!!&lt;/p&gt;
+
+&lt;h3 id=&quot;13-ogle--tr--122b&quot;&gt;13. OGLE – TR – 122B&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+Smallest known main sequence star whose  radius is measured
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Come to the southern constellation Carina again. Though not visible through naked eyes, it contains another star which is a record breaker among the stellar world. It is OGLE-TR-122B – the smallest known main sequence star whose radius is measured. Being a part of a binary system, this star was spotted by a sophisticated survey called OGLE i.e. Optical Gravitational Lensing Experiment. It has a radius which is only about 20% larger than Jupiter – around 1, 80,000 kms only (our Sun’s radius is 7, 00,000 kms). Its radius is about only 0.12 times the solar radii and mass about 0.1 solar masses. Thus, the average density is about 50 times that of the sun.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image10.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 10: Size Comparison of OGLE-TR-122B with our Sun &amp;amp; Jupiter &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;OGLE-TR-122B has a mass which is close to the lowest possible mass a star can possess for starting hydrogen fusion in its core. It is truly a ‘Little Master’ of the sky, so little that it is a record holder little one.&lt;/p&gt;
+
+&lt;h3 id=&quot;14-epsilon-aurigae&quot;&gt;14. Epsilon Aurigae&lt;/h3&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+The most unusual variable star system known
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;Epsilon Aurigae (ε-Aurigae) is a star in the constellation of Auriga. It is one of the most mysterious variable star known till now. Traditionally known as &lt;em&gt;Almaaz, Haldus&lt;/em&gt; or &lt;em&gt;Al Anz&lt;/em&gt;, it is a completely unusual eclipsing binary system which consists of a F0 class supergiant star and a companion whose proper identity is unknown till now.
+This star is of utter interest due to the nature of its eclipse. Every 27 years, Epsilon Aurigae’s apparent visual magnitude (i.e. brightness) starts to drop down from +2.92, and within a period of 640-730 days (about 2 years) the magnitude drops to +3.83. Then gradually again the brightness starts increasing due to the end of the eclipse.
+Also within those 2 years of eclipse process, in addition to this eclipse, the system has a low amplitude pulsation with a non consistent period of about 66 days.
+Epsilon Aurigae is an easily visible naked eye star of the sky. But it was the German astronomer Johann Fritsch who first suspected it to be a variable star in 1821. Later observations of Edward Heis and Friedrich Wilhelm Argelander during 1842-1848 confirmed the fact. By their observations it was revealed that ε Aurigae did not just vary over a long period (640-730 days), but also experienced short term variations in brightness as well.
+We know that our Moon sometimes eclipses the Sun completely (Total Solar Eclipse). This eclipse time can be up to a maximum of 7 minutes and 29 seconds. But in case of Epsilon Aurigae, the companion object which eclipses the star goes on eclipsing it for a continuous 640-730 days. Also this unknown companion does not emit as much radiation (or light) as expected for an object of such a huge size which can eclipse a supergiant star for 640-730 days! Then what this companion object can be? What is its nature and properties?
+This unseen, unknown companion and the mysterious eclipse pattern of the star system have made this star the most unusual, debatable variable star of the sky. The distance of this system from the Earth is also a subject of debate, but modern astronomers place it about 2000 light years from Earth.
+This eclipsing component is the center for all attraction today. No one knows properly the nature of the eclipsing component. It emits very negligible amount of light and thus remains invisible to the naked eye. A heated region has been discovered at the center of this object.
+The last eclipse of ε-Aurigae started in the International Year of Astronomy: 2009. So, AAVSO (American Association for Variable Star Observation) started a project called Citizen Sky to observe and report the data of this star system. Trained participants also analyzed data while testing their own theories. It was a three year project funded by National Science Foundation which can shed light to the mystery of the star system. The eclipse ended on May 12, 2011. Data was submitted by around 400 observers all over the world.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/most_extreme_stars_gourav_images/image11.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Fig. 11: The dimming of Epsilon Aurigae with course of time  after the start of eclipse &lt;a href=&quot;&quot;&gt;&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Many probable theories and hypothesis concerning the nature of this object have come forward. But till now the mystery remains an unsolved mystery. The true nature of the eclipsing component is still a matter of debate.&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+
+&lt;p&gt;After a journey through the bizarre stellar beauties, one can understand that they are not only tiny twinkling dots in the sky- all of them have a story to tell. Next time when you look towards a clear night sky studded with all these small dots, which we call stars, just think about their amazing powers, extreme size, devastating eruptions from them, unbelievable luminosities and so on. You will surely become quiet, speechless and feel an unearthly peace in mind.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
 </description>
         <pubDate>Mon, 11 Oct 2021 00:00:00 +0530</pubDate>
-        <link>/most-extreme-stars-gourav/</link>
-        <guid isPermaLink="true">/most-extreme-stars-gourav/</guid>
+        <link>/most-extreme-stars-gourav</link>
+        <guid isPermaLink="true">/most-extreme-stars-gourav</guid>
         
+        <category>stars</category>
+        
+        
+        <category>Solar and Stellar astrophysics</category>
         
       </item>
     
@@ -584,8 +1174,17 @@ Fig. 8: The slow wind prediction, with the solar image on top, and importance ma
       </item>
     
       <item>
-        <title>Using machine learning to infer Solar coronal heating</title>
-        <description>&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+        <title>Suman's article here</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This is Suman’s article&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
 &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/abf65a&quot; target=&quot;_blank&quot;&gt; On the Impulsive Heating of Quiet Solar Corona&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vishal Upendran&lt;/p&gt;
@@ -635,94 +1234,6 @@ Fig. 8: The slow wind prediction, with the solar image on top, and importance ma
         
         
         <category>Solar and Stellar astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Understanding the evolution of the binary star system ‘Cen X-3’: New measurements of the spin and orbital parameters of the system </title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Researchers from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, present the new measurements of the spin and orbital parameters of the binary star system ‘Cen X-3’. This work is a step forward in understanding the complex dynamics of the binary star systems and their evolution.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;‘Cen X-3’&lt;/strong&gt; is a binary star system observed in the constellation &lt;em&gt;‘Centaurus’&lt;/em&gt;. It is one of the most luminous X-ray sources in our galaxy and the first-ever X-ray pulsar to be discovered.
-Scientists from the Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune present the &lt;strong&gt;new measurements of spin and orbital parameters of ‘Cen X-3’&lt;/strong&gt;. The results are crucial in &lt;strong&gt;understanding the life-cycle and evolution of X-ray binary systems&lt;/strong&gt;. The work is published in the &lt;em&gt;‘Journal of Astrophysics and Astronomy on AstroSat: Five Years in Orbit’&lt;/em&gt;. Researchers used the data from the &lt;strong&gt;Large Area X-ray Proportional Counters (LAXPCs)&lt;/strong&gt; onboard &lt;strong&gt;Astrosat&lt;/strong&gt;, for the analysis. &lt;strong&gt;Astrosat&lt;/strong&gt; is India’s first dedicated multi-wavelength space telescope launched by the &lt;em&gt;Indian Space Research Organisation (ISRO)&lt;/em&gt; in 2015.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Cen X-3&lt;/strong&gt; is a two-star system consisting of a &lt;strong&gt;pulsar&lt;/strong&gt;, a &lt;em&gt;highly magnetized neutron star beaming X-rays&lt;/em&gt;, and a companion star. The neutron star is an extremely compact object; &lt;em&gt;as massive as our sun but only a few kilometers across in size!&lt;/em&gt; The neutron star in Cen X-3 gravitationally accretes matter from its companion star. The kinetic energy of the infalling matter is converted to other forms of energy including electromagnetic radiation. The neutron star’s magnetic field dictates the accretion flow inside the magnetosphere. The accreting matter is channeled along the magnetic field lines and onto the magnetic poles forming an accretion column. The neutron star’s rotational axis is not necessarily aligned with its magnetic axis. Such &lt;em&gt;misalignment&lt;/em&gt; gives rise to &lt;em&gt;highly periodic pulsations&lt;/em&gt; hence the name &lt;strong&gt;‘pulsars’&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/Understanding-the-evolution-of-the-binary-star-system-Cen-X-3-ketan-images/image1.jpg&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt; Figure 1: Illustration of an accretion-powered pulsar. The magnetic axis sweeps earth in every rotation of the neutron star due to misalignment between the rotational axis and the magnetic axis giving rise to highly periodic pulsations.&lt;br /&gt;
-Image courtesy: &lt;a href=&quot;https://onwardtotheedge.wordpress.com/2013/01/14/neutron-stars/&quot;&gt;https://onwardtotheedge.wordpress.com/2013/01/14/neutron-stars/&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Both stars are gravitationally bound and revolve around each other. The binary orbit can evolve due to matter exchange between the stars, mass loss from the binary system, and due to tidal interaction between the two stars. Studying the evolution of the orbit of such systems is important in understanding stellar structure and evolution. The results of these studies can be a &lt;strong&gt;direct test for stellar structure models and evolution theories&lt;/strong&gt;. The &lt;strong&gt;first step in doing such a study is to determine the binary orbit&lt;/strong&gt;. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/Understanding-the-evolution-of-the-binary-star-system-Cen-X-3-ketan-images/image2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Determination of a binary orbit from the doppler shift &lt;br /&gt;(NS: Neutron Star), Image courtesy: Author
-&lt;/p&gt;
-
-&lt;p&gt;In systems like Cen X-3, the companion star is almost 10-15 times heavier than the neutron star. Thus the center of mass of the binary system is much closer to the center of the companion star than the neutron star. In such cases, one can visualize the binary orbit, as illustrated in figure 2 where the neutron star is orbiting around the companion star.  Due to its motion in the binary orbit, the neutron star moves back and forth along the line of sight. The observed frequency of the pulses from the neutron star is shifted due to this motion owing to the phenomenon called the &lt;strong&gt;‘Doppler effect’&lt;/strong&gt;. Due to this effect, &lt;em&gt;when the neutron star is moving towards the observer, the pulses arrive faster and when the neutron star is moving away from the observer, the pulses are delayed&lt;/em&gt; as shown in figure 2.
-This results in a periodic variation with time in the observed pulse frequency. The rate of this variation corresponds to the orbital period of the system. For a perfectly circular orbit, the pulse frequency variation is sinusoidal. The deviation from the sinusoidal behavior is indicative of the eccentricity in the orbit. Eccentricity is a measure of how elongated the orbit is. The eccentricity of a perfectly circular orbit is zero. The higher the eccentricity, the more elongated the orbit.&lt;/p&gt;
-
-&lt;p&gt;The binary orbit can be &lt;strong&gt;determined completely&lt;/strong&gt; from this. For a system with a nearly circular orbit like Cen X-3, &lt;strong&gt;parameters that can describe the system dynamics&lt;/strong&gt; completely are:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Neutron star spin period and its rate of change&lt;/li&gt;
-  &lt;li&gt;Period of the binary orbit and its rate of change&lt;/li&gt;
-  &lt;li&gt;Orbital velocity and radius&lt;/li&gt;
-  &lt;li&gt;Eccentricity&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;The evolution of the orbit can be understood by comparing the orbital parameters at various instances of time.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Parisee Shirke (IUCAA, Pune) and the team&lt;/strong&gt; found that the &lt;strong&gt;spin period&lt;/strong&gt; of the neutron star has reduced to &lt;strong&gt;4.80s&lt;/strong&gt; from &lt;strong&gt;4.81s&lt;/strong&gt;. This means that the neutron star is &lt;strong&gt;spinning up&lt;/strong&gt; which is as per its known behavior. However, the rate at which the neutron star is spinning up has halved. This can be due to &lt;strong&gt;variation in the rate of matter accretion from the companion star&lt;/strong&gt;. The &lt;strong&gt;orbital period&lt;/strong&gt; was found to be around &lt;strong&gt;2.03 days&lt;/strong&gt;. The rate of change of the orbital period was observed to be &lt;strong&gt;substantially large compared to the previously reported values&lt;/strong&gt;. The authors state that this &lt;strong&gt;could be due to short time-scale variations&lt;/strong&gt; in the orbital period. The &lt;strong&gt;orbital velocity&lt;/strong&gt; is measured to be around &lt;strong&gt;410 Km/s&lt;/strong&gt; which agrees with the previous measurements. The &lt;strong&gt;projected radius&lt;/strong&gt; of the orbit has decreased from &lt;strong&gt;39.66 lt-s&lt;/strong&gt; to &lt;strong&gt;38.23 lt-s&lt;/strong&gt;. This change is &lt;strong&gt;in accordance with the observed orbital decay&lt;/strong&gt; in Cen X-3. The binary orbit is observed to be &lt;strong&gt;nearly circular&lt;/strong&gt; with a very small eccentricity.&lt;/p&gt;
-
-&lt;p&gt;This work is a step forward in understanding the &lt;strong&gt;complex dynamics of the binary star systems and their evolution&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021JApA...42...58S/abstract&quot; target=&quot;_blank&quot;&gt; A New Measurement of the Spin and Orbital Parameters of the High Mass X-ray Binary Centaurus X-3 using AstroSat&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Parisee Shirke&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Suman Bala, Jayashree Roy, Dipankar Bhattacharya&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter-University Centre for Astronomy and Astrophysics, Pune&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-</description>
-        <pubDate>Mon, 11 Oct 2021 00:00:00 +0530</pubDate>
-        <link>/evolution-binary-star-system-cenx3-ketan</link>
-        <guid isPermaLink="true">/evolution-binary-star-system-cenx3-ketan</guid>
-        
-        <category>Neutron Stars</category>
-        
-        <category>Pulsars</category>
-        
-        
-        <category>High Energy Astrophysical Phenomena</category>
         
       </item>
     

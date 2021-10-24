@@ -57,8 +57,7 @@ The General Catalogue of Variable Stars (GCVS) recommends an official classifica
 Based on this system, a family tree of variable stars can be constructed. Such a tree is called a Variability Tree. A simplified version of the variability tree is given below.
 
 ![A new image here](../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image1.png)
-<p align = "center"> Figure 1: Variability tree, denoting the various classes of variable stars.<br>
-Credits: <a href="https://www.atnf.csiro.au/">https://www.atnf.csiro.au/</a>
+<p align = "center"> Figure 1: Variability tree, denoting the various classes of variable stars. The image can be found <a href="https://starlifecycleastro.weebly.com/variable-stars.html">here</a>.
 </p>
 
 The variable stars are classified into two groups based on the reason of variability in the observed intensities, Intrinsic and Extrinsic variable stars. They are further categorised into sub-classes, which are discussed below.
@@ -84,10 +83,12 @@ m - M = 5 log(d/10)
 
 where *m* is the apparent magnitude, *M* the absolute magnitude and *d* the distance to the star in parsecs.
 
-![A new image here](../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image2.png)
-<p align = "center"> Figure 2: Light curve of cepheid Delta Cephei<br>
-Credits: <a href="https://www.aavso.org/">https://www.aavso.org/</a>
+<p align="center">
+  <img src="../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image2.png">
 </p>
+
+Figure 2: Light curve of cepheid Delta Cephei. The image can be found <a href="https://www.eso.org/public/outreach/eduoff/aol/market/collaboration/varstar/pg2.html">here</a>.
+
 
 #### Long-period variables
 
@@ -109,19 +110,24 @@ RR Lyrae stars are of short period (.05 to 1.2 days), pulsating white giant star
 
 RV Tauri stars are yellow supergiants having a characteristic light variation with deep and shallow minima. Their periods, defined as the interval between two deep minima range from 30 to 150 days. They show brightness variations of up to 3 magnitudes. Some of these stars show long term cyclic variations from hundreds of thousands of days. Generally, their spectral class ranges from G to K.
 
-![A new image here](../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image3.png)
-<p align = "center"> Figure 3: Light curve of RV Tauri star R Scuti<br>
-Credits: <a href="https://www.aavso.org/">https://www.aavso.org/</a>
+<p align="center">
+  <img src="../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image3.png">
 </p>
+
+ Figure 3: Light curve of RV Tauri star R Scuti. Image courtesy: <a href="https://en.wikipedia.org/wiki/R_Scuti"> Wikimedia commons </a>
+
 
 #### 5.2.	Cataclysmic variable stars
 
 Eruptive variables are stars varying in brightness because of violent outbursts caused by thermonuclear processes in their surface layers. They exhibit significant and rapid changes in their luminosity which is usually accompanied by mass outflow in the form of stellar winds of variable intensity. These are a system of two stars (binary system) orbiting very close to each other. One of them is a normal sunlike or giant star, while the other is a white dwarf. Some of the outermost material from the larger star is pulled away by the white dwarf’s gravity, but this material does not fall directly onto the white dwarf. Instead, it builds up in a disk called an accretion disk, which orbits the white dwarf. Thus, the eruptive variable star is a combination of normal or giant stars, white dwarf and accretion disk as shown in the following figure.
 
-![A new image here](../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image4.png)
-<p align = "center"> Figure 4: A cataclysmic variable star<br>
-Credits: <a href="http://www.astrosurf.com/">http://www.astrosurf.com/</a>
+
+<p align="center">
+  <img src="../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image4.png">
 </p>
+
+ Figure 4: A cataclysmic variable star. The image can be found <a href="http://astrosurf.com/vdesnoux/catvar/catvar.html">here</a>.
+
 
 The combination of main-sequence or giant stars, white dwarf and accretion disk lead to celestial fireworks. So, instead of varying like pulsating variables, eruptive variables exhibit outbursts of activity. Some events may result in the destruction of the star while others can reoccur one or more times. These are called recurrent novae. The changes in their light curves are usually very unpredictable and tend to be sudden and dramatic.
 
@@ -145,10 +151,11 @@ Extrinsic variable stars are those in which the light output changes due to some
 
 Eclipsing binaries are binary star systems whose members eclipse each other, blocking one another’s light. As a result, the system looks occasionally fainter to observers on earth. The light curve of an eclipsing binary depends on the sizes and brightness of the stars, their separation from each other and the geometry of view from the earth. The process of eclipsing and the corresponding light curve of an eclipsing system is shown in the figure below.
 
-![A new image here](../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image5.png)
-<p align = "center"> Figure 5: Eclipsing binary star<br>
-Credits: <a href="http://csep10.phys.utk.edu/astr161/index.html">http://csep10.phys.utk.edu/astr161/index.html</a>
+<p align="center">
+  <img src="../assets/images/twinkle_twinkle_little_star_robin_thomas_images/Image5.png">
 </p>
+
+Figure 5: Eclipsing binary star. The image can be found <a href="http://www.ifa.hawaii.edu/users/kud/teaching_15/6_DEB.pdf">here</a>.
 
 ##### 6.2.	Rotating star
 
@@ -181,4 +188,5 @@ Curiosity is what has driven mankind to observations of new phenomena. Every twi
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 
----
+----
+----

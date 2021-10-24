@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/thumb.png">
+
+<title>Using machine learning to infer Solar coronal heating | CosmicVarta</title>
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Using machine learning to infer Solar coronal heating | Welcome to CosmicVarta.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Using machine learning to infer Solar coronal heating" />
+<meta name="author" content="Vishal Upendran" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This article traces the origins of the coronal heating problem, and describes in vivid detail our efforts in resolving this through machine learning. This is a non-technical article based on our paper, but references have been appended for the interested reader!" />
+<meta property="og:description" content="This article traces the origins of the coronal heating problem, and describes in vivid detail our efforts in resolving this through machine learning. This is a non-technical article based on our paper, but references have been appended for the interested reader!" />
+<meta property="og:site_name" content="Welcome to CosmicVarta." />
+<meta property="og:image" content="/assets/images/vishal_ml_article/image1_vishal_ml.png" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2021-09-29T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/assets/images/vishal_ml_article/image1_vishal_ml.png" />
+<meta property="twitter:title" content="Using machine learning to infer Solar coronal heating" />
+<script type="application/ld+json">
+{"datePublished":"2021-09-29T00:00:00+05:30","url":"/vishal_machine_learning_corona_article","dateModified":"2021-09-29T00:00:00+05:30","@type":"BlogPosting","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/cv.png"},"name":"Vishal Upendran"},"mainEntityOfPage":{"@type":"WebPage","@id":"/vishal_machine_learning_corona_article"},"author":{"@type":"Person","name":"Vishal Upendran"},"image":"/assets/images/vishal_ml_article/image1_vishal_ml.png","description":"This article traces the origins of the coronal heating problem, and describes in vivid detail our efforts in resolving this through machine learning. This is a non-technical article based on our paper, but references have been appended for the interested reader!","headline":"Using machine learning to infer Solar coronal heating","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/cv.png" alt="CosmicVarta">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/about">About us</a>
+								</li>
+
+								<li class="nav-item">
+                <a target="_blank" class="nav-link" href="/upcoming"> Upcoming articles</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/writers"> Join us</a>
+								</li>
+
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/career_help">  Career help</a>
+								</li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/links"> Useful Links</a>
+								</li>
+
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="/contact"> Contact Us</a>
+                </li>
+
+
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">CosmicVarta</h1>
+    <p class="lead">
+         Platform for promoting Indian astronomy research to the public.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/vishal_machine_learning_corona_article" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/vishal_machine_learning_corona_article" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Using machine learning to infer Solar coronal heating&url=/vishal_machine_learning_corona_article" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+
+        <li class="ml-1 mr-1">
+              <a href="https://api.whatsapp.com/send?text=/vishal_machine_learning_corona_article" onClick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </li>
+
+
+
+
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/vishal_upendran.jpg" alt="Vishal Upendran">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://vishal-upendran.github.io/">Vishal Upendran</a><a target="_blank" href="https://vishal-upendran.github.io/" class="btn follow">Connect</a>
+                        <span class="author-description">Vishal is a 4th year research scholar at the Inter University Centre for Astronomy and Astrophysics, Pune. He studies various aspects of the solar atmosphere and near-Earth spaceweather. He does so through space and ground based astronomy, theoretical simulations and through machine learning. <br><br>
+                          
+
+<b>8 min read</b>
+
+
+                        </span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Using machine learning to infer Solar coronal heating</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+
+            
+            <!-- <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/vishal_ml_article/image1_vishal_ml.png" alt="Using machine learning to infer Solar coronal heating">
+            
+
+             -->
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+
+                <blockquote>
+  <p>This article traces the origins of the coronal heating problem, and describes in vivid detail our efforts in resolving this through machine learning. This is a non-technical article based on our paper, but references have been appended for the interested reader!</p>
+
+  <hr />
+</blockquote>
+
+<p>The Sun is a spectacular celestial object that has captivated humanity for long and holds many unresolved secrets. It is a huge ball of gas, mainly made of hydrogen, but containing many other elements like Sodium, Calcium, Magnesium, Iron, etc. Generally, the Sun is seen as a disc in the sky. This disc of the Sun is known as <em>photosphere</em>, or the surface of the Sun. However, during a total solar eclipse when the Sun is hidden by the moon, streams of gas may be seen extending outwards from the photosphere as shown below. This faint region of the solar atmosphere is called the <em>Solar corona</em>.</p>
+
+<p align="center">
+  <img src="../assets/images/vishal_ml_article/image1_vishal_ml.png" />
+</p>
+
+<p align="center">
+Fig.1: Image of the extended solar corona taken during an eclipse.
+Image source: <a href=" https://hdr-astrophotography.com/solar-eclipses/">Nicolas Lefaudeux </a>.
+</p>
+
+<p>Since the 1900s, astronomers have been studying the Sun and various stars through the <em>spectrum</em> of these stars. The spectrum of any star is basically the amount of light emitted at different wavelengths. Light as we know can be (for our purposes!) thought of as a wave<sup id="fnref:1" role="doc-noteref"><a href="#fn:1" class="footnote" rel="footnote">1</a></sup>, with the wavelength telling us, in some sense, how long each wave is. Stars produce light of various wavelengths, which is mainly controlled by its temperature at the photosphere. However, different elements in the atmosphere of stars can also give rise to <em>bumps</em> or <em>dips</em> in this spectrum, depending on how many electrons each element has. The number of electrons however depends on how <em>hot</em> the particular atom or ion is. Generally, the hotter an ion is, the fewer electrons it has. Hence, such bumps can be used to measure the temperature at various locations (and not just at the photosphere!) in the atmosphere of stars. This was the seminal contribution of Meghnad Saha and Cecilia Payne-Gaposchkin<sup id="fnref:2" role="doc-noteref"><a href="#fn:2" class="footnote" rel="footnote">2</a></sup>.</p>
+
+<p>Early on, astronomers analyzed the photosphere of the Sun, and found it to be at approximately 5500 K. In the 1940s, astronomers then took to analyzing the spectrum of the solar corona. Now, common sense tells us that as one moves away from a hot object, the temperature must reduce. Hence, we expect the solar corona to be at a lower temperature than the photosphere. However, astronomers found that as one moves from the photosphere into the solar atmosphere, the temperature initially drops and then starts rising to more than a million degrees Kelvin in the corona (<a href="https://iopscience.iop.org/article/10.1086/125704">Bengt Edlen., 1945</a>, <a href="https://iopscience.iop.org/article/10.1086/125704">P. Swings., 1945</a>)! The corona was found to be so hot, that elements like Iron, which generally have 26 electrons in their atoms, had lost more than 13 electrons! How does this occur?</p>
+
+<p>This has been a long-standing puzzle with a deceptively simple answer. The simple answer is: common sense is correct. Only if one moves away from a hot object will one expect the temperature to fall. It would not be the case if, for some reason, heat is generated in the solar corona. This heat source keeps the corona hot and at a million degrees Kelvin. Then the question arises: What is this source of heat?</p>
+
+<p>A simple guess can be made by looking at the Sun at the photosphere and in the corona. The picture below is taken from a suite of instruments called Atmospheric Imaging Assembly (AIA)[<a href="https://link.springer.com/article/10.1007%2Fs11207-011-9804-8">Paul Boerner et al., 2012</a>] &amp; Helioseismic and Magnetic Imager (HMI)[<a href="https://link.springer.com/article/10.1007%2Fs11207-011-9834-2">P. H. Scherrer et al., 2011</a>] on board the Solar Dynamics Observatory (SDO). SDO is a NASA satellite which observes the Sun predominantly in the photosphere and the corona. Think of it as an extremely complex camera (which it literally is!), taking pictures across different temperatures for scientists to study. The left image shows the map of the Magnetic field along the line of sight across the photosphere, with black and white representing negative and positive magnetic field polarities respectively. The grey areas have very weak magnetic fields, while the field is stronger if the color is blacker or whiter. On the right, we have the corresponding image of the corona, taken from AIA. Compare these two images carefully: it seems that the black/white areas from the magnetic field are located in the same regions as the bright areas in the corona. Hence it seems that the corona is brighter for regions with a stronger magnetic field. Might this be related to the corona’s temperature?</p>
+
+<p align="center">
+  <img src="../assets/images/vishal_ml_article/image2_vishal_ml.png" />
+</p>
+
+<p>Fig.2: On the left, we have the magnetic field on the Sun’s photosphere, taken through HMI. On the right, we have an image of the solar corona, taken through AIA.
+Image source: <a href=" https://sdo.gsfc.nasa.gov/data/ ">NASA/SDO HMI &amp; AIA </a>.</p>
+
+<p>It was realized early on that the magnetic field of the Sun contains a lot of energy. This energy can, in principle, be used up to heat the corona. We now ask deeper questions: How does this occur? And how do we know this energy is enough to heat the corona?</p>
+
+<p>One of the more popular mechanisms of converting magnetic energy to heat is through <em>impulsive events</em> (<a href="https://ui.adsabs.harvard.edu/abs/1988ApJ...330..474P/abstract">Parker, E. N., 1988</a>). Impulsive events are basically bursts of energy, where magnetic energy is dissipated as heat. The impulsive events, which convert magnetic to heat energy, are known to occur at a variety of length and time scales. These could be large or small and may last for hours or minutes, depending on how much energy was released. The large versions of these events, which release tremendous amounts of energy, are well known as solar flares. Many studies have been done on these large flares or on smaller events called microflares. The microflares, as the name suggests, have a million times less energy than the large flares. However, they are much more frequent in the corona. The hypothesis by <a href="https://ui.adsabs.harvard.edu/abs/1988ApJ...330..474P/abstract">Parker, E. N., 1988</a>, and further expansion by <a href="https://ui.adsabs.harvard.edu/abs/1991SoPh..133..357H/abstract">Hudson.H.S., 1991</a>; is that such impulsive events are much more frequent if they have low energy, and a combination of such events may maintain the coronal temperature. This is called the nanoflare hypothesis. It essentially translates to the hypothesis that one first needs to count the number of events that occur at each energy scale. Then, suppose one finds the total heat dissipated due to all such events at each energy to be larger for smaller events. In that case, impulsive heating is enough to maintain the solar corona’s temperature.</p>
+
+<p>Studies generally attempt to count how many events occur at given energy and get a sense of how much energy is released in such events. Then, they compare if these energies are enough to maintain the corona at a million-degree Kelvin or not. Such statistics, however, are ridden with a grave fallacy: If individual events can be seen, we can count them. What if we cannot even see these individual events? What if all we see is a combination of a multitude of such events? This question has plagued solar physicists for a long time.</p>
+
+<p>A possible answer to this question lies in <em>what in the corona do we see</em>. Studies are generally targeted towards the large, bright, and beautiful structures called Active Regions. In Fig.3, a picture of the solar corona is seen. Immediately, we can see that there is a bright region near the center, and this is called an Active Region. These active regions contain a large amount of magnetic energy which can be converted to heat. However, there are other regions in the corona where there are no beautiful large structures. These structures are known as <em>Quiet regions</em>.  Approximately every 11 years, the Sun is seen to wake up, become violent, and then go to sleep. This is known as the solar cycle. The active regions are predominantly seen when the Sun is active (the violence comes from active regions, mostly!). The solar corona, on the other hand, is hot even when the Sun is quiet and sleeping! This means we must study this <em>quiet time</em> to figure out coronal heating!</p>
+
+<p align="center">
+  <img src="../assets/images/vishal_ml_article/image3_vishal_ml.png" />
+</p>
+
+<p>Fig. 3: The solar corona as seen from the 211 A passband of AIA shows two distinct structures here. One kind of structure is the bright Active Regions, and the other is the background calm Quiet Sun.
+Image source: <a href="https://sdo.gsfc.nasa.gov/data/"> Solar Dynamics Observatory </a>.</p>
+
+<p>In our work, we addressed (or rather, incorporated) both of these characteristics to provide constraints on the viability of these impulsive events. First off, we took only the Quiet Sun data. All other large, dynamic events were left out. Second, we used a statistical impulsive heating model (<a href="https://www.aanda.org/articles/aa/abs/2007/04/aa5152-06/aa5152-06.html">A. Pauluhn et al., 2006</a>) to infer heating signatures. But how?</p>
+
+<p>Enter <a href="https://mitpress.mit.edu/books/deep-learning">Deep learning</a>. Deep learning is a set of techniques (generally referring to neural networks) used to perform inferences on big data. These neural networks can “learn” the data given to them and perform any assigned task. When you check for translation of words on Google, it basically deploys deep learning in the background. The neural network used for such language-to-language translations has been trained on many statements and correspondences between two languages. Hence, when you ask it to translate words (or even sentences), it can translate pretty much very well!</p>
+
+<p>For our work, we took the statistical impulsive heating model and made a large number of simulations. The impulsive heating model generates a time series of intensity (called light curves), given some free parameters. These simulations <em>statistically</em> would represent the light curves of the Quiet corona. However, there are no objective techniques to compare these simulations with observations in a statistically robust manner. Hence, we trained our deep learning model on mapping the light curves back to the free parameters. This is called learning an inversion code. The inversion code takes in the light curves, analyzes them in a highly complicated non-linear way, and gives out the best parameter set representing the light curve. The inversion code is checked on a <em>testing set</em> of simulations. Think of this whole procedure as attending a class (=training) and writing an exam (=testing). Since you typically do not know what questions will be asked in an exam, the testing set contains simulations that were not used for training. Hence, the performance of the inversion code is checked and validated in this way.</p>
+
+<p>Once this inversion code is checked, we apply it on approx. 3,00,000 light curves from the Sun to infer the free parameters. In this way, we circumvent the problem of not <em>seeing</em> individual events in the Quiet Sun  – we can infer their statistical signatures! This scheme is explained below:</p>
+
+<p align="center">
+  <img src="../assets/images/vishal_ml_article/image4_vishal_ml.png" />
+</p>
+
+<p>Fig.4: A summary of our procedure. The simulated light curves are mapped to their parameters by training a deep learning model, which in our case is a Convolutional Neural Network. Then, these parameters can be inferred by feeding in the observed light curves in the model.</p>
+
+<p>So what do we get from applying this elaborate scheme? We find the impulsive events occur at a frequency of around 2 events per minute. Each event lasts approximately 10-20 mins. Overall, we find smaller events to dominate over larger events, which seems to confirm the hypothesis of impulsive heating of the corona.</p>
+
+<p>Then, we studied various properties of these heating events. First, we found that events can be either large and occur rarely, or be very small and occur frequently. This means that there exists a <em>well of energy</em>, that can be emptied by occasional large buckets or very frequent small buckets.</p>
+
+<p>Second, we found that larger events die down much faster than smaller events. This counterintuitive result seems to arrive as a result of what is called thermal conduction. Thermal conduction is the reason why, if you leave the ladle for too long in the kadai, it gets very hot. Heat travels through metal efficiently, and makes it hotter. Hotter the kadai<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">3</a></sup>, the faster the ladle gets hotter. Similar phenomenon occurs in the corona, but here the ladle is the magnetic field lines, and the kadai is the impulsive event. The thermal conduction along magnetic field lines is very efficient, so the more the energy, the faster it is transmitted. We find signatures of this thermal conduction through our analysis.</p>
+
+<p>Finally, we find excellent correspondence between the properties of these small-scale events and large-scale events like solar flares. It almost seems like the small events we find are like younger siblings of the large-scale flares. And through a marriage of deep learning with solar physics knowledge, we can impose constraints on the heating of the solar corona!</p>
+
+<p><strong>Original paper:</strong>
+<a href="https://iopscience.iop.org/article/10.3847/1538-4357/abf65a"> On the Impulsive Heating of Quiet Solar Corona</a></p>
+
+<p><strong>First Author:</strong> Vishal Upendran</p>
+
+<p><strong>Co-authors:</strong> Durgesh Tripathi</p>
+
+<p><strong>First author’s Institution:</strong> Inter University Centre for Astronomy and Astrophysics, Pune, 411007, India</p>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<hr />
+<div class="footnotes" role="doc-endnotes">
+  <ol>
+    <li id="fn:1" role="doc-endnote">
+      <p>Light in general behaves as a wave if its wavelength is “large”, and behaves as a particle if its wavelength is “small”. If you want to get confused more, [see this] (https://theconversation.com/curious-kids-is-light-a-wave-or-a-particle-162514). <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:2" role="doc-endnote">
+      <p>This by the way is a wonderful tale of interdisciplinary science - Quantum mechanics, statistical physics and astrophysics mixing like rice, jaggery and ghee. Read more [here] (https://astrobites.org/2018/12/03/the-stuff-of-stars/) <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+    <li id="fn:3" role="doc-endnote">
+      <p>Ladle is the big spoon-like thing you use to mix stuff in the kadai. <a href="#fnref:3" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2021-09-29">29 Sep 2021</time></span>
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#Solar-and-Stellar-Astrophysics">Solar and Stellar Astrophysics</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Solar-physics">#Solar physics</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#coronal-heating">#coronal heating</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#machine-learning">#machine learning</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+<h2>Related articles</h2>
+
+
+
+
+
+<ul>
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+</ul>
+
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = ''; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+
+<hr><hr>
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+
+</div>
+
+
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+
+
+<!-- Begin Footer
+================================================== -->
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+
+
+
+        <footer class="ftco-footer ftco-section" id="contact-section">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+
+
+                  <p>Beauty is that to what the human mind responds at its deepest and most profound.</p> <b><a href="https://quotefancy.com/quote/1645323/Subrahmanyan-Chandrasekhar-Beauty-is-that-to-what-the-human-mind-responds-at-its-deepest#:~:text=Subrahmanyan%20Chandrasekhar%20Quote%3A%20%E2%80%9CBeauty%20is,its%20deepest%20and%20most%20profound.%E2%80%9D"target=None>-Subrahmanyan Chandrasekhar</a></b></p>
+
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                  <h2 class="ftco-heading-2">Links</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="/index.html"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                    <li><a href="/about"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                    <li><a href="/writers"><span class="icon-long-arrow-right mr-2"></span>Join Us</a></li>
+                    <li><a href="/upcoming"><span class="icon-long-arrow-right mr-2"></span>Upcoming articles</a></li>
+                    <li><a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                 <div class="ftco-footer-widget mb-4">
+                  <h2 class="ftco-heading-2">Social media</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="https://facebook.com/cosmicvarta"><span class="icon-long-arrow-right mr-2"></span>Facebook</a></li>
+                    <li><a href="https://twitter.com/cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Twitter</a></li>
+                    <li><a href="https://www.youtube.com"target=None><span class="icon-long-arrow-right mr-2"></span>YouTube</a></li>
+                    <li><a href="https://www.medium.com/@cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Medium</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+                	<h2 class="ftco-heading-2">Enquiry </h2>
+                	<div class="block-23 mb-3">
+    	              <ul  class="list-unstyled">
+    	             <span class="icon icon-map-marker"></span><span class="text">   For any enquiry, you may drop in an email to us at:</span></li>
+
+    	               <a href="mailto:cosmicvarta@gmail.com"><span class="icon icon-envelope"></span><span class="text">cosmicvarta@gmail.com</span></a></li>
+    	              </ul>
+    	            </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 text-center">
+
+                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  <b>  Copyright © 2021 CosmicVarta.  All rights reserved </b> </p>
+
+
+
+              </div>
+            </div>
+          </div>
+        </footer>
+
+
+
+
+</body>
+</html>
