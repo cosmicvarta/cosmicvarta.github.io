@@ -6,7 +6,7 @@ permalink: /theoretical-model-shear-layer-bibhuti
 categories: [Solar and Stellar Astrophysics]
 tags: [Sun; Differential Rotation; NSSL; Theory]
 class: [Review article]
-image: assets/images/bibhuti_final.png
+image: assets/images/solar_theoretical_model_bibhuti/bibhuti_final.png
 featured: False
 hidden: False
 
@@ -26,7 +26,7 @@ Their study used the thermal wind balance equation, which tells about how the sl
 Most scientists believe that this condition is valid only in the interior of the Sun, and it does not hold near the solar surface. In their work, the authors have shown that this belief actually holds near the surface as well. They have noted that if this condition is true near the solar surface it can explain the existence of NSSL which is inferred in helioseismology based observation.
 
 
-![A new image here](../assets/images/bibhuti_final.png)
+![A new image here](../assets/images/solar_theoretical_model_bibhuti/bibhuti_final.png)
 <p align = "center">
 Fig.: The solar rotation profile calculated based on the theoretical model given by <a href="https://doi.org/10.1093/mnras/stab1717"> Jha et al. (2021)</a>. The solid black and dashed red contours are the contours of constant angular rotation based on the model and observation, respectively.
 

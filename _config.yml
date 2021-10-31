@@ -53,8 +53,8 @@ authors:
         display_name: Gourav Banerjee
         avatar: 'assets/images/gourav.jpg'
         email: cosmicvarta@gmail.com
-        web: https://www.researchgate.net/profile/Lakshitha-Mahesh
-        twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
+        web: https://www.researchgate.net/profile/Gourav-Banerjee-2
+        twitter: https://www.researchgate.net/profile/Gourav-Banerjee-2
         description: " PhD scholar working in the field of optical spectroscopy of emission-line star studies, especially understanding the disc physics of Classical Be stars."
 
  Anjasha:
@@ -108,9 +108,30 @@ authors:
       display_name: Robin Thomas
       avatar: 'assets/images/avatar.png'
       email: robin.thomas@christuniversity.in
-      web: 
+      web:
       twitter:
       description: "I am a research scholar at CHRIST (Deemed to be University), carrying out my research in Extragalactic astronomy. "
+
+
+ Suman Bhattacharyya:
+      name: Suman Bhattacharyya
+      display_name: Suman Bhattacharyya
+      avatar: 'assets/images/suman_profile.jpeg'
+      email: suman.acharyya00@gmail.com
+      web: https://www.researchgate.net/profile/Suman-Bhattacharyya-2
+      twitter: https://www.researchgate.net/profile/Suman-Bhattacharyya-2
+      description: "I am Suman, Ph.D. scholar at CHRIST (Deemed to be University). My area of research is the observational and statistical study of emission-line stars to investigate the circumstellar surroundings, disk dynamics, variability. Recently we have identified and described a rare set of candidates in a transition phase from classical Be (CBe) star to Herbig Ae/Be (HAeBe) star (Bhattacharyya et al, 2021). Apart from all this as a pastime, I like to do sketching, reading, and cycling."
+
+ Karthik Rajeev:
+      name: Karthik Rajeev
+      display_name: Karthik Rajeev
+      avatar: 'assets/images/avatar.png'
+      email: karthikrajeev.kr@gmail.com
+      web:
+      twitter:
+      description: "Dr. Karthik Rajeev is a post doctoral researcher at the Indian Association for Cultivation of Sciences  IACS, Kolkata). After completing Integrated MSc in Physics from IISER Thiruvananthapuram, in 2015, Karthik joined IUCAA for PhD. He worked with Prof. Thanu Padmanabhan for his thesis on 'Aspects of semi-classical limit and the backreaction problem'. He was the last student of Prof. Thanu Padmanabhan."
+
+
 # Plugins
 plugins:
   - jekyll-paginate

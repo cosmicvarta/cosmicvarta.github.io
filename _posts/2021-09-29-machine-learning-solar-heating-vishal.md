@@ -84,9 +84,9 @@ Second, we found that larger events die down much faster than smaller events. Th
 
 Finally, we find excellent correspondence between the properties of these small-scale events and large-scale events like solar flares. It almost seems like the small events we find are like younger siblings of the large-scale flares. And through a marriage of deep learning with solar physics knowledge, we can impose constraints on the heating of the solar corona!
 
-[^1]: Light in general behaves as a wave if its wavelength is “large”, and behaves as a particle if its wavelength is “small”. If you want to get confused more, [see this] (https://theconversation.com/curious-kids-is-light-a-wave-or-a-particle-162514).
+[^1]: Light in general behaves as a wave if its wavelength is “large”, and behaves as a particle if its wavelength is “small”. If you want to get confused more, see [this link](https://theconversation.com/curious-kids-is-light-a-wave-or-a-particle-162514).
 
-[^2]: This by the way is a wonderful tale of interdisciplinary science - Quantum mechanics, statistical physics and astrophysics mixing like rice, jaggery and ghee. Read more [here] (https://astrobites.org/2018/12/03/the-stuff-of-stars/)
+[^2]: This by the way is a wonderful tale of interdisciplinary science - Quantum mechanics, statistical physics and astrophysics mixing like rice, jaggery and ghee. Read more [here](https://astrobites.org/2018/12/03/the-stuff-of-stars/)
 
 [^3]: Ladle is the big spoon-like thing you use to mix stuff in the kadai.
 

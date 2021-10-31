@@ -18,7 +18,7 @@ comments: False
 - Do you wish to share your research results in simple words?
 - Do you want  students and public in general to understand what you are working on?
 
-If you answer Yes to any of the questions, then **CosmicVarta** is the platform for you! We are looking for writers actively.   Here, you can write about your recent research in simple words and hence, communicate it to the rest of the world.
+If you answer Yes to any of the questions, then **CosmicVarta** is the platform for you! We are looking for writers actively. Here, you can write about your recent research in simple words and hence, communicate it to the rest of the world.
 
 We usually accept articles based on recently accepted papers. Authors, who can review their own papers are most welcome to submit a *popular* verison of their papers, for wider audience and publicity. There is not fixed format as such, however we generally expect the articles to be short and concise which conveys the essence of the work, in a simplified language.
 
@@ -27,9 +27,9 @@ While we accept only English language submissions at the moment, based on the au
 
 #### Here are a few guidelines we expect authors to follow before submitting their articles:
 >
-- The article should be a concise verison of the recently accepted/published paper, intented for the general audience. We do not expect technical language. The articles will go through an editorial review by our team and the articles not meeting the criteria will generally need to be revised before being published here.
+- The article should be a concise version of the recently accepted/published paper, intended for the general audience. We do not expect technical language. The articles will go through an editorial review by our team and the articles not meeting the criteria will generally need to be revised before being published here.
 - The submitted article must be about a paper accepted/published within the last 6 months only. However, we also accept review type papers, intended for the general audience, where this limit does not apply.
-- The submission here should not be published elsewhere or being considered for publication elsewhere. The responsibility lies with the author to ensure that the article submitted here is original.
+- The submission here should not be published or being considered for publication elsewhere. The responsibility lies with the author to ensure that the article submitted here is original.
 - Figures are welcome in the article. However, the author has to ensure that the figures do not violate any copyright regulations and prior permisison is available in order to be used here. Note that figures available within arXiv often come with a Creative Commons (CC) license.
 - The authors will be contacted with a form where they may upload the article and related figures/other material. Do not forget to provide the link to the originally published/accepted paper.
 >
