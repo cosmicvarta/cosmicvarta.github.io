@@ -10,26 +10,23 @@ comments: False
 
 # Articles under process.
 
-Articles based on the following list of papers have been received by **CosmicVarta**  and are under the process of editing by our team memebers. Usually the articles stay with our editors for  a period of xx to yy days, after which you may expect the article to be published on the main webpage.
-
-[1. Complex optical/UV and X-ray variability in Seyfert 1 galaxy Mrk 509](https://arxiv.org/abs/2107.11994)
-
-[2. Kiloparsec-scale AGN Outflows and Feedback in Merger-Free Galaxies](/about)
-
-[3.Extreme Variability and Episodic Lifetime of Quasars](/about)
+Articles based on the following list of papers have been received by **CosmicVarta**  and are under the process of editing by our team members. Usually the articles stay with our editors for a period of 2-3 weeks, after which you may expect the article to be published on the main webpage.
 
 
-[4. Polar dust obscuration in broad-line active galaxies from the XMM-XXL field](/about)
+- [ 1. Review of 'Observations of the Quiet Sun During the Deepest Solar Minimum of the Past Century with Chandrayaan-2 XSM – Elemental Abundances in the Quiescent Corona' by Lakshitha Nama.](https://iopscience.iop.org/article/10.3847/2041-8213/abf35d)
+
+ - [ 2. Review of 'Spectropolarimeter on-board the Aditya-L1: Polarization Modulation and Demodulation' by Harsh Mathur.](https://www.osapublishing.org/ao/abstract.cfm?uri=ao-60-26-8145)
 
 
-[5. A phenomenological model for measuring generalised Faraday rotation](/about)
+ - [ 3. Review of 'Resolving dichotomy in compact objects through continuous gravitational waves observation' by Surajit Kalita.](https://academic.oup.com/mnras/article-abstract/508/1/842/6371126?redirectedFrom=PDF)
 
 
-[6. SDSS J154751.94+025550 with double-peaked broad Hβbut single-peaked broad Hα: a candidate for central binary black hole system?](/about)
+ - [4. Review of 'The effect of dark matter halo shape on bar buckling and boxy/peanut bulges' by Ankit Kumar.](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stab3019/6406514?redirectedFrom=fulltext)
+
+ - [5. General article titled 'Measuring the age of the universe: an overview' by Gourav Banerjee]()
 
 
-[7. Cosmological impact of redshift drift measurements](/about)
-
+---
 ---
 
 <div id="disqus_thread"></div>

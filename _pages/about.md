@@ -43,18 +43,7 @@ I'm Anusha. I'm a Ph.D. scholar at the University of Western Ontario. My researc
 ---
 ---
 
-<p align="center">
-  <img src="assets/images/gourav.jpg" height="300" width="300" style="border-radius:50%">
-</p>
-<h2> <span style="color:blue">Gourav Banerjee</span></h2>
 
-
- I am Gourav Banerjee, pursuing PhD in stellar astrophysics at the Christ (Deemed to be University). My area of research is stellar spectroscopy, especially observational studies of emission-line stars such as Classical Be (CBe) and Classical Ae (CAe) stars. My PhD thesis aims to study (using optical spectroscopy) the variability (both transient nature and V/R variability) of selected CBe stars and also understanding the disc parameters of Galactic field CBe stars as a continuation of my MPhil thesis. Moreover, I have remained involved with other projects on similar fields such as the first systematic study to identify and characterize CAe stars (paper published in MNRAS), identification and characterization of CBe stars in open clusters older than 100 Myr (paper circulated), first ever identification of emission-line stars in transition between PMS & MS phase (paper circulated), etc. Astronomy outreach is anothe field which I love from my heart. I am associated with astronomy outreach activities across Bengal and other parts of India for the past 26 years. My hobbies are reading books (mostly Bengali literature, history, and popular science) and exploring remotest places of India and abroad (sadly that is halted now).  And yes, I am a Voracious EATER.. food and books give me pleasure, astronomy provides me mental peace.
-
-
-
----
----
 
 <p align="center">
   <img src="assets/images/ketan.jpg" height="auto" width="300" style="border-radius:50%">
@@ -62,7 +51,7 @@ I'm Anusha. I'm a Ph.D. scholar at the University of Western Ontario. My researc
 <h2> <span style="color:blue">Ketan Rikame</span></h2>
 
 
-I am a PhD student at CHRIST (Deemed to be University). Field of Instrumentation has always fascinated me and it has been my primary research interest. However, while working with various astronomy instruments, I also got interested in learning about the underlying physical phenomenon these instruments try to study. I have previously worked in optical and radio instrumentation. I am currently part of the instrumentation team at RRI and we are building an X-ray polarimeter approved to be launched on ISRO's dedicated satellite mission XPOSAT. I also study accretion powered pulsars which will be one of the primary scientific targets of our X-RAY polarimeter. I am very much interested in science popularization. Although not involved in any such activity right now, I love to talk to people about my research (and not bore them hopefully). I also love to listen/read about fascinating research other researchers are doing. I also love football!
+I am a PhD student at CHRIST (Deemed to be University). Field of Instrumentation has always fascinated me and it has been my primary research interest. However, while working with various astronomy instruments, I also got interested in learning about the underlying physical phenomenon these instruments try to study. I have previously worked in optical and radio instrumentation. I am currently part of the instrumentation team at RRI and we are building an X-ray polarimeter approved to be launched on ISRO's dedicated satellite mission XPOSAT. I also study accretion powered pulsars which will be one of the primary scientific targets of our X-RAY polarimeter. I am very much interested in science popularization. Although not involved in any such activity right now, I love to talk to people about my research (and not bore them hopefully). I love to listen/read about fascinating research other researchers are doing. I also love football!
 
 
 ---
@@ -97,6 +86,13 @@ Hi everyone. I am Vivek. I am a  Ph.D student at ARIES, Nainital. My research so
 
 
 
+## Acknowledgements:
+
+We would like to mention Gourav Banerjee from CHRIST (Deemed to be University) for his valuable inputs regarding the website from the time the idea for CosmicVarta was conceived and Suman Bhattacharyya from CHRIST (Deemed to be University) for designing the beautiful logo of CosmicVarta and Vishal Upendran from IUCAA for working with us to improve the website.
+
+
+---
+---
 
 
 <div id="disqus_thread"></div>

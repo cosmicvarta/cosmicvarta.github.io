@@ -71,9 +71,9 @@ More information about the institutes is available <a href="http://www.iisersyst
 
 
 
-#### Opportunities at central and state universities
+#### Opportunities at Central, State and Deemed Universities
 
-Universities, both central and state, provide opportunities for doctoral and other research projects. Following is the list of departments/universities that have active members who are involved in astronomy research. The list is far from complete and we will keep updating it!
+Many Central, State and Deemed Universities provide opportunities for doctoral and other research projects. Following is the list of departments/universities that have active members who are involved in astronomy research. The list is far from complete and we will keep updating it!
 
 - Astrophysical Sciences Division, Bhabha Atomic Research Centre, Mumbai
 - Centre for Strings, Gravitation and Cosmology, Department of Physics, Indian Institute of Technology Madras
@@ -103,7 +103,7 @@ Universities, both central and state, provide opportunities for doctoral and oth
 ### Short term internship programs.
 Various institutes offer a short term internship program for visiting students. These internship programs are intended for young students who are enrolled in B Tech., B Sc. or M Sc.courses and are interested in getting a hands on experience about the research in astonomy. These internship programs are often supported by a stipend to cover the applicants living costs.  All the institues mentoned above have some kind of internship programs available for young students. Interested peole may visit the respective institue websites or may even [contact us](/contact) for further information regarding these programs.
 
-**Note:** If you feel that we may have missed your institution/University in this list, please let us known through the [contact us](/contact) form and we shall update this list.
+**Note:** If your institution/university is not in the above list, please let us know through the [contact us](/contact) form and we will add it."
 
 ---
 ---
