@@ -11,7 +11,7 @@ hidden: true
 popular: true
 ---
 
-> CosmicVarta is a team effort where we all come together to discuss astornomy and related tools and ideas. Come join us on this journey!
+> CosmicVarta is a team effort where we all come together to discuss astronomy and related tools and ideas. Come join us on this journey!
 >
 ---
 
