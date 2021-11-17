@@ -5,7 +5,7 @@ description: " Platform for promoting Indian astronomy research to the public."
 logo: 'assets/images/cv.png'
 favicon: 'assets/images/cv.png'
 baseurl:
-google_analytics: 
+google_analytics:
 disqus:
 mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
@@ -131,6 +131,16 @@ authors:
       web:
       twitter:
       description: "Dr. Karthik Rajeev is a post doctoral researcher at the Indian Association for Cultivation of Sciences  IACS, Kolkata). After completing Integrated MSc in Physics from IISER Thiruvananthapuram, in 2015, Karthik joined IUCAA for PhD. He worked with Prof. Thanu Padmanabhan for his thesis on 'Aspects of semi-classical limit and the backreaction problem'. He was the last student of Prof. Thanu Padmanabhan."
+
+
+ Harsh Mathur:
+      name: Harsh Mathur
+      display_name: Harsh Mathur
+      avatar: 'assets/images/harsh_profile.jpg'
+      email: harsh.mathur@iiap.res.in
+      web:
+      twitter:
+      description: "I am a Senior Research Fellow working in IIA Bangalore in the field of Solar Physics"
 
 
 # Plugins
