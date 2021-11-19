@@ -6,6 +6,7 @@ permalink:
 categories: [Instrumentation and Methods for Astrophysics]
 tags: [Spectropolarimeter, Aditya-L1, VELC]
 class: [Review article]
+latest: [New]
 image: ../assets/images/coronal_magnetic_field_measurement_velc_aditya_l1_harsh_images/image_cover.jpg
 featured: False
 hidden: False

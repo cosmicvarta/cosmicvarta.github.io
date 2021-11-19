@@ -87,8 +87,7 @@ Hi everyone. I am Vivek. I am a  Ph.D student at ARIES, Nainital. My research so
 
 
 ## Acknowledgements:
-
-We would like to mention Gourav Banerjee from CHRIST (Deemed to be University) for his valuable inputs regarding the website from the time the idea for CosmicVarta was conceived and Suman Bhattacharyya from CHRIST (Deemed to be University) for designing the beautiful logo of CosmicVarta and Vishal Upendran from IUCAA for working with us to improve the website.
+We thank [Astronomical society of India](https://www.astron-soc.in/)for supporting our initiative as a part of their golden anniversary celebrations (#ASI50). We would like to mention Gourav Banerjee from CHRIST (Deemed to be University) for his valuable inputs regarding the website from the time the idea for CosmicVarta was conceived and Suman Bhattacharyya from CHRIST (Deemed to be University) for designing the beautiful logo of CosmicVarta and Vishal Upendran from IUCAA for working with us to improve the website.
 
 
 ---

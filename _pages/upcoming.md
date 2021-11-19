@@ -23,6 +23,8 @@ Articles based on the following list of papers have been received by **CosmicVar
 
  - [4. General article titled 'Measuring the age of the universe: an overview' by Gourav Banerjee]()
 
+ - [5. Review of 'Evolution of Elemental Abundances During B-Class Solar Flares: Soft X-ray Spectral Measurements with Chandrayaan-2 XSM' ](https://iopscience.iop.org/article/10.3847/1538-4357/ac14c1/meta)
+
 
 ---
 ---

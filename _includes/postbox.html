@@ -24,6 +24,7 @@
   top: 0px;
 }
 
+
 .indicator-bright {
   color: white;
   padding: 5px;
@@ -39,10 +40,14 @@
 .indicator-dark {
   color: white;
   padding: 5px;
-  border-radius: 15px;
-  background-image: linear-gradient(to right, #96e4df 0%, #4dccc6 100%);
-  backdrop-filter: blur(8px) brightness(0.8);
+  border-radius: 5px;
+  background-image: linear-gradient(to right, #fe0944 0%, #feae96 100%);
+  backdrop-filter: blur(80px) brightness(0.8);
+  position: absolute;
+  left:calc(80%  10px);
+  top:calc(-50%  25px);
 }
+
 </style>
 
 <div class="col-lg-4 col-md-6 mb-30px card-group">
@@ -57,6 +62,8 @@
 
                         <div class="indicator indicator-bright"><b>{{post.class}}</b></div>
                         </div>
+
+
                     {% else %}
                         <img class="img-fluid" src="{% if post.image contains "://" %}{{ post.image }}{% else %}{{ site.baseurl }}/{{ post.image }}{% endif %}" alt="{{ post.title }}">
                     {% endif %}
