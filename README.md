@@ -1,23 +1,12 @@
-# Mediumish - Jekyll Theme
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+# This is the website for CosmicVarta
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+![image](assets/images/cv.png)
 
 
-### Copyright
+We request all our readers to connect with us and even share their ideas for improving the platform. We also request all researchers involved in astronomy and astrophysics in India to write about their work and contribute towards popularizing astronomical research.
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+Most importantly, just join us on a journey that will take you to the wonderful world of stars, galaxies, and beyond; and feel enthralled by the unlocking of the keys to the mysteries of the universe which scientists are doing on a daily basis.
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+### Thanks
