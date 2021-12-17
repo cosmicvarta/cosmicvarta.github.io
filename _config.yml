@@ -142,6 +142,14 @@ authors:
       twitter:
       description: "I am a Senior Research Fellow working in IIA Bangalore in the field of Solar Physics"
 
+ Surajit Kalita:
+      name: Surajit Kalita
+      display_name: Surajit Kalita
+      avatar: 'assets/images/surajit_kalita.png'
+      email: harsh.mathur@iiap.res.in
+      web: https://scholar.google.com/citations?user=ysrlxXMAAAAJ&hl=en&oi=ao
+      twitter: https://scholar.google.com/citations?user=ysrlxXMAAAAJ&hl=en&oi=ao
+      description: "I have recently completed Ph.D. from the Indian Institute of Science, Bangalore, and will be joining the University of Cape Town for postdoctoral research. My research interest focuses on different aspects of general relativity, gravitational waves, noncommutative geometry, and their applications in compact objects"
 
 # Plugins
 plugins:
