@@ -16,14 +16,9 @@ Articles based on the following list of papers have been received by **CosmicVar
 - [ 1. Review of 'Observations of the Quiet Sun During the Deepest Solar Minimum of the Past Century with Chandrayaan-2 XSM – Elemental Abundances in the Quiescent Corona' by Lakshitha Nama.](https://iopscience.iop.org/article/10.3847/2041-8213/abf35d)
 
 
- - [ 2. Review of 'Resolving dichotomy in compact objects through continuous gravitational waves observation' by Surajit Kalita.](https://academic.oup.com/mnras/article-abstract/508/1/842/6371126?redirectedFrom=PDF)
+ - [2. Review of 'The effect of dark matter halo shape on bar buckling and boxy/peanut bulges' by Ankit Kumar.](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stab3019/6406514?redirectedFrom=fulltext)
 
-
- - [3. Review of 'The effect of dark matter halo shape on bar buckling and boxy/peanut bulges' by Ankit Kumar.](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stab3019/6406514?redirectedFrom=fulltext)
-
- - [4. General article titled 'Measuring the age of the universe: an overview' by Gourav Banerjee]()
-
- - [5. Review of 'Evolution of Elemental Abundances During B-Class Solar Flares: Soft X-ray Spectral Measurements with Chandrayaan-2 XSM' ](https://iopscience.iop.org/article/10.3847/1538-4357/ac14c1/meta)
+ - [3. Review of 'Evolution of Elemental Abundances During B-Class Solar Flares: Soft X-ray Spectral Measurements with Chandrayaan-2 XSM' ](https://iopscience.iop.org/article/10.3847/1538-4357/ac14c1/meta)
 
 
 ---
