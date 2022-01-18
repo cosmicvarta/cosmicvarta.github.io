@@ -3,7 +3,7 @@ layout: post
 title:  "From Sun to Earth using Artificial Intelligence"
 author: Vishal Upendran
 permalink: /sun-to-earth-using-ai-vishal
-categories: [Solar and Stellar astrophysics]
+categories: [Solar and Stellar Astrophysics]
 tags: [solar wind, deep learning, neural networks, source regions]
 class: [Review article]
 image: assets/images/from_sun_to_earth_vishal_images/image_cover.png

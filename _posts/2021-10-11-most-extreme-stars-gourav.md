@@ -3,7 +3,7 @@ layout: post
 title:  "Most Extreme Stars"
 author: Gourav
 permalink: /most-extreme-stars-gourav
-categories: [Solar and Stellar astrophysics]
+categories: [Solar and Stellar Astrophysics]
 tags: [stars]
 class: [General article]
 image: assets/images/most_extreme_stars_gourav_images/image_cover.jpg
