@@ -151,6 +151,32 @@ authors:
       twitter: https://scholar.google.com/citations?user=ysrlxXMAAAAJ&hl=en&oi=ao
       description: "I have recently completed Ph.D. from the Indian Institute of Science, Bangalore, and will be joining the University of Cape Town for postdoctoral research. My research interest focuses on different aspects of general relativity, gravitational waves, noncommutative geometry, and their applications in compact objects"
 
+ Shridharan Baskaran:
+      name: Shridharan Baskaran
+      display_name: Shridharan Baskaran
+      avatar: 'assets/images/avatar.png'
+      email: shridharan.1997@gmail.com
+      web:
+      twitter:
+      description: "I'm a Research Scholar currently working at CHRIST University, Bangalore. I study hot emission-line stars, in particular young hot stars."
+
+ Ankit Kumar:
+       name: Ankit Kumar
+       display_name: Ankit Kumar
+       avatar: 'assets/images/ankit_profile.JPG'
+       email: ankit.kumar@iiap.res.in
+       web: https://galaxtronomer.wordpress.com/
+       twitter: https://galaxtronomer.wordpress.com/
+       description: "I am a Senior Research Fellow at Indian Institute of Astrophysics, bangalore and associated with Indian Institute of Science, Bangalore. My research interest lies in the field of galactic dynamics and structure evolution."
+
+ Sunil Simha :
+       name: Sunil Simha
+       display_name: Sunil Simha
+       avatar: 'assets/images/avatar.png'
+       email:
+       web:
+       twitter:
+       description: "Sunil is a graduate student of Astronomy at the University of California, Santa Cruz. His research focuses on using Fast Radio Bursts as probes of ionized matter on cosmological scales."
 # Plugins
 plugins:
   - jekyll-paginate

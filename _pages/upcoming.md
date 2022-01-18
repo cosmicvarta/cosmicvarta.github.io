@@ -16,15 +16,12 @@ Articles based on the following list of papers have been received by **CosmicVar
 - [ 1. Review of 'Observations of the Quiet Sun During the Deepest Solar Minimum of the Past Century with Chandrayaan-2 XSM – Elemental Abundances in the Quiescent Corona' by Lakshitha Nama.](https://iopscience.iop.org/article/10.3847/2041-8213/abf35d)
 
 
- - [2. Review of 'The effect of dark matter halo shape on bar buckling and boxy/peanut bulges' by Ankit Kumar.](https://academic.oup.com/mnras/advance-article-abstract/doi/10.1093/mnras/stab3019/6406514?redirectedFrom=fulltext)
+ - [2. Review of 'A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies' by Vivek Kumar Jha.](https://doi.org/10.1093/mnras/stab3700)
 
  - [3. Review of 'Evolution of Elemental Abundances During B-Class Solar Flares: Soft X-ray Spectral Measurements with Chandrayaan-2 XSM'. ](https://iopscience.iop.org/article/10.3847/1538-4357/ac14c1/meta)
 
-  - [4.  Review of 'Estimating the Contribution of Foreground Halos to the FRB 180924 Dispersion Measure' by Sunil Simha.](https://iopscience.iop.org/article/10.3847/1538-4357/ac2000)
 
-  - [5. Review of 'Discovery of 2716 hot emission-line stars from LAMOST DR5' Sridharan Bhaskaran.](https://iopscience.iop.org/article/10.1088/1674-4527/21/11/288)
-
-  - [6. Review of 'Spectro-timing analysis of MAXI J1535−571 usingAstroSat' by Yash Bhargava.](https://academic.oup.com/mnras/article/488/1/720/5525097)
+  - [4. Review of 'Spectro-timing analysis of MAXI J1535−571 usingAstroSat' by Yash Bhargava.](https://academic.oup.com/mnras/article/488/1/720/5525097)
 
 ---
 ---
