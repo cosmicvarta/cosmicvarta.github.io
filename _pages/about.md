@@ -70,6 +70,18 @@ Hello. My name is Lakshitha Nama. I am a PhD student at Christ (Deemed to be Uni
 ---
 
 
+<p align="center">
+  <img src="assets/images/vishal_upendran.jpg" height="auto" width="300" style="border-radius:50%">
+</p>
+
+<h2> <span style="color:blue">Vishal Upendran</span></h2>
+
+Hi there! I am Vishal Upendran, graduate student at the Inter University Centre For Astronomy and Astrophysics, Pune. I have been studying various aspects of the Sun as a part of my thesis. In particular, I am focused on the dynamics of the solar atmosphere, the solar wind and its intercation with the Earth. Apart from physics, I also love machine/deep learning, information theory and the interface of computation and neuroscience. I generally spend my free time reading books - especially on proto/pre history and popular science texts. While not reading, I like going for long walks/runs, cooking and watching anime!
+
+---
+---
+
+
 
 <p align="center">
   <img src="assets/images/vivek.jpg" height="auto" width="300" style="border-radius:50%">
