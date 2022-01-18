@@ -3,7 +3,7 @@ layout: post
 title:  "Measuring the ages of the Earth and Moon "
 author: Gourav
 permalink: /measuring-the-age-sun-moon-gourav
-categories: [Popular articles]
+categories: [General]
 tags: [sun, corona, flares, x-ray]
 class: [General article]
 image: assets/images/Measuring_ages_of_Earth_and_Moon_gourav/image2.jpg
