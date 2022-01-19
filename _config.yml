@@ -172,12 +172,11 @@ authors:
  Sunil Simha :
        name: Sunil Simha
        display_name: Sunil Simha
-       avatar: 'assets/images/avatar.png'
-       email:
-       web:
-       twitter:
-       description: "Sunil is a graduate student of Astronomy at the University of California, Santa Cruz. His research focuses on using Fast Radio Bursts as probes of ionized matter on cosmological scales."
-# Plugins
+       avatar: 'assets/images/sunil_profile.jpg'
+       email: shassans@ucsc.edu
+       web: https://www.linkedin.com/in/sunil-simha-hs/
+       twitter:https://www.linkedin.com/in/sunil-simha-hs/
+       description: "Sunil Simha is an astronomy graduate student at the University of California Santa Cruz. His work is primarily observational and involves the use of Fast Radio Bursts as Comological probes. When not researching cosmology, he's involved in detector testing for Keck instruments and playing copious amounts of chess."
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
