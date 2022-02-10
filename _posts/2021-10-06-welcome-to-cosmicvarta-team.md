@@ -6,8 +6,8 @@ categories: [General]
 tags: [General, Popular]
 class: [Featured]
 image: assets/images/featured_first.jpg
-featured: true
-hidden: true
+featured: False
+hidden: False
 popular: true
 ---
 

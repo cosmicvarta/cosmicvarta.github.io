@@ -5,9 +5,36 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 10 Feb 2022 23:16:29 +0530</pubDate>
-    <lastBuildDate>Thu, 10 Feb 2022 23:16:29 +0530</lastBuildDate>
+    <pubDate>Fri, 11 Feb 2022 00:04:27 +0530</pubDate>
+    <lastBuildDate>Fri, 11 Feb 2022 00:04:27 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>A list of scholarships for women in Science</title>
+        <description>&lt;p&gt;&lt;em&gt;A significant fraction of the advances in science and technology arises due to seminal contributions by women - all the while tackling a series of battles against social norms and skewed opportunities. Even today, there exists a lack of representation of women in higher education, scientific research and industry. For instance, women make up almost 43% of STEM (i.e. Science Technology Engineering and Medicine) graduates in the country, but just 14% scientists and engineers in universities/institutions. A “leaky STEM pipeline” is formed as only 3-6% of women enroll for a PhD in STEM. Even though many injustices exist as hurdles to women empowerment, various governments and organizations have come forward in combating these issues.&lt;/em&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;One of the most effective ways to empower women is through education. An educated woman has the capability, knowledge and independence to take up various avenues in life independently - especially in STEM. Education starts not just at a very specialized stage, but right from primary school – where children are instilled with the dreams of exploring the edge of the universe or breaking open the smallest of particles. Poverty, the unfortunate condition that plagues a large part of our country is especially detrimental to the education of girls.&lt;/p&gt;
+
+&lt;p&gt;Hence, in this article, we present our humble attempt at compiling a set of scholarships which are aimed at covering the education costs of girls. We have presented the scholarship data in three groups - school education, undergraduate studies, and post graduation. For each group we have presented the eligibility criteria and the scholarship amount in multiple columns, while we have linked the homepage of each scholarship for more information.&lt;/p&gt;
+
+&lt;p&gt;We do not claim this to be an exhaustive list - in fact, this will be a “living” document which shall get updated as and when we get more information. If you, the reader, think we have missed an important scholarship scheme, please give us a shout out through the comments section below, or by contacting us directly through the form.&lt;/p&gt;
+
+&lt;iframe src=&quot;../scholarship.html&quot; width=&quot;800&quot; height=&quot;1000&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Thu, 10 Feb 2022 00:00:00 +0530</pubDate>
+        <link>/scholarship-women-science</link>
+        <guid isPermaLink="true">/scholarship-women-science</guid>
+        
+        <category>popular</category>
+        
+        <category>women-in science</category>
+        
+        
+        <category>General</category>
+        
+      </item>
     
       <item>
         <title>Voices of the Women in Science - A list of books on women scientists </title>
@@ -1485,77 +1512,6 @@ Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16644.pdf&quot;&gt;S.Vadawal
         <category>flares</category>
         
         <category>x-ray</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>The First Theoretical Model of the Near-Surface Shear Layer of the Sun</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;It is well known that the Sun rotates differentially, i.e. its equator rotates faster than the pole. Not only at the surface, but the solar rotation profile also varies with the radius, which was discovered in helioseismic observation. This observation reveals an exciting feature close to the visible solar surface that the rotation profile of the Sun changes very sharply, which is named as Near-Surface Shear Layer (NSSL). In this work astronomers from ARIES and IISc have given the theoretical explanation for the existence of NSSL very the first time. They have used the thermal wind balance equation to explain the existence of NSSL.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The Sun, our life-giving star, has always been a star of many interests. Its importance for the living beings made many astronomers turn their telescope towards the Sun just after the advent of the telescope by Galileo Galilei. The early and regular observations of the Sun revealed the presence of dark spots, now known as sunspots, and 11 years of periodic variation in their number of appearances, popularly known as the solar cycle. The systematic observations of sunspots also show that the solar surface rotates &lt;a href=&quot;https://en.wikipedia.org/wiki/Differential_rotation&quot;&gt;differentially&lt;/a&gt;, which means the equator of the Sun spins faster than its pole. However, the internal rotation of the Sun has only been revealed after the &lt;a href=&quot;http://soi.stanford.edu/results/heliowhat.html&quot;&gt;helioseismology&lt;/a&gt; (technique of using sound waves to peek inside the Sun) era. Helioseismology has answered the many puzzling questions about the Sun while raising many questions about our nearest star at the same time. One of the crucial observations that helioseismology has made was the existence of the near-surface shear layer (NSSL).  The NSSL is the region very close to the visible solar surface, where there is a sharp change in the rotation profile of the Sun. The understanding of NSSL is crucial for the Sun, but it will also help us understand the other stars. Many researchers had indicated the presence of such a layer in the past based on solar surface observations but the real inference has been provided only after helioseismic measurements.&lt;/p&gt;
-
-&lt;p&gt;Here in this work, researchers from ARIES, Nainital and IISc Bangalore have given the theoretical explanation for the existence of NSSL, for the very first time.&lt;/p&gt;
-
-&lt;p&gt;Their study used the thermal wind balance equation, which tells about how the slight difference in temperature between solar poles and equator, which is called thermal wind term, is balanced by the centrifugal force appearing due to solar differential rotation. Now, the question is, why are they expecting the solar pole to have a slightly higher temperature? To understand this, we have to think about the motion of plasma blobs or convective blobs in the &lt;a href=&quot;https://solarscience.msfc.nasa.gov/interior.shtml&quot;&gt;solar convection zone&lt;/a&gt; in which heat is transported by convection in the same way as it is transported in boiling water. Unlike boiling water, the Sun is rotating, and hence the upward moving blobs will experience &lt;a href=&quot;https://en.wikipedia.org/wiki/Coriolis_force&quot;&gt;Coriolis force&lt;/a&gt;. The effect of Coriolis force is zero on blobs moving along the axis of rotation (as in the case of a pole) and will be maximum when they are moving perpendicular to it (as in the case of the equator). Therefore, the heat transfer will be more efficient along the axis of rotation, leading to a higher temperature near the pole which drives the plasma from pole to equator. Another term is called centrifugal, which arises due to solar differential rotation driving the plasma in the opposite direction that is equator to pole. The &lt;a href=&quot;https://solarscience.msfc.nasa.gov/interior.shtml&quot;&gt;temperature profile of the Sun&lt;/a&gt; shows a sharp decrease near the visible surface and authors have shown that the pole-equator temperature difference also decreases as we approach the surface. To balance these effects Solar rotation profile (centrifugal term) has to change sharply, giving rise to NSSL.&lt;/p&gt;
-
-&lt;p&gt;Most scientists believe that this condition is valid only in the interior of the Sun, and it does not hold near the solar surface. In their work, the authors have shown that this belief actually holds near the surface as well. They have noted that if this condition is true near the solar surface it can explain the existence of NSSL which is inferred in helioseismology based observation.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/solar_theoretical_model_bibhuti/bibhuti_final.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Fig.: The solar rotation profile calculated based on the theoretical model given by &lt;a href=&quot;https://doi.org/10.1093/mnras/stab1717&quot;&gt; Jha et al. (2021)&lt;/a&gt;. The solid black and dashed red contours are the contours of constant angular rotation based on the model and observation, respectively.
-
-
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://doi.org/10.1093/mnras/stab1717&quot;&gt; The First Theoretical Model of the Near-Surface Shear Layer of the Sun&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Bibhuti Kumar Jha&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Arnab Rai Choudhuri&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Astrophysics, Bangalore 560034, Karnataka, India;&lt;/p&gt;
-
-&lt;p&gt;Aryabhatta Research Institute of Observational Sciences, Nainital 263001, Uttarakhand, India;&lt;/p&gt;
-
-&lt;p&gt;Pondicherry University, Chinna Kalapet, Kalapet, Puducherry 605014, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-</description>
-        <pubDate>Tue, 12 Oct 2021 00:00:00 +0530</pubDate>
-        <link>/theoretical-model-shear-layer-bibhuti</link>
-        <guid isPermaLink="true">/theoretical-model-shear-layer-bibhuti</guid>
-        
-        <category>Sun; Differential Rotation; NSSL; Theory</category>
         
         
         <category>Solar and Stellar Astrophysics</category>
