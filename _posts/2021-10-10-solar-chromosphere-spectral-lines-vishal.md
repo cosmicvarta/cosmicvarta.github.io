@@ -40,7 +40,7 @@ Now, check out the second row - corresponding to a Sodium atom. You will see tha
 
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image2_vishal_line.png">
+  <img src="../assets/images/vishal_chromosphere/image3_vishal_line.png">
 </p>
 
 <p align = "center">
@@ -52,7 +52,7 @@ Astronomers study the spectral lines of different objects like stars, galaxies, 
 
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image3_vishal_line.png">
+  <img src="../assets/images/vishal_chromosphere/image2_vishal_line.png">
 </p>
 
 <p align = "center">
@@ -76,7 +76,7 @@ At this juncture, I should tell you that scientists have done extensive studies 
 
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image4_vishal_line.png">
+  <img src="../assets/images/vishal_chromosphere/image5_vishal_line.png">
 </p>
 
 <p align = "center">
@@ -89,7 +89,7 @@ Back to our work: we studied <strong>one</strong> spectral line (yep, just one l
 Interesting things happen if we account for the underlying magnetic field. How do we do this? We ask: what is the intensity in CH and QS at similar magnetic field strengths? Similarly, what are the velocities and line widths? The underlying magnetic field strength[^9] might be similar, but the structure of the magnetic field can be different! The structure of magnetic field (a.k.a magnetic topology) is important, because we know that the CHs are regions where the magnetic field comes out predominantly in open lines[^10], while in QS the same magnetic field comes as short closed loops. These differences are seen clearly in the corona -- but are they also seen in the chromosphere?
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image5_vishal_line.png">
+  <img src="../assets/images/vishal_chromosphere/image4_vishal_line.png">
 </p>
 
 <p align = "center">
@@ -105,7 +105,7 @@ Finally, see panel (c) of the same figure. The line width is seen to increase wi
 
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image6_vishal_line.png">
+  <img src="../assets/images/vishal_chromosphere/image7_vishal_line.png">
 </p>
 
 <p align = "center">
@@ -123,7 +123,7 @@ Turns out it is not the case. I will not show the plot here (already there is an
 
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image7_vishal_line.png">
+  <img src="../assets/images/vishal_chromosphere/image6_vishal_line.png">
 </p>
 
 <p align = "center">

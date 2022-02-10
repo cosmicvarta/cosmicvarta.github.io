@@ -7,8 +7,8 @@ class: [Featured]
 tags: [General, Popular, Thanu Padmanabhan]
 image: assets/images/paddy_tribute_article/paddy_tribute.png
 description: "Prof. Thanu Padmanabhan, one of the stalwarts of theoretical physics, and a shining star of the Indian scientific community, left his mortal abode on the 17th of September this year. With a stellar career spanning over four decades, he has been immortalized through his contributions to advancement of theoretical physics and cosmology. In this article, Dr. Karthik Rajeev brings out the essence of some of Prof. Padmanabhan's seminal works - ranging from the formation of cosmological large scale structure to the interface of quantum mechanics and gravity. "
-featured: true
-hidden: true
+featured: False
+hidden: False
 popular: true
 ---
 

@@ -24,7 +24,7 @@ Fig. 1: A solar flare as seen in different wavelengths (listed on top of each pa
 <p>Now, check out the second row - corresponding to a Sodium atom. You will see that the brightness is present at <strong>discrete</strong> locations in wavelength, and most of the wavelengths have no brightness. This is in stark contrast to the thermal radiation, and is followed similarly by all other elements listed in the rows below Sodium. But note that the pattern, or location &amp; brightness of these <strong>spectral lines</strong> of different elements is unique for each element. In a sense, spectral lines can be thought of as a fingerprint of atoms and molecules. Just like each human has a unique set of fingerprints, similarly each atom or molecule has a specific set of spectral lines as its signature. These lines you see are bright in specific wavelengths, and are called <strong>emission lines</strong>.</p>
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image2_vishal_line.png" />
+  <img src="../assets/images/vishal_chromosphere/image3_vishal_line.png" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@ Image source: <a href="https://openstax.org/books/astronomy/pages/5-3-spectrosco
 <p>Astronomers study the spectral lines of different objects like stars, galaxies, etc, and try to figure out which all atoms, ions and molecules are present in the object of study. Remember, what I have shown in Fig. 2 is the light coming from one vertical slit - that is why, the spectral lines are all seen as vertical lines. But this need not be the case - I can also look at approximately one point on the Sun (or even average over the vertical line), for example, and get its spectrum out. This exercise will give us a result similar to Fig. 3, where we just have the brightness of light for every wavelength. This is the kind of spectrum astronomers generally analyze.</p>
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image3_vishal_line.png" />
+  <img src="../assets/images/vishal_chromosphere/image2_vishal_line.png" />
 </p>
 
 <p align="center">
@@ -60,7 +60,7 @@ Fig. 3: The intensity of various spectral lines as a function of wavelength. Tak
 <p>At this juncture, I should tell you that scientists have done extensive studies of the CHs and QS regions in the corona, and all of the information I have presented in the last two or so paragraphs was generated in the last three decades. So we do stand on the shoulders of other giants – while we do bring our own thought process to the table!</p>
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image4_vishal_line.png" />
+  <img src="../assets/images/vishal_chromosphere/image5_vishal_line.png" />
 </p>
 
 <p align="center">
@@ -73,7 +73,7 @@ Image source: <a href="https://arxiv.org/abs/2109.04287">Vishal.U et al., 2021 <
 <p>Interesting things happen if we account for the underlying magnetic field. How do we do this? We ask: what is the intensity in CH and QS at similar magnetic field strengths? Similarly, what are the velocities and line widths? The underlying magnetic field strength<sup id="fnref:9" role="doc-noteref"><a href="#fn:9" class="footnote" rel="footnote">9</a></sup> might be similar, but the structure of the magnetic field can be different! The structure of magnetic field (a.k.a magnetic topology) is important, because we know that the CHs are regions where the magnetic field comes out predominantly in open lines<sup id="fnref:10" role="doc-noteref"><a href="#fn:10" class="footnote" rel="footnote">10</a></sup>, while in QS the same magnetic field comes as short closed loops. These differences are seen clearly in the corona – but are they also seen in the chromosphere?</p>
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image5_vishal_line.png" />
+  <img src="../assets/images/vishal_chromosphere/image4_vishal_line.png" />
 </p>
 
 <p align="center">
@@ -88,7 +88,7 @@ Image source: <a href="https://arxiv.org/abs/2109.04287">Vishal.U et al., 2021</
 <p>Finally, see panel (c) of the same figure. The line width is seen to increase with field strength. This tells us that the profiles are getting broader, possibly implying larger turbulence with increasing field strength. Here too, CHs are broader than QS for large field strengths!</p>
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image6_vishal_line.png" />
+  <img src="../assets/images/vishal_chromosphere/image7_vishal_line.png" />
 </p>
 
 <p align="center">
@@ -105,7 +105,7 @@ Image source: <a href="https://arxiv.org/abs/2109.04287"> Vishal.U et al., 2021<
 <p>Turns out it is not the case. I will not show the plot here (already there is an overdose of information – too much of a good thing is also not good! :P), but we find that the spectral profiles are very similar in both CH and QS. Thus, it tells us that the processes which give rise to these profiles are similar in both the regions – the differences are coming out only because of the differences in the magnetic field topology of CHs and QS!</p>
 
 <p align="center">
-  <img src="../assets/images/vishal_chromosphere/image7_vishal_line.png" />
+  <img src="../assets/images/vishal_chromosphere/image6_vishal_line.png" />
 </p>
 
 <p align="center">

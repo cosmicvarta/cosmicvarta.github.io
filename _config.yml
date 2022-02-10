@@ -177,6 +177,32 @@ authors:
        web: https://www.linkedin.com/in/sunil-simha-hs/
        twitter: https://www.linkedin.com/in/sunil-simha-hs/
        description: "Sunil Simha is an astronomy graduate student at the University of California Santa Cruz. His work is primarily observational and involves the use of Fast Radio Bursts as Comological probes. When not researching cosmology, he's involved in detector testing for Keck instruments and playing copious amounts of chess."
+
+ Shreya Fadanavis:
+       name: Shreya Fadanavis
+       display_name: Shreya Fadanavis
+       avatar: 'assets/images/shreya_fadanavis.jpg'
+       email: shreyafadanavis@gmail.com
+       web: http://www.linkedin.com/in/shreya-fadanavis
+       twitter: http://www.linkedin.com/in/shreya-fadanavis
+       description: "I am a Junior Research Fellow at the Amity Centre of Excellence in Astrobiology (ACoeA), Mumbai. I am currently involved in studying the effect of microgravity on the growth of plants and bacteria."
+
+ Amit Kumar Mandal:
+       name: Amit Kumar Mandal
+       display_name: Amit Kumar Mandal
+       avatar: 'assets/images/shreya_fadanavis.jpg'
+       email: shreyafadanavis@gmail.com
+       web: http://www.linkedin.com/in/shreya-fadanavis
+       twitter: http://www.linkedin.com/in/shreya-fadanavis
+       description: "I am a Junior Research Fellow at the Amity Centre of Excellence in Astrobiology (ACoeA), Mumbai. I am currently involved in studying the effect of microgravity on the growth of plants and bacteria."
+ CosmicVarta:
+        name: CosmicVarta
+        display_name: CosmicVarta
+        avatar: 'assets/images/thumb.png'
+        email: cosmicvarta@gmail.com
+        web: http://www.cosmicvarta.in
+        twitter: http://www.twitter.com/cosmicvarta
+        description: "Written by the CosmicVarta team. This article has been authored by all the members as a joint effort."
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

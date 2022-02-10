@@ -97,6 +97,7 @@ Many Central, State and Deemed Universities provide opportunities for doctoral a
 - International Centre for Theoretical Sciences, Tata Institute of Fundamental Research, Bangalore
 - Physics Department, Faculty of Science, The Maharaja Sayajirao University of Baroda, Vadodara
 - Savitribai Phule Pune University, Pune
+- School of Studies in Physics and Astrophysics, Pt. Ravishankar Shukla University, Raipur 
 - UM-DAE Centre for Excellence in Basic Sciences, Mumbai
 
 
