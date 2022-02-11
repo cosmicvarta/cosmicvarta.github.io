@@ -44,7 +44,7 @@ img {
 <p><img src="../assets/images/woman_science_day_books/Those-Magificent-Women-3.jpg
 " alt="Image 1" style="width:270px;height:350px;margin-right:15px;margin-bottom:20px;">
 
-The sky is definitely not the limit for Indian women scientists. India became the first country to reach Mars, in 2013, that too in its first attempt. This mission, among others, was led by a group of brilliant and dedicated women scientists of ISRO. This book narrates how these magnificent women overcame gender-barriers and succeeded to achieve the impossible!   </p>
+The sky is definitely not the limit for Indian women scientists. India became the first Asian country to reach Mars, in 2013, that too in its first attempt. This mission, among others, was led by a group of brilliant and dedicated women scientists of ISRO. This book narrates how these magnificent women overcame gender-barriers and succeeded to achieve the impossible!   </p>
 
 [Read the book review on Goodreads.](https://www.goodreads.com/book/show/44578585-those-magnificent-women-and-their-flying-machines)
 
