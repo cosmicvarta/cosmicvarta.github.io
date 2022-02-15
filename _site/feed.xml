@@ -5,8 +5,8 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Feb 2022 11:18:04 +0530</pubDate>
-    <lastBuildDate>Fri, 11 Feb 2022 11:18:04 +0530</lastBuildDate>
+    <pubDate>Tue, 15 Feb 2022 15:21:40 +0530</pubDate>
+    <lastBuildDate>Tue, 15 Feb 2022 15:21:40 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -22,6 +22,27 @@
 &lt;p&gt;We do not claim this to be an exhaustive list - in fact, this will be a “living” document which shall get updated as and when we get more information. If you, the reader, think we have missed an important scholarship scheme, please give us a shout out through the comments section below, or by contacting us directly through the form.&lt;/p&gt;
 
 &lt;iframe src=&quot;../scholarship.html&quot; width=&quot;1000&quot; height=&quot;1200&quot;&gt;&lt;/iframe&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 </description>
         <pubDate>Thu, 10 Feb 2022 00:00:00 +0530</pubDate>
         <link>/scholarship-women-science</link>
@@ -529,6 +550,90 @@ This book is a celebration of the women who made some of the world's most import
         
         
         <category>General</category>
+        
+      </item>
+    
+      <item>
+        <title>Mass of the Black Hole in the nearby AGN: Mrk 590</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Most of the massive galaxies in the Universe host a supermassive black hole (SMBH) at their center. A minority among them are known as active galaxies and host active galactic nuclei (AGNs). These AGN are believed to be powered by the accretion of matter onto the  SMBH and the emission from such accreting systems can have important effects on the host galaxy.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The central regions of such AGN are so compact to be spatially resolved by any current imaging techniques, with the exception of the broad-line region (BLR) being resolved in two nearby AGN using recent interferometric observations carried out on the &lt;a href=&quot;https://www.eso.org/public/teles-instr/paranal-observatory/vlt/&quot;&gt;Very Large Telescope&lt;/a&gt; of the European Southern Observatory. The angular size of the majority of the AGN is so small to be resolved using existing interferometric facilities. Therefore,  alternative methods are needed to probe the central regions of AGN. One such technique is reverberation mapping, where time resolution is used as a proxy for spatial resolution.  This technique allows one to determine the mass of the SMBH, the extent of the BLR, and the dusty torus that surrounds the SMBH. This technique works on the principle of measuring the time delay between the flux variations in an ionizing source and the flux variations from the surrounding regions irradiated by the central ionization source.  Implementation of this method to find the extent of the BLR and subsequently measure the  SMBH mass is usually carried out by spectroscopic monitoring observations which is not only a tedious process but also consumes an enormous amount of telescope time.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/reverberation-mapping-clagn-amit/fig1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Subaru spectrum of Mrk 590. The broad B, R and narrow Hα and S II filters are also over-plotted. Image source &lt;a href=&quot;https://arxiv.org/abs/2110.02055&quot;&gt;: arXiv:2110.02055&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;An alternative to spectroscopic monitoring observations is the method of photometric reverberation which is simple and cheap in terms of observing time. This method relies on photometric monitoring observations of the AGN through suitably selected narrow-band filters to catch the redshifted emission line response, while another filter (either narrow band or broad band)  is required to trace the continuum flux . A recent work titled:  &lt;strong&gt;Changing look AGN Mrk 590: Broad-line region and black hole mass from photometric reverberation mapping&lt;/strong&gt; led by Amit Kumar Mandal has used the technique of photometric reverberation mapping to find the extent of the BLR in a nearby AGN, Mrk 590, located at a redshift (z) =0.026, where the SII narrowband filter is able to monitor the Hα emission line. A few active galaxies are found to undergo a transition from Type 1 characterized by strong emission lines, to Type 1.8 or 1.9, with weak or no broad emission lines, or vice versa. These galaxies are known as &lt;em&gt;changing look AGN&lt;/em&gt;. Mrk 590 is such a changing look AGN.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;img src=&quot;../assets/images/reverberation-mapping-clagn-amit/fig2.png&quot; /&gt;
+
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: The BLR size- luminosity relation for Mrk 590 (red star) in this study. Also plotted is the same relation for all other objects whose BLR sizes are available through previous reverberation mapping campaigns. Image source &lt;a href=&quot;https://arxiv.org/abs/2110.02055&quot;&gt;: arXiv:2110.02055&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;From photometric observations carried out during July to December 2018, using a moderate size  60 cm robotic telescope located at the Cerro Tololo Inter-American Observatory, the research group was able to find the radius of the BLR of Mrk 590 to be 21.44&lt;sup&gt;+1.49&lt;/sup&gt;&lt;sub style=&quot;position: relative; left: -0.0em;&quot;&gt;-2.11&lt;/sub&gt; days. Using this lag, and an optical spectrum of the source obtained with the 8.2 m Subaru  Telescope, the research led by Dr. Amit Kumar Mandal was able to measure the mass of the SMBH in Mrk 590 as 1.96&lt;sup&gt;+0.15&lt;/sup&gt;&lt;sub style=&quot;position: relative; left: -0.0em;&quot;&gt;-0.21&lt;/sub&gt;
+x 10&lt;sup&gt;8&lt;/sup&gt; M &lt;sub&gt;⦿&lt;/sub&gt;, where M &lt;sub&gt;⦿&lt;/sub&gt;. is the mass of the Sun.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5296M/abstract&quot;&gt; Changing look AGN Mrk 590: broad-line region and black hole mass from photometric reverberation mapping&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Amit Kumar Mandal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Malte Schramm, Suvendu Rakshit, C. S. Stalin, Bovornpratch Vijarnwannaluk, Wiphu Rujopakarn, Saran Poshyachinda, Vladimir V. Kouprianov, Joshua B. Haislip, Daniel E. Reichart, Ram Sagar, Blesson Mathew&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt;
+Indian Institute of Astrophysics, Bengaluru, Karnataka, India – 560034;&lt;/p&gt;
+
+&lt;p&gt;Department of Physics, CHRIST (Deemed to be University), Hosur Road, Bengaluru, Karnataka India – 560029&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Tue, 08 Feb 2022 00:00:00 +0530</pubDate>
+        <link>/reverberation-mapping-clagn-amit</link>
+        <guid isPermaLink="true">/reverberation-mapping-clagn-amit</guid>
+        
+        <category>Cosmology</category>
+        
+        <category>Fast Radio Bursts</category>
+        
+        <category>Galaxy dark matter halos</category>
+        
+        <category>Radio transient sources</category>
+        
+        <category>Quasar absorption line spectroscopy</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
         
       </item>
     
@@ -1435,86 +1540,6 @@ Image courtesy: &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApOpt..60
         
         
         <category>Instrumentation and Methods for Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Deciphering The Mysteries of The Quiet Sun Explosions</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;XSM onboard Chandrayaan 2 observed the Sun during its minimum activity period in 2019-2020. Using this data, the researchers have for the first time detected a very large number of small scale explosions, called microflares, happening on the Sun. The physical parameters of the microflares have been calculated and their spatial location is also detected using various satellites. The study also gives evidence that such small scale heating events occur everywhere on the Sun and they contribute to coronal heating.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The outer atmosphere (the corona) of the Sun poses a long standing mystery regarding its temperature. The solar corona is composed of plasma (ionised gas) that emits strongly in X-rays and ultraviolet radiation. Its temperature exceeds a million degree kelvin, while the visible surface (the photosphere) is at 6000K. One of the theories to understand the so-called ‘coronal heating problem’ proposes the occurrence of a large number of small scale explosions (known as microflares and nanoflares) on the Sun. It is known that these flares are a manifestation of the magnetic field of the Sun that is generated in its interior. But the Sun’s magnetic field is not constant, it varies with an average period of 11 years, which is known as the solar cycle. Approximately every 11 years, the Sun’s magnetic field reverses. In other words, the north pole becomes the south pole, and vice versa. The flip of the poles is an end product of the slow evolution of Sun’s magnetic field over time. As the cycle progresses, all of the Sun’s activities related to its magnetic field (such as sunspots, flares, coronal mass ejections) builds to a maximum (when the magnetic field reverses). Then the Sun settles back down to a minimum, before the whole cycle starts again. The Sun was in a very low state of activity during the minima of solar cycle 24 covering the year 2019. It was in fact the quietest the Sun has been in the last 100 years!&lt;/p&gt;
-
-&lt;p&gt;During this quiet period of the Sun, at the mid of the year 2019, Chandrayaan 2 was launched with the several instruments/payloads to observed our moon and the Sun. Among them CLASS is an instrument to understand the abundance of elements present on the moon. But this requires knowledge of the X-rays emitted from the Sun. Thus, the orbiter also carried an instrument called Solar X-ray  Monitor (XSM). XSM observed the Sun during its deepest minima of solar cycle 24, covering the year 2019-2020 with a good temporal and energy resolution. Using observations during this time, Santosh Vadawale and his team has uncovered some fascinating information about the quiescent Sun. They have shown that during this period small scale transients, so-called microflares (smaller counterpart of the conventional solar flares) are occurring everywhere on the solar disk.&lt;/p&gt;
-
-&lt;p&gt;Solar flares are eruptions of electromagnetic radiation of all wavelengths from the Sun. They last from a few minutes to a few hours. Flares are classified depending on the energy they release during its peak in the soft X rays. Though the number of large flares increase with the progress of the solar cycle, this study suggested that small flares, called microflares, keep exploding on the Sun at all times. Though the definition of microflares has varied though the years due to the sensitivity of the instrument, in this study flares having a peak flux below 10&lt;sup&gt;-8&lt;/sup&gt; W/m&lt;sup&gt;2&lt;/sup&gt; are considered as microflares. During this period of extremely quiet solar corona when no active regions were present on the disk, Santosh Vadawale and team identified a total of 98 microflares from 76 days. The microflares are marked in the lightcurve (Figure 1). Most of the microflares were seen to behave similar to larger flares having a fast rise and a slow decay. Some microflares did not follow this behaviour possibly due to blending of multiple microflares or they intrinsically have a different origin. The temperature and emission measure of these microflares are determined. Temperature tells how hot the plasma gets during the explosion while the emission measure gives an idea about the density of plasma emitted at that particular temperature. The temperature is found to be between 3-6 MK and the emission measure is in the order of 10&lt;sup&gt;46&lt;/sup&gt; cm&lt;sup&gt;-3&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/mysteries_quiet_sun_explosions_lakshitha/image1_lakshitha.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: XSM lightcurve during the period of deepest solar minima of the past century. Red vertical lines indicate the detected microflares outside the conventional active regions.
-Image source: &lt;a href=&quot;https://arxiv.org/pdf/2103.16644.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;The XSM microflare locations are identified in the extreme ultraviolet images obtained from NASA’s ‘Solar Dynamics Observatory’ and from the X-ray images obtained by the Japanese HINODE X-ray Telescope. Most microflares were seen to be associated with X-ray Bright Points. ‘Solar Dynamics Observatory’ HMI magnetograms were used to analyse the corresponding photospheric magnetic field. They observed the microflares to be associated with magnetic bipolar regions having  weaker field strengths, which indicates magnetic reconnection happening at smaller scales (Figure 2).&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/mysteries_quiet_sun_explosions_lakshitha/image2_lakshitha.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: Identification of the location of one of the XSM microflares with the 1–5 keV light curve shown in panel (a). Flare location is marked on the SDO AIA 94 &amp;Aring; full disk image in (b) and a 5’ × 5’ cutout is shown in panel (c). Panel (d) shows AIA 94 &amp;Aring; light curve for the flaring pixels as shown in panel f. FeXVIII image of the flare location is shown in panel (e) and the map of pixels of the flaring plasma based on FeXVIII emission is given in panel (f). Available synoptic HMI magnetograms and XRT Be-thin images nearest to the flare peak time are shown in panels g-j.
-Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16644.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;This is also the first statistical survey of X-ray microflares outside active regions. By plotting the frequency distribution of microflares, the team has given evidence for the hypothesis that small scale heating events occur everywhere on the Sun and they contribute to coronal heating.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/2041-8213/abf0b0&quot;&gt; Observations Of The Quiet Sun During The Deepest Solar Minimum Of The PastCentury With Chandrayaan-2 XSM – Sub-A Class Microflares Outside Active Regions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Santosh Vadawale&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; N. P. S. Mithun, Biswajit Mondal, Aveek Sarkar, P.Janardhan, Bhuwan Joshi, Anil Bhardwaj, M. Shanmugam, Arpit R. Patel, Hitesh Kumar L. Adalja, Shiv Kumar Goyal, Tinkal Ladiya, Neeraj Kumar Tiwari, Nishant Singh and Sushil Kumar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Physical Research Laboratory, Ahmedabad, Gujarat-380 009, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-</description>
-        <pubDate>Sun, 17 Oct 2021 00:00:00 +0530</pubDate>
-        <link>/lakshitha_solar_article_corona</link>
-        <guid isPermaLink="true">/lakshitha_solar_article_corona</guid>
-        
-        <category>sun</category>
-        
-        <category>corona</category>
-        
-        <category>flares</category>
-        
-        <category>x-ray</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
         
       </item>
     

@@ -18,8 +18,6 @@ review: true
 >
 ---
 
-Most of the massive galaxies in the Universe host a supermassive black hole (SMBH) at their center. A minority among them are known as active galaxies and host active galactic nuclei (AGNs). These AGN are believed to be powered by the accretion of matter onto the  SMBH and the emission from such accreting systems can have important effects on the host galaxy.
-
 
 The central regions of such AGN are so compact to be spatially resolved by any current imaging techniques, with the exception of the broad-line region (BLR) being resolved in two nearby AGN using recent interferometric observations carried out on the [Very Large Telescope](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/) of the European Southern Observatory. The angular size of the majority of the AGN is so small to be resolved using existing interferometric facilities. Therefore,  alternative methods are needed to probe the central regions of AGN. One such technique is reverberation mapping, where time resolution is used as a proxy for spatial resolution.  This technique allows one to determine the mass of the SMBH, the extent of the BLR, and the dusty torus that surrounds the SMBH. This technique works on the principle of measuring the time delay between the flux variations in an ionizing source and the flux variations from the surrounding regions irradiated by the central ionization source.  Implementation of this method to find the extent of the BLR and subsequently measure the  SMBH mass is usually carried out by spectroscopic monitoring observations which is not only a tedious process but also consumes an enormous amount of telescope time.
 
@@ -42,13 +40,13 @@ An alternative to spectroscopic monitoring observations is the method of photome
 </p>
 
 <p align = "center">
-Figure 2: The BLR size- luminosity relation for Mrk 590 (red star) in his study. Also plotted is the same relation for all other objects whose BLR sizes are available through previous reverberation mapping campaigns. Image source <a href="https://arxiv.org/abs/2110.02055">: arXiv:2110.02055</a>
+Figure 2: The BLR size- luminosity relation for Mrk 590 (red star) in this study. Also plotted is the same relation for all other objects whose BLR sizes are available through previous reverberation mapping campaigns. Image source <a href="https://arxiv.org/abs/2110.02055">: arXiv:2110.02055</a>
 </p>
 
 
 
 From photometric observations carried out during July to December 2018, using a moderate size  60 cm robotic telescope located at the Cerro Tololo Inter-American Observatory, the research group was able to find the radius of the BLR of Mrk 590 to be 21.44<sup>+1.49</sup><sub style='position: relative; left: -0.0em;'>-2.11</sub> days. Using this lag, and an optical spectrum of the source obtained with the 8.2 m Subaru  Telescope, the research led by Dr. Amit Kumar Mandal was able to measure the mass of the SMBH in Mrk 590 as 1.96<sup>+0.15</sup><sub style='position: relative; left: -0.0em;'>-0.21</sub>
-x 10<sup>8</sup> M <sub>&#10687;</sub>.
+x 10<sup>8</sup> M <sub>&#10687;</sub>, where M <sub>&#10687;</sub>. is the mass of the Sun.
 
 
 **Original paper:**
