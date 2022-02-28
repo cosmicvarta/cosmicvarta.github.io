@@ -46,7 +46,7 @@ Figure 2: The BLR size- luminosity relation for Mrk 590 (red star) in this study
 
 
 From photometric observations carried out during July to December 2018, using a moderate size  60 cm robotic telescope located at the Cerro Tololo Inter-American Observatory, the research group was able to find the radius of the BLR of Mrk 590 to be 21.44<sup>+1.49</sup><sub style='position: relative; left: -0.0em;'>-2.11</sub> days. Using this lag, and an optical spectrum of the source obtained with the 8.2 m Subaru  Telescope, the research led by Dr. Amit Kumar Mandal was able to measure the mass of the SMBH in Mrk 590 as 1.96<sup>+0.15</sup><sub style='position: relative; left: -0.0em;'>-0.21</sub>
-x 10<sup>8</sup> M <sub>&#10687;</sub>, where M <sub>&#10687;</sub>. is the mass of the Sun.
+x 10<sup>8</sup> M <sub>&#10687;</sub>, where M <sub>&#10687;</sub> is the mass of the Sun.
 
 
 **Original paper:**

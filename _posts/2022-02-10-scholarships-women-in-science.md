@@ -7,8 +7,8 @@ categories: [General]
 tags: [popular, women-in science]
 class: [Featured]
 image: assets/images/scholarship_women.jpg
-featured: True
-hidden: True
+featured: False
+hidden: False
 review: true
 
 ---

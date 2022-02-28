@@ -5,9 +5,197 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 15 Feb 2022 15:21:40 +0530</pubDate>
-    <lastBuildDate>Tue, 15 Feb 2022 15:21:40 +0530</lastBuildDate>
+    <pubDate>Mon, 28 Feb 2022 20:13:56 +0530</pubDate>
+    <lastBuildDate>Mon, 28 Feb 2022 20:13:56 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Sir C. V. Raman: Raman effect and beyond</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;We Indians celebrate &lt;strong&gt;National Science Day&lt;/strong&gt; on &lt;strong&gt;28th February&lt;/strong&gt; each year to mark the &lt;strong&gt;discovery of the Raman effect&lt;/strong&gt; by &lt;strong&gt;Sir C. V. Raman&lt;/strong&gt;. Some of Raman’s discoveries like the &lt;strong&gt;Raman effect (for which he was awarded the Nobel prize), Raman-Nath theory, his studies on Brillouin scattering, the soft mode process&lt;/strong&gt;, etc. are so well known and outstanding, that they tend to overshadow many of his other elegant and significant contributions to the science. We attempt to highlight a few of Raman’s discoveries such that they &lt;strong&gt;portray a more complete picture of Sir C. V. Raman and his contributions&lt;/strong&gt;.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/cvraman.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;Sir Chandrasekhara Venkata Raman&lt;br /&gt;(7 November 1888 - 21 November 1970)
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Sir C. V. Raman&lt;/strong&gt; occupies a very special place in the &lt;strong&gt;scientific landscape of India&lt;/strong&gt;. His contributions to science were monumental both in &lt;strong&gt;scale and scope&lt;/strong&gt;. He also played a pivotal role in &lt;strong&gt;shaping Indian science institutions and redefined the way in which science was done in India&lt;/strong&gt;. &lt;strong&gt;Max Born&lt;/strong&gt;, a nobel prize winning german scientist who was instrumental in the development of the quantum mechanics, had this to say about Raman,&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+“There is no Indian physicist of the rank of Raman. No man can compare with him in vigor or intensity.”
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-curious-case-of-a-relentless-experimentalist&quot;&gt;The curious case of a relentless experimentalist&lt;/h2&gt;
+
+&lt;p&gt;It was the year 1921. You could find a turbaned Indian man on a ship returning from Europe to India, running all around, with his nicol prisms and cardboard tubes, collecting sea water from the depths of the ocean. The visual beauty of the Mediterranean ocean had bewitched him.
+Not so long ago, Lord Rayleigh had shown that the blue color of the sky is due to scattering of light by air molecules. However, according to Lord Rayleigh, the blue color of the deep ocean was due to reflection of the sky in the water.
+Raman showed, by a simple experiment he performed on board the ship, that the blue color of the ocean is due to molecular scattering and not just due to the reflection of the sky. He quenched the sky’s reflection with a nicol prism at the Brewster angle and found that the blue color &lt;i&gt;“far from being impoverished by suppression of the sky reflection was wonderfully improved thereby”&lt;/i&gt;.
+In 1922, he wrote the celebrated monograph &lt;a href=&quot;https://www.nature.com/articles/110505a0&quot;&gt;“Molecular Diffraction of Light”&lt;/a&gt; and so began the saga of a single-minded man pursuing his vision with a stamina and persistence never seen before, which eventually lead to the discovery of the Raman effect and many other outstanding contributions.&lt;/p&gt;
+
+&lt;h2 id=&quot;weak-fluorescence&quot;&gt;Weak Fluorescence&lt;/h2&gt;
+
+&lt;p&gt;In April 1923, KR Ramanathan, one of Raman’s students, studied the scattering of light in water. Sunlight was focussed on the liquid and the scattered light was observed through a system of complementary filters, each filter completely cutting off the light transmitted by the other. Nothing should have been observed if there had been no change of color during the scattering process. However, a track of scattered light could be observed showing there was indeed a change in the color of light during scattering. This was attributed to a “weak fluorescence” due to impurities which were believed to be present. Raman was not convinced with this explanation though.
+This “weak fluorescence” was not completely depolarised (as true fluorescence should have been) and the amount of depolarisation changed with wavelength.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-raman-effect&quot;&gt;THE RAMAN EFFECT&lt;/h2&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/raman_spectra.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;Sir C. V. Raman with the spectrograph (Top) and the first Raman spectra photographed (Bottom)
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/raman_spectra_news.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;Newspaper announcements of the discovery of the Raman effect
+&lt;/p&gt;
+
+&lt;p&gt;In December 1927, the so-called polarised “weak fluorescence” was observed again by S Venkateswaran in pure glycerine with greater intensity. Due to limited availability of S Venkateswaran, Raman persuaded KS Krishnan, one of his brightest students, to set up experiments to find “weak fluorescence” in various materials. Raman and Krishnan worked together continuously and detected the polarized “weak fluorescence” in all the liquids, gasses and solids they examined.
+According to Krishan, Raman personally verified all the liquids exhibited this phenomenon. Raman was so excited about the discovery that he rushed to Krishan’s home at night to inform him that their observations were related to the Kramers-Heisenberg process they were looking for all these years.
+A note was sent to &lt;strong&gt;the Nature journal&lt;/strong&gt; about the discovery. However, Raman continued his experiments, mostly by himself since the observed phenomenon was not yet fully understood.
+On &lt;strong&gt;February 28th 1928&lt;/strong&gt;, Raman examined the scattered light with a direct vision spectroscope and found that the classical and modified scattering appear in the spectrum as separate regions with a distinct dark region between them, a clear demonstration of a change of wavelength in scattering.
+The &lt;strong&gt;Nobel Prize in Physics 1930&lt;/strong&gt; was awarded to Raman &lt;strong&gt;“for his work on the scattering of light and for the discovery of the effect named after him.”&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/nobel_prize.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;Raman’s Nobel medal and citation
+&lt;/p&gt;
+
+&lt;h2 id=&quot;indian-musical-instruments-and-acoustics&quot;&gt;Indian musical instruments and acoustics&lt;/h2&gt;
+
+&lt;p&gt;Even before Raman started working on the scattering of Light, he was fascinated by waves… sound waves! Raman’s father, R Chandrasekhara Iyer was a teacher of Physics and Mathematics and a proficient violinist. That must have influenced him to take interest in the physics of sound waves. Raman himself played violin. At the age of 16, when he was a student of the Presidency college, Madars, Raman commenced his acoustic research.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/veena.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;Illustration of a Veena
+&lt;/p&gt;
+
+&lt;p&gt;He investigated whether his intuition that the veena produces the most exquisite musical sound is due to sentiment or has a sound physical basis. The bridge of the veena is so cunningly constructed that the Helmholtz law, which states that the position at which the string is plucked cannot be a node, is violated. Thus this instrument produces innumerable harmonics making its sound closest in harmonic content to the human voice.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/tabla.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;The mridangam and tabla produce a succession of musically harmonic overtones in the same way as any stringed instrument
+&lt;/p&gt;
+
+&lt;p&gt;A sharp ear with a keen interest in music can detect musical overtones in the sound of the mridangam and the tabla. Raman discovered that the heterogeneous loading of their membranes can produce harmonics - so that in the hands of the masters, the Indian drum is similar to a stringed instrument.&lt;/p&gt;
+
+&lt;h2 id=&quot;diffraction-of-light-by-ultrasonic-waves---raman-nath-theory&quot;&gt;Diffraction of light by ultrasonic waves - Raman-Nath Theory&lt;/h2&gt;
+
+&lt;p&gt;Light is a form of electromagnetic radiation. Young’s double slit experiment conclusively showed that the interference pattern can be obtained from interaction of light with matter. How about the interaction of light with matter waves!
+Raman-Nath theory explained a remarkable optical phenomenon that occurs when a parallel beam of light is diffracted by ultrasonic waves. In modern electro-optic instrumentation, the phenomenon of diffraction of light by ultrasonic waves is utilized in acousto-optic spectrometers, which analyze the electrical signal to obtain its power spectrum.&lt;/p&gt;
+
+&lt;h2 id=&quot;colors-in-nature&quot;&gt;Colors in Nature&lt;/h2&gt;
+
+&lt;p&gt;Raman always had a huge fascination for colors. In the institute that he had built for himself after retirement (now Raman Research Institute), he started building his collection of colorful minerals gathered from all across the world. The collection includes limestones, marbles, alabaster, gypsums, tourmalines, agates, quartzites, jades, amethysts, fluorites, micas, serpentines, iolites, malachites, lapis lazuli and feldspars. Raman studied several of the exquisite optical phenomena displayed by these minerals. Due to lack of basic facilities during the initial days of his new institute, he had to mostly rely on the beam of sunlight to explore the optics of these substances. Even with such simple setups, it is remarkable that he could extract a substantial amount of information about these minerals.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/mineral_01.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/mineral_02.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;Raman’s collection of minerals
+&lt;/p&gt;
+
+&lt;p&gt;Birds are a delight to watch! Raman was very curious about the optical characteristic and the color distribution in birds, since it was so different in different parts of the same bird, in different specimens and in different species that no single explanation would suffice. He would invoke every known optics concept to try to explain these phenomena. He published only one paper on this topic; however talked about it a lot. The interest was not just limited to birds though. “Birds, Beetles and Butterflies” was his favorite title for the talk. He gave dozens of lectures on this subject, each one unique!&lt;/p&gt;
+
+&lt;h2 id=&quot;diamond&quot;&gt;Diamond&lt;/h2&gt;
+
+&lt;p&gt;Soon after the discovery of the Raman effect, C Ramaswamy, Raman’s younger brother, asked him to suggest a research problem which he could pursue. Seeing the diamond ring of the newly wed Ramaswamy sported on his finger, Raman suggested the study of scattering in diamond. The famous 1332 cm&lt;sup&gt;-1&lt;/sup&gt; Raman line of diamond was discovered in the spectrum. Using a 140-carat diamond that was borrowed from the Maharaja of Darbhanga, Bhagavantam, one of Raman’s pupils confirmed this result and also recorded the complex luminescence spectrum around 4152 &lt;span&gt;Å&lt;/span&gt;.&lt;/p&gt;
+
+&lt;p&gt;Raman says this about diamonds,&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+“With their perfect geometric forms and their smooth lustrous beauty they look absolutely fresh from nature’s crucible, although actually taken from sedimentary formations a thousand million years old. The strongly marked curvature of the crystal faces and the smoothly rounded edges are a surprising feature of these crystals”
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/raman_diamond.PNG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;Sir C. V. Raman with beloved diamond
+&lt;/p&gt;
+
+&lt;p&gt;In continuation with his work on diamonds, he also carried out pioneering studies of the thermo-optic behavior of other solids, their photo-elastic and magneto-optic properties, fluorescence, second order Raman effect, infrared spectroscopy, etc.
+&lt;strong&gt;It is perhaps not well known that X-ray topography was discovered in this laboratory while studying the imperfections in diamond.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;He also worked on lattice dynamics, visual perception and many more topics and made contributions in those areas. It is almost impossible to give a complete description of his diverse research interests and achievements in a single article. More elaborate descriptions about the scientific works of Raman can be found in &lt;a href=&quot;https://ia803102.us.archive.org/6/items/cvramanpictorial00bang/cvramanpictorial00bang.pdf&quot;&gt;“C.V. Raman : A pictorial biography”&lt;/a&gt; a compilation by S Ramaseshan and C Ramachandra Rao.&lt;/p&gt;
+
+&lt;h2 id=&quot;pioneer-of-scientific-research-in-india&quot;&gt;Pioneer of scientific research in India&lt;/h2&gt;
+
+&lt;p&gt;Throughout his career, Raman played an integral role in the development of the Institutes that he was part of. During the early 1900s, most of the Indian universities were teaching universities. There was a general belief that new science can not grow in the country and all the young bright minds were sent abroad for ‘training’. Raman, setting his own example, &lt;strong&gt;cultivated the culture of scientific research in India.&lt;/strong&gt;
+He made an active effort to bring the best minds in the world, like Max Born, Schrodinger, Ewald, Peierls, Kuhn and many more to India. He thought, bringing such great minds could start a scientific movement in the country. Unfortunately, only Max Born could accept his invitation.
+Raman founded &lt;strong&gt;the Indian Academy of sciences&lt;/strong&gt; in &lt;strong&gt;1934&lt;/strong&gt; with the main objective of &lt;strong&gt;promoting progress and upholding the cause of science&lt;/strong&gt;. Central to this mission was to publish scientific monographs and journals through which research discoveries could be disseminated worldwide. The proceedings of the Indian Academy of sciences was considered as one of the top journals up until the 1950s. The annual meetings of the academy, so called &lt;strong&gt;‘traveling circus’&lt;/strong&gt;, were the main source of science encouragement in the country, with Raman usually being the &lt;strong&gt;star performer&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;Today, the academy publishes &lt;strong&gt;twelve journals&lt;/strong&gt; in different areas of science and science education, in addition to &lt;strong&gt;more than fifty books&lt;/strong&gt; that have been published over the years.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: All the images in the article are taken from &lt;a href=&quot;https://ia803102.us.archive.org/6/items/cvramanpictorial00bang/cvramanpictorial00bang.pdf&quot;&gt;“C.V. Raman : A pictorial biography”&lt;/a&gt; a compilation by S Ramaseshan and C Ramachandra Rao.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;acknowledgments&quot;&gt;Acknowledgments:&lt;/h2&gt;
+
+&lt;p&gt;We thank Suarabh Singh (Scientist, RRI Bangalore) for his timely inputs, K. Manjunath (Library, RRI Bangalore) and V. S. Naresh (Administration, RRI Bangalore) for allowing access to the RRI archives, without which this article would not have been possible. We also thank the RRI trust for their support.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ia803102.us.archive.org/6/items/cvramanpictorial00bang/cvramanpictorial00bang.pdf&quot;&gt;“C.V. Raman : A pictorial biography”&lt;/a&gt; - A compilation by S Ramaseshan and C Ramachandra Rao, published by Indian Academy of Sciences.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/110505a0&quot;&gt;“Molecular Diffraction of Light”&lt;/a&gt; - Published in the Nature journal in 1922&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dspace.rri.res.in/bitstream/2289/2193/1/1922%20Asutosh%20Mookerjee%20Silver%20Jubilee%20V2%20p179-185.pdf&quot;&gt;“The acoustical knowledge of the ancient Hindus”&lt;/a&gt; - Published in Asutosh Mookerjee Silver Jubilee Volume in 1922&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 28 Feb 2022 00:00:00 +0530</pubDate>
+        <link>/science_day_raman_ketan/</link>
+        <guid isPermaLink="true">/science_day_raman_ketan/</guid>
+        
+        <category>Featured</category>
+        
+        <category>General</category>
+        
+        <category>Indian National Science Day</category>
+        
+        
+        <category>Featured</category>
+        
+      </item>
     
       <item>
         <title>A list of scholarships for women in Science</title>
@@ -583,7 +771,7 @@ Figure 2: The BLR size- luminosity relation for Mrk 590 (red star) in this study
 &lt;/p&gt;
 
 &lt;p&gt;From photometric observations carried out during July to December 2018, using a moderate size  60 cm robotic telescope located at the Cerro Tololo Inter-American Observatory, the research group was able to find the radius of the BLR of Mrk 590 to be 21.44&lt;sup&gt;+1.49&lt;/sup&gt;&lt;sub style=&quot;position: relative; left: -0.0em;&quot;&gt;-2.11&lt;/sub&gt; days. Using this lag, and an optical spectrum of the source obtained with the 8.2 m Subaru  Telescope, the research led by Dr. Amit Kumar Mandal was able to measure the mass of the SMBH in Mrk 590 as 1.96&lt;sup&gt;+0.15&lt;/sup&gt;&lt;sub style=&quot;position: relative; left: -0.0em;&quot;&gt;-0.21&lt;/sub&gt;
-x 10&lt;sup&gt;8&lt;/sup&gt; M &lt;sub&gt;⦿&lt;/sub&gt;, where M &lt;sub&gt;⦿&lt;/sub&gt;. is the mass of the Sun.&lt;/p&gt;
+x 10&lt;sup&gt;8&lt;/sup&gt; M &lt;sub&gt;⦿&lt;/sub&gt;, where M &lt;sub&gt;⦿&lt;/sub&gt; is the mass of the Sun.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
 &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021MNRAS.508.5296M/abstract&quot;&gt; Changing look AGN Mrk 590: broad-line region and black hole mass from photometric reverberation mapping&lt;/a&gt;&lt;/p&gt;
@@ -1417,129 +1605,6 @@ The reciprocal of H0 is the Hubble time. This constant term H0 help us to estima
         
         
         <category>High Energy Astrophysical Phenomena</category>
-        
-      </item>
-    
-      <item>
-        <title>Magnetic Field Measurements of the Solar Corona by Aditya L1</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;One of the science goals of the Aditya L1 is to map the coronal magnetic field topology. The infrared channel of the VELC payload of the Aditya L1 is equipped with a spectropolarimeter to perform full stokes spectropolarimetric observations in the Fe XIII 1074.7 nm line to measure the vector magnetic field. This article discusses the design and the working of the spectropolarimeter of the VELC. This article also discusses the challenges associated with the spectropolarimeter of the VELC, which are to optimize the data volume to be sent to the ground as no onboard data processing is planned, and the other is to account for the change in polarimeter characteristic due to mismatch in retarder rotation frequency and the length of signal detection time.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.isro.gov.in/aditya-l1-first-indian-mission-to-study-sun&quot;&gt;Aditya L1&lt;/a&gt; is the first Indian space-based Solar observatory that will continuously observe the Sun to study coronal heating, solar wind acceleration, coronal magnetometry, origin, and monitoring of near-UV solar radiation. It is equipped with seven payloads. One of the payloads is Visible Emission Line Coronagraph (VELC), developed by the &lt;a href=&quot;https://www.iiap.res.in/&quot;&gt;Indian Institute of Astrophysics (IIA)&lt;/a&gt; to study the diagnostic parameters of solar corona and dynamics and origin of Coronal Mass Ejections and magnetic field measurement of the solar corona.&lt;/p&gt;
-
-&lt;p&gt;A coronagraph is a telescopic instrument that blocks the light of a star so that the nearby objects which would otherwise be hidden in the star’s glare be resolved. A solar coronagraph occults the bright solar disc to resolve the corona. The VELC is equipped with a spectrograph as a backend instrument. A spectrograph disperses the polychromatic light and records the intensities over a range of wavelengths called the spectrum. We study the properties of the spectrum to estimate the plasma parameters like velocity, electron density, temperature, etc.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/coronal_magnetic_field_measurement_velc_aditya_l1_harsh_images/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 1: A &lt;a href=&quot;https://en.wikipedia.org/wiki/Large_Angle_and_Spectrometric_Coronagraph&quot;&gt;LASCO&lt;/a&gt; C2 Coronagraph. LASCO consists of three coronagraphs (C1/C2/C3) onboard NASA’s Solar and Heliospheric Observatory satellite.&lt;br /&gt;
-Image courtesy: &lt;a href=&quot;https://www.swpc.noaa.gov/products/lasco-coronagraph&quot;&gt;NASA&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The VELC is designed to record spectra simultaneously in three spectral lines at 530.3 nm due to Fe XIV (green channel), 789.2 nm due to Fe XI (red channel), and 1074.7 nm due to Fe XIII (IR channel). It is a multi-slit spectrograph (4 equispaced slits) covering the FOV up to 1.5R⊙, where R⊙ is the radius of the Sun. The IR channel is equipped with a polarimeter to carry out full Stokes polarimetric observations of the Fe XIII line. The &lt;a href=&quot;https://en.wikipedia.org/wiki/Polarization_(waves)&quot;&gt;polarisation&lt;/a&gt; of electromagnetic waves refers to the path or the locus of the electric field vector. If the electric field oscillates in a single direction, it is called linear polarisation. If the electric field rotates in a circular plane as the light travels forward, it is called circular polarisation. The plasma’s magnetic field information is encoded in the polarisation of the spectral lines via the Zeeman effect and the Hanle effect.&lt;/p&gt;
-
-&lt;p&gt;The &lt;a href=&quot;http://hyperphysics.phy-astr.gsu.edu/hbase/quantum/zeeman.html&quot;&gt;Zeeman effect&lt;/a&gt; is the splitting of the spectral line in the presence of an external magnetic field. The Zeeman splitting of the spectral line gives rise to three spectral components, &lt;a href=&quot;http://sun.stanford.edu/~sasha/PHYS780/SOLAR_PHYSICS/L5/Lecture_05_PHYS780.pdf&quot;&gt;𝞼+, 𝞼-, and 𝜋 components&lt;/a&gt;, which are right circularly polarised, left circularly polarised, and linearly polarised, respectively. If the magnetic field is along the line of sight, in that case, only the 𝞼+, 𝞼- components are observed. If the magnetic field is perpendicular to the line of sight (LOS), all three components are observed as linearly polarised. Also, the separation between these components, an observable quantity, is directly related to the magnitude of the magnetic field. Hence by measuring the polarisation in spectral lines, we can estimate both the magnitude and the direction of the magnetic field in the solar atmosphere.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/coronal_magnetic_field_measurement_velc_aditya_l1_harsh_images/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 2: Subfigure (a) shows the break in the degeneracy between magnetic sublevels in the presence of an external magnetic field, and this break or split of the levels produces three spectral components (𝞼+, 𝞼-, and 𝜋). In subfigure (b), we see if the magnetic field is perpendicular to LOS, then 𝞼+, 𝞼-, and 𝜋 components are observed as linearly polarized. In the subfigure (c), the magnetic field direction is into the plane of the screen (i.e., along the line of sight), therefore only 𝞼+, 𝞼- components are observed as right and left circularly polarized respectively.&lt;br /&gt;
-Image courtesy: Author
-&lt;/p&gt;
-
-&lt;p&gt;The Hanle effect is observed when the splitting or separation between energy levels of a spectral line, in the presence of an external magnetic field, is less than or equal to the natural width of that line. The anisotropic radiation coming from the underlying photosphere or chromosphere gets scattered by the atoms in the upper layers like the transition region and corona (TR-corona). This scattering process leads to linear polarization of the emitted spectral lines. This is valid even when there is no external magnetic field. Now, in the weak magnetic field regions such as TR-corona (where expected field strength is 1 to 300 Gauss), there will be a modification of the scattering or linear polarization as well as rotation of the plane of linear polarization of the emitted lines. This effect of modification in the line polarization is called the Hanle effect. By measuring this change in the polarization of the lines, the weak magnetic field can be estimated in the TR-corona of the sun.&lt;/p&gt;
-
-&lt;p&gt;As described above, we can estimate the magnetic field in the solar atmosphere by measuring the polarization in spectral lines. A polarimeter is an instrument used to measure polarization. A polarimeter consists of a polarization modulator and a linear polarizer/analyzer. First, the unpolarized light from the Sun enters the polarization modulator which changes the state of input polarization. Then the polarized light from the modulator enters the linear polarizer which cuts the intensity of light perpendicular to its orientation. Hence, we measure at the detector the intensity allowed by the linear polarizer, which in turn depends on the output from the polarization modulator, which in turn depends on the polarization state of the input light of the Sun. By measuring at the detector the output intensity of the incident light of the Sun through the polarimeter and knowing the characteristics of the polarimeter, we can estimate the input polarization.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/coronal_magnetic_field_measurement_velc_aditya_l1_harsh_images/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 3: Figure showing a Retarder acting as a Polarization Modulator and Linear polarizer acting as an analyzer.&lt;br /&gt;
-Image courtesy: &lt;a href=&quot;https://www.cambridge.org/core/books/introduction-to-spectropolarimetry/78F63E2346A17DA2D401DF3A7D180F49&quot;&gt;Introduction to Spectropolarimetry&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The VELC polarimeter consists of a continuously rotating wave plate (RWP) followed by a polarizing beam displacer (PBD) as the polarization analyzer. The PBD produces two beams that are orthogonally polarized, which are simultaneously recorded by the detector. This setup is commonly known as a dual-beam polarimeter. The main advantage of dual-beam setup is to reduce the spurious polarisation, i.e., cross-talk from Stokes I to Q, U, and V. The light enters the polarimeter setup (RWP + PBD), and a frame is recorded on the detector. Then RWP is rotated by an angle, and another frame is recorded. To measure the four Stokes parameters (I, Q, U, and V), a minimum of 4 such measurements, called samples, are required at different orientations of RWP. This is called modulation of the polarization state of light. One modulation cycle constitutes 4 samples per half rotation of the wave plate, so one complete rotation of the RWP provides 2 modulation cycles.&lt;/p&gt;
-
-&lt;p&gt;Due to the limited number of photons in the solar corona, large integration times are required to build the required signal-to-noise ratio. &lt;a href=&quot;https://en.wikipedia.org/wiki/Signal-to-noise_ratio&quot;&gt;Signal to noise ratio&lt;/a&gt; (SNR) is the ratio of the desired signal strength to the background noise level. When SNR is low, we need to add the signal for many time intervals (integration time), which adds up the signal and reduces or cancels the noise as the noise is assumed random. It poses several challenges concerning the polarimeter of the VELC. One of them is the increased data volume to be sent to the ground station as no on-board data processing is planned. The second is the change in the polarimeter characteristic. In typical polarimeters, first RWP rotates, then the detector frame is recorded, However, in the case of VELC, the RWP rotates, and the detector records independently of each other. There is a mismatch between the retarder’s rotation frequency and the length of the signal detection time, which causes a change in the characteristic of the polarimeter after one cycle of measurements. Nagaraju and the team discuss the above problems and suggest a potential solution to optimize the data volume and account for the change in polarimeter characteristics in successive modulation cycles.&lt;/p&gt;
-
-&lt;p&gt;To optimize the data volume, Nagaraju and the team discuss the optimal efficiencies of measuring Stokes parameters as a function of the number of samples per half rotation (n) of the wave plate (RWP) and provide efficiencies when the retarder’s rotation frequency does not match the signal detection time. They find that efficiency slowly increases with an increase in the number of samples per half rotation of the wave plate. They find that the increase in efficiency of measuring Stokes I and Stokes U is close to 10% for the case of n=5 to n=95, for Stokes Q, it is about 8%, and for Stokes V, it is about 4%. However, as the number of samples per half rotation will increase from n=5 to n=95, the data size will proportionally increase, and this will offset any gains in efficiency. They estimate the data size of 3.14 Mb per second for n=4 to 74.19 Mb per second for n=95. Hence they suggest that the number of modulation steps or the samples per half rotation be chosen by considering the data volume and other measurement aspects.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/coronal_magnetic_field_measurement_velc_aditya_l1_harsh_images/image4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Image courtesy: &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApOpt..60.8145N/abstract&quot;&gt;Original article&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Nagaraju and the team discuss the change in the elements of polarimeter characteristics with time to understand the effect of the mismatch between retarder rotation frequency and signal detection time. They model this change for the different number of samples per half rotation of the wave plate. They find a cyclical/periodic variation in the elements with time. They find that the larger the time difference between the retarder rotation frequency and signal detection time, the faster is the variation in the elements of polarimeter characteristics with time. Despite the significant variation in individual elements, the efficiency of measuring Stokes parameters does not change significantly throughout integration time. They suggest this change in the elements of the polarimeter characteristics can be taken into account through calibration. They notice that the elements corresponding to measuring Stokes Q and Stokes U vary two times faster than elements corresponding to measuring Stokes V. Hence, recording the calibration data to cover one entire cycle within which elements of polarimeter characteristics corresponding to measuring Stokes V complete one period of variation may suffice.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/coronal_magnetic_field_measurement_velc_aditya_l1_harsh_images/image5.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Image courtesy: &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApOpt..60.8145N/abstract&quot;&gt;Original article&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Hence, they find that the data volume can be optimized by choosing an appropriate number of samples per half rotation of the wave plate (RWP) without significantly affecting the efficiency of the Stokes parameters. The variation of elements of polarimeter characteristic with time is also addressed due to a mismatch between the retarder rotation frequency and signal detection time, and a potential solution is suggested.&lt;/p&gt;
-
-&lt;h2 id=&quot;acknowledgment&quot;&gt;Acknowledgment:&lt;/h2&gt;
-&lt;p&gt;I would like to thank Raveena Khan, JRF, IIA, for helping simplify the explanation of the Hanle effect and doing the the editing.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApOpt..60.8145N/abstract&quot; target=&quot;_blank&quot;&gt; Spectropolarimeter on board the Aditya-L1: polarization modulation and demodulation&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; K. Nagaraju&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; B. Raghavendra Prasad, Bhavana S. Hegde, Suresh Venkata Narra, D. Utkarsha, Amit Kumar, and Varun Kumar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Astrophysics, Bengaluru&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-</description>
-        <pubDate>Wed, 17 Nov 2021 00:00:00 +0530</pubDate>
-        <link>/coronal_magnetic_field_measurement_velc_aditya_l1_harsh/</link>
-        <guid isPermaLink="true">/coronal_magnetic_field_measurement_velc_aditya_l1_harsh/</guid>
-        
-        <category>Spectropolarimeter</category>
-        
-        <category>Aditya-L1</category>
-        
-        <category>VELC</category>
-        
-        
-        <category>Instrumentation and Methods for Astrophysics</category>
         
       </item>
     
