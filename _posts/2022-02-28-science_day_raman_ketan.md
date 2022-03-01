@@ -149,7 +149,7 @@ Today, the academy publishes **twelve journals** in different areas of science a
 
 ## Acknowledgments:
 
-We thank Suarabh Singh (Scientist, RRI Bangalore) for his timely inputs, K. Manjunath (Library, RRI Bangalore) and V. S. Naresh (Administration, RRI Bangalore) for allowing access to the RRI archives, without which this article would not have been possible. We also thank the RRI trust for their support.
+We thank Saurabh Singh (Scientist, RRI Bangalore) for his timely inputs, K. Manjunath (Library, RRI Bangalore) and V. S. Naresh (Administration, RRI Bangalore) for allowing access to the RRI archives, without which this article would not have been possible. We also thank the RRI trust for their support.
 
 <a href=""></a>
 
