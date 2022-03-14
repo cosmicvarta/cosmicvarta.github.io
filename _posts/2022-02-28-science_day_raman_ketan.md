@@ -2,7 +2,7 @@
 layout: post
 title:  "Sir C. V. Raman: Raman effect and beyond"
 author: Ketan
-permalink:
+permalink:science-day-raman-ketan
 categories: [Featured]
 tags: [Featured, General, Indian National Science Day]
 class: [Featured]
@@ -72,7 +72,7 @@ The **Nobel Prize in Physics 1930** was awarded to Raman **"for his work on the 
 
 ## Indian musical instruments and acoustics
 
-Even before Raman started working on the scattering of Light, he was fascinated by waves… sound waves! Raman’s father, R Chandrasekhara Iyer was a teacher of Physics and Mathematics and a proficient violinist. That must have influenced him to take interest in the physics of sound waves. Raman himself played violin. At the age of 16, when he was a student of the Presidency college, Madars, Raman commenced his acoustic research.
+Even before Raman started working on the scattering of Light, he was fascinated by waves… sound waves! Raman’s father, R Chandrasekhara Iyer was a teacher of Physics and Mathematics and a proficient violinist. That must have influenced him to take interest in the physics of sound waves. Raman himself played violin. At the age of 16, when he was a student of the Presidency college, Madras, Raman commenced his acoustic research.
 
 <p align="center">
   <img src="../assets/images/science_day_raman_ketan_images/veena.PNG">
