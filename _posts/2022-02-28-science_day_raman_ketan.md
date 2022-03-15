@@ -10,6 +10,7 @@ image: assets/images/science_day_raman_ketan_images/cvraman.PNG
 featured: True
 hidden: True
 review: False
+
 ---
 > We Indians celebrate **National Science Day** on **28th February** each year to mark the **discovery of the Raman effect** by **Sir C. V. Raman**. Some of Raman’s discoveries like the **Raman effect (for which he was awarded the Nobel prize), Raman-Nath theory, his studies on Brillouin scattering, the soft mode process**, etc. are so well known and outstanding, that they tend to overshadow many of his other elegant and significant contributions to the science. We attempt to highlight a few of Raman’s discoveries such that they **portray a more complete picture of Sir C. V. Raman and his contributions**.
 >

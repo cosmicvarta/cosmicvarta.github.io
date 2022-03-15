@@ -88,7 +88,7 @@ The video of the meeting is available below:
 - [IISc open positions](https://iisc.ac.in/positions-open/)
 - [ICTS internship opportunities](https://www.icts.res.in/opportunities/graduate-studies/summer)
 - [ISRO internship opportunities](https://www.isro.gov.in/research-and-academia-interface/internships-projects-training)
-- [ISRO young scientist scheme](https://www.isro.gov.in/research-and-academia-interface/internships-projects-training)
+- [ISRO YUVIKA - YUva VIgyani KAryakram (Young Scientist Programme)](https://www.isro.gov.in/capacity-building/yuvika-yuva-vigyani-karyakram-young-scientist-programme)
 - [KVPY scheme](http://www.kvpy.iisc.ernet.in/main/index.htm)
 - [IAS fellowship](https://webjapps.ias.ac.in/fellowship2022/index.html)
 
