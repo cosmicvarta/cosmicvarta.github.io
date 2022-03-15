@@ -2,7 +2,7 @@
 layout: post
 title:  "Sir C. V. Raman: Raman effect and beyond"
 author: Ketan
-permalink:science-day-raman-ketan
+permalink: science-day-raman-ketan
 categories: [Featured]
 tags: [Featured, General, Indian National Science Day]
 class: [Featured]
