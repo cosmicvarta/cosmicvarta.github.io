@@ -1,4 +1,4 @@
-I"ÿ<p>*As part of the National Science day celebrations, the Indian Institute of Astrophysics organised a panel discussion titled- Bengaluru The Astronomy City. The focus of the meeting was to educate the young students regarding various opportunities in astronomy and astrophysics at all educational levels.**</p>
+I"6"<p><em>As part of the National Science day celebrations, the Indian Institute of Astrophysics organised a panel discussion titled- Bengaluru The Astronomy City. The focus of the meeting was to educate the young students regarding various opportunities in astronomy and astrophysics at all educational levels.</em></p>
 
 <p>A total of 10 institutions located in Bengaluru took part in the event namely:</p>
 
@@ -22,7 +22,7 @@ The representatives introduced themselves, about their career paths and how they
   <img src="../assets/images/blr.png" />
 </p>
 
-<p align="center"> A screenshot taken during thr meeting.
+<p align="center"> The participants of the discussion panel. Image courtesy: author.
 </p>
 
 <p>After the introductions were over, Sonali Sachdeva from RRI gave a presentation covering opportunities for students as well as interested minds at almost all educational levels. The initial slides focussed on the opportunities in astronomy for school students. For instance, the following opportunities were presented for school students:</p>
@@ -42,7 +42,10 @@ The representatives introduced themselves, about their career paths and how they
 
 <p>The next part of the discussion focused on the opportunities for prospective Ph.D. students.</p>
 
-<p><strong>Bengaluru probably has the highest number of astronomy Ph.D. students in the country.</strong></p>
+<blockquote>
+  <p>Bengaluru probably has the highest number of astronomy Ph.D. students in the country.</p>
+
+</blockquote>
 
 <p>All the participant research institutes and universities offer Ph.D. programs for students from both science and engineering backgrounds. Students are admitted through national eligibility tests such as GATE/JEST/NET and/or through their own entrance exams, followed by an interview. These researchers can also carry out their research in collaboration with multiple universities/institutes.</p>
 
@@ -70,10 +73,33 @@ The representatives introduced themselves, about their career paths and how they
   <li><a href="https://iisc.ac.in/positions-open/">IISc open positions</a></li>
   <li><a href="https://www.icts.res.in/opportunities/graduate-studies/summer">ICTS internship opportunities</a></li>
   <li><a href="https://www.isro.gov.in/research-and-academia-interface/internships-projects-training">ISRO internship opportunities</a></li>
-  <li><a href="https://www.isro.gov.in/research-and-academia-interface/internships-projects-training">ISRO young scientist scheme</a></li>
+  <li><a href="https://www.isro.gov.in/capacity-building/yuvika-yuva-vigyani-karyakram-young-scientist-programme">ISRO YUVIKA - YUva VIgyani KAryakram (Young Scientist Programme)</a></li>
   <li><a href="http://www.kvpy.iisc.ernet.in/main/index.htm">KVPY scheme</a></li>
   <li><a href="https://webjapps.ias.ac.in/fellowship2022/index.html">IAS fellowship</a></li>
 </ul>
 
 <p>For more information regarding the career opportunities, please also visit the <a href="https://cosmicvarta.in/career_help">career help</a> section in our website.</p>
+
+<hr />
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 :ET

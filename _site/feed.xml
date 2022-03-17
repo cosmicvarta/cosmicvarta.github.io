@@ -5,9 +5,142 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 14 Mar 2022 20:13:25 +0530</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2022 20:13:25 +0530</lastBuildDate>
+    <pubDate>Thu, 17 Mar 2022 11:37:21 +0530</pubDate>
+    <lastBuildDate>Thu, 17 Mar 2022 11:37:21 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Identifying emission-line stars from a large spectroscopic database</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;We present a catalog of 3339 hot emission-line stars (ELS) identified from 451,695 O, B, and A type spectra, provided by the LAMOST DR5 release. We developed an automated python routine that identified 5437 spectra having a peak between 6561 and 6568~Å. False detections and bad spectra were removed, leaving 4138 good emission-line spectra of 3339 unique ELS. We re-estimated the spectral type of 3307 spectra as the LAMOST Stellar Parameter Pipeline (LASP) did not provide accurate spectral types for these emission-line spectra. As Herbig Ae/Be stars show higher excess in near-infrared and mid-infrared wavelengths than Classical Ae/Be stars, we used 2MASS and WISE photometry to distinguish them. Finally, we report 1089 Classical Be, 233 Classical Ae, and 56 Herbig Ae/Be stars identified from the LAMOST DR5. In addition, 928 B[em]/A[em] stars and 240 CAe/CBe potential candidates are identified. From our sample of 3339 hot emission-line stars, 2716 ELS identified in this work do not have any record in the SIMBAD database and they can be considered as new detections. Identification of such a large homogeneous set of emission-line spectra will help the community to study the emission phenomenon in detail without worrying about the inherent biases when compiling from various sources.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To understand what emission line stars (ELS) are, one needs to know about the spectrum of a star. Each star has its own unique spectrum, analogous to the fingerprint of humans. A spectrum can be used to identify the properties of the star such as its temperature, chemical composition and (indirect) physical constraints. So clearly, spectroscopy of cosmic objects can reveal lots of information about the universe.&lt;/p&gt;
+
+&lt;p&gt;Now, let us ask a more basic question. What is a spectrum? To understand this, imagine a rainbow on a rainy day. A rainbow is formed when the sunlight passes through the water molecules suspended in the air after the rain. As the sunlight moves through a spherical water droplet, it gets dispersed into various colours ranging from Violet to Red. This is a real-life example of spectroscopy. The light from a stellar object, when passed through a slit or a prism (the optical equivalent of the spherical water droplet), gets split into various colours. If the light from the star is as ideal as white light is, which is made up of all the colors with equal intensity, we would get a beautiful color gradient with all colors shining equally. However, the universe is not that simple. The spectrum of a star will have bright and dark lines, similar to the way we have ridges and valleys in our fingerprint (Figure 1).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Figure 1:  A representative high-resolution spectrum showing the visible light of alpha Boo. The black lines in this spectrum are caused due to various metallic elements present in the photosphere of the cool giant alpha Boo.
+Image source:&lt;a hrefsridharan1_emission_stars_database=&quot;https://noirlab.edu/public/images/noao-arct/&quot;&gt;N.A.Sharp, NOIRLab/NSF/AURA)
+ &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;These bright and dark lines (or emission and absorption lines) are the most crucial information of the spectrum. They tell us about the atomic and molecular processes going on in the top most layer of the star which is known as the photosphere.&lt;/p&gt;
+
+&lt;p&gt;An absorption line is formed in the spectrum when light of a certain wavelength is absorbed by an atom or a molecule. Similarly, an emission line is formed when light of a certain wavelength is emitted (or radiated) by an atom or a molecule. To put it simply, when an atom ‘absorbs’ light, it goes into a higher energy level and when it ‘emits’ light, it comes down to a lower energy level as shown in Figure 2.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Figure 2: The above plots show the absorption and emission process as caused by the excitation and de-excitation of electrons around the nucleus.
+Image source:&lt;a href=&quot;https://www.webassign.net/labsgraceperiod/ucscgencheml1/lab_6/manual.html&quot;&gt;webassign &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;The spectrum of a star is the information that gives us the intensity at each wavelength of light. An observed stellar spectrum consists of the blackbody continuum, absorption lines and in some cases, emission lines. The blackbody continuum in the visible and infrared region is due to the thermal emission of the star and the absorption lines are seen because the ‘cooler’ photosphere absorbs light at certain wavelengths. These two components are seen in the spectrum of all the stars because it arises due to the basic structure of stars. Now let us come to the topic of this article, ELS. Emission lines arise from a hot, gaseous region around the star that is formed due to some special nature of the star. The type of stars that show emission lines in their spectrum are called Emission line stars (ELS). You can call them the rebellious group of star families, who want to be unique by showing emission lines.&lt;/p&gt;
+
+&lt;p&gt;There are various types of ELS known to us today (and its analogues)
+Pre-main sequence (PMS) stars - young, naughty teenagers creating chaos
+Classical Be stars - people with midlife crisis
+Wolf-Rayet stars - old, wise people
+Even though ELS comprises stars in various evolutionary phases, in most cases the emission arises from the equatorial circumstellar disc which is made of gas and dust. The formation mechanism of circumstellar disc varies between different classes. For example, in PMS stars the circumstellar disc is the accretion disc through which material is added to the star from its surroundings. In Classical Be stars, the disc is formed due to rapid spinning of the star which pushes away material from the star to its surroundings. So it should be noted that even though we put stars with emission lines into a single category of ELS, they are very different from each other. Hence, we need to classify them based on their photometric properties.&lt;/p&gt;
+
+&lt;h2 id=&quot;aim&quot;&gt;Aim:&lt;/h2&gt;
+
+&lt;p&gt;As large-scale spectroscopic surveys collect a large number of spectra every night, we need to identify special classes of stars such as ELS and classify them into different categories for the research community to study various emission mechanisms. This is the motivation for the work titled “Discovery of 2716 hot emission-line stars from LAMOST DR5’’.&lt;/p&gt;
+
+&lt;h2 id=&quot;data&quot;&gt;Data:&lt;/h2&gt;
+
+&lt;p&gt;The Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) is a multi-object telescope that can observe around 4000 stars in one night. By its 5th data release (DR5), it had accumulated around 9 million spectra from 2011-2017 which are available to the community. We made use of this huge database to increase the number of ELS stars known to us. One interesting fact about LAMOST is that the majority of  observed stars are in the Galactic anticenter direction. This is particularly important because the earlier studies which have identified ELS have not looked into this direction of the sky. So this opened up an opportunity to study ELS in previously less explored parts of the sky.&lt;/p&gt;
+
+&lt;h2 id=&quot;analysis&quot;&gt;Analysis:&lt;/h2&gt;
+
+&lt;p&gt;In this work, we took O, B and A type stars (Teff ranging from 30000 K to 10000 K) from the LAMOST DR5 database (for an explanation of different spectral types, look into Anusha R’s CAe article). We restricted ourselves to these spectral types because the main aim of this was to identify new Classical Be/Ae and Herbig Be/Ae stars. Once we removed bad quality (Signal-to-noise ratio (SNR) &amp;lt; 10)&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; spectra from our list, we used an open-source python package called ‘scipy.signal’ to identify emission peaks. The entire definition of ELS rests on the presence of one of the most commonly found emission line, Hα at 6563 Å. We searched and picked out spectra with the Hα line anywhere between 6561 Å and 6568 Å. This range was selected to take into effect the instrumental calibration defect (if any) and the doppler shift that may be seen in a few stars.&lt;/p&gt;
+
+&lt;p&gt;We identified 4138 spectra that belong to 3339 unique ELS stars from our analysis. To classify stars into different categories such as CBeAe or HBeAe, we need an accurate spectral type for each spectrum. The LAMOST automated pipeline does provide a spectral type for each spectrum which did not turn out to be accurate due to the presence of emission lines. This introduced the necessity for us to re-estimate spectral type for each spectrum. We followed a technique called template matching. We made use of the MILES stellar spectral library for this purpose. For each spectrum, we matched the templates from MILES library to our target spectrum and identified the best fit. Then the spectral type of the best fit template was assigned to the target spectrum.&lt;/p&gt;
+
+&lt;p&gt;In order to differentiate between Classical Be/Ae and Herbig Be/Ae stars, we made use of the inherent difference between them known as Infrared (IR) excess. Herbig Be/Ae stars, being young stars, have lots of gas and dust around them in addition to a circumstellar disc. This extra gas and dust reprocesses the energy from the star and emits them in infrared wavelengths. Due to this, the HAeBe stars are brighter in IR wavelengths than CBe stars. Hence we use the photometric data&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; available to us to differentiate them based on colors and spectral indices. The breakup of various classes identified in this work is given in the table below.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;  Table 1: Statistical break-up of various classes identified in this work.
+Image source:&lt;a href=&quot;https://arxiv.org/abs/2108.08025&quot;&gt;Table 1 of the review paper) &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;We visually examined the Hα line features belonging to each class and reported their statistics. Finally, a representative spectrum of major classes is presented in Figure 3.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Figure 3: This plot shows a representative spectrum belonging to each of Oe*, CBe, CAe, HBe, HAe, B[em], and A[em] classes. Red dotted lines denote [NII] lines at 6548 and 6584 ̊A and green solid lines denote [SII] lines at 6717 and 6731 ̊A. The spectra are normalized using laspec open source python package.
+
+Image source:&lt;a href=&quot;https://arxiv.org/abs/2108.08025&quot;&gt; Figure 7 of the review paper &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;h2 id=&quot;future-scope&quot;&gt;Future Scope:&lt;/h2&gt;
+
+&lt;p&gt;This research work identifies new ELS stars from a large database and classifies them into various categories based on their photometric properties. As the data collection capabilities increase day-to-day, the need for such works increases. We have multiple follow-up works in the fray which uses the LAMOST database effectively in identifying and study the properties of CBeAe and HAeBe stars in more detail.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021arXiv210808025B/abstract&quot;&gt; Discovery of 2716 hot emission-line stars from LAMOST DR5 &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Shridharan Baskaran&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Blesson Mathew, Nidhi S, Anusha R, Arun R, Sreeja S. Kartha, Yerra Bharat Kumar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; CHRIST (Deemed to be University), Bangalore&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Signal-to-noise ratio or SNR is a quantity which defines the quality of a spectrum. More the SNR, the better the spectrum. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Photometry (in astronomical context) means measurement of brightness of a star. The brightness of a star observed through filters of different wavelengths can be used to decode information about the star. &lt;a href=&quot;https://en.wikipedia.org/wiki/Photometry_(astronomy)&quot;&gt;Reference&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Wed, 16 Mar 2022 00:00:00 +0530</pubDate>
+        <link>/sridharan_emission_stars_database</link>
+        <guid isPermaLink="true">/sridharan_emission_stars_database</guid>
+        
+        <category>Emission-line stars</category>
+        
+        <category>Catalog</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
     
       <item>
         <title>Bengaluru: The Astronomy City</title>
@@ -86,12 +219,35 @@ The representatives introduced themselves, about their career paths and how they
   &lt;li&gt;&lt;a href=&quot;https://iisc.ac.in/positions-open/&quot;&gt;IISc open positions&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.icts.res.in/opportunities/graduate-studies/summer&quot;&gt;ICTS internship opportunities&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://www.isro.gov.in/research-and-academia-interface/internships-projects-training&quot;&gt;ISRO internship opportunities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.isro.gov.in/research-and-academia-interface/internships-projects-training&quot;&gt;ISRO young scientist scheme&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.isro.gov.in/capacity-building/yuvika-yuva-vigyani-karyakram-young-scientist-programme&quot;&gt;ISRO YUVIKA - YUva VIgyani KAryakram (Young Scientist Programme)&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;http://www.kvpy.iisc.ernet.in/main/index.htm&quot;&gt;KVPY scheme&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;https://webjapps.ias.ac.in/fellowship2022/index.html&quot;&gt;IAS fellowship&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;For more information regarding the career opportunities, please also visit the &lt;a href=&quot;https://cosmicvarta.in/career_help&quot;&gt;career help&lt;/a&gt; section in our website.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 </description>
         <pubDate>Mon, 14 Mar 2022 00:00:00 +0530</pubDate>
         <link>/bangalore-astronomy-city</link>
@@ -101,6 +257,94 @@ The representatives introduced themselves, about their career paths and how they
         
         
         <category>General</category>
+        
+      </item>
+    
+      <item>
+        <title>Understanding the evolution of the binary star system ‘Cen X-3’: New measurements of the spin and orbital parameters of the system </title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Researchers from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, present the new measurements of the spin and orbital parameters of the binary star system ‘Cen X-3’. This work is a step forward in understanding the complex dynamics of the binary star systems and their evolution.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;‘Cen X-3’&lt;/strong&gt; is a binary star system observed in the constellation &lt;em&gt;‘Centaurus’&lt;/em&gt;. It is one of the most luminous X-ray sources in our galaxy and the first-ever X-ray pulsar to be discovered.
+Scientists from the Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune present the &lt;strong&gt;new measurements of spin and orbital parameters of ‘Cen X-3’&lt;/strong&gt;. The results are crucial in &lt;strong&gt;understanding the life-cycle and evolution of X-ray binary systems&lt;/strong&gt;. The work is published in the &lt;em&gt;‘Journal of Astrophysics and Astronomy on AstroSat: Five Years in Orbit’&lt;/em&gt;. Researchers used the data from the &lt;strong&gt;Large Area X-ray Proportional Counters (LAXPCs)&lt;/strong&gt; onboard &lt;strong&gt;Astrosat&lt;/strong&gt;, for the analysis. &lt;strong&gt;Astrosat&lt;/strong&gt; is India’s first dedicated multi-wavelength space telescope launched by the &lt;em&gt;Indian Space Research Organisation (ISRO)&lt;/em&gt; in 2015.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Cen X-3&lt;/strong&gt; is a two-star system consisting of a &lt;strong&gt;pulsar&lt;/strong&gt;, a &lt;em&gt;highly magnetized neutron star beaming X-rays&lt;/em&gt;, and a companion star. The neutron star is an extremely compact object; &lt;em&gt;as massive as our sun but only a few kilometers across in size!&lt;/em&gt; The neutron star in Cen X-3 gravitationally accretes matter from its companion star. The kinetic energy of the infalling matter is converted to other forms of energy including electromagnetic radiation. The neutron star’s magnetic field dictates the accretion flow inside the magnetosphere. The accreting matter is channeled along the magnetic field lines and onto the magnetic poles forming an accretion column. The neutron star’s rotational axis is not necessarily aligned with its magnetic axis. Such &lt;em&gt;misalignment&lt;/em&gt; gives rise to &lt;em&gt;highly periodic pulsations&lt;/em&gt; hence the name &lt;strong&gt;‘pulsars’&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/Understanding-the-evolution-of-the-binary-star-system-Cen-X-3-ketan-images/image1.jpg&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt; Figure 1: Illustration of an accretion-powered pulsar. The magnetic axis sweeps earth in every rotation of the neutron star due to misalignment between the rotational axis and the magnetic axis giving rise to highly periodic pulsations.&lt;br /&gt;
+The image used here is available at &lt;a href=&quot;https://www.nrao.edu/images/pulsar_web.jpg&quot;&gt; this &lt;/a&gt; URL.
+&lt;/p&gt;
+
+&lt;p&gt;Both stars are gravitationally bound and revolve around each other. The binary orbit can evolve due to matter exchange between the stars, mass loss from the binary system, and due to tidal interaction between the two stars. Studying the evolution of the orbit of such systems is important in understanding stellar structure and evolution. The results of these studies can be a &lt;strong&gt;direct test for stellar structure models and evolution theories&lt;/strong&gt;. The &lt;strong&gt;first step in doing such a study is to determine the binary orbit&lt;/strong&gt;. &lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/Understanding-the-evolution-of-the-binary-star-system-Cen-X-3-ketan-images/image2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Determination of a binary orbit from the doppler shift &lt;br /&gt;(NS: Neutron Star), Image courtesy: Author
+&lt;/p&gt;
+
+&lt;p&gt;In systems like Cen X-3, the companion star is almost 10-15 times heavier than the neutron star. Thus the center of mass of the binary system is much closer to the center of the companion star than the neutron star. In such cases, one can visualize the binary orbit, as illustrated in figure 2 where the neutron star is orbiting around the companion star.  Due to its motion in the binary orbit, the neutron star moves back and forth along the line of sight. The observed frequency of the pulses from the neutron star is shifted due to this motion owing to the phenomenon called the &lt;strong&gt;‘Doppler effect’&lt;/strong&gt;. Due to this effect, &lt;em&gt;when the neutron star is moving towards the observer, the pulses arrive faster and when the neutron star is moving away from the observer, the pulses are delayed&lt;/em&gt; as shown in figure 2.
+This results in a periodic variation with time in the observed pulse frequency. The rate of this variation corresponds to the orbital period of the system. For a perfectly circular orbit, the pulse frequency variation is sinusoidal. The deviation from the sinusoidal behavior is indicative of the eccentricity in the orbit. Eccentricity is a measure of how elongated the orbit is. The eccentricity of a perfectly circular orbit is zero. The higher the eccentricity, the more elongated the orbit.&lt;/p&gt;
+
+&lt;p&gt;The binary orbit can be &lt;strong&gt;determined completely&lt;/strong&gt; from this. For a system with a nearly circular orbit like Cen X-3, &lt;strong&gt;parameters that can describe the system dynamics&lt;/strong&gt; completely are:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Neutron star spin period and its rate of change&lt;/li&gt;
+  &lt;li&gt;Period of the binary orbit and its rate of change&lt;/li&gt;
+  &lt;li&gt;Orbital velocity and radius&lt;/li&gt;
+  &lt;li&gt;Eccentricity&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The evolution of the orbit can be understood by comparing the orbital parameters at various instances of time.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Parisee Shirke (IUCAA, Pune) and the team&lt;/strong&gt; found that the &lt;strong&gt;spin period&lt;/strong&gt; of the neutron star has reduced to &lt;strong&gt;4.80s&lt;/strong&gt; from &lt;strong&gt;4.81s&lt;/strong&gt;. This means that the neutron star is &lt;strong&gt;spinning up&lt;/strong&gt; which is as per its known behavior. However, the rate at which the neutron star is spinning up has halved. This can be due to &lt;strong&gt;variation in the rate of matter accretion from the companion star&lt;/strong&gt;. The &lt;strong&gt;orbital period&lt;/strong&gt; was found to be around &lt;strong&gt;2.03 days&lt;/strong&gt;. The rate of change of the orbital period was observed to be &lt;strong&gt;substantially large compared to the previously reported values&lt;/strong&gt;. The authors state that this &lt;strong&gt;could be due to short time-scale variations&lt;/strong&gt; in the orbital period. The &lt;strong&gt;orbital velocity&lt;/strong&gt; is measured to be around &lt;strong&gt;410 Km/s&lt;/strong&gt; which agrees with the previous measurements. The &lt;strong&gt;projected radius&lt;/strong&gt; of the orbit has decreased from &lt;strong&gt;39.66 lt-s&lt;/strong&gt; to &lt;strong&gt;38.23 lt-s&lt;/strong&gt;. This change is &lt;strong&gt;in accordance with the observed orbital decay&lt;/strong&gt; in Cen X-3. The binary orbit is observed to be &lt;strong&gt;nearly circular&lt;/strong&gt; with a very small eccentricity.&lt;/p&gt;
+
+&lt;p&gt;This work is a step forward in understanding the &lt;strong&gt;complex dynamics of the binary star systems and their evolution&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021JApA...42...58S/abstract&quot; target=&quot;_blank&quot;&gt; A New Measurement of the Spin and Orbital Parameters of the High Mass X-ray Binary Centaurus X-3 using AstroSat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Parisee Shirke&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Suman Bala, Jayashree Roy, Dipankar Bhattacharya&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter-University Centre for Astronomy and Astrophysics, Pune&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;hr /&gt;
+</description>
+        <pubDate>Sun, 06 Mar 2022 00:00:00 +0530</pubDate>
+        <link>/evolution-binary-star-system-cenx3-ketan</link>
+        <guid isPermaLink="true">/evolution-binary-star-system-cenx3-ketan</guid>
+        
+        <category>Neutron Stars</category>
+        
+        <category>Pulsars</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
         
       </item>
     
@@ -168,7 +412,7 @@ The &lt;strong&gt;Nobel Prize in Physics 1930&lt;/strong&gt; was awarded to Rama
 
 &lt;h2 id=&quot;indian-musical-instruments-and-acoustics&quot;&gt;Indian musical instruments and acoustics&lt;/h2&gt;
 
-&lt;p&gt;Even before Raman started working on the scattering of Light, he was fascinated by waves… sound waves! Raman’s father, R Chandrasekhara Iyer was a teacher of Physics and Mathematics and a proficient violinist. That must have influenced him to take interest in the physics of sound waves. Raman himself played violin. At the age of 16, when he was a student of the Presidency college, Madars, Raman commenced his acoustic research.&lt;/p&gt;
+&lt;p&gt;Even before Raman started working on the scattering of Light, he was fascinated by waves… sound waves! Raman’s father, R Chandrasekhara Iyer was a teacher of Physics and Mathematics and a proficient violinist. That must have influenced him to take interest in the physics of sound waves. Raman himself played violin. At the age of 16, when he was a student of the Presidency college, Madras, Raman commenced his acoustic research.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/veena.PNG&quot; /&gt;
@@ -278,8 +522,8 @@ Raman founded &lt;strong&gt;the Indian Academy of sciences&lt;/strong&gt; in &lt
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
 </description>
         <pubDate>Mon, 28 Feb 2022 00:00:00 +0530</pubDate>
-        <link>/science_day_raman_ketan/</link>
-        <guid isPermaLink="true">/science_day_raman_ketan/</guid>
+        <link>/science-day-raman-ketan</link>
+        <guid isPermaLink="true">/science-day-raman-ketan</guid>
         
         <category>Featured</category>
         
@@ -289,6 +533,391 @@ Raman founded &lt;strong&gt;the Indian Academy of sciences&lt;/strong&gt; in &lt
         
         
         <category>Featured</category>
+        
+      </item>
+    
+      <item>
+        <title>Understanding the solar chromosphere through spectral lines</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;This article takes the reader through a journey of inferring the cosmos - specifically our dear neighbour Sun - through various properties of light. The journey meanders through our work on understanding solar chromospheric properties through spectral lines, and seems to cluminate in the sea of questions raised by our work!&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Light is one of the most fundamental, complex and inherently mind blowing things to exist in this world. Every culture across the globe attributes (or attributed) great significance to light, while adding multiple layers of symbolism and meaning. Light has its influence right from the chloroplasts in plants converting water &amp;amp; nutrients to sugar and Oxygen, to the largest of solar panels to generate electricity for entire cities. Light is, in some sense, our window to this world.&lt;/p&gt;
+
+&lt;p&gt;The same is true for astronomers. Imagine an astronomer working  - I am pretty sure your immediate thought is a person looking through a telescope in the night sky. Well, you are pretty correct - in that most information about the universe comes to us through light! But light is not just what we &lt;em&gt;see&lt;/em&gt;: the radio frequency on which mobile phones operate is light, and so are the X-rays which are used to check for bone fractures.&lt;/p&gt;
+
+&lt;p&gt;What kind of light exists depends on how it is generated in the first place. The simplest way to make light is to get objects hot. A hot iron rod glows red, while an arc welding plasma glows blue. Heat, and temperature are primary drivers of what kind of light comes out. This &lt;em&gt;colour&lt;/em&gt; of light is given by the wavelength (or the frequency) of light. The larger this frequency of light, smaller the wavelength is, and more the energy in light. X rays have a very short wavelength (and so high energy), while Radio waves have a very long wavelength (and low energy). Similarly, red light has a larger wavelength than blue (or violet) light. So, in general, hotter objects have more energy, and hence emit more in short wavelengths, while cooler objects have lesser energy, and emit more in longer wavelengths. This is the reason why X-rays are generally much more harmful than Radio waves&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;p&gt;The Sun we see every day is obviously a hot object. So logically, we also expect it to give light corresponding to how hot it is. And this is quite true – the solar &lt;em&gt;surface&lt;/em&gt; or the solar disc we see in the sky is at 5500 Kelvin. Hence, it emits most of its energy near greenish-yellow light&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. But all parts of the Sun do not preferentially emit this greenish-yellow light – rather, depending on the temperature, different parts of the Sun emit in different colours. In Fig. 1 below, I have displayed the same region of the Sun as seen in different wavelengths. The hottest plasma is seen in the 94 Å image, while the coolest is seen in the 2796 Å image - with temperature (approximately) reducing with increasing wavelength. Each structure contains material at different temperatures - this is because different structures form at different heights! A general rule of thumb in the solar atmosphere is “hotter stuff forms at greater height than cooler stuff”&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, so the S shaped loop in the 94 Å image forms much higher than the structure in the 2796 Å image.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/vishal_chromosphere/image1_vishal_line.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 1: A solar flare as seen in different wavelengths (listed on top of each panel). Shorter wavelengths mean more energy. From 94 &amp;Aring; to 2796 &amp;Aring;, as temperature reduces, different structures in the solar atmosphere are clearly seen, from S shaped loops to longer loops to finally a dark sunspot-like patch from 1600 &amp;Aring; onwards! Images assembled from &lt;a href=&quot;https://sdo.gsfc.nasa.gov/&quot;&gt; AIA &lt;/a&gt; data (corona) and &lt;a href=&quot;https://www.nasa.gov/mission_pages/iris/index.html&quot;&gt; Slit-Jaw Imager &lt;/a&gt;(chromosphere). &lt;/p&gt;
+
+&lt;p&gt;This is just one aspect of the light that comes to us. The other aspect is that the material which emits this light, also leaves an imprint on “how bright” the light is at different wavelengths. This is slightly different from the Thermal radiation, which depends &lt;b&gt;only&lt;/b&gt; on the temperature. The typical brightness at every wavelength for light coming due to an object being hot, looks somewhat like the top row in Fig. 2. Here, notice that the brightness shows some variation with wavelength (which, I remind you, is given by the colour of light) - but the essential point is that every wavelength has some amount of brightness.&lt;/p&gt;
+
+&lt;p&gt;Now, check out the second row - corresponding to a Sodium atom. You will see that the brightness is present at &lt;strong&gt;discrete&lt;/strong&gt; locations in wavelength, and most of the wavelengths have no brightness. This is in stark contrast to the thermal radiation, and is followed similarly by all other elements listed in the rows below Sodium. But note that the pattern, or location &amp;amp; brightness of these &lt;strong&gt;spectral lines&lt;/strong&gt; of different elements is unique for each element. In a sense, spectral lines can be thought of as a fingerprint of atoms and molecules. Just like each human has a unique set of fingerprints, similarly each atom or molecule has a specific set of spectral lines as its signature. These lines you see are bright in specific wavelengths, and are called &lt;strong&gt;emission lines&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/vishal_chromosphere/image3_vishal_line.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 2: Examples of many spectrum (=spectra). On the bottom most axis, the wavelength increases from 4000 &amp;Aring; (left) to more than 7000 &amp;Aring; (right). The top row shows what is called a continuous spectrum, which depends only on the temperature of the object. Each subsequent row shows how much bright light is in each wavelength, for different atoms listed to the left.
+Image source: &lt;a href=&quot;https://openstax.org/books/astronomy/pages/5-3-spectroscopy-in-astronomy &quot;&gt;OpenStax &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Astronomers study the spectral lines of different objects like stars, galaxies, etc, and try to figure out which all atoms, ions and molecules are present in the object of study. Remember, what I have shown in Fig. 2 is the light coming from one vertical slit - that is why, the spectral lines are all seen as vertical lines. But this need not be the case - I can also look at approximately one point on the Sun (or even average over the vertical line), for example, and get its spectrum out. This exercise will give us a result similar to Fig. 3, where we just have the brightness of light for every wavelength. This is the kind of spectrum astronomers generally analyze.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/vishal_chromosphere/image2_vishal_line.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 3: The intensity of various spectral lines as a function of wavelength. Taken from &lt;a href=&quot;http://www.chiantidatabase.org/qug.html&quot;&gt;CHIANTI&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A side note here: The spectrum shown Fig. 3 is the brightness (or rather the &lt;strong&gt;intensity&lt;/strong&gt;) for every wavelength. We can then construct a similar spectrum for a large region of the Sun, and obtain such spectra for each point. Now, if we consider the intensity at, let’s say 2796 Å for each point, we will get an image similar to the last panel in Fig. 1. How cool is that!&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p&gt;You will now have many questions: why is the spectrum of individual elements only at specific wavelengths, and not everywhere? What conditions give rise to the &lt;em&gt;brightness&lt;/em&gt; of these lines? First off, you find the spectrum of elements at discrete wavelength locations because these arise from atomic transitions between two approximately fixed energy levels. The &lt;em&gt;quantum&lt;/em&gt; of Quantum mechanics gives rise to this discrete nature&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Next, the spectrum itself depends on, among other parameters, 4 critical properties: the temperature of the region where the spectrum is generated, density of the material giving rise to the spectrum, velocity of this material, and turbulence&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. These properties, under certain circumstances, can be easily inferred from just the spectrum of an atom.&lt;/p&gt;
+
+&lt;p&gt;First off, note that the material which emits this light is a fluid (more precisely, plasma) in our case. Hence, the temperature and density of the plasma determine if a given spectral line will even form. So just knowing the fact that a given line is seen tells us the possible range of values temperature and quantity can take. Next, the brightness of the line is in most cases dominated by the density of plasma – more density, more brightness, but you do have the effect of atomic physics and temperature. Third, the wavelength where we expect the line brightness to peak can be shifted to different wavelengths too! This is called &lt;strong&gt;Doppler shift&lt;/strong&gt;. If the plasma is moving towards us, the shift is toward shorter wavelengths (called &lt;strong&gt;Blueshift&lt;/strong&gt;), and if the plasma is moving away from us, the shift is toward longer wavelengths (called &lt;strong&gt;Redshifts&lt;/strong&gt;)&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.  Finally, if you see in Fig. 3, the line does not immediately peak at one wavelength. Rather, it starts to increase from one wavelength, reaches a maximum, and then reduces. This is called the &lt;strong&gt;line width&lt;/strong&gt;, and is determined by the temperature, and turbulence in the plasma. Turbulence basically is a measure of how much fluctuation of different spatial sizes is present in the fluid - it is yet another measure of what the plasma we consider is like.&lt;/p&gt;
+
+&lt;p&gt;So TLDR in summary, using spectral lines, we can get an estimate of local temperature, velocity, density and turbulence of these plasma parcels through spectral lines. So what is the big idea?&lt;/p&gt;
+
+&lt;p&gt;The big idea is that some specific regions on the Sun are thought to give rise to a stream of particles called the solar wind. We know that these regions are important, but we don’t know at what height the solar wind starts to form. Now, the solar wind is basically a stream of particles coming out of the Sun. So if you are looking “down” on the Sun, you will see that the particles are coming towards you. This means the spectral line which the particles emit will be blueshifted. So the basic idea is that we study these Doppler shifts for plasma which correspond to different wavelengths (and so different heights and temperatures, like Fig. 1), and see where the blueshifts start!&lt;/p&gt;
+
+&lt;p&gt;Now, these regions, which are thought to give rise to the solar wind, are called &lt;em&gt;Coronal holes&lt;/em&gt; (CHs) - because they are seen as dark patches in the solar corona. In Fig. 4b below, all dark regions belong to CHs, while the brighter regions belong to &lt;em&gt;Quiet Sun&lt;/em&gt;&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; (QS). These regions appear very different in the solar corona. However, if we check what these regions look like at lower heights called the &lt;strong&gt;chromosphere&lt;/strong&gt;, the differences are reduced (see Fig. 4a)! Why so? Has this “vanishing” of difference got anything to do with the solar wind? Can we do specific studies of these regions, and figure out what causes these differences? Are they dependent on the underlying magnetic field in any way? This was our primary objective of study.&lt;/p&gt;
+
+&lt;p&gt;At this juncture, I should tell you that scientists have done extensive studies of the CHs and QS regions in the corona, and all of the information I have presented in the last two or so paragraphs was generated in the last three decades. So we do stand on the shoulders of other giants – while we do bring our own thought process to the table!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/vishal_chromosphere/image5_vishal_line.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 4: An image of the CHs and surrounding QS region in the upper chromosphere (left panel) and the corona (right panel). The green lines demarcate CHs from QS in both the figures.
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287&quot;&gt;Vishal.U et al., 2021 &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Back to our work: we studied &lt;strong&gt;one&lt;/strong&gt; spectral line (yep, just one line, and you will see how much information we can infer from it!), and its properties across both the CHs and QS regions. This line forms due to a transition of the C+ ion (called CII by astrophysicists) at a wavelength of 1334 Å. How do we know the correct wavelength? We can perform controlled experiments in labs on Earth and figure it out. Now, you have already seen how there is not a great difference between CH and QS in the intensity image of Fig. 4a. Similar results hold if we look at what the plasma velocity and line width are in Fig. 5. This tells us that if I were to &lt;strong&gt;not&lt;/strong&gt; tell you where the CH and QS regions are, you cannot figure them out from either the intensity, velocity, or the width of the C II line. Thus, on a gross scale, the CH and QS are very similar!&lt;/p&gt;
+
+&lt;p&gt;Interesting things happen if we account for the underlying magnetic field. How do we do this? We ask: what is the intensity in CH and QS at similar magnetic field strengths? Similarly, what are the velocities and line widths? The underlying magnetic field strength&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; might be similar, but the structure of the magnetic field can be different! The structure of magnetic field (a.k.a magnetic topology) is important, because we know that the CHs are regions where the magnetic field comes out predominantly in open lines&lt;sup id=&quot;fnref:10&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;, while in QS the same magnetic field comes as short closed loops. These differences are seen clearly in the corona – but are they also seen in the chromosphere?&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/vishal_chromosphere/image4_vishal_line.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 5: Velocity (left) and line width (right) of the C II line in CH and QS. The positive velocity is called “redshift” and tells how fast plasma is moving away from us, while the negative velocity is called “blueshift”, and tells how fast plasma is moving towards us. The larger line width means the line is broader, indicating larger turbulence effects and some non trivial effects.
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287&quot;&gt;Vishal.U et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Turns out it is the case! We can indeed differentiate between CH and QS if we consider regions with similar magnetic field strength. In Fig. 6, the black dots correspond to the average of quantity in Y-axis (Intensity, velocity, width) for regions with similar magnetic field strength (in X-axis). On an average, you see that the QS intensity is larger than the CH intensity in Fig. 6a – reminiscent of the differences in the corona, and seen statistically here. So one question is answered: CHs and QS are already differentiated in the chromosphere, but you can see this only statistically!&lt;sup id=&quot;fnref:11&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+
+&lt;p&gt;Next, look at panel (b) of the same figure. The velocity is mostly positive - indicating plasma moving away from us, and down towards the photosphere. Thus, the chromosphere is, on average, flowing downwards into the Sun. However, it is interesting to see that at 40 Gauss, a switchover occurs: for less field strength, the QS has plasma flowing down faster, while it is CH for larger field strength. This is counter intuitive – if the solar wind comes out and towards us in the CH, why is plasma moving away from us in CH?&lt;/p&gt;
+
+&lt;p&gt;Finally, see panel (c) of the same figure. The line width is seen to increase with field strength. This tells us that the profiles are getting broader, possibly implying larger turbulence with increasing field strength. Here too, CHs are broader than QS for large field strengths!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/vishal_chromosphere/image7_vishal_line.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 6: Different properties of CH (black) and QS (orange) as a function of magnetic field strength (|B|).
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287&quot;&gt; Vishal.U et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Things don’t stop here. The velocity panel in Fig. 6b raises many questions. And so, we repeat the analysis with a tweak - this time, we consider the blueshifts and redshifts separately. Why so? This is important to understand if the field strength has preferentially some effect on the blueshifts and redshifts, which get averaged out in Fig. 6b. And so, we check what the speeds look like in Fig.7.&lt;/p&gt;
+
+&lt;p&gt;In panel (a) of Fig. 7, the CHs have larger blueshifts over QS, telling us plasma is indeed preferentially moving towards us in the CHs. Thus, in principle, these blueshifts could be a signature of the solar wind. Now we are in business!&lt;/p&gt;
+
+&lt;p&gt;In panel (b), we check what the downflows look like. It seems for regions with large field strength, plasma is flowing into the Sun faster in CHs over QS. This was the signature which confused us in Fig. 6b. Why does the CH, which is understood to be a source of particles coming out towards the Earth, have particles going into the Sun, and away from the Earth preferentially? Are we doing something wrong? Or are the spectral profiles, and thus the process which generates these lines different in CHs and QS?&lt;/p&gt;
+
+&lt;p&gt;Turns out it is not the case. I will not show the plot here (already there is an overdose of information – too much of a good thing is also not good! :P), but we find that the spectral profiles are very similar in both CH and QS. Thus, it tells us that the processes which give rise to these profiles are similar in both the regions – the differences are coming out only because of the differences in the magnetic field topology of CHs and QS!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/vishal_chromosphere/image6_vishal_line.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 7: The velocity variation with magnetic field strength, for regions with only upflows (left) and only downflows (right) for CHs (black) and QS (orange).
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287 &quot;&gt; Vishal.U et al., 2021 &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Thus, through this work, we find that the CHs and QS might appear similar overall, but the differentiation in chromosphere is seen clearly if we consider regions with similar magnetic field strength. This differentiation is seen clearly as less intensity and excess line width in CHs over QS. The differentiation is clearly seen to arise primarily due to the magnetic field topology, and not due to fundamental differences in the way these lines form. However, our work poses a bunch of fundamental questions: Why is plasma flowing faster away from us in CHs over QS, when these CHs are supposed to be the sources of solar wind? Does this “redshift” bear any relation to the solar wind? How do these results tie up with analysis done for lines which form at higher temperatures (and hence, in the transition region &amp;amp; corona), and lower temperatures (lower &amp;amp; mid chromosphere)? And do the blueshifts we find in Fig. 7b have any relation with the solar wind?&lt;/p&gt;
+
+&lt;p&gt;To know more, and understand what happens next, keep watching this space!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021arXiv210904287U/abstract&quot;&gt; Properties of the C II 1334 Å line in Coronal Hole and Quiet Sun as observed by IRIS&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vishal Upendran&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Durgesh Tripathi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter University Centre for Astronomy and Astrophysics, Pune, 411007, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;But don’t worry too much. The amount of X-rays given in hospitals do not cause any harm! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;This is an exercise for you - go look up why we see the Sun more yellow than green! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;To know more on why this is the case, refer to my other article on the coronal heating problem! &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;As we will see later, plasma flowing up or down will change this location! &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Check out this cool &lt;a href=&quot;https://openstax.org/books/astronomy/pages/5-3-spectroscopy-in-astronomy&quot;&gt;reference&lt;/a&gt; for more information. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Technically I should call it “non-thermal effect”, and it may result due to various reasons. Turbulence is supposedly one of the reasons giving rise to this effect. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Checkout this cool link for more info on &lt;a href=&quot;https://imagine.gsfc.nasa.gov/features/yba/M31_velocity/spectrum/doppler_more.html&quot;&gt;Doppler shifts&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I have talked in detail on the Coronal holes in the solar wind article, and on Quiet Sun in the nanoflare heating article. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Magnetic field strength = Bx2+By2+Bz2. The individual B can be different, while the sum squared remains the same! &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:10&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;When I say open, I mean that these field lines close at distances far larger than the size of our CH, on the Sun. Remember, we cannot have truly open fields since magnetic monopoles do not exist! &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:11&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Note that this question was also answered by Pradeep Kayshap et al 2018 for the Mg II line, which also forms in the chromosphere. &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sun, 27 Feb 2022 00:00:00 +0530</pubDate>
+        <link>/solar-chromosphere-spectral-lines-vishal</link>
+        <guid isPermaLink="true">/solar-chromosphere-spectral-lines-vishal</guid>
+        
+        <category>Solar chromosphere</category>
+        
+        <category>solar wind</category>
+        
+        <category>spectral lines</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
+    
+      <item>
+        <title>Astrobiology: Exploring the universe for signs of extra-terrestrial life</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;The only life forms we know about are the ones that exist on Earth. Due to advancements in space exploration, it has become possible to send rovers, probes, space crafts, and telescopes in further deep space. With the help of these space missions and various other tools, astrobiologists are trying to find signatures of life on other planets, exoplanets, and various moons.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;1.	Introduction:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
+&lt;ul&gt;Is life a cosmic phenomenon?&lt;/ul&gt;
+&lt;ul&gt;Are we alone in the universe?&lt;/ul&gt;
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;All of us have wondered about it at some point in our lives. Perhaps only a few would have wondered about what exactly is life. This might sound philosophical at first but it is equally scientific. Astrobiology tries to find answers to all these questions. It is the science that seeks to understand the story of life in the universe. We have not found explicit evidence of life so far but with unceasing curiosity and an inherent urge for exploration, scientists have discovered a lot. Being a multidisciplinary field, Astrobiology brings people with diverse backgrounds together to achieve a common goal – the search for life beyond Earth and beyond the solar system. The origin of life on Earth is a great mystery and therefore scientists are investigating the problem in several different ways.  Some are studying life on our own planet. Some are seeking out life or fossil life on other planets or moons in our solar system. Others are trying to detect life in other solar systems, either by measuring life’s effects on the atmospheres of distant planets or by measuring artificial radiation like radio signals that may be produced by advanced life.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.	Life on Earth:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;We only know the nature of life as it exists on Earth. It is built around compounds that contain elements such as carbon, nitrogen, hydrogen and oxygen. Complex sequences of these elements bond together, forming the very building blocks of life. They form essential organic molecules, such as carbohydrates, amino acids, lipids and nucleic acids (DNA and RNA). However, these organic molecules did not naturally exist on Earth during the Hadean eon (4.0 billion years ago and preceding the existence life forms). The elements required existed only in inorganic form, bound up within the rocks, atmosphere and the early ocean.
+It is estimated that life on Earth began at least 3.5 billion years ago, because that is the age of the oldest rocks with fossil evidence of life on Earth. Researchers suggest that in order to understand how life began on Earth, we need to understand the specific environmental conditions and other requirements that must be satisfied to allow this to occur. What are the habitability requirements of known Earth life?&lt;/p&gt;
+
+&lt;p&gt;The fundamental habitability requirements are certainly some of the commonalities of life on Earth.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;•	Energy:&lt;/strong&gt;
+A source of energy is necessary for metabolism and to maintain the functions carried out by a cell. Life on Earth uses either solar energy or chemical energy sources that include both organic (carbon) compounds and inorganic elements and molecules.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;•	Common essential elements:&lt;/strong&gt;
+All known Earth life uses the same main set of elements to form biomolecules (CHNOPS) and shares a common carbon-based biochemistry. Carbon is an excellent element from which to build life, because carbon forms macromolecules with a variety of other elements and itself. Carbon forms primarily covalent bonds (compared to ionic bonds), and carbon-based molecules are stable in the presence of water and oxygen.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;•	Solvent:&lt;/strong&gt;
+A solvent to host chemical interactions is considered a universal requirement for all life. With extensive evidence that all Earth life needs water specifically as the solvent, many astrobiologists consider water to be the most probable solvent for life.&lt;/p&gt;
+
+&lt;p&gt;When considering whether an environment or planet is habitable, at a minimum, scientists take into account the potential energy source (or sources), the ambient chemical composition and whether this composition is suitable to build biomass, and the availability of a solvent. Additionally, there are physical constraints upon life (e.g., temperature, pressure, pH, salinity, radiation, metal toxicity) such that the presence of these habitability requirements may be necessary but not sufficient for life.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.1 Life on Earth is divided into three domains:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Archaea, Bacteria, and Eukarya (or Eucarya);&lt;/b&gt; Single-celled organisms are common in all three domains, and all organisms in the domains Archaea and Bacteria are single-celled. All multicellular organisms fall within the domain Eukarya. The term ‘‘prokaryotes’’ has traditionally been used to describe single-celled organisms that do not contain a nucleus, organelles, or a cytoskeleton (collectively, the domains Bacteria and Archaea). The majority of life on Earth is microbial, and astrobiologists extrapolate from that fact to conclude that the majority of any extraterrestrial life that may possibly exist is also likely to be microbial. Archaea and Bacteria are the focus of astrobiological studies due to the diversity of metabolic strategies utilized by them and their ability to thrive in extreme habitats, their pivotal role in Earth’s biogeochemical cycling, and the fact that single-celled organisms dominated the early history of life on Earth. Bacteria and Archaea harbour the vast majority of the genetic diversity of life on Earth. Scientists estimate that, to date, less than 1% of microbial life has been successfully cultivated (e.g., grown in the laboratory). Therefore, molecular methods that do not require cultivation are also used to detect the presence and genetic capabilities of microbes through DNA (metagenomics), RNA and gene expression activity (metatranscriptomics), and transcribed proteins (metaproteomics). These techniques have demonstrated that microbial populations are highly complex and that we have only begun to elucidate the full extent and capabilities of microbial life.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Image 1: A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukaryotes, as proposed by Carl Woese, George E. Fox et al. in 1990. Image source: &lt;a href=&quot;https://doi.org/10.1073/pnas.87.12.4576&quot;&gt;Carl Woese et al. (1990)&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.2 Prevalence of life in extreme environments:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;When space agencies first began to explore the Solar System, scientists were not sure what they would find on the surfaces of planets like Mars and Venus. When space missions revealed Mars to be a frigid desert, and Venus a boiling cauldron, void of any obvious signs of life, astrobiologists began to wonder… what are the limits of habitability for life as we know it? How hot is too hot? How cold is too cold? How much acid can cells handle, and how little water can life survive on? Answering questions like these opened an entire field of study known as &lt;b&gt;extremophile research&lt;/b&gt;, where scientists examine the adaptations of organisms in conditions that are considered ‘extreme’ for life on Earth. These hardy lifeforms can help us better understand how life as we know it might originate, evolve, and reproduce in harsh environments in the Solar System and beyond. On a tour of extreme environments on Earth, a good place to start is with terrestrial hot springs. Good examples include Yellowstone National park in the United States, Rotorua in New Zealand and Puga hot spring in Ladakh, India These environments were the first to draw the interest of astrobiologists that study the limits of life on Earth, and they are arguably the first environment in which an extremophile, Thermus aquaticus was isolated and documented by scientists.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image2.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Image 2: Aerial view of Grand Prismatic Spring; Hot Springs, Midway &amp;amp; Lower Geyser Basin, Yellowstone National Park. Image courtesy: &lt;a href=&quot;https://www.nps.gov/features/yell/slidefile/thermalfeatures/hotspringsterraces/midwaylower/Images/17708.jpg&quot;&gt;Jim Peaco, National Park Service&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;These springs are where geothermally heated water from underground rises to the planet’s surface. They can act as a source of water, energy, and nutrients for living cells. The water boiling up from below can carry a wide variety of minerals and reduced chemical species that certain microbes can use as a source of energy. Microorganisms have been found here living in pools of up to 206 degrees Fahrenheit (97ºC). The composition of the water depends on many different factors, such as its source and the types of rock and soil it travels through. It’s not just the heat that challenges life’s survival in hot springs. Some springs have water that is very acidic, others have water that is extremely alkaline. Gases at concentrations poisonous to humans, and other animals, bubble up with the water. The rock and liquid can contain heavy metals like arsenic and lead, along with lots of other minerals and particulates. Some pools can be extremely salty, and are rich in potassium and sulphate. High temperatures also mean less dissolved oxygen, so many hydrothermal pools are low in oxygen content.&lt;/p&gt;
+
+&lt;p&gt;The multitude of harsh conditions present in terrestrial hot springs also means that it isn’t only thermophiles that live in these environments. There are acidophiles, alkaliphiles, and many other types of organisms. Sometimes scientists find extremophiles that use multiple adaptations to survive (polyextremophiles). On Earth, wherever we find liquid water, we find life, whether in bubbling hot springs, drops of brine inside ice, or films of water around minerals deep in the crust.
+Up until 1977, scientists believed that all life on Earth was in some way dependent upon sunlight for energy. The discovery of hydrothermal vents showed that life could thrive independent of the Sun. Suddenly, scientists had an Earthly example of how life might survive on ocean worlds in the outer Solar System, such as Jupiter’s moon Europa, or Saturn’s moon Enceladus. These moons are thought to harbor oceans of dark, liquid water beneath their icy surfaces. If hydrothermal vents are present, those oceans could be habitable for life as we know it.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2.3	How do we search for signs of life beyond Earth?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Astrobiological exploration is founded upon the premise that biosignatures encountered in space will be recognizable as presence of extraterrestrial life. A &lt;b&gt;biosignature&lt;/b&gt; is any substance – such as an element, isotope, or molecule – or phenomenon that provides scientific evidence of past or present life. The usefulness of a biosignature is determined not only by the probability of life creating it but also by the improbability of non-biological (abiotic) processes producing it. Concluding that evidence of an extraterrestrial life form (past or present) has been discovered requires proving that a possible biosignature was produced by the activities or remains of life. As with most scientific discoveries, discovery of a biosignature will require evidence building up until no other explanation exists.&lt;/p&gt;
+
+&lt;p&gt;Thus, we can look for atmospheric gases such as oxygen or methane that can be produced by life. Such planetary features that indicate life are biosignatures. The simultaneous presence of oxygen and methane is evidence for life because these two gases should quickly react with each other unless a biosphere is producing great amounts of them, which prevents equilibrium. Microbial life will readily consume hydrogen or carbon monoxide gas, so an abundance of either of these might be considered an &lt;b&gt;anti-biosignature&lt;/b&gt; for a planet in the habitable zone.
+&lt;b&gt;Eg.&lt;/b&gt; The presence of methane in the atmosphere of Mars is an area of ongoing research. Because of its tendency to be destroyed in the atmosphere by photochemistry, the presence of excess methane on a planet can be an indication that there must be an active source. With life being the strongest source of methane on Earth, observing a disequilibrium in the methane abundance on another planet could be a viable biosignature.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Image 3: This illustration portrays possible ways that methane might be added to Mars' atmosphere (sources) and removed from the atmosphere (sinks). NASA's Curiosity Mars rover has detected fluctuations in methane concentration in the atmosphere. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/jpl/msl/pia19088&quot;&gt;NASA/JPL-Caltech&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.	Habitability in the solar system:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;After Earth it is absolutely logical to explore habitability of planets in our solar system. Planet Mars, in the inner solar system is a potential candidate to search for life beyond Earth. Simultaneously, moon of Jupiter (Europa) and moons of Saturn (Titan and Enceladus) in the outer solar system are also promising and extensive research is currently being conducted. The type of life that we are considering is simple, comparable to microbes, and the guiding principle concerns liquid water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.1 Mars:&lt;/strong&gt;
+Many have imagined Mars, unlike Venus, as a potential abode for life. The atmosphere of Mars is much thinner than Earth’s. The Red Planet’s atmosphere contains more than 95% carbon dioxide and much less than 1% oxygen. Temperatures on Mars average about -81 degrees F. However, temperature’s range from around -220 degrees F in the wintertime at the poles, to +70 degrees F over the lower latitudes in the summer.
+Mars Global Surveyor, which orbited from 1997 to 2006, mapped Mars and imaged sedimentary layers that implied many geologic cycles of erosion and deposition. In the early 21st century, the Mars Odyssey and Mars Express orbiters, along with Mars Reconnaissance Orbiter, discovered areas of clay minerals and salts, which may have formed in liquid water. Twin Mars Exploration Rovers landed in 2004, and found fossilized ripples from past liquid water and sedimentary rocks, while in 2008, NASA’s Phoenix Lander dug up subsurface ice in a polar region and measured soluble salts in the soil. Finally, in 2012, Curiosity Rover trundled towards a 5-kilometre-high mountain of sedimentary beds within a 150- kilometre-diameter crater named Gale. It found mudstones deposited from water. Nowadays, astrobiological interest in Mars concerns either biological traces from billions of years ago or microbial-like life that might possibly endure in the subsurface or underground.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image4.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Image 4: Curiosity rover on a Martian sand dune. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/image-feature/jpl/pia20316/curiosity-self-portrait-at-martian-sand-dune&quot;&gt;NASA&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Mars’s current surface is hostile to life for three reasons. First, while ice exists for sure, no liquid water has been identified. The polar caps are water ice, topped with carbon dioxide ‘dry ice’ that grows when about 30 per cent of the atmosphere freezes at the winter pole. Also, above mid latitudes, ice cemented soil or permafrost lies just beneath the surface. In the tropics, afternoon temperatures in the top centimetre of soil rise above freezing, but there, ice turns to vapour before melting temperatures are reached. A second problem is no ozone layer, allowing harmful ultraviolet sunlight to reach the surface. Third, chemical reactions in the atmosphere make hydrogen peroxide— which settles to the surface, where they can destroy organics. While the surface is unpromising, geothermal heat underground might allow liquid water and life to exist. Evidence that liquid water used to be present suggests that Mars was once more habitable than today. Fluvial (stream-related) features in the landscape, including gullies, dried-up river valleys, deltas, and enormous channels are also indicative of the same. Moreover, the soil and rocks contain minerals that form in the presence of liquid water.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.2 Jovian moon Europa&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;The Galileo mission detected an induced magnetic field in Europa (a moon of Jupiter), providing compelling evidence for an ocean of liquid water beneath the surface. While the top surface of Europa is not habitable, it is still relevant to discuss here for several reasons: (1) surface materials may reflect the chemistry of a subsurface ocean and help us understand the conditions available to life there, and (2) materials brought to the surface from the ocean below may be the only way we can detect signs of life (e.g., organic matter or other biosignatures characterized spectroscopically on a future mission). Radiation from high-energy particles caught in Jupiter’s magnetic field causes oxidation of surface materials as the energy from radiation knocks electrons out of atoms. Radiolytically produced oxidants at the surface include O&lt;sub&gt;2&lt;/sub&gt;, SO&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;, and CO&lt;sub&gt;2&lt;/sub&gt;. These may be subsequently cycled into the ice shell and ocean on timescales on the order of the age of the surface, 106 years, which is quite young on geological timescales, so these compounds could potentially oxidize more reduced chemical species in the ocean below.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image5.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Image5 : Europa, a jovian moon. Image courtesy: &lt;a href=&quot;https://photojournal.jpl.nasa.gov/catalog/PIA00502&quot;&gt;NASA&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.3 Icy moons of Saturn :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.3.1 Enceladus :&lt;/strong&gt;
+Enceladus is Saturn’s sixth largest moon and has active geology. In 2005, the spacecraft Cassini started multiple close flybys of Enceladus, revealing its surface and environment in greater detail. It orbits Saturn in an elliptical fashion resulting in varying gravitational forces from Saturn that flex and heat Enceladus. For reasons that are not fully understood, the heating is concentrated under Enceladus’ South pole. There, icy particles and gas spray out of parallel fractures dubbed tiger stripes. The jets contain traces of methane, ammonia, and organic compounds, along with salt. Enceladus has a rocky core, an icy shell, and an underground sea beneath the area of the jets. The jackpot combination of organic molecules, energy, and liquid water implies that life might exist.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image6.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Image 6 : Narrow jets of gas and icy particles erupt from the south polar region of Enceladus, contributing to the moon's giant plume. A cycle of activity in these small-scale jets may be periodically lofting extra particles into space, causing the overall plume to brighten dramatically. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/feature/jpl/enceladus-jets-surprises-in-starlight&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3.3.2 Titan :&lt;/strong&gt;
+Titan, the largest moon of Saturn, is also of astrobiological interest because it is the only satellite in the Solar System to have a thick atmosphere. In fact, the air pressure at Titan’s surface is 1.5 bar, which is 50 per cent larger than that at the Earth’s surface. The atmosphere of 95 per cent nitrogen and 5 per cent methane provides a 10°C greenhouse effect, but the sunlight at Saturn’s distance is one hundred times less intense than at Earth, so Titan’s surface is incredibly cold at –179°C.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image7.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt; Image 7 : NASA's Cassini spacecraft sees bright methane clouds drifting in the summer skies of Saturn's moon Titan, along with dark hydrocarbon lakes and seas clustered around the north pole. Image courtesy: &lt;a href=&quot;https://www.jpl.nasa.gov/images/pia21615-northern-summer-on-titan&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Titan’s atmosphere contains a smoggy haze of hydrocarbons. At high altitude, ultraviolet sunlight breaks up methane molecules (CH&lt;sub&gt;4&lt;/sub&gt;) and subsequent reactions build up hydrocarbons including ethane (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), acetylene (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;), propane (C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;8&lt;/sub&gt;), benzene (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), and reddish-brown particles containing polyaromatic hydrocarbons. The particles are called tholins. The products derived from methane sediment out of the atmosphere. In fact, about 20 per cent of Titan’s surface is covered in tropical dunes that are made of sand-sized particles, which are at least coated with organics if not made of them. At the poles, over 400 lakes are mixtures of liquid propane, ethane, and methane, with extraordinary beaches made of particles of benzene and acetylene.
+Methane on Titan behaves like water on Earth and forms clouds, rain, and rivers. Most of our knowledge about Titan comes from the Cassini–Huygens mission, which arrived in 2004. Huygens landed on Titan in 2005. Titan flexes too much to be entirely solid, which is evidence that Titan has a subsurface ocean which might exist below an icy crust. Two types of life might exist on Titan: Earth-like life in the subsurface ocean; and non-DNA based life or life which has a different biochemistry in the hydrocarbon lakes.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;4.	Habitability beyond solar system :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Finding exoplanets is crucial before identifying a habitable one. With the vast distances involved, the search is difficult but nonetheless astronomers have developed two classes of methods. The first, indirect detection, looks for stellar properties, such as position or brightness, which are affected by the presence of unseen planets. The second is direct detection of a planet with an image or a spectrum of its light.
+For astrobiology, the most important techniques are direct detections that capture light from a planet. Direct detection is challenging because a planet is a dim body close to a vastly brighter star. Nonetheless, telescopes in space, such as the Hubble Space Telescope, James Webb Telescopes and extremely large telescopes on the ground have accomplished direct detection using a coronagraph, which is a mask to block the starlight. With density measurements, there are increasing clues about which exoplanets are made of gas, rock, water, or some mixture. We care most about exoplanets with liquid water right at the surface. These have the chance of a biosphere that pumps lots of gases into an atmosphere. In principle, such biogenic gases are detectable in the light from the planet and might indicate life.
+If a planet is too far away from its host star it ices over, and if it’s too close it’s too hot for liquid water. The term habitable zone (HZ) refers to the region around a star in which an Earth-like planet could maintain liquid water on its surface at some instant in time. We specify a particular time because stars age and brighten or dim, so the HZ moves. The closest star to Earth is a triple-star system called Alpha Centauri which is at a 4.25 – 4.35 light years distance. The list of potentially habitable exoplanets is mostly based on estimates of habitability by the Habitable Exoplanets Catalog (HEC), and data from the NASA Exoplanet Archive. The HEC is maintained by the Planetary Habitability Laboratory at the University of Puerto Rico at Arecibo. Surface planetary habitability is thought to require orbiting at the right distance from the host star for liquid surface water to be present, in addition to various geophysical and geodynamical aspects, atmospheric density, radiation type and intensity, and the host star’s plasma environment.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;5.	Conclusion :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Astrobiology is intriguing and challenging at the same time. Research done on origin of life and extremophiles is used to extrapolate to other planets and various moons in the solar system. Astrobiologists are primarily interested in the subsurface water oceans of these planets. Overall, follow the water has been the motto. All space agencies keep executing ambitious space missions probes, rovers, spacecrafts, telescopes, etc. Another aspect of Astrobiology which pushes science boundaries is exoplanet search. Habitable planets beyond our solar system are actively being sought after. Bio-signatures help us detect presence of Earth-like life in our solar system and beyond it. With the advancement in technology for space exploration one can expect that humans will exist as a multiplanetary species in future. There is a possibility that we are alone in the universe or who knows we might find life elsewhere. Till then let’s keep our fingers crossed.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;6.	References :&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ntrs.nasa.gov/citations/20180004101&quot;&gt;NASA Astrobiology Primer v2.0&lt;/a&gt; Shawn D. Domagal-Goldman and Katherine E. Wright&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586455.001.0001/actrade-9780199586455&quot;&gt;Astrobiology- A Very Short Introduction&lt;/a&gt; by David C. Catling&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wiley.com/en-ie/Astrobiology:+Understanding+Life+in+the+Universe,+2nd+Edition-p-9781119550358&quot;&gt;Astrobiology : Understanding life in the Universe&lt;/a&gt; by Charles Cockell&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Sun, 20 Feb 2022 00:00:00 +0530</pubDate>
+        <link>/astrobiology-shreya/</link>
+        <guid isPermaLink="true">/astrobiology-shreya/</guid>
+        
+        <category>Astrobiology</category>
+        
+        
+        <category>Astrobiology</category>
         
       </item>
     
@@ -334,6 +963,83 @@ Raman founded &lt;strong&gt;the Indian Academy of sciences&lt;/strong&gt; in &lt
         <category>popular</category>
         
         <category>women-in science</category>
+        
+        
+        <category>General</category>
+        
+      </item>
+    
+      <item>
+        <title>Mendeley Reference Manager</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;Being involved in research means dealing with a lot of papers on a day to day basis. Be it reading them, organizing them, or referencing them we often face a perilous task. A collection of scores of pdf documents scattered here and there in multiple folders is not something unheard of. Often we spend a lot of time looking for a particular part of the text from a paper but unable to locate it. While writing papers, and searching for references I’ve seen a lot of people doing it manually which is a waste of precious research time.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Thanks to the advances in software in the past years, we have a tool which can do it all for us, saving a lot of time and energy as well. It is ‘MENDELEY’ offered by Elsevier.  Mendeley is a library manager which can store and arrange all the pdf documents we put into it. A very informative guide is available on the &lt;a href=&quot;https://www.mendeley.com/guides&quot;&gt;official website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;​My first interaction with Mendeley was when I was doing research work related to my dissertation as a part of the M Sc. course. The scholars in that lab were pretty much using Mendeley on a day-to-day basis and from there I picked up the idea of organizing papers nicely into a library interface. It is a versatile software available for almost all desktop and mobile systems. As we use Debian based Linux for our research, there is a .deb package available on the website.&lt;/p&gt;
+
+&lt;p&gt;There is an app on the android app store as well which can be pretty helpful in organizing the research papers. The Mendeley website offers a web library interface that is not very different from the one we have on the desktop. Apart from that, browser extensions are available for both Chrome and Firefox browsers which can be used to save the articles we open in the browser to be directly saved to the web library. In fact, the experience is extremely seamless, one can read a document on her laptop and highlight some text and can continue with the same point at her desktop at a later time. No need to waste time searching for that one particular paragraph from scores of papers put in unlimited folders. The sync works perfectly fine across all devices. One can also assign a folder in which Mendeley will automatically look for papers once the application starts. Of course, everything syncs to the web library eventually.&lt;/p&gt;
+
+&lt;p&gt;One has to create a single Mendeley account for all the devices preferably over the website and then use the same login credentials for every device. After that the installation is pretty simple, just follow the steps in a logical fashion and within a few seconds, you’ll have your own library waiting for the papers to put it. Then there are a few ways in which the papers could be added:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Using the Chrome and Firefox browser extensions, just click on save once you come across a paper, and it’ll be dropped into your library.&lt;/li&gt;
+  &lt;li&gt;Add a watch folder, and Mendeley will automatically look for files in that folder.&lt;/li&gt;
+  &lt;li&gt;Add files/folders manually using a point and click interface. The documents will then be uploaded to your Mendeley account online.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;So once the library is set up and we have a collection of papers, the first thing to notice is that it can automatically sort and arrange the papers based on author name, title, publication year, journal name, etc. For incomplete references, Mendeley offers to search the database using the arXiv IDs or DOIs which maybe available in the document metadata. All the files are stored locally as well as synced with the cloud library. One can also create groups to keep the papers more organized.&lt;/p&gt;
+
+&lt;p&gt;A pdf reader is built in the Mendeley package. It is a versatile pdf reader with annotation capabilities. One can mark, highlight, add comments at any point in the document. Besides the library offers a fully searchable interface meaning one can look for the exact phrase or line in a collection of 1000 papers! Imagine doing that manually.&lt;/p&gt;
+
+&lt;p&gt;Although the basic edition is free to use, there is a limitation of 2GB storage per account. The pricing is pretty simple 5GB will cost you approximately $55/year and $165/year for unlimited storage. For me, the free edition suffices the need for now. Let’s see what happens in the future.&lt;/p&gt;
+
+&lt;p&gt;Ever since I installed this application on my desktop, I guess I have saved a lot of time. There is no need to look for papers through my file explorer or terminal. If I have to search for a particular text snippet, I just put that in my Mendeley search bar and it searches for the same in all the papers and of course, it makes life easy. Apart from that, the inbuild BibTeX means I don’t need to run here and there for references for my texts as Mendeley can easily export all the references in BibTeX format. If I come across a nice paper, or during the arXiv search something catches my attention, it goes straight to my library within a few seconds using the &lt;a href=&quot;https://chrome.google.com/webstore/detail/mendeley-web-importer/dagcmkpagjlhakfdhnbomgmjdpkdklff?hl=en&quot;&gt;Chrome extension&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;While writing drafts, the automatically exported .bib file is hassle-free for the bibliography. Some web links including tutorials for Mendeley are listed below:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mendeley.com/guides&quot;&gt;https://www.mendeley.com/guides&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://alliant.libguides.com/c.php?g=692700&amp;amp;p=4908245&quot;&gt;https://alliant.libguides.com/c.php?g=692700&amp;amp;p=4908245&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://guides.lib.berkeley.edu/mendeley/library&quot;&gt;https://guides.lib.berkeley.edu/mendeley/library&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;hr /&gt;
+&lt;hr /&gt;
+</description>
+        <pubDate>Thu, 10 Feb 2022 00:00:00 +0530</pubDate>
+        <link>/mendeley-reference-manager-vivek</link>
+        <guid isPermaLink="true">/mendeley-reference-manager-vivek</guid>
+        
+        <category>General</category>
+        
+        <category>Popular</category>
         
         
         <category>General</category>
@@ -917,693 +1623,6 @@ Indian Institute of Astrophysics, Bengaluru, Karnataka, India – 560034;&lt;/p&
         
         
         <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>Astrobiology: Exploring the universe for signs of extra-terrestrial life</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;The only life forms we know about are the ones that exist on Earth. Due to advancements in space exploration, it has become possible to send rovers, probes, space crafts, and telescopes in further deep space. With the help of these space missions and various other tools, astrobiologists are trying to find signatures of life on other planets, exoplanets, and various moons.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;1.	Introduction:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
-&lt;ul&gt;Is life a cosmic phenomenon?&lt;/ul&gt;
-&lt;ul&gt;Are we alone in the universe?&lt;/ul&gt;
-&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;All of us have wondered about it at some point in our lives. Perhaps only a few would have wondered about what exactly is life. This might sound philosophical at first but it is equally scientific. Astrobiology tries to find answers to all these questions. It is the science that seeks to understand the story of life in the universe. We have not found explicit evidence of life so far but with unceasing curiosity and an inherent urge for exploration, scientists have discovered a lot. Being a multidisciplinary field, Astrobiology brings people with diverse backgrounds together to achieve a common goal – the search for life beyond Earth and beyond the solar system. The origin of life on Earth is a great mystery and therefore scientists are investigating the problem in several different ways.  Some are studying life on our own planet. Some are seeking out life or fossil life on other planets or moons in our solar system. Others are trying to detect life in other solar systems, either by measuring life’s effects on the atmospheres of distant planets or by measuring artificial radiation like radio signals that may be produced by advanced life.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.	Life on Earth:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We only know the nature of life as it exists on Earth. It is built around compounds that contain elements such as carbon, nitrogen, hydrogen and oxygen. Complex sequences of these elements bond together, forming the very building blocks of life. They form essential organic molecules, such as carbohydrates, amino acids, lipids and nucleic acids (DNA and RNA). However, these organic molecules did not naturally exist on Earth during the Hadean eon (4.0 billion years ago and preceding the existence life forms). The elements required existed only in inorganic form, bound up within the rocks, atmosphere and the early ocean.
-It is estimated that life on Earth began at least 3.5 billion years ago, because that is the age of the oldest rocks with fossil evidence of life on Earth. Researchers suggest that in order to understand how life began on Earth, we need to understand the specific environmental conditions and other requirements that must be satisfied to allow this to occur. What are the habitability requirements of known Earth life?&lt;/p&gt;
-
-&lt;p&gt;The fundamental habitability requirements are certainly some of the commonalities of life on Earth.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;•	Energy:&lt;/strong&gt;
-A source of energy is necessary for metabolism and to maintain the functions carried out by a cell. Life on Earth uses either solar energy or chemical energy sources that include both organic (carbon) compounds and inorganic elements and molecules.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;•	Common essential elements:&lt;/strong&gt;
-All known Earth life uses the same main set of elements to form biomolecules (CHNOPS) and shares a common carbon-based biochemistry. Carbon is an excellent element from which to build life, because carbon forms macromolecules with a variety of other elements and itself. Carbon forms primarily covalent bonds (compared to ionic bonds), and carbon-based molecules are stable in the presence of water and oxygen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;•	Solvent:&lt;/strong&gt;
-A solvent to host chemical interactions is considered a universal requirement for all life. With extensive evidence that all Earth life needs water specifically as the solvent, many astrobiologists consider water to be the most probable solvent for life.&lt;/p&gt;
-
-&lt;p&gt;When considering whether an environment or planet is habitable, at a minimum, scientists take into account the potential energy source (or sources), the ambient chemical composition and whether this composition is suitable to build biomass, and the availability of a solvent. Additionally, there are physical constraints upon life (e.g., temperature, pressure, pH, salinity, radiation, metal toxicity) such that the presence of these habitability requirements may be necessary but not sufficient for life.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.1 Life on Earth is divided into three domains:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Archaea, Bacteria, and Eukarya (or Eucarya);&lt;/b&gt; Single-celled organisms are common in all three domains, and all organisms in the domains Archaea and Bacteria are single-celled. All multicellular organisms fall within the domain Eukarya. The term ‘‘prokaryotes’’ has traditionally been used to describe single-celled organisms that do not contain a nucleus, organelles, or a cytoskeleton (collectively, the domains Bacteria and Archaea). The majority of life on Earth is microbial, and astrobiologists extrapolate from that fact to conclude that the majority of any extraterrestrial life that may possibly exist is also likely to be microbial. Archaea and Bacteria are the focus of astrobiological studies due to the diversity of metabolic strategies utilized by them and their ability to thrive in extreme habitats, their pivotal role in Earth’s biogeochemical cycling, and the fact that single-celled organisms dominated the early history of life on Earth. Bacteria and Archaea harbour the vast majority of the genetic diversity of life on Earth. Scientists estimate that, to date, less than 1% of microbial life has been successfully cultivated (e.g., grown in the laboratory). Therefore, molecular methods that do not require cultivation are also used to detect the presence and genetic capabilities of microbes through DNA (metagenomics), RNA and gene expression activity (metatranscriptomics), and transcribed proteins (metaproteomics). These techniques have demonstrated that microbial populations are highly complex and that we have only begun to elucidate the full extent and capabilities of microbial life.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 1: A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukaryotes, as proposed by Carl Woese, George E. Fox et al. in 1990. Image source: &lt;a href=&quot;https://doi.org/10.1073/pnas.87.12.4576&quot;&gt;Carl Woese et al. (1990)&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.2 Prevalence of life in extreme environments:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;When space agencies first began to explore the Solar System, scientists were not sure what they would find on the surfaces of planets like Mars and Venus. When space missions revealed Mars to be a frigid desert, and Venus a boiling cauldron, void of any obvious signs of life, astrobiologists began to wonder… what are the limits of habitability for life as we know it? How hot is too hot? How cold is too cold? How much acid can cells handle, and how little water can life survive on? Answering questions like these opened an entire field of study known as &lt;b&gt;extremophile research&lt;/b&gt;, where scientists examine the adaptations of organisms in conditions that are considered ‘extreme’ for life on Earth. These hardy lifeforms can help us better understand how life as we know it might originate, evolve, and reproduce in harsh environments in the Solar System and beyond. On a tour of extreme environments on Earth, a good place to start is with terrestrial hot springs. Good examples include Yellowstone National park in the United States, Rotorua in New Zealand and Puga hot spring in Ladakh, India These environments were the first to draw the interest of astrobiologists that study the limits of life on Earth, and they are arguably the first environment in which an extremophile, Thermus aquaticus was isolated and documented by scientists.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image2.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 2: Aerial view of Grand Prismatic Spring; Hot Springs, Midway &amp;amp; Lower Geyser Basin, Yellowstone National Park. Image courtesy: &lt;a href=&quot;https://www.nps.gov/features/yell/slidefile/thermalfeatures/hotspringsterraces/midwaylower/Images/17708.jpg&quot;&gt;Jim Peaco, National Park Service&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;These springs are where geothermally heated water from underground rises to the planet’s surface. They can act as a source of water, energy, and nutrients for living cells. The water boiling up from below can carry a wide variety of minerals and reduced chemical species that certain microbes can use as a source of energy. Microorganisms have been found here living in pools of up to 206 degrees Fahrenheit (97ºC). The composition of the water depends on many different factors, such as its source and the types of rock and soil it travels through. It’s not just the heat that challenges life’s survival in hot springs. Some springs have water that is very acidic, others have water that is extremely alkaline. Gases at concentrations poisonous to humans, and other animals, bubble up with the water. The rock and liquid can contain heavy metals like arsenic and lead, along with lots of other minerals and particulates. Some pools can be extremely salty, and are rich in potassium and sulphate. High temperatures also mean less dissolved oxygen, so many hydrothermal pools are low in oxygen content.&lt;/p&gt;
-
-&lt;p&gt;The multitude of harsh conditions present in terrestrial hot springs also means that it isn’t only thermophiles that live in these environments. There are acidophiles, alkaliphiles, and many other types of organisms. Sometimes scientists find extremophiles that use multiple adaptations to survive (polyextremophiles). On Earth, wherever we find liquid water, we find life, whether in bubbling hot springs, drops of brine inside ice, or films of water around minerals deep in the crust.
-Up until 1977, scientists believed that all life on Earth was in some way dependent upon sunlight for energy. The discovery of hydrothermal vents showed that life could thrive independent of the Sun. Suddenly, scientists had an Earthly example of how life might survive on ocean worlds in the outer Solar System, such as Jupiter’s moon Europa, or Saturn’s moon Enceladus. These moons are thought to harbor oceans of dark, liquid water beneath their icy surfaces. If hydrothermal vents are present, those oceans could be habitable for life as we know it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.3	How do we search for signs of life beyond Earth?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Astrobiological exploration is founded upon the premise that biosignatures encountered in space will be recognizable as presence of extraterrestrial life. A &lt;b&gt;biosignature&lt;/b&gt; is any substance – such as an element, isotope, or molecule – or phenomenon that provides scientific evidence of past or present life. The usefulness of a biosignature is determined not only by the probability of life creating it but also by the improbability of non-biological (abiotic) processes producing it. Concluding that evidence of an extraterrestrial life form (past or present) has been discovered requires proving that a possible biosignature was produced by the activities or remains of life. As with most scientific discoveries, discovery of a biosignature will require evidence building up until no other explanation exists.&lt;/p&gt;
-
-&lt;p&gt;Thus, we can look for atmospheric gases such as oxygen or methane that can be produced by life. Such planetary features that indicate life are biosignatures. The simultaneous presence of oxygen and methane is evidence for life because these two gases should quickly react with each other unless a biosphere is producing great amounts of them, which prevents equilibrium. Microbial life will readily consume hydrogen or carbon monoxide gas, so an abundance of either of these might be considered an &lt;b&gt;anti-biosignature&lt;/b&gt; for a planet in the habitable zone.
-&lt;b&gt;Eg.&lt;/b&gt; The presence of methane in the atmosphere of Mars is an area of ongoing research. Because of its tendency to be destroyed in the atmosphere by photochemistry, the presence of excess methane on a planet can be an indication that there must be an active source. With life being the strongest source of methane on Earth, observing a disequilibrium in the methane abundance on another planet could be a viable biosignature.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 3: This illustration portrays possible ways that methane might be added to Mars' atmosphere (sources) and removed from the atmosphere (sinks). NASA's Curiosity Mars rover has detected fluctuations in methane concentration in the atmosphere. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/jpl/msl/pia19088&quot;&gt;NASA/JPL-Caltech&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.	Habitability in the solar system:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After Earth it is absolutely logical to explore habitability of planets in our solar system. Planet Mars, in the inner solar system is a potential candidate to search for life beyond Earth. Simultaneously, moon of Jupiter (Europa) and moons of Saturn (Titan and Enceladus) in the outer solar system are also promising and extensive research is currently being conducted. The type of life that we are considering is simple, comparable to microbes, and the guiding principle concerns liquid water.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.1 Mars:&lt;/strong&gt;
-Many have imagined Mars, unlike Venus, as a potential abode for life. The atmosphere of Mars is much thinner than Earth’s. The Red Planet’s atmosphere contains more than 95% carbon dioxide and much less than 1% oxygen. Temperatures on Mars average about -81 degrees F. However, temperature’s range from around -220 degrees F in the wintertime at the poles, to +70 degrees F over the lower latitudes in the summer.
-Mars Global Surveyor, which orbited from 1997 to 2006, mapped Mars and imaged sedimentary layers that implied many geologic cycles of erosion and deposition. In the early 21st century, the Mars Odyssey and Mars Express orbiters, along with Mars Reconnaissance Orbiter, discovered areas of clay minerals and salts, which may have formed in liquid water. Twin Mars Exploration Rovers landed in 2004, and found fossilized ripples from past liquid water and sedimentary rocks, while in 2008, NASA’s Phoenix Lander dug up subsurface ice in a polar region and measured soluble salts in the soil. Finally, in 2012, Curiosity Rover trundled towards a 5-kilometre-high mountain of sedimentary beds within a 150- kilometre-diameter crater named Gale. It found mudstones deposited from water. Nowadays, astrobiological interest in Mars concerns either biological traces from billions of years ago or microbial-like life that might possibly endure in the subsurface or underground.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image4.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 4: Curiosity rover on a Martian sand dune. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/image-feature/jpl/pia20316/curiosity-self-portrait-at-martian-sand-dune&quot;&gt;NASA&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Mars’s current surface is hostile to life for three reasons. First, while ice exists for sure, no liquid water has been identified. The polar caps are water ice, topped with carbon dioxide ‘dry ice’ that grows when about 30 per cent of the atmosphere freezes at the winter pole. Also, above mid latitudes, ice cemented soil or permafrost lies just beneath the surface. In the tropics, afternoon temperatures in the top centimetre of soil rise above freezing, but there, ice turns to vapour before melting temperatures are reached. A second problem is no ozone layer, allowing harmful ultraviolet sunlight to reach the surface. Third, chemical reactions in the atmosphere make hydrogen peroxide— which settles to the surface, where they can destroy organics. While the surface is unpromising, geothermal heat underground might allow liquid water and life to exist. Evidence that liquid water used to be present suggests that Mars was once more habitable than today. Fluvial (stream-related) features in the landscape, including gullies, dried-up river valleys, deltas, and enormous channels are also indicative of the same. Moreover, the soil and rocks contain minerals that form in the presence of liquid water.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.2 Jovian moon Europa&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The Galileo mission detected an induced magnetic field in Europa (a moon of Jupiter), providing compelling evidence for an ocean of liquid water beneath the surface. While the top surface of Europa is not habitable, it is still relevant to discuss here for several reasons: (1) surface materials may reflect the chemistry of a subsurface ocean and help us understand the conditions available to life there, and (2) materials brought to the surface from the ocean below may be the only way we can detect signs of life (e.g., organic matter or other biosignatures characterized spectroscopically on a future mission). Radiation from high-energy particles caught in Jupiter’s magnetic field causes oxidation of surface materials as the energy from radiation knocks electrons out of atoms. Radiolytically produced oxidants at the surface include O&lt;sub&gt;2&lt;/sub&gt;, SO&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;, and CO&lt;sub&gt;2&lt;/sub&gt;. These may be subsequently cycled into the ice shell and ocean on timescales on the order of the age of the surface, 106 years, which is quite young on geological timescales, so these compounds could potentially oxidize more reduced chemical species in the ocean below.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image5.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image5 : Europa, a jovian moon. Image courtesy: &lt;a href=&quot;https://photojournal.jpl.nasa.gov/catalog/PIA00502&quot;&gt;NASA&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.3 Icy moons of Saturn :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.3.1 Enceladus :&lt;/strong&gt;
-Enceladus is Saturn’s sixth largest moon and has active geology. In 2005, the spacecraft Cassini started multiple close flybys of Enceladus, revealing its surface and environment in greater detail. It orbits Saturn in an elliptical fashion resulting in varying gravitational forces from Saturn that flex and heat Enceladus. For reasons that are not fully understood, the heating is concentrated under Enceladus’ South pole. There, icy particles and gas spray out of parallel fractures dubbed tiger stripes. The jets contain traces of methane, ammonia, and organic compounds, along with salt. Enceladus has a rocky core, an icy shell, and an underground sea beneath the area of the jets. The jackpot combination of organic molecules, energy, and liquid water implies that life might exist.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image6.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 6 : Narrow jets of gas and icy particles erupt from the south polar region of Enceladus, contributing to the moon's giant plume. A cycle of activity in these small-scale jets may be periodically lofting extra particles into space, causing the overall plume to brighten dramatically. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/feature/jpl/enceladus-jets-surprises-in-starlight&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.3.2 Titan :&lt;/strong&gt;
-Titan, the largest moon of Saturn, is also of astrobiological interest because it is the only satellite in the Solar System to have a thick atmosphere. In fact, the air pressure at Titan’s surface is 1.5 bar, which is 50 per cent larger than that at the Earth’s surface. The atmosphere of 95 per cent nitrogen and 5 per cent methane provides a 10°C greenhouse effect, but the sunlight at Saturn’s distance is one hundred times less intense than at Earth, so Titan’s surface is incredibly cold at –179°C.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image7.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 7 : NASA's Cassini spacecraft sees bright methane clouds drifting in the summer skies of Saturn's moon Titan, along with dark hydrocarbon lakes and seas clustered around the north pole. Image courtesy: &lt;a href=&quot;https://www.jpl.nasa.gov/images/pia21615-northern-summer-on-titan&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Titan’s atmosphere contains a smoggy haze of hydrocarbons. At high altitude, ultraviolet sunlight breaks up methane molecules (CH&lt;sub&gt;4&lt;/sub&gt;) and subsequent reactions build up hydrocarbons including ethane (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), acetylene (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;), propane (C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;8&lt;/sub&gt;), benzene (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), and reddish-brown particles containing polyaromatic hydrocarbons. The particles are called tholins. The products derived from methane sediment out of the atmosphere. In fact, about 20 per cent of Titan’s surface is covered in tropical dunes that are made of sand-sized particles, which are at least coated with organics if not made of them. At the poles, over 400 lakes are mixtures of liquid propane, ethane, and methane, with extraordinary beaches made of particles of benzene and acetylene.
-Methane on Titan behaves like water on Earth and forms clouds, rain, and rivers. Most of our knowledge about Titan comes from the Cassini–Huygens mission, which arrived in 2004. Huygens landed on Titan in 2005. Titan flexes too much to be entirely solid, which is evidence that Titan has a subsurface ocean which might exist below an icy crust. Two types of life might exist on Titan: Earth-like life in the subsurface ocean; and non-DNA based life or life which has a different biochemistry in the hydrocarbon lakes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4.	Habitability beyond solar system :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Finding exoplanets is crucial before identifying a habitable one. With the vast distances involved, the search is difficult but nonetheless astronomers have developed two classes of methods. The first, indirect detection, looks for stellar properties, such as position or brightness, which are affected by the presence of unseen planets. The second is direct detection of a planet with an image or a spectrum of its light.
-For astrobiology, the most important techniques are direct detections that capture light from a planet. Direct detection is challenging because a planet is a dim body close to a vastly brighter star. Nonetheless, telescopes in space, such as the Hubble Space Telescope, James Webb Telescopes and extremely large telescopes on the ground have accomplished direct detection using a coronagraph, which is a mask to block the starlight. With density measurements, there are increasing clues about which exoplanets are made of gas, rock, water, or some mixture. We care most about exoplanets with liquid water right at the surface. These have the chance of a biosphere that pumps lots of gases into an atmosphere. In principle, such biogenic gases are detectable in the light from the planet and might indicate life.
-If a planet is too far away from its host star it ices over, and if it’s too close it’s too hot for liquid water. The term habitable zone (HZ) refers to the region around a star in which an Earth-like planet could maintain liquid water on its surface at some instant in time. We specify a particular time because stars age and brighten or dim, so the HZ moves. The closest star to Earth is a triple-star system called Alpha Centauri which is at a 4.25 – 4.35 light years distance. The list of potentially habitable exoplanets is mostly based on estimates of habitability by the Habitable Exoplanets Catalog (HEC), and data from the NASA Exoplanet Archive. The HEC is maintained by the Planetary Habitability Laboratory at the University of Puerto Rico at Arecibo. Surface planetary habitability is thought to require orbiting at the right distance from the host star for liquid surface water to be present, in addition to various geophysical and geodynamical aspects, atmospheric density, radiation type and intensity, and the host star’s plasma environment.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5.	Conclusion :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Astrobiology is intriguing and challenging at the same time. Research done on origin of life and extremophiles is used to extrapolate to other planets and various moons in the solar system. Astrobiologists are primarily interested in the subsurface water oceans of these planets. Overall, follow the water has been the motto. All space agencies keep executing ambitious space missions probes, rovers, spacecrafts, telescopes, etc. Another aspect of Astrobiology which pushes science boundaries is exoplanet search. Habitable planets beyond our solar system are actively being sought after. Bio-signatures help us detect presence of Earth-like life in our solar system and beyond it. With the advancement in technology for space exploration one can expect that humans will exist as a multiplanetary species in future. There is a possibility that we are alone in the universe or who knows we might find life elsewhere. Till then let’s keep our fingers crossed.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;6.	References :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ntrs.nasa.gov/citations/20180004101&quot;&gt;NASA Astrobiology Primer v2.0&lt;/a&gt; Shawn D. Domagal-Goldman and Katherine E. Wright&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586455.001.0001/actrade-9780199586455&quot;&gt;Astrobiology- A Very Short Introduction&lt;/a&gt; by David C. Catling&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wiley.com/en-ie/Astrobiology:+Understanding+Life+in+the+Universe,+2nd+Edition-p-9781119550358&quot;&gt;Astrobiology : Understanding life in the Universe&lt;/a&gt; by Charles Cockell&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Mon, 07 Feb 2022 00:00:00 +0530</pubDate>
-        <link>/astrobiology-shreya/</link>
-        <guid isPermaLink="true">/astrobiology-shreya/</guid>
-        
-        <category>Astrobiology</category>
-        
-        
-        <category>Astrobiology</category>
-        
-      </item>
-    
-      <item>
-        <title>Shedding Light on the Cosmic Web with Fast Radio Bursts</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Fast Radio Bursts are millisecond-duration radio transients of extragalactic origin. Their dispersion measures are sensitive to the presence of ionized matter along their lines of sight. This unique measurable makes FRBs a promising cosmological probe that can shed light on a hitherto invisible matter reservoir that constitutes the universe.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The study of Fast Radio Bursts (FRBs) is one of the fastest developing fields of astronomical research.&lt;sup&gt;1&lt;/sup&gt; Discovered serendipitously only in 2007 by &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2007Sci...318..777L/abstract&quot;&gt;Lorimer et al&lt;/a&gt;, FRBs are bright, millisecond-duration transient radio events. According to some &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2013Sci...341...53T/abstract&quot;&gt;estimates&lt;/a&gt;, thousands of FRBs occur in the sky daily. If one could see the sky in the radio frequencies, they would look like Fig.1.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/frb_sunil/image1.gif&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: An artist’s rendition of what FRBs look like in the radio wavelengths. &lt;a href=&quot;https://vimeo.com/146295242&quot;&gt;Credit: NRAO outreach&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Most FRBs detected have extragalactic origins with the only exception being two &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2020PASP..132c4202B/abstract&quot;&gt;recently discovered&lt;/a&gt; radio pulse emissions from a Milky Way &lt;a href=&quot;https://en.wikipedia.org/wiki/Magnetar&quot;&gt;magnetar&lt;/a&gt;, a compact remnant of a supernova that sports extremely strong magnetic fields, SGR 1935+2154. As the FRB pulses travel through space, they are dispersed by plasma (ionized matter) that permeates the universe, just like sunlight disperses in a prism into a rainbow. This means the higher frequency components of the pulse travel faster than the lower frequency waves. Fig. 2 shows the dispersed pulse reported by Lorimer et al. The amount of dispersion is quantified by the Dispersion Measure (DM). DM is defined as the line-of-sight integral of electron density, weighted by the cosmological scale factor. In Fig. 2, the DM essentially tells you how far apart the 1.5 GHz and 1.2 GHz components are. Measuring DM therefore relies on accurately estimating the arrival delay between the high and low frequencies constituting the light and since the delay is of the order of a few seconds. Lorimer et al could not account for the burst’s large DM using estimates of matter density within our galaxy alone.&lt;/p&gt;
-
-&lt;p&gt;It was very much this dispersion that led Lorimer et al to postulate they are extragalactic in origin. In fact, it was several times larger and the burst was estimated to have originated at a distance of &amp;lt;1 Gigaparsec (Gpc). The sharp FRB pulse is therefore quite a unique and powerful probe of ionized matter on cosmological scales. Previously available cosmological probes of matter like quasar absorption lines are largely “blind” to ionized matter as fully ionized hydrogen and helium (which makes up most of the universe) do not produce any line features.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/frb_sunil/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: The dispersed pulse of the Lorimer Burst. The dark curve is the FRB event. The horizontal axis shows the time relative to a reference. The higher frequency components of the pulse come before the low frequency components and thus the curve goes from the top-left to bottom-right. The shape of the curve is governed by plasma physics. The inset image shows the pulse when all the frequencies are aligned (i.e. the curve is straightened) and summed over. Note how sharp the pulse is compared to the total time of the FRB event (~0.4 s).
-&lt;/p&gt;
-
-&lt;p&gt;Emission or absorption line features are manifestations of the quantum nature of an atom. In the ionized state, i.e. when  atoms are stripped of their electrons, there is no quantum system to produce said features. Furthermore, continuum (i.e. non line-like) emission from electrons/ions in the intergalactic medium is extremely hard to detect due to its sparsity. FRB dispersions on the other hand provide a direct measure of the line-of-sight integrated ionized matter density.&lt;/p&gt;
-
-&lt;p&gt;Due to their transient nature, it is only recently that FRBs have been localized in the sky with a precision better than an arcsecond thanks to advances in radio interferometry. The first FRB to be precisely localized was FRB 20121102 (by &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2017ApJ...834L...7T/abstract&quot;&gt;Tendulkar et al&lt;/a&gt; in 2017), which using the American Very Large Array (VLA), was pinpointed to a small, highly star-forming galaxy at a redshift of 0.19. This FRB was first detected by the Arecibo telescope in 2012 and then since the source burst repeatedly albeit sporadically over the years, it was finally captured with the radio interferometer that is the VLA in 2017. In 2018, &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2019Sci...365..565B/abstract&quot;&gt;Bannister et al&lt;/a&gt; detected and simultaneously localized the FRB 20180924 thanks to the Australian Square-Kilometer-Array Pathfinder (ASKAP) and a new technique of performing radio interferometry. ASKAP consists of several large radio antenna pointing in the same direction in the sky. The telescope essentially looks for a transient in the non-interferometric mode&lt;sup&gt;2&lt;/sup&gt;, i.e. without correlating the signal from its individual antennae, to maximize the area of the sky scanned. The moment it detects a transient, the data in its buffer gets dumped to an external storage space for post-detection correlation and subsequently localization. Since the first detection, ASKAP has localized several FRBs and will continue doing so. Precise localization is crucial in pegging the FRB’s distance as the pulse itself does not carry precise information about the redshift&lt;sup&gt;3&lt;/sup&gt;. Localization is crucial to identify the host galaxy and spectroscopic follow-up observations of the host yield the redshift or distance estimate&lt;sup&gt;4&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/frb_sunil/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: UV image of the FRB 20190608 host galaxy showing the active starforming regions (&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApJ...922..173C/abstract&quot;&gt;Chittidi et al 2020&lt;/a&gt;). The red circle/white rectangle shows the radio-derived location of the FRB which is coincident with one of the starforming clumps.
-&lt;/p&gt;
-
-&lt;p&gt;Given the dispersion and the distance to the FRBs, one can start constraining the matter distribution in the foreground universe. One FRB sightline that we studied in detail was that of FRB 20190608 (see &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2020ApJ...901..134S/abstract&quot;&gt;Simha et al 2020&lt;/a&gt;). This FRB was localized to a spiral galaxy at redshift 0.3215 in the Sloan Digital Sky Survey (SDSS) footprint. A UV Hubble image of the galaxy showed that the FRB originated from one of the star-forming clumps within a spiral arm (Fig. 3). Due to its fortunate location within the SDSS database, we had extensive spectroscopic information of the field galaxies. This informed us about the location of foreground galaxies relative to the sightline and thus, with some modeling, the contribution of different foreground electron reservoirs to the FRB DM. Being an integrated quantity, the DM can be split into multiple parts corresponding to the source of electrons. That is,&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-DM&lt;sub&gt;FRB&lt;/sub&gt; = DM&lt;sub&gt;MW&lt;/sub&gt; + DM&lt;sub&gt;halos&lt;/sub&gt; + DM&lt;sub&gt;IGM&lt;/sub&gt; + DM&lt;sub&gt;host&lt;/sub&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Here DM&lt;sub&gt;MW&lt;/sub&gt; is the contribution from the Milky Way interstellar medium (ISM) and halo, DM&lt;sub&gt;host&lt;/sub&gt; is a similar term but for the host galaxy, DM&lt;sub&gt;halos&lt;/sub&gt; is from the gas present in intervening galactic halos and DM&lt;sub&gt;IGM&lt;/sub&gt; is from the diffuse filamentary gas that permeates the &lt;a href=&quot;https://en.wikipedia.org/wiki/Observable_universe#Large-scale_structure&quot;&gt;cosmic web&lt;/a&gt;&lt;sup&gt;5&lt;/sup&gt;. In our work, we aimed to estimate each of these individual subcomponents from optical observations. For the Milky Way, we used models of the ISM electron distribution constructed using galactic pulsars (NE2001; &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2003astro.ph..1598C/abstract&quot;&gt;Cordes and Lazio 2003&lt;/a&gt;). We modeled the gas distribution of the halo as a modified NFW profile (see &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2019MNRAS.485..648P/abstract&quot;&gt;Prochaska and Zheng 2019&lt;/a&gt; for details). In total, of the 340 pc cm&lt;sup&gt;-3&lt;/sup&gt;of the FRB DM, we estimated roughly 80 pc cm&lt;sup&gt;-3&lt;/sup&gt; arising from the Milky Way. &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApJ...922..173C/abstract&quot;&gt;Chittidi et al 2020&lt;/a&gt; estimated the DM&lt;sub&gt;host&lt;/sub&gt;~100 pc cm&lt;sup&gt;-3&lt;/sup&gt; using &lt;a href=&quot;https://en.wikipedia.org/wiki/Integral_field_spectrograph&quot;&gt;integral field unit&lt;/a&gt; (IFU)&lt;sup&gt;6&lt;/sup&gt; observations with the Keck Cosmic Web Imager (KCWI) and the same halo model as the one used for the Milky Way.&lt;/p&gt;
-
-&lt;p&gt;Using the SDSS and WISE photometry available for the field galaxies in tandem with the spectroscopic redshifts, we estimated the stellar masses of foreground galaxies. Then, using the stellar-to-halo-mass ratio from &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2013MNRAS.428.3121M/abstract&quot;&gt;Moster et al 2013&lt;/a&gt;, we estimated their halo masses. Assuming that the halo gas typically extends up to one virial radius&lt;sup&gt;7&lt;/sup&gt;, we determined which halos intersect the FRB sightline and then using our modified NFW halo gas model, determined their DM contributions. We estimated DM&lt;sub&gt;halos&lt;/sub&gt; ~ 20 pc cm&lt;sup&gt;-3&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;Estimating DM&lt;sub&gt;IGM&lt;/sub&gt; was perhaps the most challenging as one cannot directly observe diffuse filamentary gas, its presence is generally inferred indirectly. However, since we had access to the SDSS galaxy redshifts, we could, in theory, reconstruct the cosmic web density using them as tracers. Thus, we leveraged the Monte-Carlo &lt;i&gt;Physarum Machine&lt;/i&gt; (MCPM) model introduced by &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2020ApJ...891L..35B/abstract&quot;&gt;Burchett et al&lt;/a&gt; in 2020 to do exactly this. The algorithm is inspired by the motion of Physarum polycephalum or &lt;a href=&quot;https://www.youtube.com/watch?v=3rWk6h0Syog&quot;&gt;slime mold&lt;/a&gt;. The mold efficiently searches for food particles and produces a filamentary network connecting them in its wake. Modeling the galaxies as “food”, one can produce a steady-state slime mold particle density with MCPM and translate this to physical matter density by calibrating against dark matter density in cosmological simulations. The result (see Fig. 4) is an estimate of gas density along the sightline.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/frb_sunil/image4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 4: Cosmic web density “reconstruction” using the MCPM algorithm for the FRB 20190608 sightline. Though galaxies were cone-searched around the FRB, as it is located in one of the narrow strips of SDSS, there were more spectra available in one direction (top) than the other (side) and thus our model doesn’t appear conical.
-&lt;/p&gt;
-
-&lt;p&gt;Using this model, we estimated DM&lt;sub&gt;IGM&lt;/sub&gt; ~ 110 pc cm&lt;sup&gt;-3&lt;/sup&gt;. Thus just using optical data, we were able to estimate DMFRB and closely match the radio measurement. Our model uncertainties are fairly large (~30%) but nevertheless, this work was a proof of concept that FRB DMs can inform us about the matter distribution in the universe. Furthermore, if this analysis is performed on multiple sightlines, we can start laying statistical constraints on some of the key model parameters that were only assumed in this work e.g. the fraction of the universe’s baryons in the filamentary gas and the fraction of halo gas present in the hot (&amp;gt;10&lt;sup&gt;6&lt;/sup&gt; K) ionized phase. In fact, our future work on the &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021arXiv210900386L/abstract&quot;&gt;FLIMFLAM&lt;/a&gt; (FRB Line-of-sight Ionization Measurement with Lightcone AAOmega Mapping) survey intends to achieve ~ 10% constraints on these parameters using ~25 sightlines. We are currently collecting spectroscopic redshifts of field galaxies along multiple sightlines and hope to start producing preliminary results within the next year. FRB-aided cosmology promises exciting research in the near future.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;[1] See &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2019A%26ARv..27....4P/abstract&quot;&gt;Petroff et al&lt;/a&gt; 2019 for an excellent review.&lt;/p&gt;
-
-&lt;p&gt;[2] See the &lt;a href=&quot;https://astronomy.curtin.edu.au/research/craft/&quot;&gt;CRAFT webpage&lt;/a&gt; and &lt;a href=&quot;https://www.nature.com/articles/s41550-018-0597-7&quot;&gt;this article&lt;/a&gt; for more details on the survey and the telescope.&lt;/p&gt;
-
-&lt;p&gt;[3] Though the dispersion is correlated to the distance, there are many sources of uncertainty in the DM-redshift relation.&lt;/p&gt;
-
-&lt;p&gt;[4] Astronomers use redshift as a proxy for distance when it comes to cosmological scales. This is thanks to the &lt;a href=&quot;https://en.wikipedia.org/wiki/Hubble%27s_law&quot;&gt;Hubble relation&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;[5] This is the large-scale structure of matter in the universe. As dark matter (and regular matter) condensed gravitationally after the Big Bang, it created halos and filamentary structures connecting halos, giving it a web-like appearance.&lt;/p&gt;
-
-&lt;p&gt;[6] IFUs are specialized instruments that can take images as well as spectra of the field-of-view simultaneously.&lt;/p&gt;
-
-&lt;p&gt;[7] A virial radius of a halo is the radius from its center within which the halo dark matter density is roughly 200 times larger than the background value. Think of it as the radial extent of the halo matter.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApJ...921..134S/abstract&quot; target=&quot;_blank&quot;&gt;Estimating the Contribution of Foreground Halos to the FRB 180924 Dispersion Measure&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Sunil Simha&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Nicolas Tejos, J. Xavier Prochaska, Khee-Gan Lee, Stuart D. Ryder, Sebastiano Cantalupo, Keith W. Bannister, Shivani Bhandari and Ryan M. Shannon&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; University of California, Santa Cruz, CA 95064, United States&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Sun, 16 Jan 2022 00:00:00 +0530</pubDate>
-        <link>/shedding-light-cosmic-web-sunil</link>
-        <guid isPermaLink="true">/shedding-light-cosmic-web-sunil</guid>
-        
-        <category>Cosmology</category>
-        
-        <category>Fast Radio Bursts</category>
-        
-        <category>Galaxy dark matter halos</category>
-        
-        <category>Radio transient sources</category>
-        
-        <category>Quasar absorption line spectroscopy</category>
-        
-        
-        <category>Cosmology and Nongalactic Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Identifying emission-line stars from a large spectroscopic database</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;We present a catalog of 3339 hot emission-line stars (ELS) identified from 451,695 O, B, and A type spectra, provided by the LAMOST DR5 release. We developed an automated python routine that identified 5437 spectra having a peak between 6561 and 6568~Å. False detections and bad spectra were removed, leaving 4138 good emission-line spectra of 3339 unique ELS. We re-estimated the spectral type of 3307 spectra as the LAMOST Stellar Parameter Pipeline (LASP) did not provide accurate spectral types for these emission-line spectra. As Herbig Ae/Be stars show higher excess in near-infrared and mid-infrared wavelengths than Classical Ae/Be stars, we used 2MASS and WISE photometry to distinguish them. Finally, we report 1089 Classical Be, 233 Classical Ae, and 56 Herbig Ae/Be stars identified from the LAMOST DR5. In addition, 928 B[em]/A[em] stars and 240 CAe/CBe potential candidates are identified. From our sample of 3339 hot emission-line stars, 2716 ELS identified in this work do not have any record in the SIMBAD database and they can be considered as new detections. Identification of such a large homogeneous set of emission-line spectra will help the community to study the emission phenomenon in detail without worrying about the inherent biases when compiling from various sources.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To understand what emission line stars (ELS) are, one needs to know about the spectrum of a star. Each star has its own unique spectrum, analogous to the fingerprint of humans. A spectrum can be used to identify the properties of the star such as its temperature, chemical composition and (indirect) physical constraints. So clearly, spectroscopy of cosmic objects can reveal lots of information about the universe.&lt;/p&gt;
-
-&lt;p&gt;Now, let us ask a more basic question. What is a spectrum? To understand this, imagine a rainbow on a rainy day. A rainbow is formed when the sunlight passes through the water molecules suspended in the air after the rain. As the sunlight moves through a spherical water droplet, it gets dispersed into various colours ranging from Violet to Red. This is a real-life example of spectroscopy. The light from a stellar object, when passed through a slit or a prism (the optical equivalent of the spherical water droplet), gets split into various colours. If the light from the star is as ideal as white light is, which is made up of all the colors with equal intensity, we would get a beautiful color gradient with all colors shining equally. However, the universe is not that simple. The spectrum of a star will have bright and dark lines, similar to the way we have ridges and valleys in our fingerprint (Figure 1).&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 1:  A representative high-resolution spectrum showing the visible light of alpha Boo. The black lines in this spectrum are caused due to various metallic elements present in the photosphere of the cool giant alpha Boo.
-Image source:&lt;a hrefsridharan1_emission_stars_database=&quot;https://noirlab.edu/public/images/noao-arct/&quot;&gt;N.A.Sharp, NOIRLab/NSF/AURA)
- &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;These bright and dark lines (or emission and absorption lines) are the most crucial information of the spectrum. They tell us about the atomic and molecular processes going on in the top most layer of the star which is known as the photosphere.&lt;/p&gt;
-
-&lt;p&gt;An absorption line is formed in the spectrum when light of a certain wavelength is absorbed by an atom or a molecule. Similarly, an emission line is formed when light of a certain wavelength is emitted (or radiated) by an atom or a molecule. To put it simply, when an atom ‘absorbs’ light, it goes into a higher energy level and when it ‘emits’ light, it comes down to a lower energy level as shown in Figure 2.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 2: The above plots show the absorption and emission process as caused by the excitation and de-excitation of electrons around the nucleus.
-Image source:&lt;a href=&quot;https://www.webassign.net/labsgraceperiod/ucscgencheml1/lab_6/manual.html&quot;&gt;webassign &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;The spectrum of a star is the information that gives us the intensity at each wavelength of light. An observed stellar spectrum consists of the blackbody continuum, absorption lines and in some cases, emission lines. The blackbody continuum in the visible and infrared region is due to the thermal emission of the star and the absorption lines are seen because the ‘cooler’ photosphere absorbs light at certain wavelengths. These two components are seen in the spectrum of all the stars because it arises due to the basic structure of stars. Now let us come to the topic of this article, ELS. Emission lines arise from a hot, gaseous region around the star that is formed due to some special nature of the star. The type of stars that show emission lines in their spectrum are called Emission line stars (ELS). You can call them the rebellious group of star families, who want to be unique by showing emission lines.&lt;/p&gt;
-
-&lt;p&gt;There are various types of ELS known to us today (and its analogues)
-Pre-main sequence (PMS) stars - young, naughty teenagers creating chaos
-Classical Be stars - people with midlife crisis
-Wolf-Rayet stars - old, wise people
-Even though ELS comprises stars in various evolutionary phases, in most cases the emission arises from the equatorial circumstellar disc which is made of gas and dust. The formation mechanism of circumstellar disc varies between different classes. For example, in PMS stars the circumstellar disc is the accretion disc through which material is added to the star from its surroundings. In Classical Be stars, the disc is formed due to rapid spinning of the star which pushes away material from the star to its surroundings. So it should be noted that even though we put stars with emission lines into a single category of ELS, they are very different from each other. Hence, we need to classify them based on their photometric properties.&lt;/p&gt;
-
-&lt;h2 id=&quot;aim&quot;&gt;Aim:&lt;/h2&gt;
-
-&lt;p&gt;As large-scale spectroscopic surveys collect a large number of spectra every night, we need to identify special classes of stars such as ELS and classify them into different categories for the research community to study various emission mechanisms. This is the motivation for the work titled “Discovery of 2716 hot emission-line stars from LAMOST DR5’’.&lt;/p&gt;
-
-&lt;h2 id=&quot;data&quot;&gt;Data:&lt;/h2&gt;
-
-&lt;p&gt;The Large Sky Area Multi-Object Fiber Spectroscopic Telescope (LAMOST) is a multi-object telescope that can observe around 4000 stars in one night. By its 5th data release (DR5), it had accumulated around 9 million spectra from 2011-2017 which are available to the community. We made use of this huge database to increase the number of ELS stars known to us. One interesting fact about LAMOST is that the majority of  observed stars are in the Galactic anticenter direction. This is particularly important because the earlier studies which have identified ELS have not looked into this direction of the sky. So this opened up an opportunity to study ELS in previously less explored parts of the sky.&lt;/p&gt;
-
-&lt;h2 id=&quot;analysis&quot;&gt;Analysis:&lt;/h2&gt;
-
-&lt;p&gt;In this work, we took O, B and A type stars (Teff ranging from 30000 K to 10000 K) from the LAMOST DR5 database (for an explanation of different spectral types, look into Anusha R’s CAe article). We restricted ourselves to these spectral types because the main aim of this was to identify new Classical Be/Ae and Herbig Be/Ae stars. Once we removed bad quality (Signal-to-noise ratio (SNR) &amp;lt; 10)&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; spectra from our list, we used an open-source python package called ‘scipy.signal’ to identify emission peaks. The entire definition of ELS rests on the presence of one of the most commonly found emission line, Hα at 6563 Å. We searched and picked out spectra with the Hα line anywhere between 6561 Å and 6568 Å. This range was selected to take into effect the instrumental calibration defect (if any) and the doppler shift that may be seen in a few stars.&lt;/p&gt;
-
-&lt;p&gt;We identified 4138 spectra that belong to 3339 unique ELS stars from our analysis. To classify stars into different categories such as CBeAe or HBeAe, we need an accurate spectral type for each spectrum. The LAMOST automated pipeline does provide a spectral type for each spectrum which did not turn out to be accurate due to the presence of emission lines. This introduced the necessity for us to re-estimate spectral type for each spectrum. We followed a technique called template matching. We made use of the MILES stellar spectral library for this purpose. For each spectrum, we matched the templates from MILES library to our target spectrum and identified the best fit. Then the spectral type of the best fit template was assigned to the target spectrum.&lt;/p&gt;
-
-&lt;p&gt;In order to differentiate between Classical Be/Ae and Herbig Be/Ae stars, we made use of the inherent difference between them known as Infrared (IR) excess. Herbig Be/Ae stars, being young stars, have lots of gas and dust around them in addition to a circumstellar disc. This extra gas and dust reprocesses the energy from the star and emits them in infrared wavelengths. Due to this, the HAeBe stars are brighter in IR wavelengths than CBe stars. Hence we use the photometric data&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; available to us to differentiate them based on colors and spectral indices. The breakup of various classes identified in this work is given in the table below.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;  Table 1: Statistical break-up of various classes identified in this work.
-Image source:&lt;a href=&quot;https://arxiv.org/abs/2108.08025&quot;&gt;Table 1 of the review paper) &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;We visually examined the Hα line features belonging to each class and reported their statistics. Finally, a representative spectrum of major classes is presented in Figure 3.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/sridharan1_emission_stars_database/image4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 3: This plot shows a representative spectrum belonging to each of Oe*, CBe, CAe, HBe, HAe, B[em], and A[em] classes. Red dotted lines denote [NII] lines at 6548 and 6584 ̊A and green solid lines denote [SII] lines at 6717 and 6731 ̊A. The spectra are normalized using laspec open source python package.
-
-Image source:&lt;a href=&quot;https://arxiv.org/abs/2108.08025&quot;&gt; Figure 7 of the review paper &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;h2 id=&quot;future-scope&quot;&gt;Future Scope:&lt;/h2&gt;
-
-&lt;p&gt;This research work identifies new ELS stars from a large database and classifies them into various categories based on their photometric properties. As the data collection capabilities increase day-to-day, the need for such works increases. We have multiple follow-up works in the fray which uses the LAMOST database effectively in identifying and study the properties of CBeAe and HAeBe stars in more detail.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021arXiv210808025B/abstract&quot;&gt; Discovery of 2716 hot emission-line stars from LAMOST DR5 &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Shridharan Baskaran&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Blesson Mathew, Nidhi S, Anusha R, Arun R, Sreeja S. Kartha, Yerra Bharat Kumar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; CHRIST (Deemed to be University), Bangalore&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Signal-to-noise ratio or SNR is a quantity which defines the quality of a spectrum. More the SNR, the better the spectrum. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Photometry (in astronomical context) means measurement of brightness of a star. The brightness of a star observed through filters of different wavelengths can be used to decode information about the star. &lt;a href=&quot;https://en.wikipedia.org/wiki/Photometry_(astronomy)&quot;&gt;Reference&lt;/a&gt; &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sat, 15 Jan 2022 00:00:00 +0530</pubDate>
-        <link>/sridharan_emission_stars_database</link>
-        <guid isPermaLink="true">/sridharan_emission_stars_database</guid>
-        
-        <category>Emission-line stars</category>
-        
-        <category>Catalog</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Bar Buckling and Boxy/Peanut Bulges as the Tracer of Dark Matter Halo Shape</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Galaxies reside in the deep potential of invisible matter called dark matter. Their dynamics is significantly affected by the distribution of dark matter around them. Distribution of dark matter around galaxies is usually known as dark matter halo. Most of the previous studies of galaxies assumed spherical dark matter halos. But, cosmological simulations of structure formation suggest that the dark matter halo can vary in shape. It can also have non-spherical shape (e.g. oblate and prolate) which can significantly influence the evolution of the galaxy. In this study, Astronomer from IIA, Bangalore and SJTU, China have studied the effect of non-spherical dark matter halos on the buckling of the bars and formation of boxy/peanut shape bulges. They perfomed a set of numerical simulation for varying dark matter halo shape and traced the formation of bars and boxy/peanut shape bulges.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you look at the clear night sky, you may find a white bright band stretching from north to south in the sky. It is nothing but our home galaxy, the Milky Way. There are trillions of galaxies in our observable Universe. Galaxies are gravitationally bound systems of stars, gas, dust, and invisible matter called dark matter. Galaxies come in different shapes and sizes ranging from spherical - like a ball to disk - like a round plate. Since most of the disk galaxies have spiral arms, they are also called spiral galaxies. Depending on the presence of a bar, a spiral galaxy could be a barred spiral or unbarred spiral. Disk galaxies usually possess a dense collection of stars in their centres which is termed as the bulge. Bulges can range from nearly spherical to as flat as the disk of galaxies. Our Milky way has a boxy/peanut shape flat bulge which is supposed to have formed from the thickening of the bar.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/ankit1_bar_buckling_dark_matter/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 1: Example of unbarred and barred galaxies.
-Image source:&lt;a href=&quot;https://ned.ipac.caltech.edu/&quot;&gt;NED
- &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;The matter we can see in a galaxy is far less than its actual matter content. More than 80% of the total galaxy mass is invisible to us. Only the motion of the stars or gas in the galaxy shows the presence of dark matter. This invisible matter is commonly referred to as dark matter. Due to the presence of an enormous amount of dark matter in the galaxy, the dynamics of the stars is remarkably affected by the distribution of the dark matter. In the past, there have been several detailed studies of the galaxies assuming the spherical distribution of dark matter in the galaxies. There are very limited works that consider the non-spherical distribution of dark matter for the study of galaxies. In the present paper, Ankit Kumar and the team have investigated the effect of non-spherical dark matter distribution on the bar buckling and the formation of boxy/peanut flat bulge like that seen in our Galaxy. Bar buckling is a bar thickening mechanism where the bar suddenly bends out of the disk of the galaxy. Bar buckling can be simply understood using a practical example of a beam or pillar. Say, there is a vertically standing beam and you start increasing the load on it. Then at some point, it will suddenly bend somewhere in the middle (or may collapse). This sudden change is called the buckling of the beam.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/ankit1_bar_buckling_dark_matter/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 2: Examples of oblate, spherical, and prolate dark matter halos in a disk galaxy.
-
-Image source: Author.
-&lt;/p&gt;
-
-&lt;p&gt;Authors have used the supercomputing facility to generate mock realistic disk galaxies and to evolve them in time. The distribution of dark matter in the galaxies ranges from oblate to prolate including spherical one. Oblate distribution (or oblate halo) looks like the shape formed on squeezing a sphere from its top and bottom whereas prolate distribution (or prolate halo) is similar to the shape formed on stretching a sphere from its top and bottom. To trace the formation and evolution of the bar and buckling events, they used Fourier analysis and found that the galaxies in prolate halos form bar earlier than the galaxies in oblate halos. Also, the bar in prolate halos buckles before the bar in the oblate halos. Fourier analysis is the method to decompose any general function or structure into simple trigonometric functions or structures with definite frequencies (see &lt;a href=&quot;https://en.wikipedia.org/wiki/Fourier_series&quot;&gt; this article  &lt;/a&gt; for Fourier series).
-Buckling events are very rarely observed. To date, there are only 8 confirmed galaxies that are currently going through the buckling events. In this study, Ankit Kumar and the team found three distinct buckling events for the bar in the prolate halo. It is the first time where more than two buckling events in a bar have been detected in any study. The total duration of buckling is longer for the bar in the prolate halo. The rarity of buckling in observations and longer duration buckling in the prolate halos lead authors to conclude that most of the dark matter halos could be oblate and spherical in shape.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/ankit1_bar_buckling_dark_matter/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; A clear buckling of the iso-density contour can be seen in the outer bar of the prolate halo during the 3rd buckling event. It also shows the formation and growth of peanut shape bulge after bar buckling.
-Image source:&lt;a href=&quot;https://academic.oup.com/mnras/article/509/1/1262/6406514&quot;&gt; Kumar et. al. 2021. &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Each buckling event makes the bar thick in size. First buckling thickens the innermost region of the bar while the succeeding bucklings thicken the outer regions of the bar. As a result of these thickening boxy/peanut shape flat bulge forms. Since the bar in the prolate halo shows more buckling events as compared to the oblate halo, the bar in prolate halo thickens the most and forms the most thicker boxy/peanut shape bulge.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://academic.oup.com/mnras/article-abstract/509/1/1262/6406514?redirectedFrom=fulltext&quot;&gt; The effect of dark matter halo shape on bar buckling and boxy/peanut bulges&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Ankit Kumar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Mousumi Das, and Sandeep Kumar Kataria&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt;
-Indian Institute of Astrophysics, Bengaluru, Karnataka, India – 560034; Indian Institute of Science, Bengaluru, Karnataka, India – 560012.&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Fri, 14 Jan 2022 00:00:00 +0530</pubDate>
-        <link>/bar-buckling-dark-matter-ankit/</link>
-        <guid isPermaLink="true">/bar-buckling-dark-matter-ankit/</guid>
-        
-        <category>Galaxies</category>
-        
-        <category>Bar Buckling</category>
-        
-        <category>Boxy/Peanut shape bulges</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>Measuring the age of the Universe: An overview</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;A popular article exploring how the age of the Universe was calculated.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://cosmicvarta.in/measuring-the-age-sun-moon-gourav&quot;&gt;previous article&lt;/a&gt; has already provided a flavour of how scientists use mathematics combined with knowledge obtained from physics to reveal numerous hidden secrets of nature such as the age of the Earth, the Moon and even the Solar System. But the story does not end here. It literally cannot. This is because the curiosity of human beings is unquenchable. Naturally, any curious mind will ask the next question, what is the age of the universe? Fortunately, the power of human intellect combined with the supreme efficiency of mathematics and physics have provided an answer to this almost impossible to solve question also. We now know with reasonable confidence that our universe is around 13.8 billion (i.e. 1380 crore since 1 billion = 100 crore) years old. But, how do we measure the age of the universe? To know the answer, one has to study ‘cosmology’. This might be one of the most thrilling detective stories of all time.&lt;/p&gt;
-
-&lt;p&gt;Cosmology is the study of the size, structure and evolution of the universe — in other words, the &lt;em&gt;geography&lt;/em&gt; of the universe as a single system. In cosmology, our subject is the whole universe, defined as all matter and energy in existence anywhere, observable or not.&lt;/p&gt;
-
-&lt;h2 id=&quot;birth-of-cosmology&quot;&gt;Birth of cosmology&lt;/h2&gt;
-
-&lt;p&gt;One of the most fundamental questions of humanity is the question of origins:&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Where did we come from?&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;p&gt;This question runs deeper than the origins of any one person and delves into questions of where did life, our planet, and the entire universe come from. Many cultures have avoided the notion of an origin to the universe by placing their creation stories in a cycle. Buddhist and Hindu origins stories measure the birth, death, and rebirth of the universe in units of 4 trillion years, which is a day in the life of Brahma. At night, all matter is absorbed into the spirit of the sleeping Brahma. At dawn, when Brahma awakes, matter reappears and the cycle continues. The Greek Stoics saw the universe as being created from fire, only to be destroyed by fire, and so on. Cosmological cycles are also found in the cultures of the Maya and the Aztec.&lt;/p&gt;
-
-&lt;p&gt;The story of modern cosmology began with Albert Einstein and Edwin Hubble. From Einstein’s theories, the shape of space is described as being warped by gravity. From the observations of Hubble, we learned the universe is expanding. Together these two men described the evolving shape of space and they opened up a new field of science called cosmology.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-big-bang-model&quot;&gt;The Big Bang model&lt;/h2&gt;
-
-&lt;p&gt;The modern theory of the origin of the universe starts with the idea of expanding space. Georges Lemaître was a priest and a mathematician, an unassuming man who had beaten the giants of physics to the punch in deducing that the universe could be expanding. In 1929, Lemaître was the first to hypothesize a revolutionary idea: at one time, the universe might have been as small as an atomic nucleus. He proposed that the universe derived from a cosmic singularity, &lt;em&gt;a day without a yesterday&lt;/em&gt; when the universe was infinitely small and infinitely curved, and all matter and energy were concentrated in a single point. Many astrophysicists found the idea bizarre and distasteful and English theorist Fred Hoyle disparaged the idea with the name &lt;em&gt;big bang&lt;/em&gt;. The label stuck, and scientists continue to call the description of the creation of the universe the Big Bang model.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/gourav_measuring_age_universe/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 1: According to the Big Bang model, the universe expanded from an extremely dense and hot state and continues to expand today
-Image source:&lt;a href=&quot;https://en.wikipedia.org/wiki/History_of_the_Big_Bang_theory&quot;&gt;Wikipedia &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;The Big Bang model forces us to consider the idea of cosmic evolution. The universal recession of galaxies implies that the universe is evolving, and it has not always been in the same state. Our observations of nearby galaxies represent a single frame in a movie that has been playing for billions of years. We can wind the tape backwards, seeing snapshots of a progressively older universe, by observing sets of galaxies at progressively larger distances, and thus at progressively larger look back times. (Since light takes time to travel, we see objects far away as they looked when the light was released rather than as they are now.)&lt;/p&gt;
-
-&lt;p&gt;As we look back into the early universe, we can see the galaxies move closer together. Observationally, we can’t see all the way back to the first moments, but we can see times when galaxies were just forming, and the large scale structures — the cosmic walls and voids — were just starting to form. If we could look further back, we’d see that as the universe gets smaller; its volume contracts until all the mass are smashed together in a tiny universe. The mass that formed galaxies and stars breaks down into a seething hot gas, as the universe tends toward a state of infinite temperature and density. Thinking of the Big Bang as an explosion is tempting, but it is also misleading. In an explosion on Earth, debris flies through space. In the Big Bang, the initial singularity contains all space and matter. Time itself begins with the big bang. The evolution of the universe is the unfolding of time and space from a condition of incredible heat and density to cold and enormous state billions of years later. This bang had no center, it had no past and it simply was the sudden beginning of everything in an expanding geometry that may or may not be finite.&lt;/p&gt;
-
-&lt;p&gt;The scientific story of creation says that everything — you and the Earth and the Sun and the Milky Way and all the billions of galaxies — emerged from a tiny dense dot of energy and matter that unfolded into the universe we see now. It sounds as fantastic as any of the creation myths of older cultures. How do we know that the big bang actually occurred? There are three primary pieces of evidence:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Galaxies are taking part in a universal expansion as indicated by the linear relation between distance and redshift (the Hubble relation).&lt;/li&gt;
-  &lt;li&gt;The abundance of the lightest elements can be explained by fusion in the universe when it was young and dense and hot (cosmic nucleosynthesis).&lt;/li&gt;
-  &lt;li&gt;Space is filled with the radiation from the early hot phase, now diluted and reduced in energy to the level of microwaves (the cosmic microwave background).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Describing each of these concepts is beyond the scope of this article. But the Hubble relation mentioned in the first point bears huge importance in measuring the age of the universe. Hence, I shall take the opportunity to discuss in brief the Hubble relation.&lt;/p&gt;
-
-&lt;h2 id=&quot;hubble-relation-or-hubbles-law&quot;&gt;Hubble relation or Hubble’s law&lt;/h2&gt;
-
-&lt;p&gt;The Hubble relation, popularly known as the Hubble’s law or Hubble–Lemaître law is considered the first observational basis for the expansion of the universe and today serves as one of the pieces of evidence most often cited in support of the Big Bang model. Although widely attributed to Edwin Hubble, the notion of the universe expanding at a calculable rate was first derived from the general relativity equations in 1922 by Alexander Friedmann. Friedmann published a set of equations, now known as the Friedmann equations, showing that the universe might expand, and presenting the expansion speed if this was the case. Then Georges Lemaître, in a 1927 article, independently derived that the universe might be expanding, observed the proportionality between the recessional velocity of and distance to distant bodies and suggested an estimated value of the proportionality constant, which when corrected by Hubble became known as the Hubble constant. Then in 1929, Edwin Hubble confirmed the existence of cosmic expansion and determined a more accurate value for the constant that now bears his name. Hubble inferred the recession velocity of the objects from their redshifts, many of which were earlier measured and related to velocity by Vesto Slipher in 1917.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/gourav_measuring_age_universe/image2.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 2: Georges Lemaître
-Image source:&lt;a href=&quot;https://en.wikipedia.org/wiki/Georges_Lema%C3%AEtre&quot;&gt;Wikipedia &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/gourav_measuring_age_universe/image3.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 3: Edwin Hubble
-Image source:&lt;a href=&quot;https://www.britannica.com/biography/Edwin-Hubble&quot;&gt;Britannica &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/gourav_measuring_age_universe/image4.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Figure 4: Fred Hoyle
-Image source:&lt;a href=&quot;https://www.theguardian.com/science/2010/oct/03/fred-hoyle-nobel-prize&quot;&gt;The Guardian &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;The law is often expressed by the equation:&lt;/p&gt;
-
-&lt;p&gt;v = H&lt;sub&gt;0&lt;/sub&gt;D   (1)&lt;/p&gt;
-
-&lt;p&gt;where, v is the recessional velocity, typically expressed in km/s.
-H&lt;sub&gt;0&lt;/sub&gt; is Hubble’s constant and corresponds to the value of H (often termed the Hubble parameter which is a value that is time-dependent and which can be expressed in terms of the scale factor) in the Friedmann equations taken at the time of observation denoted by the subscript 0. This value is the same throughout the universe for a given comoving time.
-D is the proper distance (which can change over time, unlike the comoving distance, which is constant) from the galaxy to the observer, measured in megaparsecs (Mpc), in the 3-space defined by given cosmological time.
-The reciprocal of H0 is the Hubble time. This constant term H0 help us to estimate the age of the universe. Let me now discuss in brief how it does so.&lt;/p&gt;
-
-&lt;h2 id=&quot;age-of-the-universe&quot;&gt;Age of the Universe&lt;/h2&gt;
-
-&lt;p&gt;When Einstein, Lemaitre, and others solved the equations of general relativity, they were able to describe how the size of the universe has changed with time. Astronomers use the symbol R to represent the scale or size of the universe at any time. You can think of R as the size of the universe, but more accurately it represents the distance between any two well-separated places. The cosmological principle says that any two points are moving apart at the same rate. Thus, the entire history of the universe is described by the way that R varies with time. Since the universe is expanding, R has been continuously increasing for billions of years. Remember that R describes the expansion of space that carries galaxies apart — the galaxies themselves are not expanding. Galaxies are just markers of expanding space.&lt;/p&gt;
-
-&lt;p&gt;The Big Bang model even provides a prediction for the age of the universe. If we imagine the evolving universe as a movie, the birth of the universe is the time in the distant past when all matter and radiation was crushed in a state of infinite temperature and density. The scale factor, R, was zero. Space had not yet begun to unfold. There are three ways to constrain the age of the universe. But in many ways, looking at the expansion rate of the universe is one of the easiest ways to figure out the universe’s age. This technique looks at the current expansion rate and then running it backwards to determine when today’s universe must have been compressed down to a single point. Mathematically, the age of the universe is:&lt;/p&gt;
-
-&lt;p&gt;t&lt;sub&gt;0&lt;/sub&gt; = 1 / H&lt;sub&gt;0&lt;/sub&gt;f (Ωr Ωm Ωλ;…)    (2)&lt;/p&gt;
-
-&lt;p&gt;Where t&lt;sub&gt;0&lt;/sub&gt; is the current age, H0 is the current expansion rate, and f is a correction that takes into consideration the mass, energy, and other characteristics of the universe. For this method to work, you need to not only know the current expansion rate but also how this rate has changed over time due to the effects of gravity and the effect of dark energy (Ωλ;), which is pushing the universe apart. The best published value for the expansion rate is H&lt;sub&gt;0&lt;/sub&gt;=70.6 ± 3.1 (km/sec) / Mpc. This means that every Megaparsec of space expands roughly 70.6 km each second.&lt;/p&gt;
-
-&lt;p&gt;Based on stellar evolution models, we estimate the oldest globular star clusters are between 11 and 13 billion years old. Apart from these two techniques, the most trusted means of determining the age of the universe comes from very precise measurements of the cosmic microwave background (CMB) radiation. The CMB is a diffuse, uniform background of microwave radiation that comes from all directions in the sky. This CMB is the electromagnetic radiation which is the remnant from an early stage of the universe, also known as &lt;em&gt;relic radiation&lt;/em&gt;. First observed accidentally by the radio engineers Arno Penzias and Robert Wilson in 1965, CMB is a crucial piece of evidence that supports the big bang model for the origin of the universe.&lt;/p&gt;
-
-&lt;p&gt;Three space missions, in particular, have been instrumental in measuring this radiation in finer and finer detail and with better and better precision. NASA’s Cosmic Background Explorer (COBE) took data from 1989 to 1996 and it was the first to detect tiny variations in the intensity of the radiation. Next came the Wilkinson Microwave Anisotropy Probe (WMAP), launched by NASA in 2001. WMAP took data for a decade and its very accurate measurements put constraints on a set of parameters of the big bang model. The current state-of-the-art experiment is ESA’s Planck mission, launched in 2009. The level of accuracy of Planck data is tens of thousands of times greater than the discovery measurements of Penzias and Wilson. Based on the WMAP measurements and theoretical models, the universe is estimated to be 13.82 ± 0.12 billion years old. This is the most quoted age used by astronomers and is consistent with both other measurements within their errors. Remarkably, you can see that this value is very close to what has been estimated using the Hubble constant in equation 2.&lt;/p&gt;
-
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-
-&lt;p&gt;Very early in the history of mankind, ignorance of nature and fear of the unknown naturally made men religious. So God played a central role in primitive societies. They tried to answer every question with the help of God. As time passed, with experience and intellect men could understand more and more of the natural phenomenon. I have mentioned in my previous article that if one looks at the long march of human understanding, one will find that science begins with the idea that we can understand our role in the universe using logic and observation. Today humans have come a long way. And mathematics has truly acted as the most essential weapon in almost every known field, including astronomy. By now any reader will understand that in these two articles, I’ve discussed in brief how mathematics in simple form also has helped in the development of astronomy and human knowledge as a whole.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;The Birth of Time: How We Measured The Age Of The Universe; John Gribbin; Weidenfeld &amp;amp; Nicolson; 1999. &lt;a href=&quot;https://books.google.co.in/books/about/The_Birth_of_Time.html?id=aWG3QgAACAAJ&amp;amp;redir_esc=y&quot;&gt;Reference 1 &lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Astronomy: The Solar System and Beyond; Michael A. Seeds, Dana E Backmann; Wadsworth Publishing Co Inc; 6th Ed: 2009. &lt;a href=&quot;https://www.goodreads.com/book/show/6765882-astronomy&quot;&gt;Reference 2&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Planetary Science; Michael M. Woolfson, George H.A. Cole; CRC Press; 2013. &lt;a href=&quot;https://books.google.co.in/books/about/Planetary_Science.html?id=B17OBQAAQBAJ&amp;amp;redir_esc=y&quot;&gt;Reference 3&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;History of Astronomy: A Very Short Introduction; Michael Hoskin; Oxford University Press; 2008. &lt;a href=&quot;https://www.journals.uchicago.edu/doi/abs/10.1086/589339?journalCode=isis&quot;&gt;Reference 4&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Astrophysical Techniques; C R Kitchin; CRC Press; 2013. &lt;a href=&quot;https://www.researchgate.net/publication/266150873_Astrophysical_Techniques_Sixth_Edition_by_CRKitchin&quot;&gt;Reference 5&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-</description>
-        <pubDate>Sat, 25 Dec 2021 00:00:00 +0530</pubDate>
-        <link>/measurig_age_uiverse_gourav</link>
-        <guid isPermaLink="true">/measurig_age_uiverse_gourav</guid>
-        
-        <category>popular</category>
-        
-        <category>age_of_universe</category>
-        
-        <category>big_bang</category>
-        
-        
-        <category>General</category>
         
       </item>
     
