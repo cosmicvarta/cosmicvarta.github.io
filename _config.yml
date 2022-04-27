@@ -195,6 +195,7 @@ authors:
        web: https://www.researchgate.net/profile/Amit-Mandal-10
        twitter: https://www.researchgate.net/profile/Amit-Mandal-10
        description: "I am a Post Doctoral Researcher (PDR) at Seoul National University (SNU), South Korea with Prof. Jong-Hak Woo. Currently I am involved in SNU AGN Monitoring Project (SAMP) aiming to find the black hole masses and study of the structure and kinematics of the innermost regions in AGN."
+
  CosmicVarta:
         name: CosmicVarta
         display_name: CosmicVarta
@@ -203,6 +204,19 @@ authors:
         web: http://www.cosmicvarta.in
         twitter: http://www.twitter.com/cosmicvarta
         description: "Written by the CosmicVarta team. This article has been authored by all the members as a joint effort."
+
+ Akhil Jaini:
+        name: Akhil Jaini
+        display_name: Akhil Jaini
+        avatar: 'assets/images/akhil_jaini.png'
+        email: work.jainiakhil@gmail.com
+        web: https://www.linkedin.com/in/jainiakhil
+        twitter: https://www.facebook.com/jainiakhilsuper
+        description: "I am currently pursuing my Masters in Astronomical Instrumentation from the Indian Institute of Astrophysics, Bengaluru. My research interests are in Radio Astronomy, Exoplanet Science and Astronomical Instrumentation."
+
+
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
