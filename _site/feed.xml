@@ -5,9 +5,104 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 27 Apr 2022 16:53:11 +0530</pubDate>
-    <lastBuildDate>Wed, 27 Apr 2022 16:53:11 +0530</lastBuildDate>
+    <pubDate>Tue, 17 May 2022 18:17:49 +0530</pubDate>
+    <lastBuildDate>Tue, 17 May 2022 18:17:49 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>How much Metal does the Quiet Sun Corona contain?</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;XSM onboard Chandrayaan-2 observed the Sun during the deepest solar minimum of the past century from in 2019-2020. By studying the XSM spectra for the days when the Sun was very quiet, researchers have found that the abundances of all Mg, Al, Si is around two times higher than its abundances in the photosphere! They also calculated the temperature of the quiet Sun corona to be around 2 MK. This article explains how these measurements were made.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The visible orange-yellow surface of the Sun that we can see even with the naked eye is called the Photosphere. It extends up to a height of 400 km. The temperature here decreases from 6000K, at the bottom of the layer, to 4500K at the top of the layer. This is expected because as we move away from a source of energy and heat, the temperature drops. The next layer is the Chromosphere, that is in between a height of about 400 - 2100 km. The temperature in the Chromosphere varies between about 4000 K at the bottom and 8000 K at the top. As the numbers show, in the Chromosphere, as we move upwards it gets hotter and not cooler as common sense suggests!&lt;/p&gt;
+
+&lt;p&gt;More mystifyingly, things get extremely hot (literally) as we move into the next layer, the transition region, which is just a 100 km in height but the temperature drastically increases from a few thousand kelvin to a few million kelvin! Temperature stays at a million degree kelvin in the Corona (which extends throughout the solar system) as well, which is the uppermost atmospheric layer of the Sun. The reason for this temperature increase in the solar atmosphere is one of the long standing problems of solar physics referred to as the &lt;em&gt;Coronal Heating Problem&lt;/em&gt;. You can read more about this in the article: &lt;a href=&quot;https://cosmicvarta.in/vishal_machine_learning_corona_article&quot;&gt;Using machine learning to infer Solar Coronal heating&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/lakshitha_quiet_corona_metal/image1_lakshitha2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: The Sun and its layers.
+Credit: &lt;a href=&quot;https://hinode.nao.ac.jp/en/news/results/formation-mechanisms-of-the-solar-chromosphere-revealed-by-hinode-and-iris/&quot;&gt;Hinode&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;The Corona is mainly visible in UV and X rays. This is because the hotter a material is, the light coming from it will be of higher energy. You can see this in daily life in the flames of a stove. The innermost regions of the fire will be bluish compared to the outer parts, which will be red, orange and yellow. As we have seen, since the Corona is at a million degree kelvin temperature, it emits mainly in the high energy part of the spectrum, that is, in UV and X-rays, while the Photosphere emits mainly in optical wavelengths that we can perceive with our naked eyes. This means that telescopes on the Earth are enough to observe and study the Photosphere. But since the ozone layer blocks UV and X rays (thankfully, otherwise we would not exist as we do now!), Coronal studies began only with advent of the space age and satellites in the 1960s.&lt;/p&gt;
+
+&lt;p&gt;Another phenomenon that is related and similarly astonishing to the ‘Coronal Heating Problem’ that occurs in the transition region and the Corona is called as the First Ionization Potential (FIP) Effect. This effect deals with the abundances of elements in the Corona.&lt;/p&gt;
+
+&lt;p&gt;Soon after the launch of the first satellites with instruments to study the Sun in UV and X rays, &lt;a href=&quot;http://articles.adsabs.harvard.edu/pdf/1963ApJ...137..945P&quot;&gt;Stuart R. Pottasch&lt;/a&gt; in 1963 found something very weird concerning the elements present in the Corona. Using spectroscopy, that is, by studying light from the Corona, he discovered that the absolute abundances (i.e., the abundances with respect hydrogen) of certain elements &lt;a href=&quot;https://en.wikipedia.org/wiki/Ionization_energy&quot;&gt;the low FIP elements&lt;/a&gt; like magnesium (Mg), silicon (Si) and iron (Fe) were mode abundant (3-4 times higher!) in the Corona than in the Photosphere. Now you might ask why is this surprising? After all, Corona is a different layer with a very different temperature. So, why can’t it have different abundances of elements than the Photosphere, right? This is because all the material that is present in the Corona comes from the lower atmospheric layers through flares and Coronal mass ejections (CMEs). &lt;a href=&quot;https://spaceplace.nasa.gov/solar-activity/en/&quot;&gt;Flares&lt;/a&gt; and &lt;a href=&quot;https://www.swpc.noaa.gov/phenomena/Coronal-mass-ejections&quot;&gt;CMEs&lt;/a&gt; are huge explosions that supply material and energy from the Photosphere to the Corona. So it was expected that the elemental abundances in the Corona will reflect that of the Photosphere.&lt;/p&gt;
+
+&lt;p&gt;The theories that are trying to explain the FIP effect predict that the FIP effect and the Coronal Heating Problem are intimately connected with each other. Thus studying one problem might give insights about the other and vice versa!&lt;/p&gt;
+
+&lt;p&gt;Over the years, many studies of the FIP effect have shown that the amount of FIP effect, which basically tells by how much the (low FIP) elements in the Corona are more compared to the Photosphere, is different in different structures of the Corona. Sun’s activity changes with an approximate period of 11 years called as the solar cycle. At the start of a cycle, large flares and CMEs on the sun are usually non-existent. With the progress of the cycle, activity increases, reaches a maximum and starts coming down again before the start of the next cycle. Studies have also shown that the elemental abundance in the Corona changes in accordance with the solar cycle.&lt;/p&gt;
+
+&lt;p&gt;It is relatively easier to study the Corona when explosions (flares and CMEs) happen. This is because the Sun is very active and outputs a large amount of UV and X rays which the instruments can receive. But studying the Sun when it is quiet requires extremely sensitive instruments to be present and observing the Sun. Here comes in Chandrayaan-2 live a saviour! The Chandrayaan-2 mission was launched in July 2019 and the orbiter carried an instrument called Solar X-ray Monitor (XSM), which is till date the most sensitive instrument to measure the sun’s spectra (light). For more information on XSM, refer to the article:&lt;a href=&quot;https://cosmicvarta.in/lakshitha_solar_article_corona&quot;&gt;Deciphering The Mysteries of The Quiet Sun Explosions&lt;/a&gt;. 2019 also marked the end of solar cycle 24 during which the sun was extremely quiet. This was the quietest the sun has been in the past 100 years! Thus with the Sun in its deep minimum and the XSM observing its inactivity, Santosh Vadawale and team have managed to decode the abundances of three (low FIP) elements - Mg, Al and Si  - in the quiescent Corona using spectroscopy.&lt;/p&gt;
+
+&lt;p&gt;Spectroscopy is the study of light of different energies that is emitted by a source. The instrument that is used for spectroscopy is called as a spectroscope/spectrometer. And the output of a spectroscope is a spectrum (plural - spectra). A spectrum is basically a graph of intensity (or count rate which gives the number of photons) versus the wavelength (or energy) of light. It is possible to derive the temperature and other physical parameters by studying the shape of the spectrum (known as the continuum), and by studying the bumps (called as ‘emission lines or emission complexes’), it is possible to derive the abundances of various elements present in the source (see figure 2). Each emission line is a ‘signature’ of a different element. By modelling (i.e., comparing the strength of the observed line and shape of the continuum with that predicted by theory) the spectra, we can find the abundances and other physical parameters. For more in-depth information about spectroscopy, please refer to: &lt;a href=&quot;https://cosmicvarta.in/solar-chromosphere-spectral-lines-vishal&quot;&gt;Understanding the solar chromosphere through spectral lines.&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/lakshitha_quiet_corona_metal/image2_lakshitha2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Soft X-ray spectra measured by the XSM for two representative days of quiet Sun observations are shown. Solid lines represent the best fit isothermal model and the residuals are shown in the bottom panel. Gray points correspond to non-solar background spectrum.
+Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16643.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;By studying the XSM spectra for 73 days when the Sun was very quiet, they found that the abundances of all three elements (Mg, Al, Si) were around two times higher than the corresponding photospheric abundances. They also calculated the temperature of the quiet Sun to be around 2 MK.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/lakshitha_quiet_corona_metal/image3_lakshitha2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Light curve for the duration of the XSM observations used in this study. Orange shaded regions are duration when active regions were present on the Sun, pink shaded regions are duration when the Sun showed enhanced X-ray activity, and blue shaded regions are duration of quiet Sun observations.
+Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16643.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;As no activity was happening on the Sun, XSM was even able to measure the absolute lowest X-ray energy emitted by the Sun, which is about 6 x 10&lt;sup&gt;-10&lt;/sup&gt; Wm&lt;sup&gt;-2&lt;/sup&gt;. For comparison, the highest soft X-ray energy emitted by the Sun is of the order of 10&lt;sup&gt;-4&lt;/sup&gt;   Wm&lt;sup&gt;-2&lt;/sup&gt;, which is 6 orders of magnitude higher!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/2041-8213/abf35d&quot; target=&quot;_blank&quot;&gt; Observations Of The Quiet Sun During The Deepest Solar Minimum Of The PastCentury With Chandrayaan-2 XSM: Elemental Abundances in the Quiescent Corona&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Santosh Vadawale&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Biswajit Mondal, N. P. S. Mithun, Aveek Sarkar, P. Janardhan, Bhuwan Joshi, Anil Bhardwaj, M. Shanmugam, Arpit R. Patel, Hitesh Kumar L. Adalja&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Physical Research Laboratory, Ahmedabad, Gujarat-380 009, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 16 May 2022 00:00:00 +0530</pubDate>
+        <link>/lakshitha_solar_article_quiet_sun</link>
+        <guid isPermaLink="true">/lakshitha_solar_article_quiet_sun</guid>
+        
+        <category>Sun</category>
+        
+        <category>Corona</category>
+        
+        <category>Chandrayaan-2</category>
+        
+        <category>Elemental abundances</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
     
       <item>
         <title>EARTH-SIZED TELESCOPES FOR ASTRONOMICAL OBSERVATIONS IN THE LOW RADIO FREQUENCIES</title>
@@ -164,14 +259,14 @@ Indian Institute of Astrophysics, Bengaluru, Karnataka, India – 560034;&lt;/p&
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -297,14 +392,14 @@ Image source:&lt;a href=&quot;https://arxiv.org/abs/2108.08025&quot;&gt; Figure 
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -427,14 +522,14 @@ The representatives introduced themselves, about their career paths and how they
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -511,14 +606,14 @@ This results in a periodic variation with time in the observed pulse frequency. 
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -699,14 +794,14 @@ Raman founded &lt;strong&gt;the Indian Academy of sciences&lt;/strong&gt; in &lt
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -865,14 +960,14 @@ Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287 &quot;&gt; Visha
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -1007,7 +1102,7 @@ Up until 1977, scientists believed that all life on Earth was in some way depend
   &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image3.png&quot; /&gt;
 &lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt; Image 3: This illustration portrays possible ways that methane might be added to Mars' atmosphere (sources) and removed from the atmosphere (sinks). NASA's Curiosity Mars rover has detected fluctuations in methane concentration in the atmosphere. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/jpl/msl/pia19088&quot;&gt;NASA/JPL-Caltech&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt; Image 3: This illustration portrays possible ways that methane might be added to Mars&apos; atmosphere (sources) and removed from the atmosphere (sinks). NASA&apos;s Curiosity Mars rover has detected fluctuations in methane concentration in the atmosphere. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/jpl/msl/pia19088&quot;&gt;NASA/JPL-Caltech&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3.	Habitability in the solar system:&lt;/strong&gt;&lt;/p&gt;
@@ -1047,7 +1142,7 @@ Enceladus is Saturn’s sixth largest moon and has active geology. In 2005, the 
   &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image6.jpg&quot; /&gt;
 &lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt; Image 6 : Narrow jets of gas and icy particles erupt from the south polar region of Enceladus, contributing to the moon's giant plume. A cycle of activity in these small-scale jets may be periodically lofting extra particles into space, causing the overall plume to brighten dramatically. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/feature/jpl/enceladus-jets-surprises-in-starlight&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt; Image 6 : Narrow jets of gas and icy particles erupt from the south polar region of Enceladus, contributing to the moon&apos;s giant plume. A cycle of activity in these small-scale jets may be periodically lofting extra particles into space, causing the overall plume to brighten dramatically. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/feature/jpl/enceladus-jets-surprises-in-starlight&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;3.3.2 Titan :&lt;/strong&gt;
@@ -1057,7 +1152,7 @@ Titan, the largest moon of Saturn, is also of astrobiological interest because i
   &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image7.jpg&quot; /&gt;
 &lt;/p&gt;
 
-&lt;p align=&quot;center&quot;&gt; Image 7 : NASA's Cassini spacecraft sees bright methane clouds drifting in the summer skies of Saturn's moon Titan, along with dark hydrocarbon lakes and seas clustered around the north pole. Image courtesy: &lt;a href=&quot;https://www.jpl.nasa.gov/images/pia21615-northern-summer-on-titan&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
+&lt;p align=&quot;center&quot;&gt; Image 7 : NASA&apos;s Cassini spacecraft sees bright methane clouds drifting in the summer skies of Saturn&apos;s moon Titan, along with dark hydrocarbon lakes and seas clustered around the north pole. Image courtesy: &lt;a href=&quot;https://www.jpl.nasa.gov/images/pia21615-northern-summer-on-titan&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
 &lt;/p&gt;
 
 &lt;p&gt;Titan’s atmosphere contains a smoggy haze of hydrocarbons. At high altitude, ultraviolet sunlight breaks up methane molecules (CH&lt;sub&gt;4&lt;/sub&gt;) and subsequent reactions build up hydrocarbons including ethane (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), acetylene (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;), propane (C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;8&lt;/sub&gt;), benzene (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), and reddish-brown particles containing polyaromatic hydrocarbons. The particles are called tholins. The products derived from methane sediment out of the atmosphere. In fact, about 20 per cent of Titan’s surface is covered in tropical dunes that are made of sand-sized particles, which are at least coated with organics if not made of them. At the poles, over 400 lakes are mixtures of liquid propane, ethane, and methane, with extraordinary beaches made of particles of benzene and acetylene.
@@ -1088,14 +1183,14 @@ If a planet is too far away from its host star it ices over, and if it’s too c
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -1134,14 +1229,14 @@ If a planet is too far away from its host star it ices over, and if it’s too c
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -1208,14 +1303,14 @@ If a planet is too far away from its host star it ices over, and if it’s too c
     *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
     /*
     var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
     };
     */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
     (d.head || d.body).appendChild(s);
     })();
 &lt;/script&gt;
@@ -1232,502 +1327,6 @@ If a planet is too far away from its host star it ices over, and if it’s too c
         <category>General</category>
         
         <category>Popular</category>
-        
-        
-        <category>General</category>
-        
-      </item>
-    
-      <item>
-        <title>Voices of the Women in Science - A list of books on women scientists </title>
-        <description>&lt;p&gt;&lt;em&gt;Progress is possible only when everyone capable of contributing is given an equal chance irrespective of gender, community and nationality. While there is a long way to go before this gap is fulfilled, it should be noted that we as a community have made considerable strides in meeting this agenda. Even at the dawn of independence, the majority of women were not even given a chance to study but now, in 70 years, we can happily say that women are not only earning degrees and doctorates but actively leading the world on major scientific, technological and industrial fronts!&lt;/em&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;The science, technology, engineering and mathematics (STEM) disciplines in India, as is in every other country, have an unequal gender work environment. In this regard, the United Nations General Assembly has declared February 11 as the &lt;strong&gt;International Day of Women and Girls in Science&lt;/strong&gt; to inspire and engage women and girls in STEM, with the hope that more girls take up science and research as a career.&lt;/p&gt;
-
-&lt;p&gt;While the number of women in science and technology is less, their contributions are not! In order to celebrate their contributions, we at &lt;strong&gt;CosmicVarta&lt;/strong&gt; have collated a list of books that commemorate the immense contribution that women across the world have made to science with an intention to inspire and arouse a scientific temper in the reader. These books show us how these trailblazers, pioneers and path-breakers’ lives were and what inspired them to become scientists! This list is definitely not exhaustive and we hope that many more books will be written on the contemporary women scientists as well the future stars. Here is the list of books we have compiled:&lt;/p&gt;
-
-&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;style&gt;
-img {
-  float: left;
-}
-&lt;/style&gt;
-
-&lt;h2 id=&quot;1-those-magnificent-women-and-their-flying-machines-isros-mission-to-mars&quot;&gt;1. Those Magnificent Women and their Flying Machines: ISRO’S Mission to Mars&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Minnie Vaid, ‎ Speaking Tiger Books LLP, 2019&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Those-Magificent-Women-3.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-The sky is definitely not the limit for Indian women scientists. India became the first Asian country to reach Mars, in 2013, that too in its first attempt. This mission, among others, was led by a group of brilliant and dedicated women scientists of ISRO. This book narrates how these magnificent women overcame gender-barriers and succeeded to achieve the impossible!   &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/44578585-those-magnificent-women-and-their-flying-machines&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;2-kalpana-chawla-a-life&quot;&gt;2. Kalpana Chawla: A Life&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Anil Padmanabhan, Penguin, 2003&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Kalpana-Chawla-a_life.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-Kalpana Chawla was the first woman of Indian origin to become an astronaut. Undeniably, she is an inspiration to millions of Indians, and not just women. Most school currilulum also have a chapter dedicated to this hero! While Kalpana Chawla died when returning from her second space flight on-board the space shuttle 'Columbia' in 2003, she is immortalized in this book.   &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/3207063-kalpana-chawla&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;3-sunita-williams-a-star-in-space&quot;&gt;3. Sunita Williams: A Star in Space&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Aravinda Anatharaman, Puffin, 2014&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/sunita_williams.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-In simple words, the author brings to life the astronauts's amazing journey to reach the stars. Sunita Williams had to settle for second choices in her life multiple times, but by giving her best in everything, she became a swimmer turned pilot turned Astronaut! &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/25900000-sunita-williams&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;4-lilavatis-daughters-the-women-scientists-of-india&quot;&gt;4. Lilavati’s Daughters: The Women Scientists of India&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Ramaswamy and Rohini Godbole, Indian Academy of Sciences, 2008&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/lilavathis_daughters.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-
-This book is a collection of 100 biographical essays of Indian woman scientists working in a variety of fields such as astrophysics, botany, bio-organic chemistry, genetics These stories explain beautifully what being a woman scientist in India encompasses. It is a must read for every science enthusiast and college student.  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/8103504-lilavati-s-daughters&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;5-the-girls-guide-to-a-life-in-science&quot;&gt;5. The girl’s guide to a life in science&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Rohini Godbole, Ram Ramaswamy, Mandakini Dubey, Indian Academy of Sciences, 2014&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/the_girls_guide.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-Twenty five celebrated Indian women scientists, from the field of Physics to Zoology, give an overview of how they chose science as a career. The book deals with several questions of how, when, where and why that you might need to guide you for a life with science. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/31298592-the-girl-s-guide-to-a-life-in-science&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;6-scientifically-yours-selected-indian-women-scientists&quot;&gt;6. Scientifically Yours: Selected Indian Women Scientists&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Gouhar Raza, Vigyan Prasar, 2016&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/scientifially_yours.jpeg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-This book consistes of interviews with some of the pioneering Indian women scientists and their rise to success in their repsective fields which is predominatly male-dominated. It showcases how these women used the obstacles they faced as a step to climb ahead instead of letting it be a wall obstructing them.  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/31214207-scientifically-yours&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;7-a-jewel-unearthed-bibha-chowdhuri-the-story-of-an-indian-woman-scientist&quot;&gt;7. A Jewel Unearthed: Bibha Chowdhuri: The Story of an Indian Woman Scientist&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Singh, Rajinder; Roy, Suprakash C	Shaker, Verlag GmbH, Germany, 2018&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/a_jewel_unearthed.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-This is a biography on the life and research of the Indian woman physicist, Bibha Chowdhuri. Born a hundred years ago, she displayed enormous courage and determination to choose a carrer in physics and work in the field of cosmic rays. Stories such as these show us how hard women struggled to make sure that opportunities are not lost to future generations of women and along the way become torch-bearers to break gender-barriers.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/43783181-a-jewel-unearthed&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;8-31-fantastic-adventures-in-science-women-scientists-in-india&quot;&gt;8. 31 Fantastic Adventures in Science: Women Scientists in India&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Aashima Freidog and Nandita Jayaraj,	Puffin,	2019&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/31_adventures.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-Thanks to the giantesses who came before us, there are hundreds of women standing on their shoulders today, working in the Indian academia. This book explores the life of thirty-one women scientists who work on diverse subjects, from environmental biotechnology to particle physics, palaeobiology to astrophysics. Through their innovative research, they help unravel the mysteries of the universe, find methods to live sustainably, cure life-threatening diseases and study animals and plants that are long gone.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/50189302-31-fantastic-adventures-in-science&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;9-rocket-girl-the-story-of-mary-sherman-morgan-americas-first-female-rocket-scientist&quot;&gt;9. Rocket Girl: The Story of Mary Sherman Morgan, America’s First Female Rocket Scientist&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;George D Morgan,	Prometheus Books,	2013&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/rocket_girl.jpg
-
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-Mary Sherman's life was a complete mystery, thanks to the classified work she was involved in for most of her life. But when her son discovered that America was able to launch rockets mainly because if her contributions, he uncovered her life's story and presented it for the world to know in this biography. What he reveals is as fascinating as it is mysterious.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/17247967-rocket-girl&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;10-look-up-henrietta-leavitt-pioneering-woman-astronomer&quot;&gt;10. Look Up! Henrietta Leavitt, Pioneering Woman Astronomer&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Robert Burleigh,	Simon &amp;amp; Schuster/Paula Wiseman Books,	2013&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/look_up.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-
-Henrietta Leavitt measured star positions and sizes from photographs taken by the telescope at the Harvard College Observatory. Henrietta observed that certain stars had a fixed pattern to their changes which later made it possible for astronomers to measure distances, leading to our present understanding of the vast size of the universe. Henrietta's story makes a great inspirational read for young researchers!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/15781175-look-up&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;11-the-glass-universe-how-the-ladies-of-the-harvard-observatory-took-the-measure-of-the-stars&quot;&gt;11. The Glass Universe: How the Ladies of the Harvard Observatory Took the Measure of the Stars&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Dava Sobel, Viking, 2016&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/The_Glass_Universe.jpg
-
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-This is an extraordinary tale of a group of women who worked together and helped produce much of the data on which our understanding of the universe progressed during the 19th and 20th centuries. They carefully analyzed around half a million glass photographic plates which contained images of the universe taken from the Harvard telescopes. They helped discern what stars were made of, divided the stars into meaningful categories for further research, and found a way to measure distances across space by starlight.  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/29496512-the-glass-universe&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;12-rise-of-the-rocket-girls-the-women-who-propelled-us-from-missiles-to-the-moon-to-mars&quot;&gt;12. Rise of the Rocket Girls: The Women Who Propelled Us, from Missiles to the Moon to Mars&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Nathalia Holt, Back Bay Books, 2017&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/rise_of_rocket_girls.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-'Rise of the Rocket Girls' is a story of women 'human computers', who displayed their mathemetical prowess to calculate the velocities and trajectories of rockets as well as to deisgn the actual rockets and satellites that allowed for the exploration of the solar system!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/40363555-rise-of-the-rocket-girls&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;13-margaret-and-the-moon-how-margaret-hamilton-saved-the-first-lunar-landing&quot;&gt;13. Margaret and the moon: how Margaret Hamilton saved the first lunar landing&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Dean Robbins, Knopf Books for Young Readers (Children’s book), 2017&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Margaret_and_the_moon.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-While the image of man landing on moon is an immortalized part of pop culture, another image has gained its prominent place: a woman smiling beside a stack of paper her height. Meet Margaret Hamilton, the woman who write the codes by hand to make the moon landing possible in this biography. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/en/book/show/29439789-margaret-and-the-moon&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;14-what-stars-are-made-of-the-life-of-cecilia-payne-gaposchkin&quot;&gt;14. What stars are made of: The life of Cecilia Payne-Gaposchkin&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Donovan Moore, Harvard University Press, 2020&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/What_stars_are_made_of.png
-
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-
-Cecilia Payne-Gaposchkin was an innovator who theorized with greatest of accuracies about the substance of stars. This book narrates the immense struggles Cecilia had to go through while doing what she loved, science. The read is a story of devotion and tenacity that speaks powerfully to our own time. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/en/book/show/48982701-what-stars-are-made-of&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;15-dorothy-hodgkin-a-life&quot;&gt;15. Dorothy Hodgkin: a life&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Georgina Ferry, Granta Books, 1999&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Dorothy_Hodgkin.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:220px;height:300px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-A biography of Britain's only female Nobel Prize-winning scientist, a crystallographer who was also an active peace campaigner and mover through the highest levels of the British establishment. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/2602023-dorothy-hodgkin&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;16-nobel-prize-women-in-science-their-lives-struggles-and-momentous-discoveries&quot;&gt;16. Nobel Prize Women in Science: Their Lives, Struggles, and Momentous Discoveries&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Sharon Mcgrayne, Henry (Joseph) Press, 2001&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Nobel_Prize_Women_in_Science.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-
-The Nobel Prize awardee list shows an astonishing disparity in the representation of women scientists. This book narrates the lives and achievements of 15 women scientists who have won a Nobel Prize or part of a Nobel Prize- winning project. Even in the midst of relenless discrimination, their love for science pushed them for science.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/149285.Nobel_Prize_Women_in_Science&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;17-the-fossil-hunter-dinosaurs-evolution-and-the-woman-whose-discoveries-changed-the-world&quot;&gt;17. The Fossil Hunter: Dinosaurs, Evolution, and the Woman Whose Discoveries Changed the World&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Shelley Emling, St. Martin’s Press, 2009&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/The_Fossil_Hunter.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-The book narrates the unsung story of Mary Anning, a twelve year who discovered the first dinosaur skeleton--of an ichthyosaur--while fossil hunting on the cliffs of Lyme Regis, England. The inspiration behind popular tongue-twister &quot;She Sells Sea Shells by the Seashore&quot;, she attracted the attention of fossil collectors and the scientific world alike. Her peculiar finds helped lay the groundwork for Charles Darwin's theory of evolution, laid out in his On the Origin of Species. Darwin based Mary's fossilized creatures as irrefutable evidence that life in the past was nothing like life in the present. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/en/book/show/6538811-the-fossil-hunter&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;18-the-madame-curie-complex-the-hidden-history-of-women-in-science&quot;&gt;18. The Madame Curie Complex: The Hidden History of Women in Science&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Julie Des Jardins, The Feminist Press, 2010&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/The_Madame_Curie_Complex.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-The book explains why sciences are predominantly considered a male-centric job with a historic context. The book compares the lives of women scientists with their male contemporaries to demonstrate how the gendered culture of science molds the methods, structure, and experience of the work. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/6472839-the-madame-curie-complex&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;19-headstrong-52-women-who-changed-science-and-the-world&quot;&gt;19. Headstrong: 52 Women Who Changed Science and the World&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Rachel Swaby, Broadway Books,	2015&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Headstrong.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-Emmy Noether (her mathematical theorem stands as a backbone of modern physics), Maria Gaetana Agnesi (the first woman to be appointed as a university mathematics professor), Sally Ride (first American woman in space), Yvonne Brill (worked on the chemical propulsions which enabled man to travel to the moon), Rosalyn Sussman Yalow (co-winner of the 1977 Nobel Prize in Physiology or Medicine), Inge Lehmann (discovered that the earth has an inner core). These are just few of the 'Headstrong' women who have been instrumental in major breakthroughs from the 17th to 19th centuries. This book contains stories of 52 women who were the best in their fields, while encouraging and inspiring a new generation of girls to put on their lab coats.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/22856166-headstrong&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;20-solving-the-puzzle-under-the-sea-marie-tharp-maps-the-ocean-floor&quot;&gt;20. Solving the Puzzle Under the Sea: Marie Tharp Maps the Ocean Floor&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Robert Burleigh,	Simon &amp;amp; Schuster/Paula Wiseman Books (Children’s book), 	2016&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Solving_the_Puzzle_Under_the_Sea.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-This illustrated biography narrates the story of Marie Tharp, a pioneering woman scientist and the first person to ever successfully map the ocean floor. Taught to think big by her father who was a cartographer, Marie wanted to map the bottom of the Atlantic Ocean. Despite failures and challenges where Marie would be turned away from a ship as having a woman on board was “bad luck”, Marie was determined to succeed. By mapping the ocean floor, Marie helped us better understand the planet we call home.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/25785790-solving-the-puzzle-under-the-sea&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;21-women-in-science-50-fearless-pioneers-who-changed-the-world&quot;&gt;21. Women in Science: 50 Fearless Pioneers Who Changed the World&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Rachel Ignotofsky,	Ten Speed Press,	2016&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Women_in_Science.jpg
-
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-With beautiful, colourful illustrations, this book takes us on 50 inspiring journeys, each with one women scientist who left no stones unturned in their persuit of truth through science. They defied the society for their ambitions and become inspirations to millions!&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/27405561-women-in-science&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;22-radioactive-how-irène-curie-and-lise-meitner-revolutionized-science-and-changed-the-world&quot;&gt;22. Radioactive!: How Irène curie and Lise Meitner Revolutionized Science and Changed the world&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Winifred Conkling,	Algonquin Books,	2018&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/radioactive.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-The book presents the story of two women, Irène Curie and  Lise Meitner, who did ground breaking in a male-dominated field of science. Curie was denied admission to the French Academy of sciences due to her gender, even though she had been awarded with the Nobel Prize. Meitner’s unique insight was critical to the revolution in science that led to nuclear energy and the race to build the atom bomb, yet her achievement was left unrecognized by the Nobel committee.  &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/24886042-radioactive&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;23-the-immortal-life-of-henrietta-lacks&quot;&gt;23. The Immortal Life of Henrietta Lacks&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Rebecca Skloot, Picador, 2019&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/The_immortal_life_of_Henrietta_Lacks.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-This book narrates the story of Henrietta Lacks, a poor Southern tobacco farmer who worked as an enslaved farm help.However, her cells has become one of the most important tool in medicine: the first “immortal” human cells to be grown in culture. Her vital for developing the polio vaccine, uncovered secrets of cancer, viruses among others. &lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;24-fantastically-great-women-scientists-and-their-stories&quot;&gt;24. Fantastically Great Women Scientists and Their Stories&lt;/h2&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;Kate Pankhurst, Bloomsbury Children’s Books (Children’s book),	2021&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/woman_science_day_books/Fantastically_Great_Women_Scientists.jpg
-&quot; alt=&quot;Image 1&quot; style=&quot;width:270px;height:350px;margin-right:15px;margin-bottom:20px;&quot; /&gt;
-
-This book is a celebration of the women who made some of the world's most important scientific breakthroughs. Featuring Mae Jemison, Marie Curie, Elizabeth Blackwell, Janaki Ammal, Caroline Herschel, Katia Krafft, Tu Youyou and Rosalind Franklin, the book throws light on the lives of these incredible female scientists whose hard work, persistence and grit has changed our understanding of science, and of course broken down the typical gender roles attributed to women.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://www.goodreads.com/book/show/57019582-fantastically-great-women-scientists-and-their-stories&quot;&gt;Read the book review on Goodreads.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;br /&gt;
-&lt;br /&gt;&lt;/p&gt;
-
-&lt;p&gt;Being a platform for promoting astronomy research among the public, we hope that these books guide you on your path towards a meaningful life with science. Do let us know which books you will be reading or if we have missed any of your favorite women scientist’s book in the comments below.&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
-    };
-    */
-    (function() { // DON'T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement('script');
-    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
-    s.setAttribute('data-timestamp', +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Thu, 10 Feb 2022 00:00:00 +0530</pubDate>
-        <link>/books-on-women-list</link>
-        <guid isPermaLink="true">/books-on-women-list</guid>
-        
-        <category>popular</category>
-        
-        <category>women-in science</category>
         
         
         <category>General</category>
