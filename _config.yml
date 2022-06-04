@@ -213,8 +213,14 @@ authors:
         web: https://www.linkedin.com/in/jainiakhil
         twitter: https://www.facebook.com/jainiakhilsuper
         description: "I am currently pursuing my Masters in Astronomical Instrumentation from the Indian Institute of Astrophysics, Bengaluru. My research interests are in Radio Astronomy, Exoplanet Science and Astronomical Instrumentation."
-
-
+ Gourab Giri:
+        name: Gourab Giri
+        display_name: Gourab Giri
+        avatar: 'assets/images/gourab_giri.png'
+        email: gourabgiri99@gmail.com
+        web: https://sites.google.com/iiti.ac.in/gourabgiri/home
+        twitter: https://sites.google.com/iiti.ac.in/gourabgiri/home
+        description: "Gourab Giri is a Prime Minister’s Research Fellow (PMRF) at the Indian Institute of Technology Indore (IIT Indore)."
 
 
 plugins:

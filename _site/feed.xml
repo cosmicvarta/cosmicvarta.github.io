@@ -5,9 +5,91 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 May 2022 18:17:49 +0530</pubDate>
-    <lastBuildDate>Tue, 17 May 2022 18:17:49 +0530</lastBuildDate>
+    <pubDate>Sat, 04 Jun 2022 12:36:03 +0530</pubDate>
+    <lastBuildDate>Sat, 04 Jun 2022 12:36:03 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Bending of Cosmic fountains, giving birth to a peculiar X-shaped galaxy</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;When observed with a radio telescope, a giant peculiar X-shaped morphology is seen in some galaxies. It is difficult to understand what gives rise to such peculiar morphology; And, to date, this is a topic of debate among astronomers themselves.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some of the supermassive black holes (SMBHs) that are billion times more massive than the sun reside at the centre of giant galaxies become active. During this active phase, the SMBH begins to rapidly accrete matter (hot ionized gas/plasma), some of which is violently thrown away along the SMBH’s spin axis by a complex process triggered by a strong magnetic disturbance. Hence, these active SMBHs usually throw jets of hot material out to large distances (out to a few billion light-years) with a velocity nearly the speed of light. These ejected jets resemble a structure that can very well be labelled as cosmic fountains. These jets typically consist of relativistic magnetised hot plasma (as the plasma is thrown, it also takes some of the magnetic field with it), which produce an outburst of radio emission via the synchrotron process. What’s surprising is that jet ejecta, which is expected to follow a particular path (a straight line; determined by the spin axis of the SMBH), sometimes bend from it and form a peculiar morphology that looks like the English letter ‘X’. So, when someone observes these galaxies with a radio telescope, they will find a giant X-like structure floating in the vast cosmos. It is difficult to understand what gives rise to such peculiar morphology; And, to date, this is a topic of debate among astronomers themselves.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/x-galaxy-gourabg-images/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;!---
+&lt;p align = &quot;center&quot;&gt;
+Figure 1: Radio map (at 23 cm) of a galaxy named PKS 2014-55 obtained from MeerKAT telescope, showing a peculiar X-structure. Here one pair of lobes is called the active lobe and the other pair is called the wing. The extent of the formed structure is ~ 3 million light-years, traced by the straight black line. The elliptical curve here mimics the elliptical galaxy that hosts the structure. &lt;a href=&quot;https://academic.oup.com/mnras/article/495/1/1271/5831730&quot;&gt;Cotton et al. 2020&lt;/a&gt;
+&lt;/p&gt;
+--&gt;
+
+&lt;p&gt;In a recent study led by our team of astrophysicists including Indian and Italian scientists, have addressed this issue by re-investigating the formation mechanism of such structures computationally. We identified a possible origin hidden within the host galaxy shape itself. This is quite similar to the Bengali saying, &lt;em&gt;The ghost is already hiding in plain sight&lt;/em&gt;. Using computer simulations performed using the Max Planck supercomputing cluster in Germany, we demonstrated the complex relationship between the X-morphology formation and the shape of the host elliptical galaxy, which plays a key role in deflecting the material hurled out by the supermassive black hole. To be specific, the already existing interstellar gas distribution of the galaxy itself is found responsible for deflecting the ejected hot plasma by the black hole sideways, giving the cosmic fountain (the ejected jet) an X-shape. In scientific terms, we demonstrated that as the jet propagates through the denser interstellar gas distribution of the galaxy, the jet head becomes unstable. As a result, it creates lots of back-flowing plasma material that traverse back again towards the centre of the galaxy. While doing so, the host galaxy specifies a path for its motion by providing a path with a maximum pressure gradient (the pressure gradient generates a force), which lies along the minor axis of the galaxy (i.e., along the shorter dimension of an ellipse). This generated force causes a deflection in the back-flowing plasma, creating the wing structure. Observational studies often find such alignments of these back-flowing materials along the minor axis of the host galaxy, which further supports our findings.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/x-galaxy-gourabg-images/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;!---
+&lt;p align = &quot;center&quot;&gt;
+Figure 2: Here, we present our simulated X structure formed by the deflected, back-flowing plasma, generated from the jet head. The elliptical-shaped galaxy is visible in the top image. It is a 2D slice of our 3D simulation that is shown in the bottom image. The bottom image is a 3D velocity distribution plot seen from an angle to the y-axis. The blue and red colors here represent the velocity values that are +ve or -ve, representing forward or backward moving materials (to the y-axis).
+&lt;/p&gt;
+--&gt;
+
+&lt;p&gt;Our novel simulation has also shed light on a decade-old problem of these radio galaxies, which led our work towards a publication in a very prestigious European journal named Astronomy &amp;amp; Astrophysics by ESO (European Southern Observatory). The problem is noted below: Based on the properties of wing structure (which is less intense and rather diffuse than the active lobe), it was believed that the wing is a passively evolving feature (i.e., simply evolves under normal adiabatic expansion) compared to the active lobe, where the jet is currently in an active stage (by continuously filling itself with fresh and young plasma material from the SMBH). A similar characteristic has also been observed in our simulation showing the active lobe possessing freshly injected particles from the active galactic core, whereas the wing accumulates the older particles that back-flow from the jet head. Based on this, it can be stated that the active lobe should possess spectral index values flatter than the wing (flatter spectra mean younger particles; characteristics of synchrotron radiation). However, in observational studies, no systematic difference in the radio emission (hence in the spectral index) has been found in the four different arms of the X-shape. This further highlights that from a theoretical standpoint, there is a clear lag in the understanding of these galaxies’ emission processes, seriously contradicting the existing formation models. It has also led scientists to address these objects as peculiar sources.&lt;/p&gt;
+
+&lt;p&gt;This work led by Gourab Giri and the team has offered a resolution to this issue with a critical analysis of these radio galaxies. They highlight that shock acceleration processes of ultra-fast electrons (travelling nearly at the speed of light!) cause such peculiar emission characteristics. A shock wave is a wave that is generated by a moving object when its speed of movement exceeds the speed of sound in that medium. In our work, we explicitly showed the origin of these shock waves in the four arms of X-shaped structure and hence their influence on the radio emission of such peculiar morphologies. The conclusion which came out from our work is that the shock acceleration significantly re-energizes the plasma by speeding them up (hence altering their spectra), keeping the particles alive which instead would have lost all their energy under several dominant cooling processes (radiative and adiabatic cooling). Most importantly, the wing, which was thought of as a passively growing structure of X-shaped galaxies, is actually very active as it produces shock acceleration sites in it. The shocks are generated due to the diverted back-flowing material, as also shown by the black arrow in Fig. 2, making the wing actively evolving. This can single-handedly explain the peculiar emission characteristics observed in X-shaped radio galaxies including the signature where no systematic difference in the emission of lobe and wing is found. Our work has already been appreciated by a greater scientific community. Additionally, the prestigious journal Astronomy &amp;amp; Astrophysics has also decided to feature our work on the cover page of their upcoming volume. This work is already available on the arXiv preprint server, handled by Cornell University, the USA for open-source science.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022arXiv220301347G/abstract&quot; target=&quot;_blank&quot;&gt;Modelling X-shaped Radio Galaxies: Dynamical and Emission Signatures from the Back-flow model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Gourab Giri&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Bhargav Vaidya, Paola Rossi, Gianluigi Bodo, Dipanjan Mukherjee, Andrea Mignone&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Technology (IIT), Indore&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Sat, 04 Jun 2022 00:00:00 +0530</pubDate>
+        <link>/x-galaxy-gourabg</link>
+        <guid isPermaLink="true">/x-galaxy-gourabg</guid>
+        
+        <category>Galaxies</category>
+        
+        <category>Radio jets</category>
+        
+        <category>Magnetohydrodynamics</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>How much Metal does the Quiet Sun Corona contain?</title>
@@ -1250,83 +1332,6 @@ If a planet is too far away from its host star it ices over, and if it’s too c
         <category>popular</category>
         
         <category>women-in science</category>
-        
-        
-        <category>General</category>
-        
-      </item>
-    
-      <item>
-        <title>Mendeley Reference Manager</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Being involved in research means dealing with a lot of papers on a day to day basis. Be it reading them, organizing them, or referencing them we often face a perilous task. A collection of scores of pdf documents scattered here and there in multiple folders is not something unheard of. Often we spend a lot of time looking for a particular part of the text from a paper but unable to locate it. While writing papers, and searching for references I’ve seen a lot of people doing it manually which is a waste of precious research time.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Thanks to the advances in software in the past years, we have a tool which can do it all for us, saving a lot of time and energy as well. It is ‘MENDELEY’ offered by Elsevier.  Mendeley is a library manager which can store and arrange all the pdf documents we put into it. A very informative guide is available on the &lt;a href=&quot;https://www.mendeley.com/guides&quot;&gt;official website&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;​My first interaction with Mendeley was when I was doing research work related to my dissertation as a part of the M Sc. course. The scholars in that lab were pretty much using Mendeley on a day-to-day basis and from there I picked up the idea of organizing papers nicely into a library interface. It is a versatile software available for almost all desktop and mobile systems. As we use Debian based Linux for our research, there is a .deb package available on the website.&lt;/p&gt;
-
-&lt;p&gt;There is an app on the android app store as well which can be pretty helpful in organizing the research papers. The Mendeley website offers a web library interface that is not very different from the one we have on the desktop. Apart from that, browser extensions are available for both Chrome and Firefox browsers which can be used to save the articles we open in the browser to be directly saved to the web library. In fact, the experience is extremely seamless, one can read a document on her laptop and highlight some text and can continue with the same point at her desktop at a later time. No need to waste time searching for that one particular paragraph from scores of papers put in unlimited folders. The sync works perfectly fine across all devices. One can also assign a folder in which Mendeley will automatically look for papers once the application starts. Of course, everything syncs to the web library eventually.&lt;/p&gt;
-
-&lt;p&gt;One has to create a single Mendeley account for all the devices preferably over the website and then use the same login credentials for every device. After that the installation is pretty simple, just follow the steps in a logical fashion and within a few seconds, you’ll have your own library waiting for the papers to put it. Then there are a few ways in which the papers could be added:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Using the Chrome and Firefox browser extensions, just click on save once you come across a paper, and it’ll be dropped into your library.&lt;/li&gt;
-  &lt;li&gt;Add a watch folder, and Mendeley will automatically look for files in that folder.&lt;/li&gt;
-  &lt;li&gt;Add files/folders manually using a point and click interface. The documents will then be uploaded to your Mendeley account online.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;So once the library is set up and we have a collection of papers, the first thing to notice is that it can automatically sort and arrange the papers based on author name, title, publication year, journal name, etc. For incomplete references, Mendeley offers to search the database using the arXiv IDs or DOIs which maybe available in the document metadata. All the files are stored locally as well as synced with the cloud library. One can also create groups to keep the papers more organized.&lt;/p&gt;
-
-&lt;p&gt;A pdf reader is built in the Mendeley package. It is a versatile pdf reader with annotation capabilities. One can mark, highlight, add comments at any point in the document. Besides the library offers a fully searchable interface meaning one can look for the exact phrase or line in a collection of 1000 papers! Imagine doing that manually.&lt;/p&gt;
-
-&lt;p&gt;Although the basic edition is free to use, there is a limitation of 2GB storage per account. The pricing is pretty simple 5GB will cost you approximately $55/year and $165/year for unlimited storage. For me, the free edition suffices the need for now. Let’s see what happens in the future.&lt;/p&gt;
-
-&lt;p&gt;Ever since I installed this application on my desktop, I guess I have saved a lot of time. There is no need to look for papers through my file explorer or terminal. If I have to search for a particular text snippet, I just put that in my Mendeley search bar and it searches for the same in all the papers and of course, it makes life easy. Apart from that, the inbuild BibTeX means I don’t need to run here and there for references for my texts as Mendeley can easily export all the references in BibTeX format. If I come across a nice paper, or during the arXiv search something catches my attention, it goes straight to my library within a few seconds using the &lt;a href=&quot;https://chrome.google.com/webstore/detail/mendeley-web-importer/dagcmkpagjlhakfdhnbomgmjdpkdklff?hl=en&quot;&gt;Chrome extension&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;While writing drafts, the automatically exported .bib file is hassle-free for the bibliography. Some web links including tutorials for Mendeley are listed below:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.mendeley.com/guides&quot;&gt;https://www.mendeley.com/guides&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://alliant.libguides.com/c.php?g=692700&amp;amp;p=4908245&quot;&gt;https://alliant.libguides.com/c.php?g=692700&amp;amp;p=4908245&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://guides.lib.berkeley.edu/mendeley/library&quot;&gt;https://guides.lib.berkeley.edu/mendeley/library&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-</description>
-        <pubDate>Thu, 10 Feb 2022 00:00:00 +0530</pubDate>
-        <link>/mendeley-reference-manager-vivek</link>
-        <guid isPermaLink="true">/mendeley-reference-manager-vivek</guid>
-        
-        <category>General</category>
-        
-        <category>Popular</category>
         
         
         <category>General</category>
