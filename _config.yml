@@ -213,6 +213,7 @@ authors:
         web: https://www.linkedin.com/in/jainiakhil
         twitter: https://www.facebook.com/jainiakhilsuper
         description: "I am currently pursuing my Masters in Astronomical Instrumentation from the Indian Institute of Astrophysics, Bengaluru. My research interests are in Radio Astronomy, Exoplanet Science and Astronomical Instrumentation."
+ 
  Gourab Giri:
         name: Gourab Giri
         display_name: Gourab Giri
@@ -221,6 +222,16 @@ authors:
         web: https://sites.google.com/iiti.ac.in/gourabgiri/home
         twitter: https://sites.google.com/iiti.ac.in/gourabgiri/home
         description: "Gourab Giri is a Prime Minister’s Research Fellow (PMRF) at the Indian Institute of Technology Indore (IIT Indore)."
+ 
+ Saurabh Singh:
+        name: Saurabh Singh
+        display_name: Saurabh Singh
+        avatar: 'assets/images/saurabh_singh.jpg'
+        email: saurabhs@rri.res.in
+        web: https://www.rri.res.in/people/faculty/saurabh-singh
+        twitter: https://www.rri.res.in/people/faculty/saurabh-singh
+        description: "Saurabh Singh is an Assistant Professor at Raman Research Institute (RRI), Bangalore. Saurabh's research focuses on experimental cosmology. He designs experiments to understand crucial epochs of the Universe, such as cosmic dawn, the epoch of reionization, and the era of dark energy domination, via 21-cm intensity mapping."
+
 
 
 plugins:
