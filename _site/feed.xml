@@ -5,9 +5,183 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 12 Jun 2022 18:13:01 +0530</pubDate>
-    <lastBuildDate>Sun, 12 Jun 2022 18:13:01 +0530</lastBuildDate>
+    <pubDate>Mon, 20 Jun 2022 17:23:40 +0530</pubDate>
+    <lastBuildDate>Mon, 20 Jun 2022 17:23:40 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Anyway the plasma moves - it does really matter!</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Light when seen correctly provides rich information on what happens in the cosmos. In this article, we showcase our work on identifying signatures of the solar wind in the solar chromosphere – far lower in the solar atmosphere than what has been expected. We take the reader through our analysis, interpretations and speculations on our observations, and present a unified model of solar wind emergence and the heating of quiet corona.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;NOTE: This article is a follow-up to &lt;a href=&quot;https://cosmicvarta.in/solar-chromosphere-spectral-lines-vishal&quot;&gt;“Understanding the solar chromosphere through spectral lines”&lt;/a&gt; (which I shall henceforth call #A1) written by yours truly. While I have presented a summary of the previous article here too, possibly you would enjoy reading them together better!&lt;/p&gt;
+
+&lt;p&gt;Light, as we have seen in #A1, encodes in it information regarding the world. It is especially of great help to astronomers in figuring out what-where-why something happens. For those of us folks who study the Sun, we are bathed – or rather, burnt crisp with light. And so, light or photons carry with them information regarding various aspects of different regions on the Sun.&lt;/p&gt;
+
+&lt;p&gt;Now, we have seen in #A1 that each element, or ion has a characteristic fingerprint in the form of “spectral lines”. The properties of these spectral lines depend on the plasma properties where the particular ion is present. Critically, it depends on the local temperature, density, velocity, and any other turbulent flows present in the plasma. These show up as effects on the line intensity, the line “shift” and the line width. And so by “reading out” these spectral lines, we can get an estimate of how much plasma is present, how fast it is moving, and in what direction it is moving – at the very least!.&lt;/p&gt;
+
+&lt;p&gt;The solar atmosphere is composed of the photosphere (at ~5500 K), the chromosphere (at ~10,000 to 80,000 K), Transition region (TR; ~1,00,000 K) and the corona (&amp;gt;10,00,000 K). The rise in temperature with height of the atmosphere is the rather much debated “Coronal heating problem”, which presents more questions than answers&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;. The corona then extends outwards as the streaming solar wind, with plasma moving at great speeds outwards from the Sun&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. The exact reason(s) behind the large temperature of the corona, and the height (or the layer of the atmosphere) from where the solar wind starts are not known well, and are an unsolved problem in solar physics.&lt;/p&gt;
+
+&lt;p&gt;In #A1, we attempted to understand the underlying cause of these two problems in tandem by studying two regions called the Coronal Holes (CHs) and Quiet Sun (QS). The CHs are regions seen as dark in the corona against the background QS - see Fig. 1, first panel. However, if we go down to the TR (see Si IV in the same figure), or chromosphere (CII or Mg II k3), these differences vanish! Since the CHs are well known sources of the solar wind, studying these two regions together, and investigating where (and how) this differentiation starts can give us hints on resolving the coronal heating and solar wind emergence problems.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/vishal4_plasma_moves/image1_plasma_moves_vishal.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 1: Fig. 1: CHs (dark) and QS (bright) in the corona (AIA 193 Å), TR (Si IV) and the chromosphere (C II, Mg II k3) with the two regions demarcated by light green contours. 
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2111.11668 &quot;&gt;Vishal.U et al., 2022 &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;In #A1, we had studied the C II 1334 Å line - which forms in the upper chromosphere - in CHs and QS as a function of the underlying magnetic field. The general idea was to check if and how these two regions are differentiated depending on the underlying magnetic field. Our results in #A1 told us that QS is brighter than CHs only if we account for the underlying magnetic field. Similarly, we also found that plasma is both preferentially moving towards, and moving away from us (of course at different places!) in CHs, when compared to QS. This motion (and so the velocity) was found to be larger for regions with stronger magnetic fields! Such a result is counterintuitive – the CHs are known to be the source of the wind which travels towards us. Then why do we see the plasma strongly moving away from us? With this backdrop, let us dive into what other ions in the solar atmosphere tell us!&lt;/p&gt;
+
+&lt;p&gt;Let us proceed systematically here - we are seeing some “anomalous” results in the C II 1334 Å line: a line that forms in the upper chromosphere. A simple way forward would hence be to check the properties of other lines which form in the same region of the chromosphere. And so, we performed the same analysis on what are called Mg II h and Mg II k lines.&lt;/p&gt;
+
+&lt;p&gt;Mg II - Magnesium - is an awesome atom from which one electron has been removed. The transitions of this atom give rise to what are commonly called the h and k lines. Why do I call it awesome? Because the Mg II h &amp;amp; k lines are very complex – so complex that in fact they can give us the velocity of almost the whole of the chromosphere! If our results in the C II 1334 Å line were correct, they must be seen in what is called the ‘k3’ part of the Mg II line3. However, we also need to have a comparison against some “expected” results. For this, we performed the same analysis on the Si IV 1393 Å line – this line forms in the TR, and so will give very different dynamics when compared to C II or Mg II. Let us look at the results below!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/vishal4_plasma_moves/image2_plasma_moves_vishal.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 2: QS-CH differences as a function of magnetic field (|B|) in the TR and chromosphere. The intensity ratio is depicted in panel a and velocity differences in other panels. Panel b depicts the difference in average velocity, while panels c &amp;amp; d show for the blue- and red shifted pixels alone. 
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2111.11668 &quot;&gt;Vishal.U et al., 2022 &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;In Fig 2, I present all the results we find for Mg II k3 and contrast them with Si IV. The way I present it is as follows: for the intensity, we are only interested in the “factor” by which the intensities are different, while for the velocities we are interested in the differences. The dashed lines depict the intensity ratio of 1/ velocity difference of 0 – i.e, case where no differences are seen. 
+From Fig. 2a, the QS shows more intensity than CH - the factor is more than 1. This ratio is larger in Si IV (TR) than in Mg II k3 (chromosphere). This result is consistent with what we expect from physics – as we keep moving above in height, we will keep seeing QS becoming brighter than CH.&lt;/p&gt;
+
+&lt;p&gt;In Fig. 2b, we check what the average velocity looks like. In the chromosphere the average CH-QS velocities are similar, while in TR the CH is less redshifted. Hence, we clearly see that the solar wind signature is starting to be seen in TR, but apparently not in the chromosphere.&lt;/p&gt;
+
+&lt;p&gt;In Fig. 2c, we consider only those regions where plasma is moving towards us. Clearly, we see that the CHs have plasma moving much faster towards us than QS. The difference in velocities is also larger in the TR. This is in-line with our expectation of plasma moving towards us in CHs.&lt;/p&gt;
+
+&lt;p&gt;And finally in Fig. 2d, we consider only those regions where the plasma is moving away from us. Here we see that while the QS plasma is falling down faster in the TR, the case is reversed in CHs! In-line with what we found from C II in #A1, Mg II k3 also tells us that the plasma is preferentially going away from us in CH at the chromosphere&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;! So this analysis tells us that the result we are seeing is something truly physical&lt;/p&gt;
+
+&lt;p&gt;But why could this be happening? Is there an “extra” push for the plasma to flow away from us in the CH, or is the plasma being stopped for some reason in the QS? And where are these flows coming from/going to? A clear dichotomy seems to occur between the chromosphere and TR – something is clearly happening at the interface of these two regions. And so to understand further, we study how the TR velocities change with chromospheric velocities. For instance, if a pixel shows upflow in Mg II k&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;, what kind of flows does it show in Si IV? And how do these vary between CH and QS? This is a question we ask for multiple spectral lines, but I will just present the results for the Mg II k3 and Si IV below.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/vishal4_plasma_moves/image3_plasma_moves_vishal.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 3: TR and chromospheric flow correlations in CHs (black) and QS (orange). Note that up-flows are blueshifts, and downflows are redshifts. 
+Taken from &lt;a href=&quot;https://arxiv.org/abs/2111.11668&quot;&gt;Vishal.U et al., 2022&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;In Fig. 3a, we show downflows (=plasma moving away from us) in TR are related to downflows in the chromosphere. Turns out, the plasma that is moving away from us in TR is also seen moving away from us in the chromosphere, except that in QS the speed drastically reduces.&lt;/p&gt;
+
+&lt;p&gt;Similarly, we can look at how the upflows (=plasma moving towards us) in TR relate to the upflows in the chromosphere in Fig. 3b. Again, it turns out that the plasma that we see coming towards us in the chromosphere is getting accelerated towards us in TR. However, this time the CH plasma is accelerated more than QS! Next, we can also check if the plasma that is coming towards us the TR has any relation to the plasma that is moving away from us in the chromosphere. In Fig. 3c, interestingly, we find that faster the plasma in TR is coming towards us, faster is it also moving away from us in the chromosphere –with the upflows larger in CH. And finally, in Fig. 3d, it turns out that the plasma moving towards us in the chromosphere has not relation whatsoever with the plasma moving away from us in the TR. This is all very interesting, but what does it mean? 
+It means that: (i). If a plasma parcel is moving towards us in the chromosphere, it would be accelerated even more in the TR. This seems like a signature of the solar wind coming towards us, but starting from the chromosphere – or maybe even lower! (ii). Plasma that is flowing down from the TR is decelerated as it falls down into the chromosphere, and this deceleration is much more in QS, and (iii). There seem to be flows coming out like “jets” both towards, and away from us – faster one end comes towards us, faster is the other end moving away from us! What is going on here?&lt;/p&gt;
+
+&lt;p&gt;Let us handle each observation one by one, and then try to piece them together.First, why would plasma move? Plasma motion takes place if it is either forced to move due to pressure, or if the plasma is freely falling like a ball falls down once it’s thrown up. The freely falling case applies only to plasma that is falling down – for a plasma that is rising, we need something to pump pressure, like a piston. What could this mechanism be? A graphic summary is given in Fig. 4.&lt;/p&gt;
+
+&lt;p&gt;In the solar atmosphere, it turns out there are complex mechanisms which can heat a small part of the plasma very quickly. Hot air rises, and similarly the plasma will be forced to rise. These complex mechanisms are generally “impulsive events”, for simplicity. These impulsive events are well known in the corona, and have been hypothesized to maintain the coronal temperature at a million degree Kelvin&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;! Hence, we may invoke a similar impulsive heat dumping mechanism throughout the solar atmosphere to get plasma moving!&lt;/p&gt;
+
+&lt;p&gt;Now, the density in the solar atmosphere reduces drastically with height. If the amount of mass crossing a surface at a given time is kept constant, it can be shown that the velocity should increase with height (Fig. 4d). Thus, any upflows starting from the lower chromosphere due to these impulsive events will naturally accelerate, and can persist to great heights.&lt;/p&gt;
+
+&lt;p&gt;Now, these impulsive events basically just dump some energy very quickly in the plasma. Since the plasma just needs to expand (and not only rise), the expansion can occur both ways – upwards and downwards! And if the energy were dumped between the chromosphere and TR, we will see plasma moving towards us in TR, and moving away from us in the chromosphere (Fig. 4a). These are called “bidirectional flows”. Thus, if more energy is dumped by the impulsive event, faster the plasma will move in both directions!&lt;/p&gt;
+
+&lt;p&gt;Finally, let this event occur at a very great height – in the corona, for example. In such a case, we would only see the downward flowing plasma, since the upward flowing plasma would be seen in lines which form at much higher temperature. Hence this would be seen as persistent downflows (Fig. 4c)! However, note that the “freely-falling” plasma can also simply fall down,  and can give a similar signature (Fig. 4b).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/vishal4_plasma_moves/image4_plasma_moves_vishal.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 4: A schematic showing the response of plasma due to an impulsive heating event (red asterisk). The blue arrows correspond to blueshifts (motion towards us), while red arrows show redshifts (motion away from us). The vertical colour is density – going from high density at bottom to low on top. Different scenarios are depicted across the figure.
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2111.11668&quot;&gt;Vishal.U et al., 2022 &lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;But how does this explain the difference between CH and QS? For this, we invoke something we kind of know from observations: How does the magnetic field approximately look like in CH and QS.&lt;/p&gt;
+
+&lt;p&gt;In Fig. 5, open magnetic field lines (in black) are drawn near closed loops (in yellow) in CH, while closed loops alone are drawn in QS. When you have magnetic field lines close by, a phenomenon called magnetic reconnection can occur, which causes field lines to snap and rejoin. This will release a large amount of energy contained in the magnetic field in a very short period of time – these would be our impulsive events!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/vishal4_plasma_moves/image5_plasma_moves_vishal.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 5: A schematic depicting the proposed picture of impulsive heating occurring across different magnetic field topologies. In the left panel, we show a CH topology, including open funnel-like structure (black), closed loops of varying sizes (yellow), and impulsive events (red asterisks) due to interchange reconnection between the open and closed field lines, giving rise to bidirectional flows (blue and red arrows). The kinked field line propagating outward as a switchback is depicted as a dashed line, with the approximate propagation direction by black arrows. Right panel: QS topology shown with the same terminology as the left panel.
+Image source: &lt;a href=&quot;https://arxiv.org/abs/2111.11668&quot;&gt;Vishal.U et al., 2022&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;The reconnection process itself just needs two magnetic field lines, preferably pointing in opposite directions. However, what happens to the plasma after reconnection depends on the overall shape of the field lines, which guide the motion of plasma. Hence, the resultant of reconnection will be different in CH and QS!&lt;/p&gt;
+
+&lt;p&gt;In the CHs we have “interchange reconnection” between the open field lines and closed loops. While this gives rise to the correlated motion, the plasma is preferentially guided away from the surface (and hence towards us as blueshifts) along the open field line. The open field eventually takes the plasma away, and puts it out into the solar wind. Since plasma is being taken away along the magnetic field, it doesn’t stay and emit enough light for us to see. However, depending on how predominant loops of different heights are, the signatures would be different. Hence, the solar wind may start from a range of heights, with something specific going on in the interface of chromosphere and TR.&lt;/p&gt;
+
+&lt;p&gt;In the QS, however, the reconnection is only between closed loops. In this case, while the correlated motion is present, the plasma is not allowed to escape into the solar wind, and is kept trapped inside the loop – this and the CH effect above give rise to the intensity ratio of Fig. 2a.! However, due to the presence of excess plasma at the bottom (remember, cool plasma can just gravitationally fall down towards the photosphere!) in QS, any downflows will be decelerated in QS. Thus, all our observations are naturally explained by invoking magnetic reconnection in what are called different magnetic topologies!&lt;/p&gt;
+
+&lt;p&gt;But what about the coronal heating problem? We have actually already described it – the reconnection mechanism! Energy dumping by reconnection is precisely the needed means to maintain the solar corona – however, this occurs across various heights in the atmosphere, but predominantly starting from the TR.&lt;/p&gt;
+
+&lt;p&gt;Finally, one unexpected result from this scheme of things is the generation of what are known as switchbacks. In Fig. 5, the dashed field lines in the CH are how the magnetic field evolves after reconnection. Over the past couple of years, similar structures have been found in the solar wind, and called switchbacks. If the switchbacks form in the chromosphere/ TR, then the velocities that we provide will serve as constraints on the different models to test out the theory! Thus, in one neat sweep, we can potentially unify solar wind emergence, coronal heating, and switchback generation in a single mechanism!&lt;/p&gt;
+
+&lt;p&gt;Does this mean we have now solved all of these problems? No! On the contrary, we actually need to perform realistic (a subjective word!) simulations of the Sun to check the viability of various aspects of this model. For instance, we still need to understand some of the following questions: how much energy does a typical reconnection event release? How much of this energy is transformed to velocities of different ions? How much of this energy gets radiated away by the plasma? How many reconnection events typically occur in CHs and QS in the first place? Does all of the plasma eventually escape out into the solar wind? If so, do we find similar results while probing hotter (and cooler) spectral lines? These are some typical questions we are trying to answer in a future work!&lt;/p&gt;
+
+&lt;p&gt;Further reading:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;There are three papers which form a series of analyses on this subject. The first is &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/abcc6b?fbclid=IwAR2Tv6sS9eLY2uFCb3N73Acx_VpZQX1KhS5Iy51uE39JZ-t-KUyIXHGXrsU&quot;&gt;Tripathi et al 2021&lt;/a&gt;, which analyzes Si IV 1393 line. The second is &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApJ...922..112U/abstract?fbclid=IwAR2fhB9PFj2lDG89mqlm3c3E0REEZdcb4KbgUxLrskZTYYa4ymgWr-e7tco&quot;&gt;Upendran &amp;amp; Tripathi 2021a&lt;/a&gt;, which analyzes the C II 1334 line. And the third paper is &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022ApJ...926..138U/abstract&quot;&gt;Upendran &amp;amp; Tripathi 2021b&lt;/a&gt;, which jointly analyzes multiple lines.&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nasa.gov/feature/goddard/2021/switchbacks-science-explaining-parker-solar-probe-s-magnetic-puzzle&quot;&gt;On switchbacks&lt;/a&gt;.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://cosmicvarta.in/vishal_machine_learning_corona_article&quot;&gt;Using machine learning to infer Solar coronal heating&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&amp;lt;a href=”https://arxiv.org/abs/2111.11668”_blank”&amp;gt; On the formation of solar wind &amp;amp; switchbacks, and quiet Sun heating&amp;lt;/a&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vishal Upendran&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Durgesh Tripathi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter University Centre for Astronomy and Astrophysics, Pune, 411007, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;p&gt;202&lt;/p&gt;
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I have written on it at length in this article: &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;Again I have written on this at length, in this article: &lt;a href=&quot;https://cosmicvarta.in/sun-to-earth-using-ai-vishal&quot;&gt;From Sun to Earth using Artificial Intelligence&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I have shown here the figure only for Mg II k3, but we see this trend for both Mg II h &amp;amp; k lines. On an average, the entire chromosphere is going down faster in CH over QS! &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I realize it is too hard wavy, but the physics behind how this line forms, what this ‘k3’ is, etc. is quite complicated. It is best if you take my word for it! &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;I have talked in great detail about this impulsive release of energy in my article on coronal heating: https://cosmicvarta.in/vishal_machine_learning_corona_article &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Sat, 18 Jun 2022 00:00:00 +0530</pubDate>
+        <link>/vishal_article_anyway_plasma_moves</link>
+        <guid isPermaLink="true">/vishal_article_anyway_plasma_moves</guid>
+        
+        <category>solar wind</category>
+        
+        <category>solar atmosphere</category>
+        
+        <category>spectral lines</category>
+        
+        <category>switchbacks</category>
+        
+        <category>coronal heating</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
     
       <item>
         <title>SARAS 3 telescope refutes astrophysical origins of the claimed cosmic dawn signal</title>
@@ -1224,185 +1398,6 @@ Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287 &quot;&gt; Visha
         
         
         <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Astrobiology: Exploring the universe for signs of extra-terrestrial life</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;The only life forms we know about are the ones that exist on Earth. Due to advancements in space exploration, it has become possible to send rovers, probes, space crafts, and telescopes in further deep space. With the help of these space missions and various other tools, astrobiologists are trying to find signatures of life on other planets, exoplanets, and various moons.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;strong&gt;1.	Introduction:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
-&lt;ul&gt;Is life a cosmic phenomenon?&lt;/ul&gt;
-&lt;ul&gt;Are we alone in the universe?&lt;/ul&gt;
-&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;All of us have wondered about it at some point in our lives. Perhaps only a few would have wondered about what exactly is life. This might sound philosophical at first but it is equally scientific. Astrobiology tries to find answers to all these questions. It is the science that seeks to understand the story of life in the universe. We have not found explicit evidence of life so far but with unceasing curiosity and an inherent urge for exploration, scientists have discovered a lot. Being a multidisciplinary field, Astrobiology brings people with diverse backgrounds together to achieve a common goal – the search for life beyond Earth and beyond the solar system. The origin of life on Earth is a great mystery and therefore scientists are investigating the problem in several different ways.  Some are studying life on our own planet. Some are seeking out life or fossil life on other planets or moons in our solar system. Others are trying to detect life in other solar systems, either by measuring life’s effects on the atmospheres of distant planets or by measuring artificial radiation like radio signals that may be produced by advanced life.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.	Life on Earth:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;We only know the nature of life as it exists on Earth. It is built around compounds that contain elements such as carbon, nitrogen, hydrogen and oxygen. Complex sequences of these elements bond together, forming the very building blocks of life. They form essential organic molecules, such as carbohydrates, amino acids, lipids and nucleic acids (DNA and RNA). However, these organic molecules did not naturally exist on Earth during the Hadean eon (4.0 billion years ago and preceding the existence life forms). The elements required existed only in inorganic form, bound up within the rocks, atmosphere and the early ocean.
-It is estimated that life on Earth began at least 3.5 billion years ago, because that is the age of the oldest rocks with fossil evidence of life on Earth. Researchers suggest that in order to understand how life began on Earth, we need to understand the specific environmental conditions and other requirements that must be satisfied to allow this to occur. What are the habitability requirements of known Earth life?&lt;/p&gt;
-
-&lt;p&gt;The fundamental habitability requirements are certainly some of the commonalities of life on Earth.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;•	Energy:&lt;/strong&gt;
-A source of energy is necessary for metabolism and to maintain the functions carried out by a cell. Life on Earth uses either solar energy or chemical energy sources that include both organic (carbon) compounds and inorganic elements and molecules.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;•	Common essential elements:&lt;/strong&gt;
-All known Earth life uses the same main set of elements to form biomolecules (CHNOPS) and shares a common carbon-based biochemistry. Carbon is an excellent element from which to build life, because carbon forms macromolecules with a variety of other elements and itself. Carbon forms primarily covalent bonds (compared to ionic bonds), and carbon-based molecules are stable in the presence of water and oxygen.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;•	Solvent:&lt;/strong&gt;
-A solvent to host chemical interactions is considered a universal requirement for all life. With extensive evidence that all Earth life needs water specifically as the solvent, many astrobiologists consider water to be the most probable solvent for life.&lt;/p&gt;
-
-&lt;p&gt;When considering whether an environment or planet is habitable, at a minimum, scientists take into account the potential energy source (or sources), the ambient chemical composition and whether this composition is suitable to build biomass, and the availability of a solvent. Additionally, there are physical constraints upon life (e.g., temperature, pressure, pH, salinity, radiation, metal toxicity) such that the presence of these habitability requirements may be necessary but not sufficient for life.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.1 Life on Earth is divided into three domains:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Archaea, Bacteria, and Eukarya (or Eucarya);&lt;/b&gt; Single-celled organisms are common in all three domains, and all organisms in the domains Archaea and Bacteria are single-celled. All multicellular organisms fall within the domain Eukarya. The term ‘‘prokaryotes’’ has traditionally been used to describe single-celled organisms that do not contain a nucleus, organelles, or a cytoskeleton (collectively, the domains Bacteria and Archaea). The majority of life on Earth is microbial, and astrobiologists extrapolate from that fact to conclude that the majority of any extraterrestrial life that may possibly exist is also likely to be microbial. Archaea and Bacteria are the focus of astrobiological studies due to the diversity of metabolic strategies utilized by them and their ability to thrive in extreme habitats, their pivotal role in Earth’s biogeochemical cycling, and the fact that single-celled organisms dominated the early history of life on Earth. Bacteria and Archaea harbour the vast majority of the genetic diversity of life on Earth. Scientists estimate that, to date, less than 1% of microbial life has been successfully cultivated (e.g., grown in the laboratory). Therefore, molecular methods that do not require cultivation are also used to detect the presence and genetic capabilities of microbes through DNA (metagenomics), RNA and gene expression activity (metatranscriptomics), and transcribed proteins (metaproteomics). These techniques have demonstrated that microbial populations are highly complex and that we have only begun to elucidate the full extent and capabilities of microbial life.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 1: A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukaryotes, as proposed by Carl Woese, George E. Fox et al. in 1990. Image source: &lt;a href=&quot;https://doi.org/10.1073/pnas.87.12.4576&quot;&gt;Carl Woese et al. (1990)&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.2 Prevalence of life in extreme environments:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;When space agencies first began to explore the Solar System, scientists were not sure what they would find on the surfaces of planets like Mars and Venus. When space missions revealed Mars to be a frigid desert, and Venus a boiling cauldron, void of any obvious signs of life, astrobiologists began to wonder… what are the limits of habitability for life as we know it? How hot is too hot? How cold is too cold? How much acid can cells handle, and how little water can life survive on? Answering questions like these opened an entire field of study known as &lt;b&gt;extremophile research&lt;/b&gt;, where scientists examine the adaptations of organisms in conditions that are considered ‘extreme’ for life on Earth. These hardy lifeforms can help us better understand how life as we know it might originate, evolve, and reproduce in harsh environments in the Solar System and beyond. On a tour of extreme environments on Earth, a good place to start is with terrestrial hot springs. Good examples include Yellowstone National park in the United States, Rotorua in New Zealand and Puga hot spring in Ladakh, India These environments were the first to draw the interest of astrobiologists that study the limits of life on Earth, and they are arguably the first environment in which an extremophile, Thermus aquaticus was isolated and documented by scientists.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image2.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 2: Aerial view of Grand Prismatic Spring; Hot Springs, Midway &amp;amp; Lower Geyser Basin, Yellowstone National Park. Image courtesy: &lt;a href=&quot;https://www.nps.gov/features/yell/slidefile/thermalfeatures/hotspringsterraces/midwaylower/Images/17708.jpg&quot;&gt;Jim Peaco, National Park Service&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;These springs are where geothermally heated water from underground rises to the planet’s surface. They can act as a source of water, energy, and nutrients for living cells. The water boiling up from below can carry a wide variety of minerals and reduced chemical species that certain microbes can use as a source of energy. Microorganisms have been found here living in pools of up to 206 degrees Fahrenheit (97ºC). The composition of the water depends on many different factors, such as its source and the types of rock and soil it travels through. It’s not just the heat that challenges life’s survival in hot springs. Some springs have water that is very acidic, others have water that is extremely alkaline. Gases at concentrations poisonous to humans, and other animals, bubble up with the water. The rock and liquid can contain heavy metals like arsenic and lead, along with lots of other minerals and particulates. Some pools can be extremely salty, and are rich in potassium and sulphate. High temperatures also mean less dissolved oxygen, so many hydrothermal pools are low in oxygen content.&lt;/p&gt;
-
-&lt;p&gt;The multitude of harsh conditions present in terrestrial hot springs also means that it isn’t only thermophiles that live in these environments. There are acidophiles, alkaliphiles, and many other types of organisms. Sometimes scientists find extremophiles that use multiple adaptations to survive (polyextremophiles). On Earth, wherever we find liquid water, we find life, whether in bubbling hot springs, drops of brine inside ice, or films of water around minerals deep in the crust.
-Up until 1977, scientists believed that all life on Earth was in some way dependent upon sunlight for energy. The discovery of hydrothermal vents showed that life could thrive independent of the Sun. Suddenly, scientists had an Earthly example of how life might survive on ocean worlds in the outer Solar System, such as Jupiter’s moon Europa, or Saturn’s moon Enceladus. These moons are thought to harbor oceans of dark, liquid water beneath their icy surfaces. If hydrothermal vents are present, those oceans could be habitable for life as we know it.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2.3	How do we search for signs of life beyond Earth?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Astrobiological exploration is founded upon the premise that biosignatures encountered in space will be recognizable as presence of extraterrestrial life. A &lt;b&gt;biosignature&lt;/b&gt; is any substance – such as an element, isotope, or molecule – or phenomenon that provides scientific evidence of past or present life. The usefulness of a biosignature is determined not only by the probability of life creating it but also by the improbability of non-biological (abiotic) processes producing it. Concluding that evidence of an extraterrestrial life form (past or present) has been discovered requires proving that a possible biosignature was produced by the activities or remains of life. As with most scientific discoveries, discovery of a biosignature will require evidence building up until no other explanation exists.&lt;/p&gt;
-
-&lt;p&gt;Thus, we can look for atmospheric gases such as oxygen or methane that can be produced by life. Such planetary features that indicate life are biosignatures. The simultaneous presence of oxygen and methane is evidence for life because these two gases should quickly react with each other unless a biosphere is producing great amounts of them, which prevents equilibrium. Microbial life will readily consume hydrogen or carbon monoxide gas, so an abundance of either of these might be considered an &lt;b&gt;anti-biosignature&lt;/b&gt; for a planet in the habitable zone.
-&lt;b&gt;Eg.&lt;/b&gt; The presence of methane in the atmosphere of Mars is an area of ongoing research. Because of its tendency to be destroyed in the atmosphere by photochemistry, the presence of excess methane on a planet can be an indication that there must be an active source. With life being the strongest source of methane on Earth, observing a disequilibrium in the methane abundance on another planet could be a viable biosignature.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 3: This illustration portrays possible ways that methane might be added to Mars&apos; atmosphere (sources) and removed from the atmosphere (sinks). NASA&apos;s Curiosity Mars rover has detected fluctuations in methane concentration in the atmosphere. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/jpl/msl/pia19088&quot;&gt;NASA/JPL-Caltech&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.	Habitability in the solar system:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;After Earth it is absolutely logical to explore habitability of planets in our solar system. Planet Mars, in the inner solar system is a potential candidate to search for life beyond Earth. Simultaneously, moon of Jupiter (Europa) and moons of Saturn (Titan and Enceladus) in the outer solar system are also promising and extensive research is currently being conducted. The type of life that we are considering is simple, comparable to microbes, and the guiding principle concerns liquid water.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.1 Mars:&lt;/strong&gt;
-Many have imagined Mars, unlike Venus, as a potential abode for life. The atmosphere of Mars is much thinner than Earth’s. The Red Planet’s atmosphere contains more than 95% carbon dioxide and much less than 1% oxygen. Temperatures on Mars average about -81 degrees F. However, temperature’s range from around -220 degrees F in the wintertime at the poles, to +70 degrees F over the lower latitudes in the summer.
-Mars Global Surveyor, which orbited from 1997 to 2006, mapped Mars and imaged sedimentary layers that implied many geologic cycles of erosion and deposition. In the early 21st century, the Mars Odyssey and Mars Express orbiters, along with Mars Reconnaissance Orbiter, discovered areas of clay minerals and salts, which may have formed in liquid water. Twin Mars Exploration Rovers landed in 2004, and found fossilized ripples from past liquid water and sedimentary rocks, while in 2008, NASA’s Phoenix Lander dug up subsurface ice in a polar region and measured soluble salts in the soil. Finally, in 2012, Curiosity Rover trundled towards a 5-kilometre-high mountain of sedimentary beds within a 150- kilometre-diameter crater named Gale. It found mudstones deposited from water. Nowadays, astrobiological interest in Mars concerns either biological traces from billions of years ago or microbial-like life that might possibly endure in the subsurface or underground.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image4.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 4: Curiosity rover on a Martian sand dune. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/image-feature/jpl/pia20316/curiosity-self-portrait-at-martian-sand-dune&quot;&gt;NASA&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Mars’s current surface is hostile to life for three reasons. First, while ice exists for sure, no liquid water has been identified. The polar caps are water ice, topped with carbon dioxide ‘dry ice’ that grows when about 30 per cent of the atmosphere freezes at the winter pole. Also, above mid latitudes, ice cemented soil or permafrost lies just beneath the surface. In the tropics, afternoon temperatures in the top centimetre of soil rise above freezing, but there, ice turns to vapour before melting temperatures are reached. A second problem is no ozone layer, allowing harmful ultraviolet sunlight to reach the surface. Third, chemical reactions in the atmosphere make hydrogen peroxide— which settles to the surface, where they can destroy organics. While the surface is unpromising, geothermal heat underground might allow liquid water and life to exist. Evidence that liquid water used to be present suggests that Mars was once more habitable than today. Fluvial (stream-related) features in the landscape, including gullies, dried-up river valleys, deltas, and enormous channels are also indicative of the same. Moreover, the soil and rocks contain minerals that form in the presence of liquid water.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.2 Jovian moon Europa&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;The Galileo mission detected an induced magnetic field in Europa (a moon of Jupiter), providing compelling evidence for an ocean of liquid water beneath the surface. While the top surface of Europa is not habitable, it is still relevant to discuss here for several reasons: (1) surface materials may reflect the chemistry of a subsurface ocean and help us understand the conditions available to life there, and (2) materials brought to the surface from the ocean below may be the only way we can detect signs of life (e.g., organic matter or other biosignatures characterized spectroscopically on a future mission). Radiation from high-energy particles caught in Jupiter’s magnetic field causes oxidation of surface materials as the energy from radiation knocks electrons out of atoms. Radiolytically produced oxidants at the surface include O&lt;sub&gt;2&lt;/sub&gt;, SO&lt;sub&gt;2&lt;/sub&gt;, H&lt;sub&gt;2&lt;/sub&gt;O&lt;sub&gt;2&lt;/sub&gt;, and CO&lt;sub&gt;2&lt;/sub&gt;. These may be subsequently cycled into the ice shell and ocean on timescales on the order of the age of the surface, 106 years, which is quite young on geological timescales, so these compounds could potentially oxidize more reduced chemical species in the ocean below.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image5.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image5 : Europa, a jovian moon. Image courtesy: &lt;a href=&quot;https://photojournal.jpl.nasa.gov/catalog/PIA00502&quot;&gt;NASA&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.3 Icy moons of Saturn :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.3.1 Enceladus :&lt;/strong&gt;
-Enceladus is Saturn’s sixth largest moon and has active geology. In 2005, the spacecraft Cassini started multiple close flybys of Enceladus, revealing its surface and environment in greater detail. It orbits Saturn in an elliptical fashion resulting in varying gravitational forces from Saturn that flex and heat Enceladus. For reasons that are not fully understood, the heating is concentrated under Enceladus’ South pole. There, icy particles and gas spray out of parallel fractures dubbed tiger stripes. The jets contain traces of methane, ammonia, and organic compounds, along with salt. Enceladus has a rocky core, an icy shell, and an underground sea beneath the area of the jets. The jackpot combination of organic molecules, energy, and liquid water implies that life might exist.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image6.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 6 : Narrow jets of gas and icy particles erupt from the south polar region of Enceladus, contributing to the moon&apos;s giant plume. A cycle of activity in these small-scale jets may be periodically lofting extra particles into space, causing the overall plume to brighten dramatically. Image courtesy: &lt;a href=&quot;https://www.nasa.gov/feature/jpl/enceladus-jets-surprises-in-starlight&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3.3.2 Titan :&lt;/strong&gt;
-Titan, the largest moon of Saturn, is also of astrobiological interest because it is the only satellite in the Solar System to have a thick atmosphere. In fact, the air pressure at Titan’s surface is 1.5 bar, which is 50 per cent larger than that at the Earth’s surface. The atmosphere of 95 per cent nitrogen and 5 per cent methane provides a 10°C greenhouse effect, but the sunlight at Saturn’s distance is one hundred times less intense than at Earth, so Titan’s surface is incredibly cold at –179°C.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/astrobiology_shreya_images/image7.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; Image 7 : NASA&apos;s Cassini spacecraft sees bright methane clouds drifting in the summer skies of Saturn&apos;s moon Titan, along with dark hydrocarbon lakes and seas clustered around the north pole. Image courtesy: &lt;a href=&quot;https://www.jpl.nasa.gov/images/pia21615-northern-summer-on-titan&quot;&gt;NASA/JPL/Space Science Institute&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Titan’s atmosphere contains a smoggy haze of hydrocarbons. At high altitude, ultraviolet sunlight breaks up methane molecules (CH&lt;sub&gt;4&lt;/sub&gt;) and subsequent reactions build up hydrocarbons including ethane (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), acetylene (C&lt;sub&gt;2&lt;/sub&gt;H&lt;sub&gt;2&lt;/sub&gt;), propane (C&lt;sub&gt;3&lt;/sub&gt;H&lt;sub&gt;8&lt;/sub&gt;), benzene (C&lt;sub&gt;6&lt;/sub&gt;H&lt;sub&gt;6&lt;/sub&gt;), and reddish-brown particles containing polyaromatic hydrocarbons. The particles are called tholins. The products derived from methane sediment out of the atmosphere. In fact, about 20 per cent of Titan’s surface is covered in tropical dunes that are made of sand-sized particles, which are at least coated with organics if not made of them. At the poles, over 400 lakes are mixtures of liquid propane, ethane, and methane, with extraordinary beaches made of particles of benzene and acetylene.
-Methane on Titan behaves like water on Earth and forms clouds, rain, and rivers. Most of our knowledge about Titan comes from the Cassini–Huygens mission, which arrived in 2004. Huygens landed on Titan in 2005. Titan flexes too much to be entirely solid, which is evidence that Titan has a subsurface ocean which might exist below an icy crust. Two types of life might exist on Titan: Earth-like life in the subsurface ocean; and non-DNA based life or life which has a different biochemistry in the hydrocarbon lakes.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;4.	Habitability beyond solar system :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Finding exoplanets is crucial before identifying a habitable one. With the vast distances involved, the search is difficult but nonetheless astronomers have developed two classes of methods. The first, indirect detection, looks for stellar properties, such as position or brightness, which are affected by the presence of unseen planets. The second is direct detection of a planet with an image or a spectrum of its light.
-For astrobiology, the most important techniques are direct detections that capture light from a planet. Direct detection is challenging because a planet is a dim body close to a vastly brighter star. Nonetheless, telescopes in space, such as the Hubble Space Telescope, James Webb Telescopes and extremely large telescopes on the ground have accomplished direct detection using a coronagraph, which is a mask to block the starlight. With density measurements, there are increasing clues about which exoplanets are made of gas, rock, water, or some mixture. We care most about exoplanets with liquid water right at the surface. These have the chance of a biosphere that pumps lots of gases into an atmosphere. In principle, such biogenic gases are detectable in the light from the planet and might indicate life.
-If a planet is too far away from its host star it ices over, and if it’s too close it’s too hot for liquid water. The term habitable zone (HZ) refers to the region around a star in which an Earth-like planet could maintain liquid water on its surface at some instant in time. We specify a particular time because stars age and brighten or dim, so the HZ moves. The closest star to Earth is a triple-star system called Alpha Centauri which is at a 4.25 – 4.35 light years distance. The list of potentially habitable exoplanets is mostly based on estimates of habitability by the Habitable Exoplanets Catalog (HEC), and data from the NASA Exoplanet Archive. The HEC is maintained by the Planetary Habitability Laboratory at the University of Puerto Rico at Arecibo. Surface planetary habitability is thought to require orbiting at the right distance from the host star for liquid surface water to be present, in addition to various geophysical and geodynamical aspects, atmospheric density, radiation type and intensity, and the host star’s plasma environment.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;5.	Conclusion :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Astrobiology is intriguing and challenging at the same time. Research done on origin of life and extremophiles is used to extrapolate to other planets and various moons in the solar system. Astrobiologists are primarily interested in the subsurface water oceans of these planets. Overall, follow the water has been the motto. All space agencies keep executing ambitious space missions probes, rovers, spacecrafts, telescopes, etc. Another aspect of Astrobiology which pushes science boundaries is exoplanet search. Habitable planets beyond our solar system are actively being sought after. Bio-signatures help us detect presence of Earth-like life in our solar system and beyond it. With the advancement in technology for space exploration one can expect that humans will exist as a multiplanetary species in future. There is a possibility that we are alone in the universe or who knows we might find life elsewhere. Till then let’s keep our fingers crossed.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;6.	References :&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ntrs.nasa.gov/citations/20180004101&quot;&gt;NASA Astrobiology Primer v2.0&lt;/a&gt; Shawn D. Domagal-Goldman and Katherine E. Wright&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.veryshortintroductions.com/view/10.1093/actrade/9780199586455.001.0001/actrade-9780199586455&quot;&gt;Astrobiology- A Very Short Introduction&lt;/a&gt; by David C. Catling&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.wiley.com/en-ie/Astrobiology:+Understanding+Life+in+the+Universe,+2nd+Edition-p-9781119550358&quot;&gt;Astrobiology : Understanding life in the Universe&lt;/a&gt; by Charles Cockell&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Sun, 20 Feb 2022 00:00:00 +0530</pubDate>
-        <link>/astrobiology-shreya/</link>
-        <guid isPermaLink="true">/astrobiology-shreya/</guid>
-        
-        <category>Astrobiology</category>
-        
-        
-        <category>Astrobiology</category>
         
       </item>
     

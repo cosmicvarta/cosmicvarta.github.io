@@ -31,33 +31,6 @@ Allow us to introduce ourselves :)
 
 
 <p align="center">
-  <img src="assets/images/anusha.jpg" height="300" width="300" style="border-radius:50%">
-</p>
-
-
- <h2> <span style="color:blue">Anusha R</span></h2>
-
-
-I'm Anusha. I'm a Ph.D. scholar at the University of Western Ontario. My research mainly focuses on emission-line stars in general relating line properties, formation mechanism, statistical analysis depending on stellar parameters and the circumstellar environment, their disk physics. I am currently working on spectroscopic analysis of Disk forming hot stars and photometric analysis of the effect of binarity on the disk properties. I also perform polarimetric studies on these disk-forming stars exploring their geometry and kinematics as a group. Personally, I am a fanatic of crime thrillers. I'm a classical dancer, blogger, science communicator/enthusiast. I spend quite a good time writing about things I personally admire, from fan-fiction to genetics/cognitive abilities/psychology, etcetera.
-
----
----
-
-
-
-<p align="center">
-  <img src="assets/images/ketan.jpg" height="auto" width="300" style="border-radius:50%">
-</p>
-<h2> <span style="color:blue">Ketan Rikame</span></h2>
-
-
-I am a PhD student at CHRIST (Deemed to be University). Field of Instrumentation has always fascinated me and it has been my primary research interest. However, while working with various astronomy instruments, I also got interested in learning about the underlying physical phenomenon these instruments try to study. I have previously worked in optical and radio instrumentation. I am currently part of the instrumentation team at RRI and we are building an X-ray polarimeter approved to be launched on ISRO's dedicated satellite mission XPOSAT. I also study accretion powered pulsars which will be one of the primary scientific targets of our X-RAY polarimeter. I am very much interested in science popularization. Although not involved in any such activity right now, I love to talk to people about my research (and not bore them hopefully). I love to listen/read about fascinating research other researchers are doing. I also love football!
-
-
----
----
-
-<p align="center">
   <img src="assets/images/lakshitha.jpg" height="300" width="260" style="border-radius:50%">
 </p>
 <h2> <span style="color:blue">Lakshitha Nama</span></h2>
@@ -71,12 +44,13 @@ Hello. My name is Lakshitha Nama. I am a PhD student at Christ (Deemed to be Uni
 
 
 <p align="center">
-  <img src="assets/images/vishal_upendran.jpg" height="auto" width="300" style="border-radius:50%">
+  <img src="assets/images/ketan.jpg" height="auto" width="300" style="border-radius:50%">
 </p>
+<h2> <span style="color:blue">Ketan Rikame</span></h2>
 
-<h2> <span style="color:blue">Vishal Upendran</span></h2>
 
-Hi there! I am Vishal Upendran, graduate student at the Inter University Centre For Astronomy and Astrophysics, Pune. I have been studying various aspects of the Sun as a part of my thesis. In particular, I am focused on the dynamics of the solar atmosphere, the solar wind and its interaction with the Earth. Apart from physics, I also love machine/deep learning, information theory and the interface of computation and neuroscience. I generally spend my free time reading books - especially on proto/pre history and popular science texts. While not reading, I like going for long walks/runs, cooking and watching anime!
+I am a PhD student at CHRIST (Deemed to be University). Field of Instrumentation has always fascinated me and it has been my primary research interest. However, while working with various astronomy instruments, I also got interested in learning about the underlying physical phenomenon these instruments try to study. I have previously worked in optical and radio instrumentation. I am currently part of the instrumentation team at RRI and we are building an X-ray polarimeter approved to be launched on ISRO's dedicated satellite mission XPOSAT. I also study accretion powered pulsars which will be one of the primary scientific targets of our X-RAY polarimeter. I am very much interested in science popularization. Although not involved in any such activity right now, I love to talk to people about my research (and not bore them hopefully). I love to listen/read about fascinating research other researchers are doing. I also love football!
+
 
 ---
 ---
@@ -95,6 +69,65 @@ Hi everyone. I am Vivek. I am a  Ph.D student at ARIES, Nainital. My research so
 
 ---
 ---
+
+<p align="center">
+  <img src="assets/images/vishal_upendran.jpg" height="auto" width="300" style="border-radius:50%">
+</p>
+
+<h2> <span style="color:blue">Vishal Upendran</span></h2>
+
+Hi there! I am Vishal Upendran, graduate student at the Inter University Centre For Astronomy and Astrophysics, Pune. I have been studying various aspects of the Sun as a part of my thesis. In particular, I am focused on the dynamics of the solar atmosphere, the solar wind and its interaction with the Earth. Apart from physics, I also love machine/deep learning, information theory and the interface of computation and neuroscience. I generally spend my free time reading books - especially on proto/pre history and popular science texts. While not reading, I like going for long walks/runs, cooking and watching anime!
+
+---
+---
+
+
+---
+
+<p align="center">
+  <img src="assets/images/shridharan.jpg" height="300" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue"> Shridharan Baskaran</span></h2>
+
+
+Hi all. I am Shridharan Baskaran, Ph.D. student at CHRIST (Deemed to be University), Bangalore. Right from my school days, I've been fascinated by the outer space, which led me directly into astrophysics research. I'm currently working on spectroscopic studies of high mass pre-main sequence stars. My research will help in understanding the circumstellar environment around these young stars. I love going on long motorcycle rides, playing board games, and cooking.
+
+---
+---
+
+
+
+<p align="center">
+  <img src="assets/images/robin.jpg" height="auto" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Robin Thomas</span></h2>
+
+
+Hello there! My name is Robin Thomas. I am a PhD student at CHRIST (Deemed to be University). My PhD research aims at understanding the role of interaction in the evolution of galaxies. My research makes use of photometric data from different telescopes. You will find me reading John Grisham and Michael Crichton books outside the office hours. I also love to go on long treks, cycling and cafe hopping. 
+
+---
+---
+
+
+<p align="center">
+  <img src="assets/images/anusha.jpg" height="300" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Anusha R</span></h2>
+
+
+I'm Anusha. I'm a Ph.D. scholar at the University of Western Ontario. My research mainly focuses on emission-line stars in general relating line properties, formation mechanism, statistical analysis depending on stellar parameters and the circumstellar environment, their disk physics. I am currently working on spectroscopic analysis of Disk forming hot stars and photometric analysis of the effect of binarity on the disk properties. I also perform polarimetric studies on these disk-forming stars exploring their geometry and kinematics as a group. Personally, I am a fanatic of crime thrillers. I'm a classical dancer, blogger, science communicator/enthusiast. I spend quite a good time writing about things I personally admire, from fan-fiction to genetics/cognitive abilities/psychology, etcetera.
+
+---
+---
+
+
+
 
 
 
