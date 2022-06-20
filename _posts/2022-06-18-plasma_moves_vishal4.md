@@ -112,11 +112,22 @@ Does this mean we have now solved all of these problems? No! On the contrary, we
 
 Further reading: 
 1. There are three papers which form a series of analyses on this subject. The first is [Tripathi et al 2021](https://iopscience.iop.org/article/10.3847/1538-4357/abcc6b?fbclid=IwAR2Tv6sS9eLY2uFCb3N73Acx_VpZQX1KhS5Iy51uE39JZ-t-KUyIXHGXrsU), which analyzes Si IV 1393 line. The second is [Upendran & Tripathi 2021a](https://ui.adsabs.harvard.edu/abs/2021ApJ...922..112U/abstract?fbclid=IwAR2fhB9PFj2lDG89mqlm3c3E0REEZdcb4KbgUxLrskZTYYa4ymgWr-e7tco), which analyzes the C II 1334 line. And the third paper is [Upendran & Tripathi 2021b](https://ui.adsabs.harvard.edu/abs/2022ApJ...926..138U/abstract), which jointly analyzes multiple lines. 
+
 2. [On switchbacks](https://www.nasa.gov/feature/goddard/2021/switchbacks-science-explaining-parker-solar-probe-s-magnetic-puzzle).
 
 
-[^1]: I have written on it at length in this article: 
-[Using machine learning to infer Solar coronal heating](https://cosmicvarta.in/vishal_machine_learning_corona_article).
+
+**Original paper:**
+<a href="https://arxiv.org/abs/2111.11668"  target="_blank"> On the formation of solar wind & switchbacks, and quiet Sun heating</a>
+
+**First Author:** Vishal Upendran
+
+**Co-authors:** Durgesh Tripathi
+
+**First author’s Institution:** Inter University Centre for Astronomy and Astrophysics, Pune, 411007, India
+
+
+[^1]: I have written on it at length in this article: [Using machine learning to infer Solar coronal heating](https://cosmicvarta.in/vishal_machine_learning_corona_article).
 
 [^2]: Again I have written on this at length, in this article: [From Sun to Earth using Artificial Intelligence](https://cosmicvarta.in/sun-to-earth-using-ai-vishal). 
 
@@ -127,14 +138,7 @@ Further reading:
 [^5]: I have talked in great detail about this impulsive release of energy in my article on coronal heating: https://cosmicvarta.in/vishal_machine_learning_corona_article
 
 
-**Original paper:**
-<a href="https://arxiv.org/abs/2111.11668"_blank"> On the formation of solar wind & switchbacks, and quiet Sun heating</a>
 
-**First Author:** Vishal Upendran
-
-**Co-authors:** Durgesh Tripathi
-
-**First author’s Institution:** Inter University Centre for Astronomy and Astrophysics, Pune, 411007, India
 
 <div id="disqus_thread"></div>
 <script>
@@ -155,4 +159,3 @@ Further reading:
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-202

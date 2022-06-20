@@ -1,4 +1,4 @@
-I"dY<blockquote>
+I"�Y<blockquote>
 
   <p>Light when seen correctly provides rich information on what happens in the cosmos. In this article, we showcase our work on identifying signatures of the solar wind in the solar chromosphere – far lower in the solar atmosphere than what has been expected. We take the reader through our analysis, interpretations and speculations on our observations, and present a unified model of solar wind emergence and the heating of quiet corona.</p>
 
@@ -44,7 +44,7 @@ From Fig. 2a, the QS shows more intensity than CH - the factor is more than 1. T
 
 <p>But why could this be happening? Is there an “extra” push for the plasma to flow away from us in the CH, or is the plasma being stopped for some reason in the QS? And where are these flows coming from/going to? A clear dichotomy seems to occur between the chromosphere and TR – something is clearly happening at the interface of these two regions. And so to understand further, we study how the TR velocities change with chromospheric velocities. For instance, if a pixel shows upflow in Mg II k<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">4</a></sup>, what kind of flows does it show in Si IV? And how do these vary between CH and QS? This is a question we ask for multiple spectral lines, but I will just present the results for the Mg II k3 and Si IV below.</p>
 
-<p><img src="../assets/images/image3_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image3_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 3: TR and chromospheric flow correlations in CHs (black) and QS (orange). Note that up-flows are blueshifts, and downflows are redshifts. 
 Taken from <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</a>.
@@ -65,7 +65,7 @@ It means that: (i). If a plasma parcel is moving towards us in the chromosphere,
 
 <p>Finally, let this event occur at a very great height – in the corona, for example. In such a case, we would only see the downward flowing plasma, since the upward flowing plasma would be seen in lines which form at much higher temperature. Hence this would be seen as persistent downflows (Fig. 4c)! However, note that the “freely-falling” plasma can also simply fall down,  and can give a similar signature (Fig. 4b).</p>
 
-<p><img src="../assets/images/image4_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image4_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 4: A schematic showing the response of plasma due to an impulsive heating event (red asterisk). The blue arrows correspond to blueshifts (motion towards us), while red arrows show redshifts (motion away from us). The vertical colour is density – going from high density at bottom to low on top. Different scenarios are depicted across the figure.
 Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022 </a>.
@@ -75,7 +75,7 @@ Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022 <
 
 <p>In Fig. 5, open magnetic field lines (in black) are drawn near closed loops (in yellow) in CH, while closed loops alone are drawn in QS. When you have magnetic field lines close by, a phenomenon called magnetic reconnection can occur, which causes field lines to snap and rejoin. This will release a large amount of energy contained in the magnetic field in a very short period of time – these would be our impulsive events!</p>
 
-<p><img src="../assets/images/image5_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image5_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 5: A schematic depicting the proposed picture of impulsive heating occurring across different magnetic field topologies. In the left panel, we show a CH topology, including open funnel-like structure (black), closed loops of varying sizes (yellow), and impulsive events (red asterisks) due to interchange reconnection between the open and closed field lines, giving rise to bidirectional flows (blue and red arrows). The kinked field line propagating outward as a switchback is depicted as a dashed line, with the approximate propagation direction by black arrows. Right panel: QS topology shown with the same terminology as the left panel.
 Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</a>.
@@ -102,7 +102,7 @@ Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</
 <p><a href="https://cosmicvarta.in/vishal_machine_learning_corona_article">Using machine learning to infer Solar coronal heating</a>.</p>
 
 <p><strong>Original paper:</strong>
-&lt;a href=”https://arxiv.org/abs/2111.11668”_blank”&gt; On the formation of solar wind &amp; switchbacks, and quiet Sun heating&lt;/a&gt;</p>
+<a href="https://arxiv.org/abs/2111.11668" target="_blank"> On the formation of solar wind &amp; switchbacks, and quiet Sun heating</a></p>
 
 <p><strong>First Author:</strong> Vishal Upendran</p>
 
@@ -130,7 +130,6 @@ Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</
 </script>
 
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<p>202</p>
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">

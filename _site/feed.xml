@@ -5,8 +5,8 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jun 2022 17:23:40 +0530</pubDate>
-    <lastBuildDate>Mon, 20 Jun 2022 17:23:40 +0530</lastBuildDate>
+    <pubDate>Mon, 20 Jun 2022 21:28:05 +0530</pubDate>
+    <lastBuildDate>Mon, 20 Jun 2022 21:28:05 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -108,14 +108,16 @@ Image source: &lt;a href=&quot;https://arxiv.org/abs/2111.11668&quot;&gt;Vishal.
 
 &lt;p&gt;Further reading:&lt;/p&gt;
 &lt;ol&gt;
-  &lt;li&gt;There are three papers which form a series of analyses on this subject. The first is &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/abcc6b?fbclid=IwAR2Tv6sS9eLY2uFCb3N73Acx_VpZQX1KhS5Iy51uE39JZ-t-KUyIXHGXrsU&quot;&gt;Tripathi et al 2021&lt;/a&gt;, which analyzes Si IV 1393 line. The second is &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApJ...922..112U/abstract?fbclid=IwAR2fhB9PFj2lDG89mqlm3c3E0REEZdcb4KbgUxLrskZTYYa4ymgWr-e7tco&quot;&gt;Upendran &amp;amp; Tripathi 2021a&lt;/a&gt;, which analyzes the C II 1334 line. And the third paper is &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022ApJ...926..138U/abstract&quot;&gt;Upendran &amp;amp; Tripathi 2021b&lt;/a&gt;, which jointly analyzes multiple lines.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nasa.gov/feature/goddard/2021/switchbacks-science-explaining-parker-solar-probe-s-magnetic-puzzle&quot;&gt;On switchbacks&lt;/a&gt;.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;There are three papers which form a series of analyses on this subject. The first is &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/abcc6b?fbclid=IwAR2Tv6sS9eLY2uFCb3N73Acx_VpZQX1KhS5Iy51uE39JZ-t-KUyIXHGXrsU&quot;&gt;Tripathi et al 2021&lt;/a&gt;, which analyzes Si IV 1393 line. The second is &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021ApJ...922..112U/abstract?fbclid=IwAR2fhB9PFj2lDG89mqlm3c3E0REEZdcb4KbgUxLrskZTYYa4ymgWr-e7tco&quot;&gt;Upendran &amp;amp; Tripathi 2021a&lt;/a&gt;, which analyzes the C II 1334 line. And the third paper is &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022ApJ...926..138U/abstract&quot;&gt;Upendran &amp;amp; Tripathi 2021b&lt;/a&gt;, which jointly analyzes multiple lines.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.nasa.gov/feature/goddard/2021/switchbacks-science-explaining-parker-solar-probe-s-magnetic-puzzle&quot;&gt;On switchbacks&lt;/a&gt;.&lt;/p&gt;
+  &lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://cosmicvarta.in/vishal_machine_learning_corona_article&quot;&gt;Using machine learning to infer Solar coronal heating&lt;/a&gt;.&lt;/p&gt;
-
 &lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&amp;lt;a href=”https://arxiv.org/abs/2111.11668”_blank”&amp;gt; On the formation of solar wind &amp;amp; switchbacks, and quiet Sun heating&amp;lt;/a&amp;gt;&lt;/p&gt;
+&lt;a href=&quot;https://arxiv.org/abs/2111.11668&quot; target=&quot;_blank&quot;&gt; On the formation of solar wind &amp;amp; switchbacks, and quiet Sun heating&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vishal Upendran&lt;/p&gt;
 
@@ -143,11 +145,10 @@ Image source: &lt;a href=&quot;https://arxiv.org/abs/2111.11668&quot;&gt;Vishal.
 &lt;/script&gt;
 
 &lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-&lt;p&gt;202&lt;/p&gt;
 &lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
   &lt;ol&gt;
     &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I have written on it at length in this article: &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;I have written on it at length in this article: &lt;a href=&quot;https://cosmicvarta.in/vishal_machine_learning_corona_article&quot;&gt;Using machine learning to infer Solar coronal heating&lt;/a&gt;. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
     &lt;/li&gt;
     &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
       &lt;p&gt;Again I have written on this at length, in this article: &lt;a href=&quot;https://cosmicvarta.in/sun-to-earth-using-ai-vishal&quot;&gt;From Sun to Earth using Artificial Intelligence&lt;/a&gt;. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;

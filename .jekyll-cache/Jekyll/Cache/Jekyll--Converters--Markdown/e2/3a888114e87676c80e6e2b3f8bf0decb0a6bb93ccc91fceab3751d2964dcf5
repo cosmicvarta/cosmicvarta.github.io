@@ -1,4 +1,4 @@
-I":Y<blockquote>
+I"�Y<blockquote>
 
   <p>Light when seen correctly provides rich information on what happens in the cosmos. In this article, we showcase our work on identifying signatures of the solar wind in the solar chromosphere – far lower in the solar atmosphere than what has been expected. We take the reader through our analysis, interpretations and speculations on our observations, and present a unified model of solar wind emergence and the heating of quiet corona.</p>
 
@@ -15,7 +15,7 @@
 
 <p>In #A1, we attempted to understand the underlying cause of these two problems in tandem by studying two regions called the Coronal Holes (CHs) and Quiet Sun (QS). The CHs are regions seen as dark in the corona against the background QS - see Fig. 1, first panel. However, if we go down to the TR (see Si IV in the same figure), or chromosphere (CII or Mg II k3), these differences vanish! Since the CHs are well known sources of the solar wind, studying these two regions together, and investigating where (and how) this differentiation starts can give us hints on resolving the coronal heating and solar wind emergence problems.</p>
 
-<p><img src="../assets/images/image1_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image1_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 1: Fig. 1: CHs (dark) and QS (bright) in the corona (AIA 193 Å), TR (Si IV) and the chromosphere (C II, Mg II k3) with the two regions demarcated by light green contours. 
 Image source: <a href="https://arxiv.org/abs/2111.11668 ">Vishal.U et al., 2022 </a>.
@@ -27,7 +27,7 @@ Image source: <a href="https://arxiv.org/abs/2111.11668 ">Vishal.U et al., 2022 
 
 <p>Mg II - Magnesium - is an awesome atom from which one electron has been removed. The transitions of this atom give rise to what are commonly called the h and k lines. Why do I call it awesome? Because the Mg II h &amp; k lines are very complex – so complex that in fact they can give us the velocity of almost the whole of the chromosphere! If our results in the C II 1334 Å line were correct, they must be seen in what is called the ‘k3’ part of the Mg II line3. However, we also need to have a comparison against some “expected” results. For this, we performed the same analysis on the Si IV 1393 Å line – this line forms in the TR, and so will give very different dynamics when compared to C II or Mg II. Let us look at the results below!</p>
 
-<p><img src="../assets/images/image2_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image2_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 2: QS-CH differences as a function of magnetic field (|B|) in the TR and chromosphere. The intensity ratio is depicted in panel a and velocity differences in other panels. Panel b depicts the difference in average velocity, while panels c &amp; d show for the blue- and red shifted pixels alone. 
 Image source: <a href="https://arxiv.org/abs/2111.11668 ">Vishal.U et al., 2022 </a>.
@@ -44,7 +44,7 @@ From Fig. 2a, the QS shows more intensity than CH - the factor is more than 1. T
 
 <p>But why could this be happening? Is there an “extra” push for the plasma to flow away from us in the CH, or is the plasma being stopped for some reason in the QS? And where are these flows coming from/going to? A clear dichotomy seems to occur between the chromosphere and TR – something is clearly happening at the interface of these two regions. And so to understand further, we study how the TR velocities change with chromospheric velocities. For instance, if a pixel shows upflow in Mg II k<sup id="fnref:3" role="doc-noteref"><a href="#fn:3" class="footnote" rel="footnote">4</a></sup>, what kind of flows does it show in Si IV? And how do these vary between CH and QS? This is a question we ask for multiple spectral lines, but I will just present the results for the Mg II k3 and Si IV below.</p>
 
-<p><img src="../assets/images/image3_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image3_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 3: TR and chromospheric flow correlations in CHs (black) and QS (orange). Note that up-flows are blueshifts, and downflows are redshifts. 
 Taken from <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</a>.
@@ -65,7 +65,7 @@ It means that: (i). If a plasma parcel is moving towards us in the chromosphere,
 
 <p>Finally, let this event occur at a very great height – in the corona, for example. In such a case, we would only see the downward flowing plasma, since the upward flowing plasma would be seen in lines which form at much higher temperature. Hence this would be seen as persistent downflows (Fig. 4c)! However, note that the “freely-falling” plasma can also simply fall down,  and can give a similar signature (Fig. 4b).</p>
 
-<p><img src="../assets/images/image4_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image4_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 4: A schematic showing the response of plasma due to an impulsive heating event (red asterisk). The blue arrows correspond to blueshifts (motion towards us), while red arrows show redshifts (motion away from us). The vertical colour is density – going from high density at bottom to low on top. Different scenarios are depicted across the figure.
 Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022 </a>.
@@ -75,7 +75,7 @@ Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022 <
 
 <p>In Fig. 5, open magnetic field lines (in black) are drawn near closed loops (in yellow) in CH, while closed loops alone are drawn in QS. When you have magnetic field lines close by, a phenomenon called magnetic reconnection can occur, which causes field lines to snap and rejoin. This will release a large amount of energy contained in the magnetic field in a very short period of time – these would be our impulsive events!</p>
 
-<p><img src="../assets/images/image5_plasma_moves_vishal.png" alt="A new image here" /></p>
+<p><img src="../assets/images/vishal4_plasma_moves/image5_plasma_moves_vishal.png" alt="A new image here" /></p>
 <p align="center">
 Fig. 5: A schematic depicting the proposed picture of impulsive heating occurring across different magnetic field topologies. In the left panel, we show a CH topology, including open funnel-like structure (black), closed loops of varying sizes (yellow), and impulsive events (red asterisks) due to interchange reconnection between the open and closed field lines, giving rise to bidirectional flows (blue and red arrows). The kinked field line propagating outward as a switchback is depicted as a dashed line, with the approximate propagation direction by black arrows. Right panel: QS topology shown with the same terminology as the left panel.
 Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</a>.
@@ -102,7 +102,7 @@ Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</
 <p><a href="https://cosmicvarta.in/vishal_machine_learning_corona_article">Using machine learning to infer Solar coronal heating</a>.</p>
 
 <p><strong>Original paper:</strong>
-&lt;a href=”https://arxiv.org/abs/2111.11668”_blank”&gt; On the formation of solar wind &amp; switchbacks, and quiet Sun heating&lt;/a&gt;</p>
+<a href="https://arxiv.org/abs/2111.11668" target="_blank"> On the formation of solar wind &amp; switchbacks, and quiet Sun heating</a></p>
 
 <p><strong>First Author:</strong> Vishal Upendran</p>
 

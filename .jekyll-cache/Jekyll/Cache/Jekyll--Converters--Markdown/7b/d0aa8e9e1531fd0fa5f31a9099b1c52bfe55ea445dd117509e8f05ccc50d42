@@ -1,4 +1,4 @@
-I"�Y<blockquote>
+I"�Y<blockquote>
 
   <p>Light when seen correctly provides rich information on what happens in the cosmos. In this article, we showcase our work on identifying signatures of the solar wind in the solar chromosphere – far lower in the solar atmosphere than what has been expected. We take the reader through our analysis, interpretations and speculations on our observations, and present a unified model of solar wind emergence and the heating of quiet corona.</p>
 
@@ -99,10 +99,8 @@ Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</
   <li><a href="https://www.nasa.gov/feature/goddard/2021/switchbacks-science-explaining-parker-solar-probe-s-magnetic-puzzle">On switchbacks</a>.</li>
 </ol>
 
-<p><a href="https://cosmicvarta.in/vishal_machine_learning_corona_article">Using machine learning to infer Solar coronal heating</a>.</p>
-
 <p><strong>Original paper:</strong>
-&lt;a href=”https://arxiv.org/abs/2111.11668”_blank”&gt; On the formation of solar wind &amp; switchbacks, and quiet Sun heating&lt;/a&gt;</p>
+<a href="https://arxiv.org/abs/2111.11668" target="_blank"> On the formation of solar wind &amp; switchbacks, and quiet Sun heating</a></p>
 
 <p><strong>First Author:</strong> Vishal Upendran</p>
 
@@ -130,11 +128,10 @@ Image source: <a href="https://arxiv.org/abs/2111.11668">Vishal.U et al., 2022</
 </script>
 
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<p>202</p>
 <div class="footnotes" role="doc-endnotes">
   <ol>
     <li id="fn:1" role="doc-endnote">
-      <p>I have written on it at length in this article: <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
+      <p>I have written on it at length in this article: <a href="https://cosmicvarta.in/vishal_machine_learning_corona_article">Using machine learning to infer Solar coronal heating</a>. <a href="#fnref:1" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
     </li>
     <li id="fn:2" role="doc-endnote">
       <p>Again I have written on this at length, in this article: <a href="https://cosmicvarta.in/sun-to-earth-using-ai-vishal">From Sun to Earth using Artificial Intelligence</a>. <a href="#fnref:2" class="reversefootnote" role="doc-backlink">&#8617;</a></p>
