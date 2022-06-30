@@ -5,9 +5,107 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Jun 2022 21:28:05 +0530</pubDate>
-    <lastBuildDate>Mon, 20 Jun 2022 21:28:05 +0530</lastBuildDate>
+    <pubDate>Thu, 30 Jun 2022 16:18:06 +0530</pubDate>
+    <lastBuildDate>Thu, 30 Jun 2022 16:18:06 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Understanding the emissions in Black hole binaries</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Yash Bhargava from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, takes us through the journey of the death of a star in this wonderful article about his work.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;To understand what I do, I will have to take you on a journey of what happens after a star dies. Yes. Stars also die. Depending on its mass and composition, a star can die either by blooming into a red giant and then dispersing its external shell to leave a bright core at the centre, known as a White Dwarf, or by a gigantic explosion which can typically outshine a Galaxy - leaving either an extremely dense ball made almost entirely of Neutrons (also known as Neutron Stars) or an enigmatic Black hole at the centre. It becomes more interesting if the original star was already revolving around another star also known as the companion star. If the companion is close and large enough, the compact star (either White dwarf, Neutron star, or Black hole) is in a position to capture material from the companion.
+When matter from the companion is captured in the gravitational well of the compact object, it doesn’t simply fall towards the compact object.  The matter would have an initial velocity which would force it to go into an orbit around the compact object. After a huge number of collisions, a fraction of matter would eventually form a disk around the compact object, something similar to the Rings of Saturn but with a tiny but very important twist. The matter in this disk is actually moving inwards while the particles in Saturn’s ring are orbiting the planet in a very stable manner. Hence these disks are called accretion disks. As the matter moves inwards closer to the compact object, it releases the gravitational potential energy. The closer the matter can get to the compact object, the more gravitational energy is available to be released. The conversion of the gravitational potential energy in the disk is a very efficient mechanism making these sources extremely bright. 
+ The amount of energy being expelled is quite large, which raises the temperature of the matter so much that it emits radiation peaking in X-rays. Observing X-rays from ground-based observatories is impossible as the incoming radiation is blocked by the atmosphere. Thus scientists have sent many observatories to space to observe and study these enigmatic sources. One such observatory is AstroSat, which is India’s first multi-wavelength mission. It has 5 co-pointed instruments onboard to probe different properties of the target.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/blackhole_emission_yashb/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: An artist’s impression of accretion around the Black hole binary Cyg X-1. The typical emission from the accretion disk is in X-rays while the jet emits from Radio to X-ray wavelengths. (Credits: &lt;a href=&quot;https://chandra.harvard.edu/photo/2011/cygx1/cygx1_ill.jpg&quot;&gt;Chandra X-ray Observatory&lt;/a&gt;
+)
+&lt;/p&gt;
+
+&lt;p&gt;Black hole Binaries are systems of binary stars in which the compact object is a Black hole. As compared to Neutron Star and White Dwarf, Black holes are more dense and compact, thus presenting a deeper gravitational potential well. Close to the Black hole, the extreme gravity, and relativistic effects dominate. Thus these systems are excellent laboratories to probe extreme conditions that are impossible to recreate on Earth. They also show very unique features which have not been completely understood to date. One of these features is a Quasi-Periodic Oscillation (QPO), which is like an oscillation with many close-by frequencies occurring simultaneously. In contrast, many Neutron star binaries show pulsations that correspond to the rotation of the Neutron star and have only a single frequency, thus making them a great clock. The origin of QPO is quite uncertain as some observations indicate that it is a geometrical effect while others imply it is a resonance feature. Previous studies have indicated that the QPO might be related to precession in the accretion disk. But no single model can fully explain the properties of QPOs.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/blackhole_emission_yashb/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: An example of a Quasi-periodic oscillation observed in MAXI J1535-571. The plot shows the power density spectrum, which is the square of the Fourier transform of the intensity variations with time (often called the light curve in the astronomical community). The QPO is highlighted as the grey shaded function. The features at harmonic frequencies (twice &amp;amp; half the QPO frequency) can also be seen.
+)
+&lt;/p&gt;
+
+&lt;p&gt;As part of my research, I have studied different Black hole binary systems which have provided valuable insight into the dynamics of accretion disks. One of these systems, MAXI J1535-571 is quite intriguing. It was discovered in September 2017 and was one of the brightest objects in the X-ray sky when it went into an outburst. AstroSat stared at the source for 5 consecutive days and using the instruments on board we have a unique insight into the source. We have modeled the energy spectrum (which is a count of how many photons of different energies are we seeing) of the source using the Soft X-ray Telescope (SXT) and the Large Area X-ray Proportional Counter (LAXPC), which tells us that this source has a high-temperature accretion disk and a cloud of electron which intercepts some of the energy from the disk and then scatters it to higher energies. The cloud of the electrons can be characterized by the slope of the high-energy spectrum seen by LAXPC. We find that during the observation, this slope is not constant and fluctuates about a mean value.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/blackhole_emission_yashb/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: The X-ray spectrum of MAXI J1535-571. The emission from this source can be characterized by the multi-temperature accretion disk and Compton up-scattering of the accretion disk photons by a thermal cloud of electrons. The total emission was absorbed by neutral Hydrogen close to the source before reaching us. The emission from the Compton up-scattering of the photons depends on the electron temperature and the optical depth and manifests itself as the slope of the spectrum.
+)
+&lt;/p&gt;
+
+&lt;p&gt;LAXPC is a high time resolution instrument and allows us to measure when a photon strikes the detector with an accuracy of 10 microseconds. Thus we can determine if there are any fast oscillations occurring in the source. In this particular case, we see a very prominent QPO which also changes its frequency about a mean value as the observation progresses. We also measure the total output of the source which is dependent on the total accretion rate of the system and we find that it is increasing as time progresses. Models of QPO predict that, typically, the peak frequency of a QPO is linked with the accretion rate; as the accretion rate increases, the QPO frequency also increases. We find that for this source this is not the case for at least the duration of our observation. We see a very strong correlation between the variation in the QPO frequency and the spectral slope indicating that the origin of the QPO is tightly linked with the component responsible for shaping the spectrum. Whenever the QPO frequency increases the slope increases and when one decreases the other is also seen to decrease. These results led us to conclude that the QPO is closely tied to the cloud of electrons instead of the accretion disk where the previous theories expect it to arise from. This work questions the existing models of QPOs and accretion and demands the revision of long-held ideas.
+This work and observations like this provide us with a window into a tiny region, extremely close to a Black hole that cannot be yet imaged with the current technologies. Only recently, scientists were able to combine the observations from radio telescopes across the world to create the first picture of a much larger black hole at the centre of the galaxy. But to understand the environment around a black hole in a binary system, indirect measurements (like the work described here) using the spectral and timing properties of the source will remain the primary method of investigation.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Note: This article is submitted for &lt;a href=&quot;https://www.awsar-dst.in/&quot;&gt;DST-AWSAR award&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://academic.oup.com/mnras/article/488/1/720/5525097&quot; target=&quot;_blank&quot;&gt;Spectro-timing analysis of MAXI J1535–571 using AstroSat&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Yash Bhargava&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Tomaso Belloni, Dipankar Bhattacharya, Ranjeev Misra&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Thu, 30 Jun 2022 00:00:00 +0530</pubDate>
+        <link>/blackhole_emission_yashb</link>
+        <guid isPermaLink="true">/blackhole_emission_yashb</guid>
+        
+        <category>Accretion</category>
+        
+        <category>Accretion discs</category>
+        
+        <category>Black hole physics</category>
+        
+        <category>X-rays</category>
+        
+        <category>X-ray binaries</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Anyway the plasma moves - it does really matter!</title>
@@ -1193,212 +1291,6 @@ Raman founded &lt;strong&gt;the Indian Academy of sciences&lt;/strong&gt; in &lt
         
         
         <category>Featured</category>
-        
-      </item>
-    
-      <item>
-        <title>Understanding the solar chromosphere through spectral lines</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;This article takes the reader through a journey of inferring the cosmos - specifically our dear neighbour Sun - through various properties of light. The journey meanders through our work on understanding solar chromospheric properties through spectral lines, and seems to cluminate in the sea of questions raised by our work!&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Light is one of the most fundamental, complex and inherently mind blowing things to exist in this world. Every culture across the globe attributes (or attributed) great significance to light, while adding multiple layers of symbolism and meaning. Light has its influence right from the chloroplasts in plants converting water &amp;amp; nutrients to sugar and Oxygen, to the largest of solar panels to generate electricity for entire cities. Light is, in some sense, our window to this world.&lt;/p&gt;
-
-&lt;p&gt;The same is true for astronomers. Imagine an astronomer working  - I am pretty sure your immediate thought is a person looking through a telescope in the night sky. Well, you are pretty correct - in that most information about the universe comes to us through light! But light is not just what we &lt;em&gt;see&lt;/em&gt;: the radio frequency on which mobile phones operate is light, and so are the X-rays which are used to check for bone fractures.&lt;/p&gt;
-
-&lt;p&gt;What kind of light exists depends on how it is generated in the first place. The simplest way to make light is to get objects hot. A hot iron rod glows red, while an arc welding plasma glows blue. Heat, and temperature are primary drivers of what kind of light comes out. This &lt;em&gt;colour&lt;/em&gt; of light is given by the wavelength (or the frequency) of light. The larger this frequency of light, smaller the wavelength is, and more the energy in light. X rays have a very short wavelength (and so high energy), while Radio waves have a very long wavelength (and low energy). Similarly, red light has a larger wavelength than blue (or violet) light. So, in general, hotter objects have more energy, and hence emit more in short wavelengths, while cooler objects have lesser energy, and emit more in longer wavelengths. This is the reason why X-rays are generally much more harmful than Radio waves&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Sun we see every day is obviously a hot object. So logically, we also expect it to give light corresponding to how hot it is. And this is quite true – the solar &lt;em&gt;surface&lt;/em&gt; or the solar disc we see in the sky is at 5500 Kelvin. Hence, it emits most of its energy near greenish-yellow light&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;. But all parts of the Sun do not preferentially emit this greenish-yellow light – rather, depending on the temperature, different parts of the Sun emit in different colours. In Fig. 1 below, I have displayed the same region of the Sun as seen in different wavelengths. The hottest plasma is seen in the 94 Å image, while the coolest is seen in the 2796 Å image - with temperature (approximately) reducing with increasing wavelength. Each structure contains material at different temperatures - this is because different structures form at different heights! A general rule of thumb in the solar atmosphere is “hotter stuff forms at greater height than cooler stuff”&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt;, so the S shaped loop in the 94 Å image forms much higher than the structure in the 2796 Å image.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vishal_chromosphere/image1_vishal_line.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 1: A solar flare as seen in different wavelengths (listed on top of each panel). Shorter wavelengths mean more energy. From 94 &amp;Aring; to 2796 &amp;Aring;, as temperature reduces, different structures in the solar atmosphere are clearly seen, from S shaped loops to longer loops to finally a dark sunspot-like patch from 1600 &amp;Aring; onwards! Images assembled from &lt;a href=&quot;https://sdo.gsfc.nasa.gov/&quot;&gt; AIA &lt;/a&gt; data (corona) and &lt;a href=&quot;https://www.nasa.gov/mission_pages/iris/index.html&quot;&gt; Slit-Jaw Imager &lt;/a&gt;(chromosphere). &lt;/p&gt;
-
-&lt;p&gt;This is just one aspect of the light that comes to us. The other aspect is that the material which emits this light, also leaves an imprint on “how bright” the light is at different wavelengths. This is slightly different from the Thermal radiation, which depends &lt;b&gt;only&lt;/b&gt; on the temperature. The typical brightness at every wavelength for light coming due to an object being hot, looks somewhat like the top row in Fig. 2. Here, notice that the brightness shows some variation with wavelength (which, I remind you, is given by the colour of light) - but the essential point is that every wavelength has some amount of brightness.&lt;/p&gt;
-
-&lt;p&gt;Now, check out the second row - corresponding to a Sodium atom. You will see that the brightness is present at &lt;strong&gt;discrete&lt;/strong&gt; locations in wavelength, and most of the wavelengths have no brightness. This is in stark contrast to the thermal radiation, and is followed similarly by all other elements listed in the rows below Sodium. But note that the pattern, or location &amp;amp; brightness of these &lt;strong&gt;spectral lines&lt;/strong&gt; of different elements is unique for each element. In a sense, spectral lines can be thought of as a fingerprint of atoms and molecules. Just like each human has a unique set of fingerprints, similarly each atom or molecule has a specific set of spectral lines as its signature. These lines you see are bright in specific wavelengths, and are called &lt;strong&gt;emission lines&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vishal_chromosphere/image3_vishal_line.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 2: Examples of many spectrum (=spectra). On the bottom most axis, the wavelength increases from 4000 &amp;Aring; (left) to more than 7000 &amp;Aring; (right). The top row shows what is called a continuous spectrum, which depends only on the temperature of the object. Each subsequent row shows how much bright light is in each wavelength, for different atoms listed to the left.
-Image source: &lt;a href=&quot;https://openstax.org/books/astronomy/pages/5-3-spectroscopy-in-astronomy &quot;&gt;OpenStax &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Astronomers study the spectral lines of different objects like stars, galaxies, etc, and try to figure out which all atoms, ions and molecules are present in the object of study. Remember, what I have shown in Fig. 2 is the light coming from one vertical slit - that is why, the spectral lines are all seen as vertical lines. But this need not be the case - I can also look at approximately one point on the Sun (or even average over the vertical line), for example, and get its spectrum out. This exercise will give us a result similar to Fig. 3, where we just have the brightness of light for every wavelength. This is the kind of spectrum astronomers generally analyze.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vishal_chromosphere/image2_vishal_line.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 3: The intensity of various spectral lines as a function of wavelength. Taken from &lt;a href=&quot;http://www.chiantidatabase.org/qug.html&quot;&gt;CHIANTI&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;A side note here: The spectrum shown Fig. 3 is the brightness (or rather the &lt;strong&gt;intensity&lt;/strong&gt;) for every wavelength. We can then construct a similar spectrum for a large region of the Sun, and obtain such spectra for each point. Now, if we consider the intensity at, let’s say 2796 Å for each point, we will get an image similar to the last panel in Fig. 1. How cool is that!&lt;sup id=&quot;fnref:4&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:4&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;4&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;p&gt;You will now have many questions: why is the spectrum of individual elements only at specific wavelengths, and not everywhere? What conditions give rise to the &lt;em&gt;brightness&lt;/em&gt; of these lines? First off, you find the spectrum of elements at discrete wavelength locations because these arise from atomic transitions between two approximately fixed energy levels. The &lt;em&gt;quantum&lt;/em&gt; of Quantum mechanics gives rise to this discrete nature&lt;sup id=&quot;fnref:5&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:5&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;5&lt;/a&gt;&lt;/sup&gt;. Next, the spectrum itself depends on, among other parameters, 4 critical properties: the temperature of the region where the spectrum is generated, density of the material giving rise to the spectrum, velocity of this material, and turbulence&lt;sup id=&quot;fnref:6&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:6&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;6&lt;/a&gt;&lt;/sup&gt;. These properties, under certain circumstances, can be easily inferred from just the spectrum of an atom.&lt;/p&gt;
-
-&lt;p&gt;First off, note that the material which emits this light is a fluid (more precisely, plasma) in our case. Hence, the temperature and density of the plasma determine if a given spectral line will even form. So just knowing the fact that a given line is seen tells us the possible range of values temperature and quantity can take. Next, the brightness of the line is in most cases dominated by the density of plasma – more density, more brightness, but you do have the effect of atomic physics and temperature. Third, the wavelength where we expect the line brightness to peak can be shifted to different wavelengths too! This is called &lt;strong&gt;Doppler shift&lt;/strong&gt;. If the plasma is moving towards us, the shift is toward shorter wavelengths (called &lt;strong&gt;Blueshift&lt;/strong&gt;), and if the plasma is moving away from us, the shift is toward longer wavelengths (called &lt;strong&gt;Redshifts&lt;/strong&gt;)&lt;sup id=&quot;fnref:7&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:7&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;7&lt;/a&gt;&lt;/sup&gt;.  Finally, if you see in Fig. 3, the line does not immediately peak at one wavelength. Rather, it starts to increase from one wavelength, reaches a maximum, and then reduces. This is called the &lt;strong&gt;line width&lt;/strong&gt;, and is determined by the temperature, and turbulence in the plasma. Turbulence basically is a measure of how much fluctuation of different spatial sizes is present in the fluid - it is yet another measure of what the plasma we consider is like.&lt;/p&gt;
-
-&lt;p&gt;So TLDR in summary, using spectral lines, we can get an estimate of local temperature, velocity, density and turbulence of these plasma parcels through spectral lines. So what is the big idea?&lt;/p&gt;
-
-&lt;p&gt;The big idea is that some specific regions on the Sun are thought to give rise to a stream of particles called the solar wind. We know that these regions are important, but we don’t know at what height the solar wind starts to form. Now, the solar wind is basically a stream of particles coming out of the Sun. So if you are looking “down” on the Sun, you will see that the particles are coming towards you. This means the spectral line which the particles emit will be blueshifted. So the basic idea is that we study these Doppler shifts for plasma which correspond to different wavelengths (and so different heights and temperatures, like Fig. 1), and see where the blueshifts start!&lt;/p&gt;
-
-&lt;p&gt;Now, these regions, which are thought to give rise to the solar wind, are called &lt;em&gt;Coronal holes&lt;/em&gt; (CHs) - because they are seen as dark patches in the solar corona. In Fig. 4b below, all dark regions belong to CHs, while the brighter regions belong to &lt;em&gt;Quiet Sun&lt;/em&gt;&lt;sup id=&quot;fnref:8&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:8&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;8&lt;/a&gt;&lt;/sup&gt; (QS). These regions appear very different in the solar corona. However, if we check what these regions look like at lower heights called the &lt;strong&gt;chromosphere&lt;/strong&gt;, the differences are reduced (see Fig. 4a)! Why so? Has this “vanishing” of difference got anything to do with the solar wind? Can we do specific studies of these regions, and figure out what causes these differences? Are they dependent on the underlying magnetic field in any way? This was our primary objective of study.&lt;/p&gt;
-
-&lt;p&gt;At this juncture, I should tell you that scientists have done extensive studies of the CHs and QS regions in the corona, and all of the information I have presented in the last two or so paragraphs was generated in the last three decades. So we do stand on the shoulders of other giants – while we do bring our own thought process to the table!&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vishal_chromosphere/image5_vishal_line.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 4: An image of the CHs and surrounding QS region in the upper chromosphere (left panel) and the corona (right panel). The green lines demarcate CHs from QS in both the figures.
-Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287&quot;&gt;Vishal.U et al., 2021 &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Back to our work: we studied &lt;strong&gt;one&lt;/strong&gt; spectral line (yep, just one line, and you will see how much information we can infer from it!), and its properties across both the CHs and QS regions. This line forms due to a transition of the C+ ion (called CII by astrophysicists) at a wavelength of 1334 Å. How do we know the correct wavelength? We can perform controlled experiments in labs on Earth and figure it out. Now, you have already seen how there is not a great difference between CH and QS in the intensity image of Fig. 4a. Similar results hold if we look at what the plasma velocity and line width are in Fig. 5. This tells us that if I were to &lt;strong&gt;not&lt;/strong&gt; tell you where the CH and QS regions are, you cannot figure them out from either the intensity, velocity, or the width of the C II line. Thus, on a gross scale, the CH and QS are very similar!&lt;/p&gt;
-
-&lt;p&gt;Interesting things happen if we account for the underlying magnetic field. How do we do this? We ask: what is the intensity in CH and QS at similar magnetic field strengths? Similarly, what are the velocities and line widths? The underlying magnetic field strength&lt;sup id=&quot;fnref:9&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:9&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;9&lt;/a&gt;&lt;/sup&gt; might be similar, but the structure of the magnetic field can be different! The structure of magnetic field (a.k.a magnetic topology) is important, because we know that the CHs are regions where the magnetic field comes out predominantly in open lines&lt;sup id=&quot;fnref:10&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:10&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;10&lt;/a&gt;&lt;/sup&gt;, while in QS the same magnetic field comes as short closed loops. These differences are seen clearly in the corona – but are they also seen in the chromosphere?&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vishal_chromosphere/image4_vishal_line.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 5: Velocity (left) and line width (right) of the C II line in CH and QS. The positive velocity is called “redshift” and tells how fast plasma is moving away from us, while the negative velocity is called “blueshift”, and tells how fast plasma is moving towards us. The larger line width means the line is broader, indicating larger turbulence effects and some non trivial effects.
-Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287&quot;&gt;Vishal.U et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Turns out it is the case! We can indeed differentiate between CH and QS if we consider regions with similar magnetic field strength. In Fig. 6, the black dots correspond to the average of quantity in Y-axis (Intensity, velocity, width) for regions with similar magnetic field strength (in X-axis). On an average, you see that the QS intensity is larger than the CH intensity in Fig. 6a – reminiscent of the differences in the corona, and seen statistically here. So one question is answered: CHs and QS are already differentiated in the chromosphere, but you can see this only statistically!&lt;sup id=&quot;fnref:11&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:11&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;11&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
-
-&lt;p&gt;Next, look at panel (b) of the same figure. The velocity is mostly positive - indicating plasma moving away from us, and down towards the photosphere. Thus, the chromosphere is, on average, flowing downwards into the Sun. However, it is interesting to see that at 40 Gauss, a switchover occurs: for less field strength, the QS has plasma flowing down faster, while it is CH for larger field strength. This is counter intuitive – if the solar wind comes out and towards us in the CH, why is plasma moving away from us in CH?&lt;/p&gt;
-
-&lt;p&gt;Finally, see panel (c) of the same figure. The line width is seen to increase with field strength. This tells us that the profiles are getting broader, possibly implying larger turbulence with increasing field strength. Here too, CHs are broader than QS for large field strengths!&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vishal_chromosphere/image7_vishal_line.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 6: Different properties of CH (black) and QS (orange) as a function of magnetic field strength (|B|).
-Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287&quot;&gt; Vishal.U et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Things don’t stop here. The velocity panel in Fig. 6b raises many questions. And so, we repeat the analysis with a tweak - this time, we consider the blueshifts and redshifts separately. Why so? This is important to understand if the field strength has preferentially some effect on the blueshifts and redshifts, which get averaged out in Fig. 6b. And so, we check what the speeds look like in Fig.7.&lt;/p&gt;
-
-&lt;p&gt;In panel (a) of Fig. 7, the CHs have larger blueshifts over QS, telling us plasma is indeed preferentially moving towards us in the CHs. Thus, in principle, these blueshifts could be a signature of the solar wind. Now we are in business!&lt;/p&gt;
-
-&lt;p&gt;In panel (b), we check what the downflows look like. It seems for regions with large field strength, plasma is flowing into the Sun faster in CHs over QS. This was the signature which confused us in Fig. 6b. Why does the CH, which is understood to be a source of particles coming out towards the Earth, have particles going into the Sun, and away from the Earth preferentially? Are we doing something wrong? Or are the spectral profiles, and thus the process which generates these lines different in CHs and QS?&lt;/p&gt;
-
-&lt;p&gt;Turns out it is not the case. I will not show the plot here (already there is an overdose of information – too much of a good thing is also not good! :P), but we find that the spectral profiles are very similar in both CH and QS. Thus, it tells us that the processes which give rise to these profiles are similar in both the regions – the differences are coming out only because of the differences in the magnetic field topology of CHs and QS!&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vishal_chromosphere/image6_vishal_line.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 7: The velocity variation with magnetic field strength, for regions with only upflows (left) and only downflows (right) for CHs (black) and QS (orange).
-Image source: &lt;a href=&quot;https://arxiv.org/abs/2109.04287 &quot;&gt; Vishal.U et al., 2021 &lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Thus, through this work, we find that the CHs and QS might appear similar overall, but the differentiation in chromosphere is seen clearly if we consider regions with similar magnetic field strength. This differentiation is seen clearly as less intensity and excess line width in CHs over QS. The differentiation is clearly seen to arise primarily due to the magnetic field topology, and not due to fundamental differences in the way these lines form. However, our work poses a bunch of fundamental questions: Why is plasma flowing faster away from us in CHs over QS, when these CHs are supposed to be the sources of solar wind? Does this “redshift” bear any relation to the solar wind? How do these results tie up with analysis done for lines which form at higher temperatures (and hence, in the transition region &amp;amp; corona), and lower temperatures (lower &amp;amp; mid chromosphere)? And do the blueshifts we find in Fig. 7b have any relation with the solar wind?&lt;/p&gt;
-
-&lt;p&gt;To know more, and understand what happens next, keep watching this space!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2021arXiv210904287U/abstract&quot;&gt; Properties of the C II 1334 Å line in Coronal Hole and Quiet Sun as observed by IRIS&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vishal Upendran&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Durgesh Tripathi&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter University Centre for Astronomy and Astrophysics, Pune, 411007, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-&lt;hr /&gt;
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;But don’t worry too much. The amount of X-rays given in hospitals do not cause any harm! &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;This is an exercise for you - go look up why we see the Sun more yellow than green! &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;To know more on why this is the case, refer to my other article on the coronal heating problem! &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:4&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;As we will see later, plasma flowing up or down will change this location! &lt;a href=&quot;#fnref:4&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:5&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Check out this cool &lt;a href=&quot;https://openstax.org/books/astronomy/pages/5-3-spectroscopy-in-astronomy&quot;&gt;reference&lt;/a&gt; for more information. &lt;a href=&quot;#fnref:5&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:6&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Technically I should call it “non-thermal effect”, and it may result due to various reasons. Turbulence is supposedly one of the reasons giving rise to this effect. &lt;a href=&quot;#fnref:6&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:7&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Checkout this cool link for more info on &lt;a href=&quot;https://imagine.gsfc.nasa.gov/features/yba/M31_velocity/spectrum/doppler_more.html&quot;&gt;Doppler shifts&lt;/a&gt; &lt;a href=&quot;#fnref:7&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:8&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;I have talked in detail on the Coronal holes in the solar wind article, and on Quiet Sun in the nanoflare heating article. &lt;a href=&quot;#fnref:8&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:9&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Magnetic field strength = Bx2+By2+Bz2. The individual B can be different, while the sum squared remains the same! &lt;a href=&quot;#fnref:9&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:10&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;When I say open, I mean that these field lines close at distances far larger than the size of our CH, on the Sun. Remember, we cannot have truly open fields since magnetic monopoles do not exist! &lt;a href=&quot;#fnref:10&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:11&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;Note that this question was also answered by Pradeep Kayshap et al 2018 for the Mg II line, which also forms in the chromosphere. &lt;a href=&quot;#fnref:11&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Sun, 27 Feb 2022 00:00:00 +0530</pubDate>
-        <link>/solar-chromosphere-spectral-lines-vishal</link>
-        <guid isPermaLink="true">/solar-chromosphere-spectral-lines-vishal</guid>
-        
-        <category>Solar chromosphere</category>
-        
-        <category>solar wind</category>
-        
-        <category>spectral lines</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
         
       </item>
     

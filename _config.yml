@@ -232,6 +232,15 @@ authors:
         twitter: https://www.rri.res.in/people/faculty/saurabh-singh
         description: "Saurabh Singh is an Assistant Professor at Raman Research Institute (RRI), Bangalore. Saurabh's research focuses on experimental cosmology. He designs experiments to understand crucial epochs of the Universe, such as cosmic dawn, the epoch of reionization, and the era of dark energy domination, via 21-cm intensity mapping."
 
+ Yash Bhargava:
+        name: Yash Bhargava
+        display_name: Yash Bhargava
+        avatar: 'assets/images/yash_bhargava.jfif'
+        email: yash@iucaa.in
+        web: https://www.linkedin.com/in/yashbhargava1992/
+        twitter: https://www.linkedin.com/in/yashbhargava1992/
+        description: "Yash works on the X-ray observations of Black hole binaries. His focus is on spectro-timing studies to unravel the physics around these enigmatic objects."        
+
 
 
 plugins:

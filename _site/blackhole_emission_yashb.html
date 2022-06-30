@@ -1,0 +1,862 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVRTXP9407"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-BVRTXP9407');
+	</script>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/thumb.png">
+
+<title>Understanding the emissions in Black hole binaries | CosmicVarta</title>
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Understanding the emissions in Black hole binaries | Welcome to CosmicVarta.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Understanding the emissions in Black hole binaries" />
+<meta name="author" content="Yash Bhargava" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Yash Bhargava from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, takes us through the journey of the death of a star in this wonderful article about his work." />
+<meta property="og:description" content="Yash Bhargava from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, takes us through the journey of the death of a star in this wonderful article about his work." />
+<meta property="og:site_name" content="Welcome to CosmicVarta." />
+<meta property="og:image" content="/assets/images/blackhole_emission_yashb/image_cover.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-06-30T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/assets/images/blackhole_emission_yashb/image_cover.jpg" />
+<meta property="twitter:title" content="Understanding the emissions in Black hole binaries" />
+<script type="application/ld+json">
+{"image":"/assets/images/blackhole_emission_yashb/image_cover.jpg","author":{"@type":"Person","name":"Yash Bhargava"},"headline":"Understanding the emissions in Black hole binaries","dateModified":"2022-06-30T00:00:00+05:30","@type":"BlogPosting","datePublished":"2022-06-30T00:00:00+05:30","description":"Yash Bhargava from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, takes us through the journey of the death of a star in this wonderful article about his work.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/cv.png"},"name":"Yash Bhargava"},"mainEntityOfPage":{"@type":"WebPage","@id":"/blackhole_emission_yashb"},"url":"/blackhole_emission_yashb","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/cv.png" alt="CosmicVarta">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/about">About us</a>
+								</li>
+
+								<li class="nav-item">
+                <a target="_blank" class="nav-link" href="/upcoming"> Upcoming articles</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/writers"> Join us</a>
+								</li>
+
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/career_help">  Career help</a>
+								</li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/links"> Useful Links</a>
+								</li>
+
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="/contact"> Contact Us</a>
+                </li>
+
+
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">CosmicVarta</h1>
+    <p class="lead">
+         Platform for promoting Indian astronomy research to the public.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/blackhole_emission_yashb" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/blackhole_emission_yashb" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Understanding the emissions in Black hole binaries&url=/blackhole_emission_yashb" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+
+        <li class="ml-1 mr-1">
+              <a href="https://api.whatsapp.com/send?text=/blackhole_emission_yashb" onClick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </li>
+
+
+
+
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/yash_bhargava.jfif" alt="Yash Bhargava">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://www.linkedin.com/in/yashbhargava1992/">Yash Bhargava</a><a target="_blank" href="https://www.linkedin.com/in/yashbhargava1992/" class="btn follow">Connect</a>
+                        <span class="author-description">Yash works on the X-ray observations of Black hole binaries. His focus is on spectro-timing studies to unravel the physics around these enigmatic objects. <br><br>
+                          
+
+<b>5 min read</b>
+
+
+                        </span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Understanding the emissions in Black hole binaries</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+
+            
+            <!-- <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/blackhole_emission_yashb/image_cover.jpg" alt="Understanding the emissions in Black hole binaries">
+            
+
+             -->
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+
+                <blockquote>
+
+  <p>Yash Bhargava from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, takes us through the journey of the death of a star in this wonderful article about his work.</p>
+
+  <hr />
+</blockquote>
+
+<p>To understand what I do, I will have to take you on a journey of what happens after a star dies. Yes. Stars also die. Depending on its mass and composition, a star can die either by blooming into a red giant and then dispersing its external shell to leave a bright core at the centre, known as a White Dwarf, or by a gigantic explosion which can typically outshine a Galaxy - leaving either an extremely dense ball made almost entirely of Neutrons (also known as Neutron Stars) or an enigmatic Black hole at the centre. It becomes more interesting if the original star was already revolving around another star also known as the companion star. If the companion is close and large enough, the compact star (either White dwarf, Neutron star, or Black hole) is in a position to capture material from the companion.
+When matter from the companion is captured in the gravitational well of the compact object, it doesn’t simply fall towards the compact object.  The matter would have an initial velocity which would force it to go into an orbit around the compact object. After a huge number of collisions, a fraction of matter would eventually form a disk around the compact object, something similar to the Rings of Saturn but with a tiny but very important twist. The matter in this disk is actually moving inwards while the particles in Saturn’s ring are orbiting the planet in a very stable manner. Hence these disks are called accretion disks. As the matter moves inwards closer to the compact object, it releases the gravitational potential energy. The closer the matter can get to the compact object, the more gravitational energy is available to be released. The conversion of the gravitational potential energy in the disk is a very efficient mechanism making these sources extremely bright. 
+ The amount of energy being expelled is quite large, which raises the temperature of the matter so much that it emits radiation peaking in X-rays. Observing X-rays from ground-based observatories is impossible as the incoming radiation is blocked by the atmosphere. Thus scientists have sent many observatories to space to observe and study these enigmatic sources. One such observatory is AstroSat, which is India’s first multi-wavelength mission. It has 5 co-pointed instruments onboard to probe different properties of the target.</p>
+
+<p align="center">
+  <img src="../assets/images/blackhole_emission_yashb/image1.jpg" />
+</p>
+
+<p align="center">
+Figure 1: An artist’s impression of accretion around the Black hole binary Cyg X-1. The typical emission from the accretion disk is in X-rays while the jet emits from Radio to X-ray wavelengths. (Credits: <a href="https://chandra.harvard.edu/photo/2011/cygx1/cygx1_ill.jpg">Chandra X-ray Observatory</a>
+)
+</p>
+
+<p>Black hole Binaries are systems of binary stars in which the compact object is a Black hole. As compared to Neutron Star and White Dwarf, Black holes are more dense and compact, thus presenting a deeper gravitational potential well. Close to the Black hole, the extreme gravity, and relativistic effects dominate. Thus these systems are excellent laboratories to probe extreme conditions that are impossible to recreate on Earth. They also show very unique features which have not been completely understood to date. One of these features is a Quasi-Periodic Oscillation (QPO), which is like an oscillation with many close-by frequencies occurring simultaneously. In contrast, many Neutron star binaries show pulsations that correspond to the rotation of the Neutron star and have only a single frequency, thus making them a great clock. The origin of QPO is quite uncertain as some observations indicate that it is a geometrical effect while others imply it is a resonance feature. Previous studies have indicated that the QPO might be related to precession in the accretion disk. But no single model can fully explain the properties of QPOs.</p>
+
+<p align="center">
+  <img src="../assets/images/blackhole_emission_yashb/image2.png" />
+</p>
+
+<p align="center">
+Figure 2: An example of a Quasi-periodic oscillation observed in MAXI J1535-571. The plot shows the power density spectrum, which is the square of the Fourier transform of the intensity variations with time (often called the light curve in the astronomical community). The QPO is highlighted as the grey shaded function. The features at harmonic frequencies (twice &amp; half the QPO frequency) can also be seen.
+)
+</p>
+
+<p>As part of my research, I have studied different Black hole binary systems which have provided valuable insight into the dynamics of accretion disks. One of these systems, MAXI J1535-571 is quite intriguing. It was discovered in September 2017 and was one of the brightest objects in the X-ray sky when it went into an outburst. AstroSat stared at the source for 5 consecutive days and using the instruments on board we have a unique insight into the source. We have modeled the energy spectrum (which is a count of how many photons of different energies are we seeing) of the source using the Soft X-ray Telescope (SXT) and the Large Area X-ray Proportional Counter (LAXPC), which tells us that this source has a high-temperature accretion disk and a cloud of electron which intercepts some of the energy from the disk and then scatters it to higher energies. The cloud of the electrons can be characterized by the slope of the high-energy spectrum seen by LAXPC. We find that during the observation, this slope is not constant and fluctuates about a mean value.</p>
+
+<p align="center">
+  <img src="../assets/images/blackhole_emission_yashb/image3.png" />
+</p>
+
+<p align="center">
+Figure 3: The X-ray spectrum of MAXI J1535-571. The emission from this source can be characterized by the multi-temperature accretion disk and Compton up-scattering of the accretion disk photons by a thermal cloud of electrons. The total emission was absorbed by neutral Hydrogen close to the source before reaching us. The emission from the Compton up-scattering of the photons depends on the electron temperature and the optical depth and manifests itself as the slope of the spectrum.
+)
+</p>
+
+<p>LAXPC is a high time resolution instrument and allows us to measure when a photon strikes the detector with an accuracy of 10 microseconds. Thus we can determine if there are any fast oscillations occurring in the source. In this particular case, we see a very prominent QPO which also changes its frequency about a mean value as the observation progresses. We also measure the total output of the source which is dependent on the total accretion rate of the system and we find that it is increasing as time progresses. Models of QPO predict that, typically, the peak frequency of a QPO is linked with the accretion rate; as the accretion rate increases, the QPO frequency also increases. We find that for this source this is not the case for at least the duration of our observation. We see a very strong correlation between the variation in the QPO frequency and the spectral slope indicating that the origin of the QPO is tightly linked with the component responsible for shaping the spectrum. Whenever the QPO frequency increases the slope increases and when one decreases the other is also seen to decrease. These results led us to conclude that the QPO is closely tied to the cloud of electrons instead of the accretion disk where the previous theories expect it to arise from. This work questions the existing models of QPOs and accretion and demands the revision of long-held ideas.
+This work and observations like this provide us with a window into a tiny region, extremely close to a Black hole that cannot be yet imaged with the current technologies. Only recently, scientists were able to combine the observations from radio telescopes across the world to create the first picture of a much larger black hole at the centre of the galaxy. But to understand the environment around a black hole in a binary system, indirect measurements (like the work described here) using the spectral and timing properties of the source will remain the primary method of investigation.</p>
+
+<p><i>Note: This article is submitted for <a href="https://www.awsar-dst.in/">DST-AWSAR award</a>.</i></p>
+
+<p><strong>Original paper:</strong>
+<a href="https://academic.oup.com/mnras/article/488/1/720/5525097" target="_blank">Spectro-timing analysis of MAXI J1535–571 using AstroSat</a></p>
+
+<p><strong>First Author:</strong> Yash Bhargava</p>
+
+<p><strong>Co-authors:</strong> Tomaso Belloni, Dipankar Bhattacharya, Ranjeev Misra</p>
+
+<p><strong>First author’s Institution:</strong> Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune</p>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2022-06-30">30 Jun 2022</time></span>
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#High-Energy-Astrophysical-Phenomena">High Energy Astrophysical Phenomena</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Accretion">#Accretion</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Accretion-discs">#Accretion discs</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Black-hole-physics">#Black hole physics</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#X-ray-binaries">#X-ray binaries</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#X-rays">#X-rays</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+<h2>Related articles</h2>
+
+
+
+
+
+<ul>
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+</ul>
+
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = ''; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+
+<hr><hr>
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span> &nbsp; Never miss an <b>article</b> from us. Subscribe to our website <a href='https://forms.gle/a7iLs1Tc7DCPVhtW7'target=None>here.</a>
+        </form>
+	</div>
+</div>
+
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+
+
+<!-- Begin Footer
+================================================== -->
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+
+
+
+        <footer class="ftco-footer ftco-section" id="contact-section">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+
+
+                  <p>Beauty is that to what the human mind responds at its deepest and most profound.</p> <b><a href="https://quotefancy.com/quote/1645323/Subrahmanyan-Chandrasekhar-Beauty-is-that-to-what-the-human-mind-responds-at-its-deepest#:~:text=Subrahmanyan%20Chandrasekhar%20Quote%3A%20%E2%80%9CBeauty%20is,its%20deepest%20and%20most%20profound.%E2%80%9D"target=None>-Subrahmanyan Chandrasekhar</a></b></p>
+
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                  <h2 class="ftco-heading-2">Links</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="/index.html"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                    <li><a href="/about"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                    <li><a href="/writers"><span class="icon-long-arrow-right mr-2"></span>Join Us</a></li>
+                    <li><a href="/upcoming"><span class="icon-long-arrow-right mr-2"></span>Upcoming articles</a></li>
+                    <li><a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                 <div class="ftco-footer-widget mb-4">
+                  <h2 class="ftco-heading-2">Social media</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="https://facebook.com/cosmicvarta"><span class="icon-long-arrow-right mr-2"></span>Facebook</a></li>
+                    <li><a href="https://twitter.com/cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Twitter</a></li>
+                    <li><a href="https://www.medium.com/@cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Medium</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+                	<h2 class="ftco-heading-2">Enquiry </h2>
+                	<div class="block-23 mb-3">
+    	              <ul  class="list-unstyled">
+    	             <span class="icon icon-map-marker"></span><span class="text">   For any enquiry, you may drop in an email to us at:</span></li>
+
+    	               <a href="mailto:cosmicvarta@gmail.com"><span class="icon icon-envelope"></span><span class="text">cosmicvarta@gmail.com</span></a></li>
+    	              </ul>
+    	            </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 text-center">
+
+                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  <b>  Copyright © 2022 CosmicVarta.  All rights reserved </b> </p>
+
+
+
+              </div>
+            </div>
+          </div>
+        </footer>
+
+
+
+
+</body>
+</html>
