@@ -5,9 +5,95 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 05 Jul 2022 18:54:55 +0530</pubDate>
-    <lastBuildDate>Tue, 05 Jul 2022 18:54:55 +0530</lastBuildDate>
+    <pubDate>Tue, 19 Jul 2022 22:17:20 +0530</pubDate>
+    <lastBuildDate>Tue, 19 Jul 2022 22:17:20 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Clouds’ Motion entangled by Magnetic Fields in Cepheus Flare</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Stars take birth in molecular clouds. The presence of magnetic fields everywhere in the universe naturally creates a curiosity to investigate their role at all the stages of star fomation. The motion of clouds through the interstellar medium in the presence of magnetic fields may get effected and can shed light on the structure/orientation of stellar nurseries.  This short article will explain these possible effects in an interesting region of our Universe, Cepheus Flare.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Understanding how stars are formed is one of the crucial questions in astronomy. Molecular clouds are the blank spaces or voids in between stars in our galaxy, the Milky Way and they consist of predominantly hydrogen or helium molecules. They are stellar nurseries in our local galaxy and the universe. The prestellar/protostellar cores are the high density nested quantities in large molecular clouds with a typical temperatures of 10 K and density of ~ 103 cm&lt;sup&gt;-3&lt;/sup&gt;. They are considered as the fundamental units for the formation of stars.&lt;/p&gt;
+
+&lt;p&gt;Magnetic fields, which are ubiquitous to the universe, is a very interesting property. Due to their interaction with the ionized material, they can play an important role in the dynamics of the clouds. The angular offsets between the direction of the cloud motion and the magnetic fields, θ is shown in Fig. 1. These offsets can help in preventing the disruption of the cloud (radius Rc moving with velocity Vc) against the Kelvin-Helmholtz instability in the interstellar medium as suggested by simulations.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig1.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Schematic of cloud of radius Rc moving in a uniformly magnetized background medium with a velocity, Vc making an angle θ with the field lines
+Credit: &lt;a href=&quot;https://iopscience.iop.org/article/10.1086/307162/pdf&quot;&gt;Miniati et al. 1999&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Stars which are young are still associated/embedded in the high-density clouds because the surrounding molecular material has not completely collapsed towards the centre. Their motion in the projected plane of the galaxy is defined as proper motion. Stars move in the interstellar medium (ISM) and their proper motion is a critical factor in determining their overall motion in the galaxy.  Proper motion can serve as a proxy of the motion of the clouds in the ISM. A team of researchers led by Dr. Ekta Sharma and Dr. Maheswar Gopinathan from the Indian Institute of Astrophysics, an autonomous institute of the Department of Science &amp;amp; Technology, Govt. of India and Dr. Sami Dib from Niels Bohr Institute, University of Copenhagen, Denmark carried out an observational test on a sample of clouds (L1228, L1251, L1172/1174 and L1147/1158) located at a nearby distance of ~330 pc in Cepheus Flare region identified in Fig. 2. The Gaia (Global Astrometric Interferometer for Astrophysics) and Planck, both are space based observatories to study the motion of stars and the emission in far-infrared wavelengths, respectively. The authors used proper motion data from Gaia Data Release 3 to study the motion of the clouds in sky plane (shown by arrows in Fig. 2) and Planck polarization data to construct magnetic field maps.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Background image in color scale is cloud emission in far-infrared wavelengths obtained by Planck satellite. Blue arrows show the direction of proper motion.
+Credit: &lt;a href=&quot;https://arxiv.org/pdf/2109.07510.pdf&quot;&gt;Sharma et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;They estimated various offsets between the direction of magnetic field and the motion of the clouds in the sky. The results show that the magnetic fields are ordered in all the clouds except one cloud, L1172/1174 which shows an offset (angle, θ in Fig. 1) higher than 30°. The authors suggest that the higher offset could be responsible for converting the cloud material in the form of hub-filament structure (see Fig. 3). These structures consist of a hub having less aspect ratio with high column density and a number of filaments with high aspect ratio with less column density.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig3.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Schematics of Hub-filament systems.
+Credit: &lt;a href=&quot;https://arxiv.org/pdf/2008.00295.pdf&quot;&gt;Kumar et al., 2020&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Starless cores are the earlier stages in the process of star formation which have not formed stars and the pretsellar cores are the ones which are on the verge of making stars. We made a quantitative analysis of the core orientations (direction of major axes) (in Fig. 4) with respect to the magnetic field in case of starless as well as the prestellar cores. The distribution for all the clouds is found to be random. The study concluded that the core dynamics could be affected more by the local variations in the magnetic field in the cloud’s environment. The results of this study have been published in the journal “Astronomy &amp;amp; Astrophysics”.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig4.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 4: Distribution of offset between magnetic field direction and clump orientation. 
+Credit: &lt;a href=&quot;https://arxiv.org/pdf/2109.07510.pdf&quot;&gt;Sharma et al., 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://www.aanda.org/articles/aa/abs/2022/02/aa40495-21/aa40495-21.html&quot; target=&quot;_blank&quot;&gt; Cloud motion and magnetic fields: Four clouds in the Cepheus Flare region&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Ekta Sharma&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; G. Maheswar and S. Dib&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Astrophysics (IIA), Sarjapur Road, Koramangala, Bangalore 560034, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+</description>
+        <pubDate>Sun, 17 Jul 2022 00:00:00 +0530</pubDate>
+        <link>/cloud_motion_cepheus_flare_ekta</link>
+        <guid isPermaLink="true">/cloud_motion_cepheus_flare_ekta</guid>
+        
+        <category>polarization; clouds; ISM; proper motion; GAIA</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>Understanding the emissions in Black hole binaries</title>
@@ -1103,194 +1189,6 @@ This results in a periodic variation with time in the observed pulse frequency. 
         
         
         <category>High Energy Astrophysical Phenomena</category>
-        
-      </item>
-    
-      <item>
-        <title>Sir C. V. Raman: Raman effect and beyond</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;We Indians celebrate &lt;strong&gt;National Science Day&lt;/strong&gt; on &lt;strong&gt;28th February&lt;/strong&gt; each year to mark the &lt;strong&gt;discovery of the Raman effect&lt;/strong&gt; by &lt;strong&gt;Sir C. V. Raman&lt;/strong&gt;. Some of Raman’s discoveries like the &lt;strong&gt;Raman effect (for which he was awarded the Nobel prize), Raman-Nath theory, his studies on Brillouin scattering, the soft mode process&lt;/strong&gt;, etc. are so well known and outstanding, that they tend to overshadow many of his other elegant and significant contributions to the science. We attempt to highlight a few of Raman’s discoveries such that they &lt;strong&gt;portray a more complete picture of Sir C. V. Raman and his contributions&lt;/strong&gt;.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/cvraman.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;Sir Chandrasekhara Venkata Raman&lt;br /&gt;(7 November 1888 - 21 November 1970)
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Sir C. V. Raman&lt;/strong&gt; occupies a very special place in the &lt;strong&gt;scientific landscape of India&lt;/strong&gt;. His contributions to science were monumental both in &lt;strong&gt;scale and scope&lt;/strong&gt;. He also played a pivotal role in &lt;strong&gt;shaping Indian science institutions and redefined the way in which science was done in India&lt;/strong&gt;. &lt;strong&gt;Max Born&lt;/strong&gt;, a nobel prize winning german scientist who was instrumental in the development of the quantum mechanics, had this to say about Raman,&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
-“There is no Indian physicist of the rank of Raman. No man can compare with him in vigor or intensity.”
-&lt;/i&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-curious-case-of-a-relentless-experimentalist&quot;&gt;The curious case of a relentless experimentalist&lt;/h2&gt;
-
-&lt;p&gt;It was the year 1921. You could find a turbaned Indian man on a ship returning from Europe to India, running all around, with his nicol prisms and cardboard tubes, collecting sea water from the depths of the ocean. The visual beauty of the Mediterranean ocean had bewitched him.
-Not so long ago, Lord Rayleigh had shown that the blue color of the sky is due to scattering of light by air molecules. However, according to Lord Rayleigh, the blue color of the deep ocean was due to reflection of the sky in the water.
-Raman showed, by a simple experiment he performed on board the ship, that the blue color of the ocean is due to molecular scattering and not just due to the reflection of the sky. He quenched the sky’s reflection with a nicol prism at the Brewster angle and found that the blue color &lt;i&gt;“far from being impoverished by suppression of the sky reflection was wonderfully improved thereby”&lt;/i&gt;.
-In 1922, he wrote the celebrated monograph &lt;a href=&quot;https://www.nature.com/articles/110505a0&quot;&gt;“Molecular Diffraction of Light”&lt;/a&gt; and so began the saga of a single-minded man pursuing his vision with a stamina and persistence never seen before, which eventually lead to the discovery of the Raman effect and many other outstanding contributions.&lt;/p&gt;
-
-&lt;h2 id=&quot;weak-fluorescence&quot;&gt;Weak Fluorescence&lt;/h2&gt;
-
-&lt;p&gt;In April 1923, KR Ramanathan, one of Raman’s students, studied the scattering of light in water. Sunlight was focussed on the liquid and the scattered light was observed through a system of complementary filters, each filter completely cutting off the light transmitted by the other. Nothing should have been observed if there had been no change of color during the scattering process. However, a track of scattered light could be observed showing there was indeed a change in the color of light during scattering. This was attributed to a “weak fluorescence” due to impurities which were believed to be present. Raman was not convinced with this explanation though.
-This “weak fluorescence” was not completely depolarised (as true fluorescence should have been) and the amount of depolarisation changed with wavelength.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-raman-effect&quot;&gt;THE RAMAN EFFECT&lt;/h2&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/raman_spectra.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;Sir C. V. Raman with the spectrograph (Top) and the first Raman spectra photographed (Bottom)
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/raman_spectra_news.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;Newspaper announcements of the discovery of the Raman effect
-&lt;/p&gt;
-
-&lt;p&gt;In December 1927, the so-called polarised “weak fluorescence” was observed again by S Venkateswaran in pure glycerine with greater intensity. Due to limited availability of S Venkateswaran, Raman persuaded KS Krishnan, one of his brightest students, to set up experiments to find “weak fluorescence” in various materials. Raman and Krishnan worked together continuously and detected the polarized “weak fluorescence” in all the liquids, gasses and solids they examined.
-According to Krishan, Raman personally verified all the liquids exhibited this phenomenon. Raman was so excited about the discovery that he rushed to Krishan’s home at night to inform him that their observations were related to the Kramers-Heisenberg process they were looking for all these years.
-A note was sent to &lt;strong&gt;the Nature journal&lt;/strong&gt; about the discovery. However, Raman continued his experiments, mostly by himself since the observed phenomenon was not yet fully understood.
-On &lt;strong&gt;February 28th 1928&lt;/strong&gt;, Raman examined the scattered light with a direct vision spectroscope and found that the classical and modified scattering appear in the spectrum as separate regions with a distinct dark region between them, a clear demonstration of a change of wavelength in scattering.
-The &lt;strong&gt;Nobel Prize in Physics 1930&lt;/strong&gt; was awarded to Raman &lt;strong&gt;“for his work on the scattering of light and for the discovery of the effect named after him.”&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/nobel_prize.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;Raman’s Nobel medal and citation
-&lt;/p&gt;
-
-&lt;h2 id=&quot;indian-musical-instruments-and-acoustics&quot;&gt;Indian musical instruments and acoustics&lt;/h2&gt;
-
-&lt;p&gt;Even before Raman started working on the scattering of Light, he was fascinated by waves… sound waves! Raman’s father, R Chandrasekhara Iyer was a teacher of Physics and Mathematics and a proficient violinist. That must have influenced him to take interest in the physics of sound waves. Raman himself played violin. At the age of 16, when he was a student of the Presidency college, Madras, Raman commenced his acoustic research.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/veena.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;Illustration of a Veena
-&lt;/p&gt;
-
-&lt;p&gt;He investigated whether his intuition that the veena produces the most exquisite musical sound is due to sentiment or has a sound physical basis. The bridge of the veena is so cunningly constructed that the Helmholtz law, which states that the position at which the string is plucked cannot be a node, is violated. Thus this instrument produces innumerable harmonics making its sound closest in harmonic content to the human voice.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/tabla.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;The mridangam and tabla produce a succession of musically harmonic overtones in the same way as any stringed instrument
-&lt;/p&gt;
-
-&lt;p&gt;A sharp ear with a keen interest in music can detect musical overtones in the sound of the mridangam and the tabla. Raman discovered that the heterogeneous loading of their membranes can produce harmonics - so that in the hands of the masters, the Indian drum is similar to a stringed instrument.&lt;/p&gt;
-
-&lt;h2 id=&quot;diffraction-of-light-by-ultrasonic-waves---raman-nath-theory&quot;&gt;Diffraction of light by ultrasonic waves - Raman-Nath Theory&lt;/h2&gt;
-
-&lt;p&gt;Light is a form of electromagnetic radiation. Young’s double slit experiment conclusively showed that the interference pattern can be obtained from interaction of light with matter. How about the interaction of light with matter waves!
-Raman-Nath theory explained a remarkable optical phenomenon that occurs when a parallel beam of light is diffracted by ultrasonic waves. In modern electro-optic instrumentation, the phenomenon of diffraction of light by ultrasonic waves is utilized in acousto-optic spectrometers, which analyze the electrical signal to obtain its power spectrum.&lt;/p&gt;
-
-&lt;h2 id=&quot;colors-in-nature&quot;&gt;Colors in Nature&lt;/h2&gt;
-
-&lt;p&gt;Raman always had a huge fascination for colors. In the institute that he had built for himself after retirement (now Raman Research Institute), he started building his collection of colorful minerals gathered from all across the world. The collection includes limestones, marbles, alabaster, gypsums, tourmalines, agates, quartzites, jades, amethysts, fluorites, micas, serpentines, iolites, malachites, lapis lazuli and feldspars. Raman studied several of the exquisite optical phenomena displayed by these minerals. Due to lack of basic facilities during the initial days of his new institute, he had to mostly rely on the beam of sunlight to explore the optics of these substances. Even with such simple setups, it is remarkable that he could extract a substantial amount of information about these minerals.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/mineral_01.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/mineral_02.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;Raman’s collection of minerals
-&lt;/p&gt;
-
-&lt;p&gt;Birds are a delight to watch! Raman was very curious about the optical characteristic and the color distribution in birds, since it was so different in different parts of the same bird, in different specimens and in different species that no single explanation would suffice. He would invoke every known optics concept to try to explain these phenomena. He published only one paper on this topic; however talked about it a lot. The interest was not just limited to birds though. “Birds, Beetles and Butterflies” was his favorite title for the talk. He gave dozens of lectures on this subject, each one unique!&lt;/p&gt;
-
-&lt;h2 id=&quot;diamond&quot;&gt;Diamond&lt;/h2&gt;
-
-&lt;p&gt;Soon after the discovery of the Raman effect, C Ramaswamy, Raman’s younger brother, asked him to suggest a research problem which he could pursue. Seeing the diamond ring of the newly wed Ramaswamy sported on his finger, Raman suggested the study of scattering in diamond. The famous 1332 cm&lt;sup&gt;-1&lt;/sup&gt; Raman line of diamond was discovered in the spectrum. Using a 140-carat diamond that was borrowed from the Maharaja of Darbhanga, Bhagavantam, one of Raman’s pupils confirmed this result and also recorded the complex luminescence spectrum around 4152 &lt;span&gt;Å&lt;/span&gt;.&lt;/p&gt;
-
-&lt;p&gt;Raman says this about diamonds,&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;&lt;i&gt;
-“With their perfect geometric forms and their smooth lustrous beauty they look absolutely fresh from nature’s crucible, although actually taken from sedimentary formations a thousand million years old. The strongly marked curvature of the crystal faces and the smoothly rounded edges are a surprising feature of these crystals”
-&lt;/i&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/science_day_raman_ketan_images/raman_diamond.PNG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;Sir C. V. Raman with beloved diamond
-&lt;/p&gt;
-
-&lt;p&gt;In continuation with his work on diamonds, he also carried out pioneering studies of the thermo-optic behavior of other solids, their photo-elastic and magneto-optic properties, fluorescence, second order Raman effect, infrared spectroscopy, etc.
-&lt;strong&gt;It is perhaps not well known that X-ray topography was discovered in this laboratory while studying the imperfections in diamond.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;He also worked on lattice dynamics, visual perception and many more topics and made contributions in those areas. It is almost impossible to give a complete description of his diverse research interests and achievements in a single article. More elaborate descriptions about the scientific works of Raman can be found in &lt;a href=&quot;https://ia803102.us.archive.org/6/items/cvramanpictorial00bang/cvramanpictorial00bang.pdf&quot;&gt;“C.V. Raman : A pictorial biography”&lt;/a&gt; a compilation by S Ramaseshan and C Ramachandra Rao.&lt;/p&gt;
-
-&lt;h2 id=&quot;pioneer-of-scientific-research-in-india&quot;&gt;Pioneer of scientific research in India&lt;/h2&gt;
-
-&lt;p&gt;Throughout his career, Raman played an integral role in the development of the Institutes that he was part of. During the early 1900s, most of the Indian universities were teaching universities. There was a general belief that new science can not grow in the country and all the young bright minds were sent abroad for ‘training’. Raman, setting his own example, &lt;strong&gt;cultivated the culture of scientific research in India.&lt;/strong&gt;
-He made an active effort to bring the best minds in the world, like Max Born, Schrodinger, Ewald, Peierls, Kuhn and many more to India. He thought, bringing such great minds could start a scientific movement in the country. Unfortunately, only Max Born could accept his invitation.
-Raman founded &lt;strong&gt;the Indian Academy of sciences&lt;/strong&gt; in &lt;strong&gt;1934&lt;/strong&gt; with the main objective of &lt;strong&gt;promoting progress and upholding the cause of science&lt;/strong&gt;. Central to this mission was to publish scientific monographs and journals through which research discoveries could be disseminated worldwide. The proceedings of the Indian Academy of sciences was considered as one of the top journals up until the 1950s. The annual meetings of the academy, so called &lt;strong&gt;‘traveling circus’&lt;/strong&gt;, were the main source of science encouragement in the country, with Raman usually being the &lt;strong&gt;star performer&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Today, the academy publishes &lt;strong&gt;twelve journals&lt;/strong&gt; in different areas of science and science education, in addition to &lt;strong&gt;more than fifty books&lt;/strong&gt; that have been published over the years.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Note: All the images in the article are taken from &lt;a href=&quot;https://ia803102.us.archive.org/6/items/cvramanpictorial00bang/cvramanpictorial00bang.pdf&quot;&gt;“C.V. Raman : A pictorial biography”&lt;/a&gt; a compilation by S Ramaseshan and C Ramachandra Rao.&lt;/em&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;acknowledgments&quot;&gt;Acknowledgments:&lt;/h2&gt;
-
-&lt;p&gt;We thank Saurabh Singh (Scientist, RRI Bangalore) for his timely inputs, K. Manjunath (Library, RRI Bangalore) and V. S. Naresh (Administration, RRI Bangalore) for allowing access to the RRI archives, without which this article would not have been possible. We also thank the RRI trust for their support.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;&quot;&gt;&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;References:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://ia803102.us.archive.org/6/items/cvramanpictorial00bang/cvramanpictorial00bang.pdf&quot;&gt;“C.V. Raman : A pictorial biography”&lt;/a&gt; - A compilation by S Ramaseshan and C Ramachandra Rao, published by Indian Academy of Sciences.&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.nature.com/articles/110505a0&quot;&gt;“Molecular Diffraction of Light”&lt;/a&gt; - Published in the Nature journal in 1922&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://dspace.rri.res.in/bitstream/2289/2193/1/1922%20Asutosh%20Mookerjee%20Silver%20Jubilee%20V2%20p179-185.pdf&quot;&gt;“The acoustical knowledge of the ancient Hindus”&lt;/a&gt; - Published in Asutosh Mookerjee Silver Jubilee Volume in 1922&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Mon, 28 Feb 2022 00:00:00 +0530</pubDate>
-        <link>/science-day-raman-ketan</link>
-        <guid isPermaLink="true">/science-day-raman-ketan</guid>
-        
-        <category>Featured</category>
-        
-        <category>General</category>
-        
-        <category>Indian National Science Day</category>
-        
-        
-        <category>Featured</category>
         
       </item>
     

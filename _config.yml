@@ -243,6 +243,17 @@ authors:
 
 
 
+ Ekta Sharma:
+        name: Ekta Sharma
+        display_name: Ekta Sharma
+        avatar: 'assets/images/ekta_sharma.jpg'
+        email: ektasharma.astro@gmail.com
+        web: 
+        twitter: 
+        description: "I am a postdoctoral fellow at National Astronomical Observatories of China (NAOC), China in the ISM group. Currently, I am involved in studying observational aspects of ealy stages of star formation using single-dish radio facility FAST. "
+
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
