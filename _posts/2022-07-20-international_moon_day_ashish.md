@@ -5,7 +5,7 @@ author: Ashish Devraj
 permalink: /ashish_international_moon_day
 categories: [Earth and Planetary Astrophysics]
 tags: [Moon, International Moon Day, Chandrayaan]
-class: [General article]
+class: [Featured]
 image: assets/images/ashish_international_moon_day/ashish_fig1.jpg
 featured: True
 hidden: True
