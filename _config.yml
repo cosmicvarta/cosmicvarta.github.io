@@ -252,6 +252,16 @@ authors:
         twitter: 
         description: "I am a postdoctoral fellow at National Astronomical Observatories of China (NAOC), China in the ISM group. Currently, I am involved in studying observational aspects of ealy stages of star formation using single-dish radio facility FAST. "
 
+ Ashish Devraj:
+        name: Ashish Devraj
+        display_name: Ashish Devraj
+        avatar: 'assets/images/ashish_devraj.jpg'
+        email: 
+        web: https://www.researchgate.net/profile/Ashish-Devaraj
+        twitter: https://www.researchgate.net/profile/Ashish-Devaraj
+        description: "Ashish Devraj is a PhD student at CHRIST (Deemed to be University), who works on lunar physics. "
+
+
 
 
 plugins:

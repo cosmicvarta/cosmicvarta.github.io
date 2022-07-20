@@ -10,10 +10,9 @@ image: assets/images/lakshitha_quiet_corona_metal/cover_lakshitha2.png
 featured: False
 hidden: False
 review: true
-
 ---
-
-> XSM onboard Chandrayaan-2 observed the Sun during the deepest solar minimum of the past century from in 2019-2020. By studying the XSM spectra for the days when the Sun was very quiet, researchers have found that the abundances of all Mg, Al, Si is around two times higher than its abundances in the photosphere! They also calculated the temperature of the quiet Sun corona to be around 2 MK. This article explains how these measurements were made.
+> 
+XSM onboard Chandrayaan-2 observed the Sun during the deepest solar minimum of the past century from in 2019-2020. By studying the XSM spectra for the days when the Sun was very quiet, researchers have found that the abundances of all Mg, Al, Si is around two times higher than its abundances in the photosphere! They also calculated the temperature of the quiet Sun corona to be around 2 MK. This article explains how these measurements were made.
 >
 ---
 

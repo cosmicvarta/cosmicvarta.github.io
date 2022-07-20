@@ -7,7 +7,7 @@ categories: [Featured]
 tags: [Featured, General, Indian National Science Day]
 class: [Featured]
 image: assets/images/science_day_raman_ketan_images/cvraman.PNG
-featured: True
+featured: False
 hidden: True
 review: False
 
