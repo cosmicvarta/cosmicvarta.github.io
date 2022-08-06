@@ -5,9 +5,130 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 20 Jul 2022 16:09:27 +0530</pubDate>
-    <lastBuildDate>Wed, 20 Jul 2022 16:09:27 +0530</lastBuildDate>
+    <pubDate>Sat, 06 Aug 2022 10:47:44 +0530</pubDate>
+    <lastBuildDate>Sat, 06 Aug 2022 10:47:44 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Evolution of plasma parameters during B class flares</title>
+        <description>&lt;blockquote&gt;
+  &lt;p&gt;In this article, we presented the temporal evolution of elemental abundances during solar flares of GOES B1−B4 class, the weakest events for which such studies have been possible so far, using observations with XSM on board Chandrayaan-2. This study was possible due to the extremely quiet solar conditions currently prevailing along with the availability of appropriate instrumentation. By modeling the soft X-ray spectra obtained with the XSM during different phases of these flares, measurements of temperature, emission measure, and abundances of Mg, Al, Si, and S were obtained. We have shown that the abundances of these elements are nearly photospheric during the peak phase, compared to their 3–4 times higher preflare values. Beyond the flare peak, the abundances are seen to get enriched again and they recover back to the coronal values at the end of the flare. This suggests that during the flares, the coronal loops are quickly filled with plasma originating from the lower parts of the solar atmosphere without having sufficient time for the usually observed fractionation in nonflaring loops to take place. Our observation of the quick recovery to the coronal values shows that any process giving rise to such fraction must be occurring on a timescale of a few tens of minutes.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The Sun’s atmosphere is made up of several layers, primarily the photosphere, the chromosphere, and the corona. The lowest layer is the Photosphere. The temperature of the photosphere is around 5500 degrees, whereas the temperature increases towards the outer layer of the atmosphere and exceed a million degrees at the outermost layer, the corona. The physical mechanism of heating the solar corona to such a high temperature has been a mystery for the last several decades. The current understanding suggests that the magnetic field associated with the Sun is responsible for such high temperatures at corona. The Sun’s magnetic fields are highly dynamic in space and time. Many regions on the Sun are found to have enhanced and concentrated magnetic fields, which are generally known as Active Regions (AR) at the corona. Occasionally sudden bursts of energy are found to release from the AR, known as solar flares. Though solar flares are very commonly seen within the AR, they are also found to occur outside the AR with a small amount of energy release. The modern &lt;a href=&quot;https://www.spaceweather.com/glossary/flareclasses.html&quot;&gt;classification&lt;/a&gt; system for solar flares uses the letters A, B, C, M, or X, according to the peak flux in watts per square meter (W/m2) of soft X-rays with wavelengths 1 to 8 Angstrom, as measured at the Earth. The figure below shows the different types of solar flares observed by the geosynchronous equatorial satellites (&lt;a href=&quot;https://www.swpc.noaa.gov/products/goes-x-ray-flux&quot;&gt;GOES&lt;/a&gt;). X-class flares are the biggest flares seen in the solar atmosphere with a peak flux of &amp;gt; 10-4 W/m2, whereas the M, C, B, and, A-class flares are smaller and smaller flares having peak fluxes 10-5-10-4  W/m2, 10-6-10-5  W/m2, 10-7-10-6  W/m2, and &amp;lt; 10-7 W/m2 respectively (Figure 1).&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/biswajit_bclass_flares_images/biswajit_image1.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Soft X-ray flux from GOES satellites.
+Credit: &lt;a href=&quot;https://www.swpc.noaa.gov/products/goes-x-ray-flux&quot;&gt;NOAA GOES X-ray flux&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Due to the high temperature, the elements (H, He, Fe, O, Ni, Mg, Si, etc) present in the solar atmosphere are found to be ionized to their different ionization levels at different atmospheric layers depending on the temperature. As the origin of the plasma remains the same throughout the solar atmosphere, it is expected that the relative composition or so-called abundances of these elements remains the same throughout the solar atmosphere. However, the observational studies showed that the abundances of certain elements whose ‘First Ionization Potential’ (FIP; which is the minimum energy required to remove the most loosely bound electron from a neutral atom) is lower than 10eV are 2-4 times more abundant in the AR than their photospheric values. This phenomenon is known as the FIP effect. Figure 2 represents a pictorial view of the FIP effect. The x-axis represents the first ionization potential of the elements, whereas the y-axis represents the elements’ abundance ratio (called FIP bias) at the corona and photosphere. All the elements (e.g., Na, Fe, Ni, etc.) with a first ionization potential less than 10 eV have FIP-bias of 2-4, representing they are 2-4 times more in the amount present in the corona than in the photosphere. The FIP bias for the elements having first-ionization-potential more than 10 eV (e.g., Ar, Ne, etc.)  are close to one representing their composition in both photosphere and corona remain the same.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/biswajit_bclass_flares_images/biswajit_image2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Plot of FIP bias versus FIP 
+Credit: &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1992PhyS...46..202F/abstract&quot;&gt;U. Feldman et al. 1992&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Though the true origin of the FIP effect is not well known, the present understanding of the FIP effect is based on the upward reflection of the magnetic waves, known as the &lt;a href=&quot;https://en.wikipedia.org/wiki/Alfvén_wave&quot;&gt;Alfvén wave&lt;/a&gt;, at the top of the chromospheric layer.
+The cartoon below (Figure 3) represents the process briefly. Here we considered a magnetic-field loop rooted in the lower atmosphere and expanded to the corona. The red arrow represents the increase of temperature with a height from the lower atmosphere. Due to the perturbation of the magnetic fields, Alfvén waves will be present inside the loop and can travel throughout it (as shown by the black arrows inside the loop). As the waves travel from upward to downward, they can reflect from the top of the chromosphere (as shown by the black arrows).  Due to the reflection of the waves, an upward force known as “Ponderomotive force” is experienced by the ions (as indicated by the magenta arrow) present in that layer (see Laming (2015)  for details). The ions influenced by the Ponderomotive force travel to the corona and increase their concentration to the corona. The temperature and pressure at the top of the chromosphere are such that only the elements having FIP less than 10 eV can ionize, whereas the high FIP elements remain neutrals, resulting in only the ions of low FIP elements present at the top of the chromosphere to be influenced by the Ponderomotive force, thereby increasing their concentration in the corona.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/biswajit_bclass_flares_images/biswajit_image3.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Schematical diagram of the Ponderomotive force model.
+Credit: &lt;a href=&quot;https://arxiv.org/pdf/1110.4357.pdf&quot;&gt;Laming et al. 2012&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Thus the present understanding of the FIP effect is based on the reflection of the  Alfven waves generated due to the perturbation of the magnetic field lines. These Alfven waves are related to the mechanism that heats the solar corona. Recently, it has been believed that the FIP effect is the bi-product of the coronal heating mechanism. Thus measuring the abundances and hence the FIP bias can be a tracer to understanding the origin of the FIP effect as well as the coronal heating mechanism.&lt;/p&gt;
+
+&lt;p&gt;The FIP effect has been studied extensively in quiescent AR closed-loops and during the peak of big solar flares. During the peak of the big flares, a low FIP bias has been found compared with the closed-loop ARs.  However, the detailed picture of the FIP effect during the flare is not clear as the time evolution study of elemental abundances during the solar flare was limited due to technical limitations of the present generation instrument (e.g., sensitivity: lowest flux that an instrument can detect, instrument’s energy resolution: the capability of an instrument to distinguish the emission lines present at nearby energies, cadence: time gap between two successive observations, etc.).&lt;/p&gt;
+
+&lt;p&gt;Generally, the elements’ absolute (i.e.,  relative to the H) abundances are measured using the spectroscopic technique. A recent instrument, Solar X-ray Monitor (XSM) onboard the Chandrayaan-2 spacecraft, provides the spectrum of the Sun every second in the broad energy range of 1-15 keV. Its good spectral resolution and sensitivity have been useful for time-resolved spectroscopy. In time-resolved spectroscopy, the instrument provides the spectrum of the detected photons at each time step, and then analyzing each spectrum corresponding to a time step, we extract the characteristics of the incident photons on the detector. One can study the abundance evolution during solar flares using such a technique.&lt;/p&gt;
+
+&lt;p&gt;During the period from 2019 September to 2020 May, covering the minimum of &lt;a href=&quot;https://en.wikipedia.org/wiki/Solar_cycle&quot;&gt;Solar Cycle&lt;/a&gt; 24, XSM observed nine B-class flares ranging from B1.3 to B4.5. The observed XSM light curve (blue color) for one of the flares is shown in Figure 4a. Light curves of the same flare as observed by the other instruments (non-spectroscopic) are also shown by gray and brown colors. For the time-resolved spectroscopy, we used the XSM observed spectra at different time intervals throughout the flares, as shown by the green and orange shaded background colors. Representative XSM spectra for three different durations as marked by the “1”, “2”, and “3” are shown in Figure 4b. All the line complexes observed in the XSM spectra are annotated in the plot.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/biswajit_bclass_flares_images/biswajit_image4.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 4: Spectroscopic analysis from Chandrayaan-2 XSM.
+Credit: &lt;a href=&quot;https://arxiv.org/abs/2107.07825&quot;&gt;B.Mondal et al. 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;Analyzing the spectrum of each of the shaded duration as marked by green and orange color in Figure 4a, we estimate the temperature, emission measure (EM; which is a quantity to quantify how much emission is coming from the source at a particular temperature), and absolute elemental abundances of four elements–Mg, Al, Si, and S throughout the flares. These are the first measurements of abundances during such small flares, and this study offers a unique insight into the evolution of abundances as the flares evolve. The results are shown in Figure 5. The flare light curve is plotted in a grey curve. Panels ‘a’ and ‘b’ (black and red color represent the results obtained from two different methods of spectral analysis; for detail, see the reference paper) show the evolution of the temperature and EM during the flare. In the impulsive phase of the flares, due to the sudden release of the energy, both temperature and EM increase as flares evolve. After the peak of the flare, the flaring plasma starts to cool down and reach the background plasma temperature at the end of the flare, as shown by the blue horizontal line.  The abundances of the Magnesium (black and red points in panels c) decrease toward their photospheric values (shown by the green horizontal band) during the impulsive phase of the flares. During the decay phase, the abundances are observed to quickly return to their pre-flare coronal values (shown by colored horizontal dashed lines as reported by several authors). A similar evolution of the abundances of other elements (Al, Si, and S) are also observed.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/biswajit_bclass_flares_images/biswajit_image5.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 5: Representative results of temperature, emission measure and Mg abundance for one B-class flare.
+Credit: &lt;a href=&quot;https://arxiv.org/abs/2107.07825&quot;&gt;B.Mondal et al. 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;The decay of the abundances (or FIP bias) during the impulsive phase of the flares can be explained by invoking the process of chromospheric evaporation, the process in which the photospheric materials come up to the corona. However, the quick recovery (in a few minutes time scale)  of the abundances from near photospheric to coronal values in the decay phase of the flare can not be explained by the present theory of the FIP effect alone, where to develop the FIP bias a time scale of 1-2 days is required. There are two possible scenarios that can explain our observation, as described in Figure 6.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/biswajit_bclass_flares_images/biswajit_image6.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 6: Models to explain the observed FIP bias and its evolution.
+Credit: &lt;a href=&quot;https://arxiv.org/abs/2107.07825&quot;&gt;B.Mondal et al. 2021&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;In the first scenario, Figure-6; (1a) Impulsive phase–After the flare onset (at time t0), heat energy travels down to the chromosphere and evaporates the plasma there. The process of evaporating the plasma from the chromosphere is called chromospheric evaporation. The temperature peak is identified at the start (time t1) of the chromospheric evaporation. During the initial phase, plasma evaporates with high velocity and quickly passes through the fractionation layer (top of the chromosphere, where the reflection of the downward propagating Alfvén waves occurs and the ions are separated due to the Ponderomotive force) without getting fractionated, resulting in depletion of the coronal FIP bias. The EM peak is achieved (time t2 ) once the loop gets filled with the chromospheric plasma. At around the same time, the abundances of the low-FIP elements also attain their minima. (1b) Decay phase–The speed of the evaporative up-flow slows down significantly, allowing plasma enough time in the fractionation layer to get fractionated. The fractionated plasma eventually fills the coronal part of the loop, thereby demonstrating the recovery of the coronal FIP bias. (1c) Representative temperature, EM, and elemental abundance evolution curves. Time t4 marks the time of complete recovery of the coronal FIP bias.&lt;/p&gt;
+
+&lt;p&gt;In the second scenario, Figure-6; (2a), At the time of the flare onset (time t0 ), high amplitude Alfvén waves are initiated. The released heat energy gets transported to the chromosphere by suprathermal electrons (high energetic electrons), at speeds faster than those of the Alfvén waves. Evaporation starts at time t1 and reduces the coronal FIP bias. The temperature peak is observed around this time. (2b) The EM peak and abundance minima are achieved when the loop is filled with the evaporated plasma (t2). Once the flare-driven Alfvén waves arrive at the chromosphere (time t3 ), they rapidly fractionate the plasma. These Alfvén waves also carry significant heat from the flaring site to assist the evaporation. The fractionated plasma is then transported to the coronal part of the loop through evaporative upflows, which help in rapidly recovering the coronal FIP bias. (2c) Representative curves of temperature, EM, and elemental abundances for the second scenario.&lt;/p&gt;
+
+&lt;p&gt;Earlier studies during the peak of the big flares (X or M) found photospheric abundances, but how the abundances became photospheric was not very clear. A time-resolved spectroscopic observation with a good resolution was essential to study the problem in detail. Here using the recent X-ray spectrometer, XSM onboard Chandrayaan 2 orbiter, we did time-resolved spectroscopy during the B-class flares and showed the complete evolution of the abundances during the flares.  The results suggest that the coronal loops are quickly filled with plasma originating from the lower parts of the solar atmosphere during the flares. During the decay phase of the flares, the abundances reach their 3-4 times higher pre-flare values within a few tens of minutes. These results will help us to understand the origin of FIP bias during flares and provide constraints to develop the model of the FIP theory. This study suggests that measuring the abundances during the flares is an important tool to get insight into the flaring process. The B-class flares are much smaller than the large X or M-class flares. Thus it is expected that even smaller class flares could show a similar variation of the abundances during the flares. Studying smaller flares is of great interest in the entire solar physics community as it is believed that the smaller flares occur very frequently and heat the solar corona to million degrees. In follow-up work, we will study several much smaller A-class flares and compare the results with the present study.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ac14c1 target=_blank&quot;&gt; Evolution of Elemental Abundances during B-Class Solar Flares: Soft X-Ray Spectral Measurements with Chandrayaan-2 XSM&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Biswajit Mondal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Aveek Sarkar, Santosh V. Vadawale, N. P. S. Mithun, P. Janardhan, Giulio Del Zanna, Helen E. Mason, Urmila Mitra-Kraev, S. Narendranath&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Physical Research Laboratory, Navrangpura, Ahmedabad, Gujarat-380 009, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+&lt;p&gt;202&lt;/p&gt;
+</description>
+        <pubDate>Sat, 06 Aug 2022 00:00:00 +0530</pubDate>
+        <link>/biswajit_bclass_flares_fip</link>
+        <guid isPermaLink="true">/biswajit_bclass_flares_fip</guid>
+        
+        <category>FIP effect</category>
+        
+        <category>FIP bias</category>
+        
+        <category>solar flares</category>
+        
+        <category>abundance</category>
+        
+        <category>XSM</category>
+        
+        <category>X-ray spectroscopy</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
     
       <item>
         <title>The International Moon Day</title>
@@ -110,6 +231,13 @@ Credit: &lt;a href=&quot;https://astronomy.com/news/2019/05/giant-impact-hypothe
 &lt;/blockquote&gt;
 
 &lt;p&gt;Understanding how stars are formed is one of the crucial questions in astronomy. Molecular clouds are the blank spaces or voids in between stars in our galaxy, the Milky Way and they consist of predominantly hydrogen or helium molecules. They are stellar nurseries in our local galaxy and the universe. The prestellar/protostellar cores are the high density nested quantities in large molecular clouds with a typical temperatures of 10 K and density of ~ 103 cm&lt;sup&gt;-3&lt;/sup&gt;. They are considered as the fundamental units for the formation of stars.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig1.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Schematic of cloud of radius Rc moving in a uniformly magnetized background medium with a velocity, Vc making an angle θ with the field lines
+Credit: &lt;a href=&quot;https://iopscience.iop.org/article/10.1086/307162/pdf&quot;&gt;Miniati et al. 1999&lt;/a&gt;.
+&lt;/p&gt;
 
 &lt;p&gt;Magnetic fields, which are ubiquitous to the universe, is a very interesting property. Due to their interaction with the ionized material, they can play an important role in the dynamics of the clouds. The angular offsets between the direction of the cloud motion and the magnetic fields, θ is shown in Fig. 1. These offsets can help in preventing the disruption of the cloud (radius Rc moving with velocity Vc) against the Kelvin-Helmholtz instability in the interstellar medium as suggested by simulations.&lt;/p&gt;
 
@@ -1075,124 +1203,6 @@ Image source:&lt;a href=&quot;https://arxiv.org/abs/2108.08025&quot;&gt; Figure 
         
         
         <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Bengaluru: The Astronomy City</title>
-        <description>&lt;p&gt;&lt;em&gt;As part of the National Science day celebrations, the Indian Institute of Astrophysics organised a panel discussion titled- Bengaluru The Astronomy City. The focus of the meeting was to educate the young students regarding various opportunities in astronomy and astrophysics at all educational levels.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;A total of 10 institutions located in Bengaluru took part in the event namely:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.iiap.res.in/&quot;&gt;Indian Institute of Astrophysics (IIA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.icts.res.in/&quot;&gt;International Centre for Theoretical Sciences (ICTS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rri.res.in/&quot;&gt;Raman Research Institute (RRI)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.isro.gov.in/&quot;&gt;Indian Space Research Organisation (ISRO)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://iisc.ac.in/&quot;&gt;Indian Institute of Science (IISc)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://christuniversity.in/&quot;&gt;CHRIST (Deemed to by University)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.sjc.ac.in/&quot;&gt;St. Joseph’s College&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://bas.org.in/&quot;&gt;Bangalore Astronomical Society (BAS)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://abaaonline.blogspot.com/&quot;&gt;Association of Bangalore Amateur Astronomers (ABAA)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.taralaya.org/&quot;&gt;JawaharLal Nehru Planetarium (JNP)&lt;/a&gt;&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;These institutes include core research institutes (1-4), Universities (5-7), amateur organizations (8-9) and a planetarium (10) involved in astronomy research and outreach. The panel consisted of a diverse group of individuals which included Ph.D. students, postdoctoral fellows, senior faculty members as well as amateur astronomers.
-The representatives introduced themselves, about their career paths and how they reached their current positions. Niruj Mohan Ramanujam from IIA started the event with an introduction to the panel.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/blr.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt; The participants of the discussion panel. Image courtesy: author.
-&lt;/p&gt;
-
-&lt;p&gt;After the introductions were over, Sonali Sachdeva from RRI gave a presentation covering opportunities for students as well as interested minds at almost all educational levels. The initial slides focussed on the opportunities in astronomy for school students. For instance, the following opportunities were presented for school students:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Public talks especially for school students which are regularly organized by all participant organisations&lt;/li&gt;
-  &lt;li&gt;Schools can invite a scientist to interact with the students (ICTS)&lt;/li&gt;
-  &lt;li&gt;Science workshops for students and teachers (JNP)&lt;/li&gt;
-  &lt;li&gt;Science Education in Early Development (SEED) Summer Program for students (JNP)&lt;/li&gt;
-  &lt;li&gt;Science Over Weekends (SOW) for high school students (JNP)&lt;/li&gt;
-  &lt;li&gt;Maths Circle (ICTS)&lt;/li&gt;
-  &lt;li&gt;Outreach programs for govt schools in North Bengaluru (ICTS)&lt;/li&gt;
-  &lt;li&gt;Young Scientist Program (ISRO)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;After the opportunities available to school students, the subsequent slides presented opportunities for students at the college level. The opportunities at the BSc and MSc levels were presented in detail. All the participating institutes provided information regarding short or long term research projects under the guidance of their faculty members. The complete information is available in &lt;a href=&quot;https://www.youtube.com/watch?v=bB13TdvmkRU&quot;&gt;the video.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The next part of the discussion focused on the opportunities for prospective Ph.D. students.&lt;/p&gt;
-
-&lt;blockquote&gt;
-  &lt;p&gt;Bengaluru probably has the highest number of astronomy Ph.D. students in the country.&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;p&gt;All the participant research institutes and universities offer Ph.D. programs for students from both science and engineering backgrounds. Students are admitted through national eligibility tests such as GATE/JEST/NET and/or through their own entrance exams, followed by an interview. These researchers can also carry out their research in collaboration with multiple universities/institutes.&lt;/p&gt;
-
-&lt;p&gt;Information about the opportunities for amateur astronomers was provided by representatives from ABAA and BAS, organizations which have been educating Bengalurians about astronomy and astronomical events for a long time. JNP offers a variety of programs and workshops for people from all backgrounds and expertise. These programs have been attracting thousands of students every year for more than three decades. So far, over 135 students who have benefitted from these programs have taken up astronomy research as their career.&lt;/p&gt;
-
-&lt;p&gt;The presentation was followed by a discussion session which was quite lively and people asked a wide variety of questions such as the opportunities for primary school children, visits of students to the research laboratories, teacher training opportunities, and support for astronomy clubs in schools. For a lot of questions, the panelists provided their perspectives which provided comprehensive answers to these questions.&lt;/p&gt;
-
-&lt;p&gt;Further, information regarding new opportunities was provided by the institutions such as ISRO which has launched the ‘Young Scientist Program’. Representatives from IIA provided detailed information about Engineering or astronomy-based projects for the upcoming 30m telescope. Students were provided detailed information about how to apply for research projects at these research institutes. Information about summer programs and internships for MSc/engineering students in all the institutes were also discussed. The links provided at the end of the article provide comprehensive information about these opportunities.&lt;/p&gt;
-
-&lt;p&gt;From the vibrant discussion, it is evident that Bengalurians are a curious lot when it comes to research happening in Astronomy. It was noticeably observed that parents are particularly interested in exposing their kids to astronomy and science in general from a very young age. The panelists were also excited to share more of their work. This discussion indeed seems like the first step towards the combined efforts of all these institutions coming together to take astronomy to the Bengaluru people. We hope for many more such efforts to follow in the future.&lt;/p&gt;
-
-&lt;p&gt;The video of the meeting is available below:&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;iframe width=&quot;600&quot; height=&quot;300&quot; src=&quot;https://www.youtube.com/embed/bB13TdvmkRU&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;the-links-to-various-internship-opportunities-for-students-at-various-education-levels&quot;&gt;The links to various internship opportunities for students at various education levels:&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.iiap.res.in/?q=degree&quot;&gt;IIA internship opportunities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.rri.res.in/careers/visiting-students&quot;&gt;RRI internship opportunities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://iisc.ac.in/positions-open/&quot;&gt;IISc open positions&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.icts.res.in/opportunities/graduate-studies/summer&quot;&gt;ICTS internship opportunities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.isro.gov.in/research-and-academia-interface/internships-projects-training&quot;&gt;ISRO internship opportunities&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://www.isro.gov.in/capacity-building/yuvika-yuva-vigyani-karyakram-young-scientist-programme&quot;&gt;ISRO YUVIKA - YUva VIgyani KAryakram (Young Scientist Programme)&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;http://www.kvpy.iisc.ernet.in/main/index.htm&quot;&gt;KVPY scheme&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;https://webjapps.ias.ac.in/fellowship2022/index.html&quot;&gt;IAS fellowship&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;For more information regarding the career opportunities, please also visit the &lt;a href=&quot;https://cosmicvarta.in/career_help&quot;&gt;career help&lt;/a&gt; section in our website.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Mon, 14 Mar 2022 00:00:00 +0530</pubDate>
-        <link>/bangalore-astronomy-city</link>
-        <guid isPermaLink="true">/bangalore-astronomy-city</guid>
-        
-        <category>popular</category>
-        
-        
-        <category>General</category>
         
       </item>
     

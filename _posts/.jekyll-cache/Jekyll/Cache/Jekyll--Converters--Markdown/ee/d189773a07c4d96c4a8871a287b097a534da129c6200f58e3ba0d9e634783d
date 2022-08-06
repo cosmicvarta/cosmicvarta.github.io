@@ -1,0 +1,73 @@
+I"<blockquote>
+  <p>GitHub has become the go-to tool for software engineers across the world to keep their codes together and collaborate with each other. Being easy, seamless, and available on all the platforms makes it a brilliant choice indeed.</p>
+
+  <hr />
+</blockquote>
+
+<p>I am involved in academic research for quite some time now and can find some pretty good uses for this platform. Of course, GitHub was designed to keep the codes together and collaborate and this is the backbone of research too, which is why I find GitHub quite appealing.</p>
+
+<p>There are obvious benefits of using GitHub:</p>
+<ul>
+  <li>Keeping all the codes and data files together offline as well as a backup on the GitHub servers.</li>
+  <li>Version control for all the files.</li>
+  <li>Collaborating on projects together.</li>
+  <li>Managing the research projects and keeping track of the issues.</li>
+  <li>Free hosting for websites.</li>
+</ul>
+
+<p>For beginners, it is helpful to go through the basic documentation about GitHub. For example a YouTube video introducing GitHub is available below:</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w3jLJU7DT5E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+<hr />
+
+<p>Besides the <a href="https://docs.github.com/en">GitHub</a> website itself, there are plenty of other websites and tutorials available on the web. I am including a few bare essentials that one needs to go through in order to understand what GitHub is:</p>
+
+<ul>
+  <li><a href="https://docs.github.com/en/github/getting-started-with-github/create-a-repo">Creating a git repository</a></li>
+  <li><a href="https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository">Cloning a git repository</a></li>
+  <li><a href="https://docs.gitlab.com/ee/gitlab-basics/start-using-git.html">A tutorial for git usage</a></li>
+  <li><a href="https://medium.com/faun/beginners-guide-to-version-control-using-git-and-github-8bf44b421140">Guide to git version control</a></li>
+  <li><a href="https://docs.github.com/en/github/collaborating-with-issues-and-pull-requests/about-branches">Introduction to Branches</a></li>
+  <li><a href="https://docs.github.com/en/github/managing-your-work-on-github/about-project-boards">GitHub Project Boards</a></li>
+  <li><a href="https://pages.github.com/">Github pages</a></li>
+</ul>
+
+<p>The idea of having a single repository (in git terminology folder is repository) for a project helps a lot in reducing confusion and saves a lot of time. It indeed is a good habit. Making that repository a git repository and putting it on GitHub is an even better habit. People working with Jupyter notebooks may find GitHub extremely helpful, especially in terms of executing the notebooks in the clouds. <a href="https://nbviewer.jupyter.org/">nbviewer</a> can load the notebooks directly from the git repository which can then be executed directly on <a href="https://mybinder.org/">binder</a>. Even <a href="https://colab.research.google.com/">Google colab</a> allows the import of notebooks from GitHub directly to be executed there. <a href="https://hackmd.io/">HackMD</a>, a Markdown editor allows the files to be pushed to and pulled from GitHub.</p>
+
+<p>In astronomy, most of the code is often open-source and available to the community. Some researchers provide links to their codes hosted on GitHub which becomes easier to obtain and raise any issues. The point is that the familiarity with GitHub is advantageous. People sometimes present their entire work, including the codes, plots, and related text files on GitHub as a repository which indeed serves as a welcome step towards reproducible research.</p>
+
+<p>Now, my personal bent towards git is motivated by the reproducibility of research. In the world of academic research reproducibility has often been cited as a problem (see this <a href="https://www.bbc.com/news/science-environment-39054778">BBC report</a> or <a href="https://www.nature.com/articles/sc201717">Nature article</a>). Reproducibility should be the backbone of research as scientific findings work on this principle. Maintaining a git project should help in establishing this easily. One may put the link to the entire working repository once their findings are published so that anyone willing to re-do the analysis does that seamlessly. <a href="https://slate.com/technology/2017/04/we-need-a-github-for-academic-research.html">People have even proposed</a> a GitHub type of social network for academic research.</p>
+
+<p>I have tried to implement GitHub for all my research projects, and the workflow has only gone smoother with time. The project management becomes easy, versions are easy to track and overall the repository structure becomes more transparent with time. I don’t waste time looking for individual files anymore, as they have been neatly arranged in the respective places. With a backup on the GitHub cloud server, it becomes easy to access any item from any device. Working on multiple devices too becomes easy as I can run multiple items in parallel and then push to the respective branches and merge them subsequently. Moreover, the project boards are a neat way to organize all the work. We can have work in progress, work to be done, and work that has been completed arranged in the form of cards. We may open an issue from these cards themselves.</p>
+
+<p><em>Github pages</em> are also one of the noticeable features of Github as it lets one host personal webpages on GitHub, which again I feel is well suited for us. The static website can be put up easily using <a href="https://jekyllrb.com/">Jekyll</a>. The <a href="https://academicpages.github.io/">academic pages template</a> is used by thousands of researchers and scientists around the world to keep their content together on a static web page. My <a href="https://viveikjha.github.io/">personal website</a> is hosted on GitHub too. Pushing things on the website is as easy as typing up a markdown or HTML file and pushing it onto GitHub.</p>
+
+<p>GitHub as a service provides us with an option to manage our workflow in an eficient way, without worrying about versions of documents and provides seamless collaboration features. I hope with this article I have provided some useful insight into this service.</p>
+
+<hr />
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+<hr />
+<hr />
+:ET

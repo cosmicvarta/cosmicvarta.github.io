@@ -261,7 +261,14 @@ authors:
         twitter: https://www.researchgate.net/profile/Ashish-Devaraj
         description: "Ashish Devraj is a PhD student at CHRIST (Deemed to be University), who works on lunar physics. "
 
-
+ Biswajit Mondal:
+        name: Biswajit Mondal
+        display_name: Biswajit Mondal
+        avatar: 'assets/images/biswajit_mondal.jpg'
+        email:
+        web: https://www.researchgate.net/profile/Biswajit-Mondal-8
+        twitter: https://www.researchgate.net/profile/Biswajit-Mondal-8
+        description: "I am a research scholar at Physical Research Laboratory, Ahmedabad, India. Currently, I am involved in studying coronal X-ray characteristics of the Sun. I am also involved in the development of X-ray instrumentation for astronomical observations."
 
 
 plugins:
