@@ -271,6 +271,18 @@ authors:
         description: "I am a research scholar at Physical Research Laboratory, Ahmedabad, India. Currently, I am involved in studying coronal X-ray characteristics of the Sun. I am also involved in the development of X-ray instrumentation for astronomical observations."
 
 
+ 
+ Sagnik Chatterjee:
+        name: Sagnik Chatterjee
+        display_name: Sagnik Chatterjee
+        avatar: 'assets/images/Sagnik_pic.jpg'
+        email:
+        web: https://sites.google.com/view/sagnikchatterjee/home?authuser=1
+        twitter: https://sites.google.com/view/sagnikchatterjee/home?authuser=1
+        description: " I am a Prime Minister's Research Fellow (PMRF) at IISER Bhopal. I work on compact objects like neutron stars. My work mainly involves the theoretical and computational aspects of such stars. "
+
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
