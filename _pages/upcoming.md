@@ -13,15 +13,22 @@ comments: False
 Articles based on the following list of papers have been received by **CosmicVarta**  and are under the process of editing by our team members. Usually the articles stay with our editors for a period of 2-3 weeks, after which you may expect the article to be published on the main webpage.
 
 
-- [ 1. Review of 'Observations of the Quiet Sun During the Deepest Solar Minimum of the Past Century with Chandrayaan-2 XSM – Elemental Abundances in the Quiescent Corona' by Lakshitha Nama.](https://iopscience.iop.org/article/10.3847/2041-8213/abf35d)
 
+ - [Review of *A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies* by Vivek Kumar Jha.](https://doi.org/10.1093/mnras/stab3700)
 
- - [2. Review of 'A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies' by Vivek Kumar Jha.](https://doi.org/10.1093/mnras/stab3700)
+ - [*Star-forming S0 Galaxies in SDSS-MaNGA: fading spirals or rejuvenated S0s?* by Himansh Rathore](https://academic.oup.com/mnras/article/513/1/389/6561635)
 
- - [3. Review of 'Evolution of Elemental Abundances During B-Class Solar Flares: Soft X-ray Spectral Measurements with Chandrayaan-2 XSM'. ](https://iopscience.iop.org/article/10.3847/1538-4357/ac14c1/meta)
+- [*Revealing nature of GRB 210205A, ZTF21aaeyldq (AT2021any), and follow-up observations with the 4K×4K CCD Imager+3.6m DOT* by Rahul Gupta](https://arxiv.org/abs/2111.11795)
 
+- [*Core-collapse supernova from a possible progenitor star of 100 solar mass* by Amar Aryan](https://arxiv.org/abs/2205.15889)
 
-  - [4. Review of 'Spectro-timing analysis of MAXI J1535−571 usingAstroSat' by Yash Bhargava.](https://academic.oup.com/mnras/article/488/1/720/5525097)
+- [*Deep V and I CCD photometry of young star cluster NGC 1893 with the 3.6m DOT* by Neelam Panwar](https://arxiv.org/abs/2111.11796)
+
+- [*Revisiting the sub-pulse drifting phenomenon in PSR J1822−2256: Drift Modes, Sparks, and Emission Heights* by Parul Janagal](https://academic.oup.com/mnras/article/509/3/4573/6429311)
+
+- [*General relativistic calculation of magnetic field and Power loss for a misaligned pulsar* by Sagnik Chatterjee](https://doi.org/10.1016/j.jheap.2022.03.002)
+
+- [*Measurement of accretion disc sizes for quasars from the ZTF survey* by Vivek Kumar Jha](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3005J/abstract)
 
 ---
 ---
