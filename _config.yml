@@ -281,6 +281,14 @@ authors:
         twitter: https://sites.google.com/view/sagnikchatterjee/home?authuser=1
         description: " I am a Prime Minister's Research Fellow (PMRF) at IISER Bhopal. I work on compact objects like neutron stars. My work mainly involves the theoretical and computational aspects of such stars. "
 
+ Rahul Gupta:
+        name: Rahul Gupta
+        display_name: Rahul Gupta
+        avatar: 'assets/images/rahul_gupta.jpeg'
+        email: rahulbhu.c157@gmail.com
+        web: https://www.researchgate.net/profile/Rahul-Gupta-140
+        twitter: https://www.researchgate.net/profile/Rahul-Gupta-140
+        description: " I am Rahul Gupta, currently working as a Ph.D. student at the Department of Astronomy and Astrophysics, Aryabhatta Research Institute of Observational Sciences (ARIES), India. My research work is mainly focused on time-domain astronomy (towards Gamma-ray bursts (GRBs) and their afterglows, Supernovae (SNe), and other transients) based on data from across the electromagnetic band. Presently, I am interested in prompt emission (Gamma and X-rays) spectro-polarimetric studies of GRBs using AstroSat CZTI observations."
 
 
 plugins:

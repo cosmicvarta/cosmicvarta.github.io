@@ -5,9 +5,140 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 07 Aug 2022 20:42:37 +0530</pubDate>
-    <lastBuildDate>Sun, 07 Aug 2022 20:42:37 +0530</lastBuildDate>
+    <pubDate>Tue, 23 Aug 2022 14:38:02 +0530</pubDate>
+    <lastBuildDate>Tue, 23 Aug 2022 14:38:02 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Revealing the nature of the brightest &amp; explosive astronomical sources in the sky using 3.6m Devasthal Optical Telescope (DOT)</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;India has a long history of more than two decades of observations of optical counterparts of gamma-ray bursts (GRBs) using Indian meter-class telescopes like the 1.04m Sampurnanand Telescope (ST), 1.3m Devasthal Fast Optical Telescope (DFOT), 2m Himalayan Chandra Telescope (HCT), and 2.34m Vainu Bappu Telescope (VBT) utilizing the longitudinal advantage of the place. In recent times, astronomers started exploring these exciting and explosive astronomical sources using recently commissioned (since 2016) India’s largest optical telescope, i.e., 3.6m Devasthal Optical Telescope (DOT) at Devasthal observatory of Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital. In a short period of the proposed target of opportunity (ToO) observations (since cycle 2020-C2), DOT discovered many interesting results such as the detection of long GRB (GRB 211211A) from a neutron star-white dwarf merger, the detection of host galaxies of peculiar GRBs, the detection of most delayed optical flare (GRB 210204A) observed from any GRB so far, etc. This article briefly summarizes the recent discovery of dark (GRB 210205A) and orphan (AT2021any/ZTF21aaeyldq) afterglows of GRBs using 3.6m DOT + 4K × 4K CCD Imager.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Similar to humans, stars also have a life cycle. They are born, live, and at some point, they die. High mass (more massive than eight solar mass) and low mass (typical to solar mass) stars follow a different life cycle. The death of massive stars produces the brightest and most explosive astronomical sources known as gamma-ray bursts (GRBs). GRBs are powerful bursts of high-energy gamma-ray radiation and are among the most exotic phenomena studied in modern astronomy. GRB emits more energy in a second than our Sun will emit in its lifetime. GRB events have two distinct emission phases: one is the short-lived prompt emission (the initial burst phase, peak at sub-MeV energy range), followed by a long-lived multiwavelength afterglow phase. The prompt emission (initial gamma-ray emission) of GRBs is automatically discovered by space-based gamma-ray missions such as NASA’s Fermi Gamma-ray Space Telescope, Neil Gehrels Swift Observatory, India’s AstroSat, and many more. Based on the observed time scale of prompt emission, astronomers classify GRBs as long or short, whether the event lasts more or less than two seconds. Their duration is associated with their origin: long GRBs occur with the death of massive stars, while short GRBs have been proven to be the electromagnetic counterparts of the gravitational wave (originated due to the merger of two compact objects) signals discovered recently by LIGO/Virgo.
+GRBs are believed to originate from a “jet” moving at a relativistic speed, launched by a fast rotating stellar-mass black hole or magnetized neutron star formed at the core collapse of a massive star (long GRBs, duration &amp;gt; 2 sec) or in the merger of compact objects (short GRBs, duration &amp;lt; 2 sec). The ejected out-flowing can have various shells that can collide with each other creating internal shock, which is responsible for the prompt gamma-ray emission. Later on, this material expands and interacts with the pre-existing material surrounding the GRB events (external shock), producing the broadband synchrotron radiation, which attributes to the afterglow emission (see Fig. 1).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/grb_dot_rahul_gupta/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: The theoretical understanding of prompt emission and afterglow of GRBs (Credits: Dr. S. Iyyani.)
+&lt;/p&gt;
+
+&lt;p&gt;Soon after the GRB-prompt discovery, ground-based multi-wavelength observational facilities (including ARIES telescopes in the optical/NIR bands) started searching for the associated afterglows across the electromagnetic spectrum. Specifically, optical observations play a crucial role in constraining the redshift, energetics, environments, and geometry of these powerful astronomical sources. The longitudinal advantage of the Devasthal observatory (which lies in between the Canary Islands and Eastern Australia) and deep imaging/spectroscopy capabilities of back-end instruments (at visible and near-infrared bands) of the 3.6m DOT telescope (see Fig. 2a) together provide a unique opportunity to perform deep and longer follow-up observations of the optical counterparts/ associated host galaxies of GRBs.&lt;/p&gt;
+
+&lt;p&gt;Based on the optical brightness, some of the optical afterglows of GRBs are defined as “Dark GRBs.” In the case of dark GRBs, either optical afterglow is very faint or not detected even after a deep and long search using optical telescopes. In addition, a few rare optical afterglows are detected independently without any prior prompt emission detection from space-based gamma-ray satellites, known as “Orphan GRBs.” This article highlights the recent discovery of dark (GRB 210205A) and orphan (AT2021any/ZTF21aaeyldq) afterglows of GRBs using 3.6m DOT+ 4K × 4K CCD Imager (see Fig. 2b).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/grb_dot_rahul_gupta/image2a.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2a: A picture of the 3.6m DOT telescope (India’s largest optical facility) installed at Devasthal observatory of ARIES, Nainital. (Credits: &lt;a href=&quot;https://en.wikipedia.org/wiki/3.6m_Devasthal_Optical_Telescope#/media/File:3.6m_Devasthal_Optical_Telescope.jpg&quot;&gt;Ajay Talwar, Wikipedia&lt;/a&gt;
+)
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/grb_dot_rahul_gupta/image2b.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2b: The detection of the third known orphan afterglow with a measured redshift so far using 3.6m DOT + 4K × 4K CCD Imager. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p&gt;In the case of GRB 210205A, an X-ray afterglow was discovered using Swift X-ray Telescope (XRT). We performed the optical follow-up observations to search for the optical afterglow using the 3.6m DOT + 4K × 4K CCD Imager; however, we did not find any optical afterglow despite deep follow-up observations, supporting the dark nature of the burst. We investigated the possible reason for the optical darkness. We found that either intrinsic faintness of the source or high redshift origin was a possible reason for the optical darkness of the afterglow of GRB 210205A.&lt;/p&gt;
+
+&lt;p&gt;For AT2021any, no gamma-ray prompt emission counterpart was reported by any space-based satellites, and the Zwicky Transient Facility (ZTF, a survey telescope)  independently discovered this source. We also detected this object using 3.6m DOT + 4K × 4K CCD Imager (see Fig. 2b) and found that it is the third known orphan afterglow with a measured redshift. The detection of orphan afterglows can be explained by one of the scenarios:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If the source is observed on-axis (viewed along the line of sight to the observer on the Earth), similar to typical GRBs, however, the prompt emission of GRBs (the initial gamma-ray counterpart) was unambiguously missed by space-based gamma-ray telescopes, either due to their limiting sensitivity or source was not in their field of view.&lt;/li&gt;
+  &lt;li&gt;Suppose the source is observed off-axis (viewed outside the line of sight to the observer on the Earth). In that case, the emitted flux from the prompt emission decreases very sharply outside the opening of the jet because of the relativistic beaming of photons (when photons are moving with ultra-relativistic speed emit radiation in a beam in the direction of motion). Such faint prompt emission will be very hard to detect by GRB satellites. Later on, as the jet decelerates (due to external shock), the relativistic beaming becomes less intense, and the emission from the jet becomes detectable to observers at larger viewing angles (off-axis). We only detect the afterglow emission without any prior detection of the prompt gamma-ray emission (see Fig. 3).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/grb_dot_rahul_gupta/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: A schematic diagram showing the possibility of detection of the orphan afterglow from the off-axis scenario. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p&gt;In the case of  AT2021any, we performed a detailed broadband afterglow modelling (see Fig. 4a) and confirmed that AT2021any is observed on-axis (see Fig. 4b), and a gamma-ray counterpart was missed by GRBs satellites. We expect to detect more similar sources in the current era of survey telescopes with large fields of view like ZTF and others.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/grb_dot_rahul_gupta/image4a.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 4a: Broadband afterglow light curve and modelling of AT2021any. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/grb_dot_rahul_gupta/image4b.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 4b: A schematic diagram for the possible explanation of the orphan nature of AT2021any/ZTF21aaeyldq. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p&gt;Our results emphasize that the 3.6m DOT has a unique capability for deep follow-up observations of similar and other new transients for deeper observations as a part of time-domain astronomy in the future. GRBs are multiwavelength phenomena. Therefore, along with optical/near-infrared observations using 3.6m DOT, the follow-up observations at other wavelengths using Indian facilities, such as at radio wavelength using Giant Meter Radio Telescope (GMRT) and at UV/X-ray by Indian Space Observatory (AstroSat), may provide a comprehensive picture of these sources.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://link.springer.com/article/10.1007/s12036-021-09794-4&quot; target=&quot;_blank&quot;&gt;Revealing nature of GRB 210205A, ZTF21aaeyldq (AT2021any) and follow-up observations with the 4K×4K CCD imager + 3.6m DOT&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Rahul Gupta&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Amit Kumar, Shashi Bhushan Pandey, A. J. Castro-Tirado, Ankur Ghosh, Dimple, Y.-D. Hu, E. Fernández-García, M. D. Caballero-García, M. Á. Castro-Tirado, R. P. Hedrosa, I. Hermelo, I. Vico, Kuntal Misra, Brajesh Kumar, Amar Aryan, Sugriva Nath Tiwari&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Aryabhatta Research Institute of Observational Sciences (ARIES), Manora Peak, Nainital-263002, India and Department of Physics, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur-273009, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 22 Aug 2022 00:00:00 +0530</pubDate>
+        <link>/grb_dot_rahul_gupta</link>
+        <guid isPermaLink="true">/grb_dot_rahul_gupta</guid>
+        
+        <category>gamma-ray burst</category>
+        
+        <category>GRB</category>
+        
+        <category>GRB 210205A</category>
+        
+        <category>AT2021any</category>
+        
+        <category>ZTF21aaeyldq</category>
+        
+        <category>Devasthal Optical Telescope</category>
+        
+        <category>DOT</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Evolution of plasma parameters during B class flares</title>
@@ -956,198 +1087,6 @@ Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16643.pdf&quot;&gt;S.Vadawal
         
         
         <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>EARTH-SIZED TELESCOPES FOR ASTRONOMICAL OBSERVATIONS IN THE LOW RADIO FREQUENCIES</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;The study of the cosmos is only complete when we can receive and analyse data from the entire electromagnetic spectrum, ranging from picometer-sized gamma rays to several meters long radio waves. This realization is what led to the advent of multiwavelength astronomy. But even in today’s era when technology has paved the way for us to observe the sky in a very wide range of wavelengths, it still remains poorly explored at wavelengths greater than a few tens of meters. This is mainly because the Earth’s ionosphere blocks most of these wavelengths. Even if we could observe them, it would require us to build a telescope several kilometres wide to properly resolve the sources, which is physically impossible. This article is a review of a journal paper that tackles these issues by proposing to simulate an Earth-sized radio telescope. The paper dwells into some technical details on how we can achieve a radio telescope larger than the size of the Earth and discusses the advantages such a system would offer. This article tries to simplify the concepts involved, and introduce the readers to an exciting new domain in radio astronomy.&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;While it is for sure physically impossible to build a telescope larger than even a few hundreds of meters, you might be wondering how the paper suggests we build a telescope not just a few kilometres wide, but larger than the entire diameter of the Earth, which is just shy of 13,000km! To achieve such a feat, it is proposed we build several small observing elements and send them to space, to revolve around the Earth in different orbits. Then we employ some analysis techniques which can cumulatively be known as Very Long Baseline Interferometry (VLBI, or more specifically, orbiting VLBI in our case, as our observing elements are all in orbit) to “stitch” the multiple images taken by each of these elements and produce a high-resolution image of the entire sky. Before we dive further into the how, what and why of the paper, let us first understand in some detail, these concepts involved.&lt;/p&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-
-&lt;p&gt;Radio astronomy is a subfield of astronomy that studies the universe in the radio spectrum (ranging from 1mm to 100km wavelengths). To fulfil this purpose, radio astronomy takes multidisciplinary contributions from physics, electronics and computer sciences alike. Radio waves are so large that we cannot practically use the typical lens and mirror arrangements that we use to observe in most other electromagnetic (EM) spectra. Lucky for us, the larger wavelengths mean smaller frequencies, small enough that we can “see” the crests and troughs of the wave using an antenna – yes, the same antenna that is in our smartphones and TV dishes! In fact, we can actually use our smartphones and TV dishes to observe the radio sky, albeit with a few modifications.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/earth_size_telescope_jaini/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: The electromagnetic spectrum and the atmospheric opacity for different wavelengths. While the Earth’s atmosphere is almost completely transparent to short-wavelength radio waves, it is completely opaque to wavelengths longer than 15m. (Source: http://gisgeography.com/electromagnetic-radiation/)
-&lt;/p&gt;
-
-&lt;p&gt;A few advantages of observing in the radio frequencies include the fact that most of the high frequency radio waves completely pass through the Earth’s atmosphere. So, we are able to perform ground-based observations, which are cheaper and less complicated. It is also possible to observe astronomical objects or phenomena that are nearly impossible to detect in other wavelengths. But where there are advantages, there are disadvantages as well. Radio waves having wavelengths greater than 15m are blocked completely by the ionosphere, as can be seen from Figure 1, rendering it impossible to make any observations of the radio sky at those wavelengths using ground-based telescopes. Radio waves also tend to be plagued by man-made radio frequency interference (RFI). These can be any signals generated by us, such as the FM and TV frequencies, mobile communication signals, signals from any and all electronic equipment we use, all of which corrupt the astronomical radio signals, making it difficult to study them from the ground.
-Being able to see the sky at wavelengths greater than 15m is important, because it is expected to be extremely bright with never-before-seen astronomical phenomena. At the risk of using a few technical jargons, the sky at these frequencies will be dominated by non-thermal emissions, such as synchrotron emission, as well as free-free absorption from the thermal plasma that outer space has an abundance of. Interested readers can learn more about these phenomena by referring to &lt;a href=&quot;https://www.cv.nrao.edu/~sransom/web/Ch4.html&quot;&gt;this article&lt;/a&gt;. Therefore, in order to grab this unprecedented opportunity to observe these new astronomical processes and to avoid the drawbacks of ground-based radio telescopes, we must go to space.&lt;/p&gt;
-
-&lt;h2 id=&quot;vlbi-visibility-and-the-image-plane&quot;&gt;VLBI, Visibility and the Image Plane&lt;/h2&gt;
-
-&lt;p&gt;Interferometry is a measurement technique that relies on the phenomenon of interference of light waves to produce a fringe (interference) pattern. Young’s double slit experiment and Michelson’s interferometer are two common experiments that most of you might have performed in your physics labs in your high school days.
-VLBI is nothing but an extension of this technique for microwaves and radio waves. In VLBI, a signal from an astronomical source is collected using multiple radio telescopes (called as an array) placed some distance apart. Next, the distance between the radio telescopes is calculated using the difference between the time of arrival of the radio signals at different telescopes. This time difference is usually very small and is caused as the telescopes are located some finite distance apart. This allows observations of an object that are made simultaneously by many radio telescopes to be combined, thus creating a telescope with a size equal to the maximum separation between the telescopes, which is known as the maximum baseline. Since a radio telescope is nothing but an antenna, the signals received by each telescope are converted into voltages. These voltage signals are then amplified, filtered, digitized and then sent to the correlator, a digital device that cross-correlates the signals received from all the telescopes to produce the final image. In simple terms, the correlator “multiplies” each signal with every other signal and computes how well they are related.
-VLBI is a very popular technique in radio astronomy because it enables the distance between telescopes to be much greater than that possible with conventional interferometry, which requires antennas to be physically connected by coaxial cables or other types of transmission lines. This, in turn, allows for the resultant images to be of much higher resolution. This can be inferred using the Rayleigh’s criterion, which specifies the minimum separation between two astronomical sources that may be resolved into distinct objects. This angular resolution (expressed in arcseconds) for any telescope is given by:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://latex.codecogs.com/svg.image?\theta_{arcsec}&amp;space;\approx&amp;space;0.6&amp;space;\frac{&amp;space;\lambda_m&amp;space;/30m}{D_{km}/10000&amp;space;km}&amp;space;&quot; title=&quot;https://latex.codecogs.com/svg.image?\theta_{arcsec} \approx 0.6 \frac{ \lambda_m /30m}{D_{km}/10000 km} &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;where, λm is the wavelength (in meters) and D_km is the size of the effective aperture of the telescope (in kms). In case of any interferometric technique, the size of the effective aperture will be equivalent to the maximum baseline of the radio telescope array. So, to sum it up, we can infer from Rayleigh’s criterion that the angular resolution is directly proportional to the wavelength and inversely to the effective aperture. Therefore, to obtain resolutions comparable to that in visible astronomy, radio astronomers must build telescopes a billion times the size, which is impractical. Instead, they employ VLBI, which gives them the option to use multiple smaller aperture telescopes to synthesize a larger aperture, at the expense of collecting area.&lt;/p&gt;
-
-&lt;p&gt;ow that we understand the basics of VLBI, let us move on to the next important concept, which is visibility (also known as complex visibility or interferometric visibility by non-radio astronomers). In radio astronomy, visibility is defined as the response of the interferometer, which is the 2-dimensional Fourier transform of the sky brightness distribution. Fourier transform is a mathematical function that decomposes a time signal (which in our case, is the signal that a radio telescope receives) into the frequencies that make it up. &lt;a href=&quot;https://www.youtube.com/watch?v=spUNpyF58BY&amp;amp;ab_channel=3Blue1Brown&quot;&gt;This video&lt;/a&gt; beautifully explains the concept of Fourier transform, and is a must watch for anyone interested.&lt;/p&gt;
-
-&lt;p&gt;The sky brightness distribution is given by T(l,m), which is the intensity of radio waves coming from a particular location (l,m) in the sky, where l and m are angles and measured in radians. Finally, visibility is given by V(u,v), which is a complex function of signals correlated from all the radio telescopes in the array. This visibility is measured at a position (u,v) on any user-defined plane (called the image plane or the uv-plane) which usually is the ground for ground-based arrays. The u and v axes are measured in wavelengths (or km, in our case). The image plane can be considered as a simulated aperture of a telescope, and each telescope pair in the array would give two V(u,v) samples (for simplicity, we’ll hereon refer to it as just uv-sample) on the plane at a given time. So, an interferometer array with N telescopes will have N(N - 1)/2 baselines and give twice that number of samples.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/earth_size_telescope_jaini/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: The first picture shows three different configurations of the Submillimeter Array represented in blue, red and black colours. They are observing a source at a Dec of +22˚ at a frequency of 345 GHz. The second image shows the total uv-plane coverage when observing for 8 hours, as the telescopes move due to the Earth’s rotation, forming new baselines, and thus, new uv-samples. The black samples are due to the array configuration shown in black and so on. (Source: http://anita.edu.au/lectures)
-&lt;/p&gt;
-
-&lt;p&gt;To better understand the concept of image plane, imagine the screen on your phone or computer is the image plane. Now, let’s say every second a pair of telescopes in the interferometer array generates two samples, which correspond to two pixels on your screen. The more the telescopes you have in your array, the more samples are produced every second and the more pixels on your screen light up. Also, the longer you observe a source, the more unique baselines are formed, and again the more pixels on your screen light up. Ideally, we would want all the pixels on the screen to be lit up so that the source being observed is 100% imaged. But that is not possible because the telescopes in our array are separated from each other, and no matter how long you observe, there will always be dark spots on your screen, i.e., gaps on the image plane. What we can infer from this is that for better imaging, we would need better coverage of the uv-plane, which can be done by observing a specific source over a longer period of time. Refer to Figure 2 for a better visual explanation.&lt;/p&gt;
-
-&lt;p&gt;To get a better grasp on the concepts of VLBI, visibility, the image plane and radio interferometry in general, interested readers can refer to &lt;a href=&quot;https://www.radio2space.com/introduction-to-radio-interferometry/&quot;&gt;this article&lt;/a&gt; for a basic discussion and &lt;a href=&quot;http://spiff.rit.edu/classes/ast613/lectures/radio_iii/radio_iii.html&quot;&gt;this one&lt;/a&gt; for a slightly more advanced coverage of the topics. If you aren’t much of a reader, then &lt;a href=&quot;https://www.youtube.com/watch?v=0TwnZhiEc3A&amp;amp;ab_channel=AnitaChapter&quot;&gt;this 2-video series&lt;/a&gt; also does a fantastic job at simplifying these concepts.&lt;/p&gt;
-
-&lt;p&gt;The system proposed by the paper extends all these concepts into space, with the radio telescopes now aboard satellites revolving around the Earth. Orbiting VLBI is not a new concept in radio astronomy and the proof of concept was shown as early as 1986, by the Tracking and Data Relay Satellite System (TDRSS) launched by NASA. Following that came the Space VLBI Satellite: MUSES-B under the Japanese VLBI Space Observatory Program (VSOP) and RadioAstron (Spektr-R) operated by the Russian Astro Space Center. An extensive study of the past, present and future of space VLBI can be found in &lt;a href=&quot;https://arxiv.org/abs/1810.01230&quot;&gt;this paper&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;But all of these multi-element space-based radio interferometers have only been used in conjunction with ground-based telescopes, therefore, rendering them unusable for observations in the lower frequency window that we’re interested in. The increasing interest in the low frequency radio sky, though, has resulted in several fully space-based interferometric missions being proposed such as the Low-Cost Space-based Ultra-long wavelength Radio Observatory (SURO-LC) and Orbiting Low Frequency Antennas for Radio Astronomy (OLFAR), to name a few. These proposed swarms of small satellites would be orbiting close to the Earth or at other special locations within our solar system, such as the Lagrange L2 point or the lunar orbit and would have a large number of observing elements working together in aperture synthesis mode, but with baseline lengths limited to only about a 100 km or so.
-The novelty of the model proposed by this paper lies in the fact that by performing sensitive imaging observations with very high angular resolutions at low frequencies, we can reveal astronomical objects and phenomena that have never been seen before. These are the prospects that led to the simulation of a suitable space interferometer system so as to enable such high-resolution imaging.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-model&quot;&gt;The Model&lt;/h2&gt;
-
-&lt;p&gt;The model was simulated keeping in consideration to have a minimal number of observing elements to view the entire sky. Intuitively, we can see that having just two telescopes in space is not going to be sufficient, so the model begins by assuming three observing elements mounted on satellites in mutually orthogonal and near-circular Low Earth Orbits (LEO), which is an orbit ranging from 300km to 2000km above the Earth’s surface, as shown in Figure 3. Each of the observing elements is assumed to have a uniform field of view (FoV) of 2π steradians (in other words, the telescope can see the entire hemisphere in front of it). Such a configuration would allow us to have baselines of over 15000km, which is larger than the diameter of the Earth, thus enabling angular resolution as fine as 1 arcsec (from Rayleigh’s criterion) even at 4 MHz (or wavelength of 75m).
-The three satellites have different orbital heights, making their orbital periods distinct from each other. These orbital heights are deliberately chosen such that the orbits are mutually asynchronous. This ensures that the apparent baselines are distinctly different during each orbital cycle, thus giving a significantly better coverage of the uv-plane in a relatively short time span. The orbital speeds and time periods of the satellites can be calculated from the Newton’s law of gravitation:&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://latex.codecogs.com/svg.image?Orbital~velocity,&amp;space;~s=\sqrt{\frac{GM_e}{R&amp;plus;h}}&amp;space;&quot; title=&quot;https://latex.codecogs.com/svg.image?Orbital~velocity, ~s=\sqrt{\frac{GM_e}{R+h}} &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://latex.codecogs.com/svg.image?Time&amp;space;~Period,&amp;space;~T&amp;space;\approx&amp;space;\frac{2\pi&amp;space;(R&amp;plus;h)}{s}&amp;space;&quot; title=&quot;https://latex.codecogs.com/svg.image?Time ~Period, ~T \approx \frac{2\pi (R+h)}{s} &quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;where, G (= 6.67&lt;em&gt;10-11 Nm&lt;sup&gt;2&lt;/sup&gt;/kg&lt;sup&gt;2&lt;/sup&gt;) is the universal gravitational constant, Me (= 5.982&lt;/em&gt;1024 kg), R (= 6371km) is the radius of Earth, and h is the orbital height of the satellite above the Earth’s surface.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/earth_size_telescope_jaini/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: An illustration of the model configuration: The near circular orbits (not to scale, and appearing in projection as ellipses) for the three satellites are shown. The first satellite has an equatorial orbit (red), and the other two (Satellites 2 and 3) have polar orbits (blue and green, respectively). The black circle in the centre denotes the Earth. (Source: &lt;a href=&quot;https://arxiv.org/abs/2108.03113&quot;&gt; Figure 2 of the paper.&lt;/a&gt;) &lt;/p&gt;
-
-&lt;p&gt;The various parameter values defined for each satellite are given in Table 1. These values were obtained by extensively testing the sensitivity of the uv-plane coverage to these parameters. The orbital height of satellite 1 is chosen to be greater than 700 km so as to be able to avoid the effects of atmospheric drag which are substantial at heights below 400 km as well as to avoid attenuation of the radio waves due to the ionospheric plasma which is significant at orbital heights below 700 km.&lt;/p&gt;
-
-&lt;table&gt;
-    &lt;tr&gt;
-        &lt;th&gt;Index&lt;/th&gt;
-        &lt;th&gt;Orbital Height (h)&lt;/th&gt;
-        &lt;th&gt;Orbital Speed (s)&lt;/th&gt;
-        &lt;th&gt;Time period (T)&lt;/th&gt;
-    &lt;/tr&gt;
-
-    &lt;tr&gt;
-        &lt;td&gt;Satellite 1&lt;/td&gt;
-        &lt;td&gt;770 km&lt;/td&gt;
-        &lt;td&gt;7.48 km/s&lt;/td&gt;
-        &lt;td&gt;100.01 min&lt;/td&gt;
-    &lt;/tr&gt;
-
-    &lt;tr&gt;
-        &lt;td&gt;Satellite 2&lt;/td&gt;
-        &lt;td&gt;1085 km&lt;/td&gt;
-        &lt;td&gt;7.32 km/s&lt;/td&gt;
-        &lt;td&gt;106.70 min&lt;/td&gt;
-    &lt;/tr&gt;
-
-    &lt;tr&gt;
-        &lt;td&gt;Satellite 3&lt;/td&gt;
-        &lt;td&gt;1400 km&lt;/td&gt;
-        &lt;td&gt;7.17 km/s&lt;/td&gt;
-        &lt;td&gt;113.53 min&lt;/td&gt;
-    &lt;/tr&gt;
-
-
-&lt;/table&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Since the model is different from the usual Earth-based and Earth-and-space-based interferometer systems, the typical definition of the uv-plane as the ground plane would not suffice. So, the uv-plane was explicitly defined in a different manner, with its origin at the centre of the Earth and the plane perpendicular to the direction of the source being observed. After extensive testing, an observing period of 16 days was found to be optimal. In order to obtain the maximum and minimum possible uv-plane coverages during this observation period as well as to find out the extent of the coverages, three exclusive source directions are chosen representing the extreme cases (as shown in Figure 3). These directions, namely A, B, and C, are defined as follows:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Direction A: RA = 03:00:00 Dec = +45 deg, inclined equally to all three satellite orbit axes.&lt;/li&gt;
-  &lt;li&gt;Direction B: RA = 03:00:00 Dec = 0.0 deg, representing a set of specific directions that are perpendicular to one of the satellite orbit axes (or in the plane of that orbit) and inclined equally with the other two.&lt;/li&gt;
-  &lt;li&gt;Direction C: RA = 00:00:00 Dec = 0.0 deg, perpendicular to any two of the satellite orbit axes and parallel to the third axis.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;It can be easily visualized that any source in the sky would fall within the bounds of these three directions relative to them. The corresponding uv-plane coverages are shown in Figure 4 and the evolution of the coverages over these 16 days can be viewed at &lt;a href=&quot;https://bit.ly/SpaceInterferometer&quot;&gt;this link&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/earth_size_telescope_jaini/image4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-
-Figure 4: The uv-coverages over the duration of 16 days, for the three source directions A, B and C from left to right. The red, blue, and green tracks represent the baseline corresponding to the satellite pairs 1–2, 2–3, and 3–1, respectively. The u and v axes are indicated in km. (Source: &lt;a href=&quot;https://arxiv.org/abs/2108.03113&quot;&gt; Figure 3 of the paper. &lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;Measuring this coverage quantitatively, it is found that the percentage coverage lies between a maximum of 64% and a minimum of 55.5% for any source for an observation period of 16 days, which is significantly greater than what we usually obtain with ground-based interferometer setups (which is typically around 15% for the same observing duration). So, the model not only has much greater baselines, but is also capable of giving significantly better coverage for any source, which would ultimately result in very fine angular resolutions and better imaging capabilities at low radio frequencies.&lt;/p&gt;
-
-&lt;p&gt;The paper then proceeds to discuss the sensitivity of this coverage to the satellite orbits so as to be able to determine the best relative positions of the satellites with respect to each other. Next, it discusses the quality of the final image based on the simulations. Finally, it compares our minimal 3-satellite model with another 4-satellite model, to examine how much of an advantage adding a fourth satellite would be, how that would be reflected in terms of the improvement in uv-coverage and the time taken to obtain the desired coverage. The results indicate that even with a system of four satellites (and six baselines) the total percentage coverage is essentially similar to that obtained with three satellites when observed for the same time duration of 16 days. Although it is noted that when observed for shorter durations, the percentage coverage by the 4-satellite system is noticeably more than that of the 3-satellite one.&lt;/p&gt;
-
-&lt;p&gt;In conclusion, we discuss the importance of a fully space-based interferometer to observe the low frequency sky with very high angular resolutions and uv-plane coverages and that a minimal configuration with just three elements is optimum for the purpose scientifically, technologically and economically. Easier said than done though, because going to space entails its own challenges. While an elaborate study of them is beyond the scope of this paper, it does acknowledge some of the major ones and discusses possible solutions, showing that there are ways to not only overcome these challenges, but also use them to our advantage.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://www.cambridge.org/core/journals/publications-of-the-astronomical-society-of-australia/article/minimal-space-interferometer-configuration-for-imaging-at-low-radio-frequencies/837BA18A935418FB608A245913322AF9&quot;&gt;  A minimal space interferometer configuration for imaging at low radio frequencies &lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Akhil Jaini&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Avinash A. Deshpande, Sainath Bitragunta&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt;
-Indian Institute of Astrophysics, Bengaluru, Karnataka, India – 560034;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author’s Institution:&lt;/strong&gt; (Where the research was conducted): Raman Research Institute, Bangalore, India; Birla Institute of Technology and Science – Pilani, Pilani, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Sun, 24 Apr 2022 00:00:00 +0530</pubDate>
-        <link>/earth-size-telescope-akhil</link>
-        <guid isPermaLink="true">/earth-size-telescope-akhil</guid>
-        
-        <category>radio astronomy</category>
-        
-        <category>radio interferometers</category>
-        
-        <category>space telescopes</category>
-        
-        <category>very long baseline interferometry</category>
-        
-        <category>artificial satellites</category>
-        
-        <category>space observatories</category>
-        
-        <category>low frequency radio</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
         
       </item>
     
