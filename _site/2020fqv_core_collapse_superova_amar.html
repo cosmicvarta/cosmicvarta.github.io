@@ -1,0 +1,886 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVRTXP9407"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-BVRTXP9407');
+	</script>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/thumb.png">
+
+<title>Core-collapse supernova from a possible progenitor star of 100 solar mass | CosmicVarta</title>
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Core-collapse supernova from a possible progenitor star of 100 solar mass | Welcome to CosmicVarta.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Core-collapse supernova from a possible progenitor star of 100 solar mass" />
+<meta name="author" content="Amar Aryan" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Supernovae are extreme astrophysical transient phenomena marking the death of stars. In this article, I take you to the journey of the life of a star as massive as 100 times our sun. Through the state-of-the-art simulation tool MESA, we have studied the overall life of a 100 solar mass star and the implications of the resulting supernova. At the time of its birth, the 100 solar mass star is around 10 times bigger than the current size of our sun, while in the last stages of its life, it has evolved to around 1700 times the current size of our sun. The energy released from the resulting supernova from such a massive star would be so powerful that it would take around 100 million Suns shining together for a period of at least a few hundred days." />
+<meta property="og:description" content="Supernovae are extreme astrophysical transient phenomena marking the death of stars. In this article, I take you to the journey of the life of a star as massive as 100 times our sun. Through the state-of-the-art simulation tool MESA, we have studied the overall life of a 100 solar mass star and the implications of the resulting supernova. At the time of its birth, the 100 solar mass star is around 10 times bigger than the current size of our sun, while in the last stages of its life, it has evolved to around 1700 times the current size of our sun. The energy released from the resulting supernova from such a massive star would be so powerful that it would take around 100 million Suns shining together for a period of at least a few hundred days." />
+<meta property="og:site_name" content="Welcome to CosmicVarta." />
+<meta property="og:image" content="/assets/images/2020fqv_core_collapse_superova_amar_images/image_cover.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2022-08-29T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/assets/images/2020fqv_core_collapse_superova_amar_images/image_cover.jpg" />
+<meta property="twitter:title" content="Core-collapse supernova from a possible progenitor star of 100 solar mass" />
+<script type="application/ld+json">
+{"image":"/assets/images/2020fqv_core_collapse_superova_amar_images/image_cover.jpg","author":{"@type":"Person","name":"Amar Aryan"},"headline":"Core-collapse supernova from a possible progenitor star of 100 solar mass","dateModified":"2022-08-29T00:00:00+05:30","@type":"BlogPosting","datePublished":"2022-08-29T00:00:00+05:30","description":"Supernovae are extreme astrophysical transient phenomena marking the death of stars. In this article, I take you to the journey of the life of a star as massive as 100 times our sun. Through the state-of-the-art simulation tool MESA, we have studied the overall life of a 100 solar mass star and the implications of the resulting supernova. At the time of its birth, the 100 solar mass star is around 10 times bigger than the current size of our sun, while in the last stages of its life, it has evolved to around 1700 times the current size of our sun. The energy released from the resulting supernova from such a massive star would be so powerful that it would take around 100 million Suns shining together for a period of at least a few hundred days.","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/cv.png"},"name":"Amar Aryan"},"mainEntityOfPage":{"@type":"WebPage","@id":"/2020fqv_core_collapse_superova_amar"},"url":"/2020fqv_core_collapse_superova_amar","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/cv.png" alt="CosmicVarta">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/about">About us</a>
+								</li>
+
+								<li class="nav-item">
+                <a target="_blank" class="nav-link" href="/upcoming"> Upcoming articles</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/writers"> Join us</a>
+								</li>
+
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/career_help">  Career help</a>
+								</li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/links"> Useful Links</a>
+								</li>
+
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="/contact"> Contact Us</a>
+                </li>
+
+
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">CosmicVarta</h1>
+    <p class="lead">
+         Platform for promoting Indian astronomy research to the public.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/2020fqv_core_collapse_superova_amar" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/2020fqv_core_collapse_superova_amar" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Core-collapse supernova from a possible progenitor star of 100 solar mass&url=/2020fqv_core_collapse_superova_amar" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+
+        <li class="ml-1 mr-1">
+              <a href="https://api.whatsapp.com/send?text=/2020fqv_core_collapse_superova_amar" onClick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </li>
+
+
+
+
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/amar_aryan.jpg" alt="Amar Aryan">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://www.researchgate.net/profile/Amar-Aryan">Amar Aryan</a><a target="_blank" href="https://www.researchgate.net/profile/Amar-Aryan" class="btn follow">Connect</a>
+                        <span class="author-description">I am a Senior Research Fellow (SRF) at Aryabhatta Research Institute of observational sciencES (ARIES), Nainital, Uttarakhand, India. My research interests mainly include transients such as core-collapse supernovae of various types and Gamma-ray bursts. I use various openly available tools such as MESA, STELLA, SNEC, MOSFiT, SNcosmo, etc., for multiple analyses. <br><br>
+                          
+
+<b>6 min read</b>
+
+
+                        </span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Core-collapse supernova from a possible progenitor star of 100 solar mass</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+
+            
+            <!-- <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/2020fqv_core_collapse_superova_amar_images/image_cover.jpg" alt="Core-collapse supernova from a possible progenitor star of 100 solar mass">
+            
+
+             -->
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+
+                <blockquote>
+
+  <p>Supernovae are extreme astrophysical transient phenomena marking the death of stars. In this article, I take you to the journey of the life of a star as massive as 100 times our sun. Through the state-of-the-art simulation tool <strong>MESA</strong>, we have studied the overall life of a 100 solar mass star and the implications of the resulting supernova. At the time of its birth, the 100 solar mass star is around 10 times bigger than the current size of our sun, while in the last stages of its life, it has evolved to around 1700 times the current size of our sun. The energy released from the resulting supernova from such a massive star would be so powerful that it would take around 100 million Suns shining together for a period of at least a few hundred days.</p>
+
+  <hr />
+</blockquote>
+
+<p>Looking up into the sky on a clear and dark night, we can see thousands of stars twinkling. While sleeping on the rooftop of my home in our village during summer days, I used to wonder why the night sky looked similar every night. The stars present in the sky last night used to appear in the sky every other night. Similarly, seeing the constellation Ursa Major (popularly known as <em>Saptarishi Taramandal in Hindi</em>) shining brightly with its seven visible stars every summer night, I used to scratch my tiny mind about the unchanging nature of the heavens. But, do the heavens remain unchanged? No, not at all! Similar to the lifespan of a human being, every star that we see in the sky has a finite lifetime. Accumulation of cosmic clouds gives birth to stars in the form of spherical blobs by burning hydrogen as fuel in their core. These stars grow older while spreading a tremendous amount of energy in the form of light/radiation and finally die with no active fuel burning left in their core.</p>
+
+<p>The death of each star (for less massive stars having masses &lt; 8 M⊙ subjected to mass accretion from a companion) is marked by one final, massive detonation or explosion, and the phenomenon is known as a supernova (SN), an event so bright that even if it occurred in another, very far galaxy, it could be seen from the telescopes available on earth and in space. The only difference between the lifetime of humans and stars is that humans can have a lifespan of around a hundred years or so only, but the stars live for a few million to a few billion years of age! This is the reason why the heavens in the night appear unchanged every night when seen through the naked eyes. However, as I mentioned above, the heavens change, with supernovae (SNe) being one of the means. So, has there been any bright supernova event in human civilizations that could have been seen through the naked eyes? Yes, nine such events have been identified and recorded by human civilizations in the past 2000 years! The first SN event was recorded in 185 A.D. by the ancient Chinese, as referenced in the work of two Roman chroniclers. Around 200 years later, two bright SNe in 386 A.D. and 393 A.D. were also recorded. The fourth one is the most bright SN in human history, which occurred in the year 1006 A.D., an event so bright that it could cast shadows on the ground. The fifth and sixth SNe seen through the naked eyes occurred in 1054 A.D. and 1181 A.D., respectively. The remnant of the SN that occurred in 1054 A.D. is known as the very famous <em>crab nebula</em>. The seventh and eighth SNe seen through the naked eyes occurred in 1572 A.D. (known as Tycho’s supernova) and 1604 A.D. (known as Kepler’s supernova). The ninth SN seen through the naked eyes occurred just a few decades earlier, in 1987, named SN 1987A.</p>
+
+<p>Our sun is a star in our galaxy <em>Milky Way</em> which hosts about a billion other stars, many of them having masses greater or lesser than our sun. Further, in the known universe, there are billions of other galaxies, each of them hosting billions of stars. However, the SNe can be so bright that they can outshine their entire host galaxy and can be seen through the telescopes on earth even if they are occurring in other galaxies (or, in other words, being extra-galactic). Once such SNe is detected through space-based or ground-based telescopes, they are followed up, and their brightness is recorded until they become fainter beyond the detection limits of telescopes. For SN, the variation in brightness (or intrinsic luminosity) over a period of time is called its <em>light curve</em>.</p>
+
+<blockquote>
+
+  <p>With the state of the art software and simulation techniques, we are now capable of studying the lifespan of a star. We can numerically evolve a certain mass star from birth to death and study its implications. A review of one such work is presented in this article. Here, we have studied the life span of a star as massive as 100 M⊙. Figure 1 shows the change in the size of 100 M⊙ star as it evolves through various phases of its life. This star starts as a relatively smaller blob of gas, evolves to grow bigger, and during its last evolutionary stages, it has grown in size, having a radius of a few 1000 times bigger than our sun.</p>
+
+</blockquote>
+
+<p align="center">
+  <img src="../assets/images/2020fqv_core_collapse_superova_amar_images/image1.png" />
+</p>
+
+<p align="center">
+Figure 1 : The evolution of the size (measured by its radius) of a 100 solar mass star as it gets birth (left panel), becomes an adult (mid panel), and finally reaches the stage where it is about to die (rightmost panel). The subplot in the left-bottom corner marks the star's position on HR diagram (which is the variation of luminosity with effective surface temperature). The figures are also color-coded with blue meaning hot and red meaning less hot. These figures have made use of the results from Aryan et al. 2022. (Credits: Author)
+</p>
+
+<p>During the last evolutionary stages (approaching its death), the star is mainly composed of inert Iron in its core, and the burning of fuel in the core has almost stopped. Due to this, the core of the star is vacated of any radiation. The role of the presence of radiation in the core of a star is vital as it is the source of radiation pressure responsible for balancing the self-gravity of the core. But, when the core is vacated of almost all the radiations, there is no support to the self-gravity of the core, and it <em>starts to collapse</em> under its own gravity resulting in a core-collapse supernova.</p>
+
+<p align="center">
+   <img src="../assets/images/2020fqv_core_collapse_superova_amar_images/image2.png" />
+</p>
+
+<p align="center">
+Figure 2 : (Left )The variation of the core temperature (T<sub>core</sub>)  and core density (&rho;<sub>core</sub>) as the 100 M⊙ star is born and evolves older to reach the last evolutionary stage reaching on the verge of core collapse. The blue triangle marks the core temperature and density at the birth of the star, while the red solid circle marks the same when the star is on the verge of death. This panel makes use of the results from Aryan et. al 2022. (Right) The light curves of supernovae resulting from the death of a 100 M⊙ star by keeping total explosion energy constant and varying the amount of total nickel mass. For comparison purposes, the light curves of three similar type supernovae are also shown but these three supernovae result from much lower mass (10 - 20 M⊙) stars. This figure has been adapted from Aryan et al. 2022.
+</p>
+
+<p>The left panel of Figure 2 shows the variation of core temperature (T<sub>core</sub>) with core density (ρ<sub>core</sub>) as the 100 M⊙ star evolves from its birth (marked by a blue triangle) to the stage where it is about to die (marked by red solid-circle). We could see that near the last evolutionary stages, the core temperature and core density have reached in excess of 1010 K and 1010 g cm-3, respectively. Keeping such high density in a normal human life perspective, a matchbox full of such core material would weigh around 200 million Kg!</p>
+
+<p>The right panel of Figure 2 shows the light curves when a 100 M &amp;odot; star explodes as a core-collapse supernova. The resulting SNe are Type IIP-like that are identified by a phase of nearly constant luminosity (also called <em>plateau</em> phase) in their light curves. The length of the plateau is dependent on the size of the Hydrogen envelope retained by the star. So, we can see that SN 1999em, SN 2005cs, and SN2009N have shorter plateau duration, as they arrive from much lower stars having masses in the range of 10 to 20 M⊙. Further, in the right panel of Figure 2, on increasing the Nickel mass while keeping the explosion energy constant, the duration of the plateau in the light curve is increased. This behavior due to the increase in Nickel mass is attributed to the increase in energy deposition in the expanding ejecta by the γ rays that are produced by the radioactive decay of Nickel (<sup>56</sup>Ni) and Cobalt (<sup>56</sup>Co). 
+One can also notice that the explosions from such a massive star would be so humongous that they would radiate at a rate of 10<sup>40</sup> ergs/s or more for at least a period of 350 days. Again putting it in an observational perspective, it would be equal to around 100 million Suns shining together for a period of at least 350 days! Thus, the core-collapse supernovae are extreme catastrophic phenomena and are among one of the major events marking the alterable heavens. Keeping these aspects of supernovae in mind, we conclude that the heavens do change. It only requires an eye of a keen observer to see the change!</p>
+
+<hr />
+
+<p><strong>Symbols used</strong> : 
+M⊙= Mass of the Sun</p>
+
+<p><strong>Note</strong> : <em>This article has been submitted for the DST-AWSAR award.</em></p>
+
+<p><strong>Additional read</strong>:</p>
+<ul>
+  <li>A) Aryan et al. 2022, JApA, 43, 2, and,</li>
+  <li>B) <em>Supernovae</em> by Paul &amp; Lesley Murdin</li>
+</ul>
+
+<p><strong>Original paper:</strong>
+<a href="https://link.springer.com/article/10.1007/s12036-021-09784-6" target="_blank">Core-collapse supernova from a possible progenitor star of 100 M⊙</a></p>
+
+<p><strong>First Author:</strong> Amar Aryan</p>
+
+<p><strong>Co-authors:</strong> Shashi Bhushan Pandey, Abhay Pratap Yadav, Amit Kumar, Rahul Gupta, and Sugriva Nath Tiwari</p>
+
+<p><strong>First author’s Institution:</strong> Aryabhatta Research Institute of Observational Sciences (ARIES), Manora Peak, Nainital-263002, India and Department of Physics, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur-273009, India</p>
+
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2022-08-29">29 Aug 2022</time></span>
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#High-Energy-Astrophysical-Phenomena">High Energy Astrophysical Phenomena</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Stars">#Stars</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Supernova">#Supernova</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+<h2>Related articles</h2>
+
+
+
+
+
+<ul>
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+</ul>
+
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = ''; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+
+<hr><hr>
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span> &nbsp; Never miss an <b>article</b> from us. Subscribe to our website <a href='https://forms.gle/a7iLs1Tc7DCPVhtW7'target=None>here.</a>
+        </form>
+	</div>
+</div>
+
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+
+
+<!-- Begin Footer
+================================================== -->
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+
+
+
+        <footer class="ftco-footer ftco-section" id="contact-section">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+
+
+                  <p>Beauty is that to what the human mind responds at its deepest and most profound.</p> <b><a href="https://quotefancy.com/quote/1645323/Subrahmanyan-Chandrasekhar-Beauty-is-that-to-what-the-human-mind-responds-at-its-deepest#:~:text=Subrahmanyan%20Chandrasekhar%20Quote%3A%20%E2%80%9CBeauty%20is,its%20deepest%20and%20most%20profound.%E2%80%9D"target=None>-Subrahmanyan Chandrasekhar</a></b></p>
+
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                  <h2 class="ftco-heading-2">Links</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="/index.html"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                    <li><a href="/about"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                    <li><a href="/writers"><span class="icon-long-arrow-right mr-2"></span>Join Us</a></li>
+                    <li><a href="/upcoming"><span class="icon-long-arrow-right mr-2"></span>Upcoming articles</a></li>
+                    <li><a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                 <div class="ftco-footer-widget mb-4">
+                  <h2 class="ftco-heading-2">Social media</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="https://facebook.com/cosmicvarta"><span class="icon-long-arrow-right mr-2"></span>Facebook</a></li>
+                    <li><a href="https://twitter.com/cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Twitter</a></li>
+                    <li><a href="https://www.medium.com/@cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Medium</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+                	<h2 class="ftco-heading-2">Enquiry </h2>
+                	<div class="block-23 mb-3">
+    	              <ul  class="list-unstyled">
+    	             <span class="icon icon-map-marker"></span><span class="text">   For any enquiry, you may drop in an email to us at:</span></li>
+
+    	               <a href="mailto:cosmicvarta@gmail.com"><span class="icon icon-envelope"></span><span class="text">cosmicvarta@gmail.com</span></a></li>
+    	              </ul>
+    	            </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 text-center">
+
+                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  <b>  Copyright © 2022 CosmicVarta.  All rights reserved </b> </p>
+
+
+
+              </div>
+            </div>
+          </div>
+        </footer>
+
+
+
+
+</body>
+</html>

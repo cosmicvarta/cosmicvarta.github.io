@@ -5,9 +5,89 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 23 Aug 2022 14:38:02 +0530</pubDate>
-    <lastBuildDate>Tue, 23 Aug 2022 14:38:02 +0530</lastBuildDate>
+    <pubDate>Mon, 29 Aug 2022 16:52:04 +0530</pubDate>
+    <lastBuildDate>Mon, 29 Aug 2022 16:52:04 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Core-collapse supernova from a possible progenitor star of 100 solar mass</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Supernovae are extreme astrophysical transient phenomena marking the death of stars. In this article, I take you to the journey of the life of a star as massive as 100 times our sun. Through the state-of-the-art simulation tool &lt;strong&gt;MESA&lt;/strong&gt;, we have studied the overall life of a 100 solar mass star and the implications of the resulting supernova. At the time of its birth, the 100 solar mass star is around 10 times bigger than the current size of our sun, while in the last stages of its life, it has evolved to around 1700 times the current size of our sun. The energy released from the resulting supernova from such a massive star would be so powerful that it would take around 100 million Suns shining together for a period of at least a few hundred days.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Looking up into the sky on a clear and dark night, we can see thousands of stars twinkling. While sleeping on the rooftop of my home in our village during summer days, I used to wonder why the night sky looked similar every night. The stars present in the sky last night used to appear in the sky every other night. Similarly, seeing the constellation Ursa Major (popularly known as &lt;em&gt;Saptarishi Taramandal in Hindi&lt;/em&gt;) shining brightly with its seven visible stars every summer night, I used to scratch my tiny mind about the unchanging nature of the heavens. But, do the heavens remain unchanged? No, not at all! Similar to the lifespan of a human being, every star that we see in the sky has a finite lifetime. Accumulation of cosmic clouds gives birth to stars in the form of spherical blobs by burning hydrogen as fuel in their core. These stars grow older while spreading a tremendous amount of energy in the form of light/radiation and finally die with no active fuel burning left in their core.&lt;/p&gt;
+
+&lt;p&gt;The death of each star (for less massive stars having masses &amp;lt; 8 M⊙ subjected to mass accretion from a companion) is marked by one final, massive detonation or explosion, and the phenomenon is known as a supernova (SN), an event so bright that even if it occurred in another, very far galaxy, it could be seen from the telescopes available on earth and in space. The only difference between the lifetime of humans and stars is that humans can have a lifespan of around a hundred years or so only, but the stars live for a few million to a few billion years of age! This is the reason why the heavens in the night appear unchanged every night when seen through the naked eyes. However, as I mentioned above, the heavens change, with supernovae (SNe) being one of the means. So, has there been any bright supernova event in human civilizations that could have been seen through the naked eyes? Yes, nine such events have been identified and recorded by human civilizations in the past 2000 years! The first SN event was recorded in 185 A.D. by the ancient Chinese, as referenced in the work of two Roman chroniclers. Around 200 years later, two bright SNe in 386 A.D. and 393 A.D. were also recorded. The fourth one is the most bright SN in human history, which occurred in the year 1006 A.D., an event so bright that it could cast shadows on the ground. The fifth and sixth SNe seen through the naked eyes occurred in 1054 A.D. and 1181 A.D., respectively. The remnant of the SN that occurred in 1054 A.D. is known as the very famous &lt;em&gt;crab nebula&lt;/em&gt;. The seventh and eighth SNe seen through the naked eyes occurred in 1572 A.D. (known as Tycho’s supernova) and 1604 A.D. (known as Kepler’s supernova). The ninth SN seen through the naked eyes occurred just a few decades earlier, in 1987, named SN 1987A.&lt;/p&gt;
+
+&lt;p&gt;Our sun is a star in our galaxy &lt;em&gt;Milky Way&lt;/em&gt; which hosts about a billion other stars, many of them having masses greater or lesser than our sun. Further, in the known universe, there are billions of other galaxies, each of them hosting billions of stars. However, the SNe can be so bright that they can outshine their entire host galaxy and can be seen through the telescopes on earth even if they are occurring in other galaxies (or, in other words, being extra-galactic). Once such SNe is detected through space-based or ground-based telescopes, they are followed up, and their brightness is recorded until they become fainter beyond the detection limits of telescopes. For SN, the variation in brightness (or intrinsic luminosity) over a period of time is called its &lt;em&gt;light curve&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+
+  &lt;p&gt;With the state of the art software and simulation techniques, we are now capable of studying the lifespan of a star. We can numerically evolve a certain mass star from birth to death and study its implications. A review of one such work is presented in this article. Here, we have studied the life span of a star as massive as 100 M⊙. Figure 1 shows the change in the size of 100 M⊙ star as it evolves through various phases of its life. This star starts as a relatively smaller blob of gas, evolves to grow bigger, and during its last evolutionary stages, it has grown in size, having a radius of a few 1000 times bigger than our sun.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/2020fqv_core_collapse_superova_amar_images/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1 : The evolution of the size (measured by its radius) of a 100 solar mass star as it gets birth (left panel), becomes an adult (mid panel), and finally reaches the stage where it is about to die (rightmost panel). The subplot in the left-bottom corner marks the star&apos;s position on HR diagram (which is the variation of luminosity with effective surface temperature). The figures are also color-coded with blue meaning hot and red meaning less hot. These figures have made use of the results from Aryan et al. 2022. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p&gt;During the last evolutionary stages (approaching its death), the star is mainly composed of inert Iron in its core, and the burning of fuel in the core has almost stopped. Due to this, the core of the star is vacated of any radiation. The role of the presence of radiation in the core of a star is vital as it is the source of radiation pressure responsible for balancing the self-gravity of the core. But, when the core is vacated of almost all the radiations, there is no support to the self-gravity of the core, and it &lt;em&gt;starts to collapse&lt;/em&gt; under its own gravity resulting in a core-collapse supernova.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+   &lt;img src=&quot;../assets/images/2020fqv_core_collapse_superova_amar_images/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2 : (Left )The variation of the core temperature (T&lt;sub&gt;core&lt;/sub&gt;)  and core density (&amp;rho;&lt;sub&gt;core&lt;/sub&gt;) as the 100 M⊙ star is born and evolves older to reach the last evolutionary stage reaching on the verge of core collapse. The blue triangle marks the core temperature and density at the birth of the star, while the red solid circle marks the same when the star is on the verge of death. This panel makes use of the results from Aryan et. al 2022. (Right) The light curves of supernovae resulting from the death of a 100 M⊙ star by keeping total explosion energy constant and varying the amount of total nickel mass. For comparison purposes, the light curves of three similar type supernovae are also shown but these three supernovae result from much lower mass (10 - 20 M⊙) stars. This figure has been adapted from Aryan et al. 2022.
+&lt;/p&gt;
+
+&lt;p&gt;The left panel of Figure 2 shows the variation of core temperature (T&lt;sub&gt;core&lt;/sub&gt;) with core density (ρ&lt;sub&gt;core&lt;/sub&gt;) as the 100 M⊙ star evolves from its birth (marked by a blue triangle) to the stage where it is about to die (marked by red solid-circle). We could see that near the last evolutionary stages, the core temperature and core density have reached in excess of 1010 K and 1010 g cm-3, respectively. Keeping such high density in a normal human life perspective, a matchbox full of such core material would weigh around 200 million Kg!&lt;/p&gt;
+
+&lt;p&gt;The right panel of Figure 2 shows the light curves when a 100 M &amp;amp;odot; star explodes as a core-collapse supernova. The resulting SNe are Type IIP-like that are identified by a phase of nearly constant luminosity (also called &lt;em&gt;plateau&lt;/em&gt; phase) in their light curves. The length of the plateau is dependent on the size of the Hydrogen envelope retained by the star. So, we can see that SN 1999em, SN 2005cs, and SN2009N have shorter plateau duration, as they arrive from much lower stars having masses in the range of 10 to 20 M⊙. Further, in the right panel of Figure 2, on increasing the Nickel mass while keeping the explosion energy constant, the duration of the plateau in the light curve is increased. This behavior due to the increase in Nickel mass is attributed to the increase in energy deposition in the expanding ejecta by the γ rays that are produced by the radioactive decay of Nickel (&lt;sup&gt;56&lt;/sup&gt;Ni) and Cobalt (&lt;sup&gt;56&lt;/sup&gt;Co). 
+One can also notice that the explosions from such a massive star would be so humongous that they would radiate at a rate of 10&lt;sup&gt;40&lt;/sup&gt; ergs/s or more for at least a period of 350 days. Again putting it in an observational perspective, it would be equal to around 100 million Suns shining together for a period of at least 350 days! Thus, the core-collapse supernovae are extreme catastrophic phenomena and are among one of the major events marking the alterable heavens. Keeping these aspects of supernovae in mind, we conclude that the heavens do change. It only requires an eye of a keen observer to see the change!&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Symbols used&lt;/strong&gt; : 
+M⊙= Mass of the Sun&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; : &lt;em&gt;This article has been submitted for the DST-AWSAR award.&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Additional read&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;A) Aryan et al. 2022, JApA, 43, 2, and,&lt;/li&gt;
+  &lt;li&gt;B) &lt;em&gt;Supernovae&lt;/em&gt; by Paul &amp;amp; Lesley Murdin&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://link.springer.com/article/10.1007/s12036-021-09784-6&quot; target=&quot;_blank&quot;&gt;Core-collapse supernova from a possible progenitor star of 100 M⊙&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Amar Aryan&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Shashi Bhushan Pandey, Abhay Pratap Yadav, Amit Kumar, Rahul Gupta, and Sugriva Nath Tiwari&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Aryabhatta Research Institute of Observational Sciences (ARIES), Manora Peak, Nainital-263002, India and Department of Physics, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur-273009, India&lt;/p&gt;
+
+</description>
+        <pubDate>Mon, 29 Aug 2022 00:00:00 +0530</pubDate>
+        <link>/2020fqv_core_collapse_superova_amar</link>
+        <guid isPermaLink="true">/2020fqv_core_collapse_superova_amar</guid>
+        
+        <category>Stars</category>
+        
+        <category>Supernova</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Revealing the nature of the brightest &amp; explosive astronomical sources in the sky using 3.6m Devasthal Optical Telescope (DOT)</title>
@@ -31,7 +111,7 @@ Figure 1: The theoretical understanding of prompt emission and afterglow of GRBs
 
 &lt;p&gt;Soon after the GRB-prompt discovery, ground-based multi-wavelength observational facilities (including ARIES telescopes in the optical/NIR bands) started searching for the associated afterglows across the electromagnetic spectrum. Specifically, optical observations play a crucial role in constraining the redshift, energetics, environments, and geometry of these powerful astronomical sources. The longitudinal advantage of the Devasthal observatory (which lies in between the Canary Islands and Eastern Australia) and deep imaging/spectroscopy capabilities of back-end instruments (at visible and near-infrared bands) of the 3.6m DOT telescope (see Fig. 2a) together provide a unique opportunity to perform deep and longer follow-up observations of the optical counterparts/ associated host galaxies of GRBs.&lt;/p&gt;
 
-&lt;p&gt;Based on the optical brightness, some of the optical afterglows of GRBs are defined as “Dark GRBs.” In the case of dark GRBs, either optical afterglow is very faint or not detected even after a deep and long search using optical telescopes. In addition, a few rare optical afterglows are detected independently without any prior prompt emission detection from space-based gamma-ray satellites, known as “Orphan GRBs.” This article highlights the recent discovery of dark (GRB 210205A) and orphan (AT2021any/ZTF21aaeyldq) afterglows of GRBs using 3.6m DOT+ 4K × 4K CCD Imager (see Fig. 2b).&lt;/p&gt;
+&lt;p&gt;Based on the optical brightness, some of the optical afterglows of GRBs are defined as &lt;em&gt;Dark GRBs.&lt;/em&gt; In the case of dark GRBs, either optical afterglow is very faint or not detected even after a deep and long search using optical telescopes. In addition, a few rare optical afterglows are detected independently without any prior prompt emission detection from space-based gamma-ray satellites, known as &lt;em&gt;Orphan GRBs.&lt;/em&gt; This article highlights the recent discovery of dark (GRB 210205A) and orphan (AT2021any/ZTF21aaeyldq) afterglows of GRBs using 3.6m DOT+ 4K × 4K CCD Imager (see Fig. 2b).&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;../assets/images/grb_dot_rahul_gupta/image2a.jpg&quot; /&gt;
@@ -991,102 +1071,6 @@ Figure 2: Here, we present our simulated X structure formed by the deflected, ba
         
         
         <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>How much Metal does the Quiet Sun Corona contain?</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;XSM onboard Chandrayaan-2 observed the Sun during the deepest solar minimum of the past century from in 2019-2020. By studying the XSM spectra for the days when the Sun was very quiet, researchers have found that the abundances of all Mg, Al, Si is around two times higher than its abundances in the photosphere! They also calculated the temperature of the quiet Sun corona to be around 2 MK. This article explains how these measurements were made.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The visible orange-yellow surface of the Sun that we can see even with the naked eye is called the Photosphere. It extends up to a height of 400 km. The temperature here decreases from 6000K, at the bottom of the layer, to 4500K at the top of the layer. This is expected because as we move away from a source of energy and heat, the temperature drops. The next layer is the Chromosphere, that is in between a height of about 400 - 2100 km. The temperature in the Chromosphere varies between about 4000 K at the bottom and 8000 K at the top. As the numbers show, in the Chromosphere, as we move upwards it gets hotter and not cooler as common sense suggests!&lt;/p&gt;
-
-&lt;p&gt;More mystifyingly, things get extremely hot (literally) as we move into the next layer, the transition region, which is just a 100 km in height but the temperature drastically increases from a few thousand kelvin to a few million kelvin! Temperature stays at a million degree kelvin in the Corona (which extends throughout the solar system) as well, which is the uppermost atmospheric layer of the Sun. The reason for this temperature increase in the solar atmosphere is one of the long standing problems of solar physics referred to as the &lt;em&gt;Coronal Heating Problem&lt;/em&gt;. You can read more about this in the article: &lt;a href=&quot;https://cosmicvarta.in/vishal_machine_learning_corona_article&quot;&gt;Using machine learning to infer Solar Coronal heating&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/lakshitha_quiet_corona_metal/image1_lakshitha2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: The Sun and its layers.
-Credit: &lt;a href=&quot;https://hinode.nao.ac.jp/en/news/results/formation-mechanisms-of-the-solar-chromosphere-revealed-by-hinode-and-iris/&quot;&gt;Hinode&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;The Corona is mainly visible in UV and X rays. This is because the hotter a material is, the light coming from it will be of higher energy. You can see this in daily life in the flames of a stove. The innermost regions of the fire will be bluish compared to the outer parts, which will be red, orange and yellow. As we have seen, since the Corona is at a million degree kelvin temperature, it emits mainly in the high energy part of the spectrum, that is, in UV and X-rays, while the Photosphere emits mainly in optical wavelengths that we can perceive with our naked eyes. This means that telescopes on the Earth are enough to observe and study the Photosphere. But since the ozone layer blocks UV and X rays (thankfully, otherwise we would not exist as we do now!), Coronal studies began only with advent of the space age and satellites in the 1960s.&lt;/p&gt;
-
-&lt;p&gt;Another phenomenon that is related and similarly astonishing to the ‘Coronal Heating Problem’ that occurs in the transition region and the Corona is called as the First Ionization Potential (FIP) Effect. This effect deals with the abundances of elements in the Corona.&lt;/p&gt;
-
-&lt;p&gt;Soon after the launch of the first satellites with instruments to study the Sun in UV and X rays, &lt;a href=&quot;http://articles.adsabs.harvard.edu/pdf/1963ApJ...137..945P&quot;&gt;Stuart R. Pottasch&lt;/a&gt; in 1963 found something very weird concerning the elements present in the Corona. Using spectroscopy, that is, by studying light from the Corona, he discovered that the absolute abundances (i.e., the abundances with respect hydrogen) of certain elements &lt;a href=&quot;https://en.wikipedia.org/wiki/Ionization_energy&quot;&gt;the low FIP elements&lt;/a&gt; like magnesium (Mg), silicon (Si) and iron (Fe) were mode abundant (3-4 times higher!) in the Corona than in the Photosphere. Now you might ask why is this surprising? After all, Corona is a different layer with a very different temperature. So, why can’t it have different abundances of elements than the Photosphere, right? This is because all the material that is present in the Corona comes from the lower atmospheric layers through flares and Coronal mass ejections (CMEs). &lt;a href=&quot;https://spaceplace.nasa.gov/solar-activity/en/&quot;&gt;Flares&lt;/a&gt; and &lt;a href=&quot;https://www.swpc.noaa.gov/phenomena/Coronal-mass-ejections&quot;&gt;CMEs&lt;/a&gt; are huge explosions that supply material and energy from the Photosphere to the Corona. So it was expected that the elemental abundances in the Corona will reflect that of the Photosphere.&lt;/p&gt;
-
-&lt;p&gt;The theories that are trying to explain the FIP effect predict that the FIP effect and the Coronal Heating Problem are intimately connected with each other. Thus studying one problem might give insights about the other and vice versa!&lt;/p&gt;
-
-&lt;p&gt;Over the years, many studies of the FIP effect have shown that the amount of FIP effect, which basically tells by how much the (low FIP) elements in the Corona are more compared to the Photosphere, is different in different structures of the Corona. Sun’s activity changes with an approximate period of 11 years called as the solar cycle. At the start of a cycle, large flares and CMEs on the sun are usually non-existent. With the progress of the cycle, activity increases, reaches a maximum and starts coming down again before the start of the next cycle. Studies have also shown that the elemental abundance in the Corona changes in accordance with the solar cycle.&lt;/p&gt;
-
-&lt;p&gt;It is relatively easier to study the Corona when explosions (flares and CMEs) happen. This is because the Sun is very active and outputs a large amount of UV and X rays which the instruments can receive. But studying the Sun when it is quiet requires extremely sensitive instruments to be present and observing the Sun. Here comes in Chandrayaan-2 live a saviour! The Chandrayaan-2 mission was launched in July 2019 and the orbiter carried an instrument called Solar X-ray Monitor (XSM), which is till date the most sensitive instrument to measure the sun’s spectra (light). For more information on XSM, refer to the article:&lt;a href=&quot;https://cosmicvarta.in/lakshitha_solar_article_corona&quot;&gt;Deciphering The Mysteries of The Quiet Sun Explosions&lt;/a&gt;. 2019 also marked the end of solar cycle 24 during which the sun was extremely quiet. This was the quietest the sun has been in the past 100 years! Thus with the Sun in its deep minimum and the XSM observing its inactivity, Santosh Vadawale and team have managed to decode the abundances of three (low FIP) elements - Mg, Al and Si  - in the quiescent Corona using spectroscopy.&lt;/p&gt;
-
-&lt;p&gt;Spectroscopy is the study of light of different energies that is emitted by a source. The instrument that is used for spectroscopy is called as a spectroscope/spectrometer. And the output of a spectroscope is a spectrum (plural - spectra). A spectrum is basically a graph of intensity (or count rate which gives the number of photons) versus the wavelength (or energy) of light. It is possible to derive the temperature and other physical parameters by studying the shape of the spectrum (known as the continuum), and by studying the bumps (called as ‘emission lines or emission complexes’), it is possible to derive the abundances of various elements present in the source (see figure 2). Each emission line is a ‘signature’ of a different element. By modelling (i.e., comparing the strength of the observed line and shape of the continuum with that predicted by theory) the spectra, we can find the abundances and other physical parameters. For more in-depth information about spectroscopy, please refer to: &lt;a href=&quot;https://cosmicvarta.in/solar-chromosphere-spectral-lines-vishal&quot;&gt;Understanding the solar chromosphere through spectral lines.&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/lakshitha_quiet_corona_metal/image2_lakshitha2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Soft X-ray spectra measured by the XSM for two representative days of quiet Sun observations are shown. Solid lines represent the best fit isothermal model and the residuals are shown in the bottom panel. Gray points correspond to non-solar background spectrum.
-Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16643.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;By studying the XSM spectra for 73 days when the Sun was very quiet, they found that the abundances of all three elements (Mg, Al, Si) were around two times higher than the corresponding photospheric abundances. They also calculated the temperature of the quiet Sun to be around 2 MK.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/lakshitha_quiet_corona_metal/image3_lakshitha2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: Light curve for the duration of the XSM observations used in this study. Orange shaded regions are duration when active regions were present on the Sun, pink shaded regions are duration when the Sun showed enhanced X-ray activity, and blue shaded regions are duration of quiet Sun observations.
-Credit: &lt;a href=&quot;https://arxiv.org/pdf/2103.16643.pdf&quot;&gt;S.Vadawale et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;As no activity was happening on the Sun, XSM was even able to measure the absolute lowest X-ray energy emitted by the Sun, which is about 6 x 10&lt;sup&gt;-10&lt;/sup&gt; Wm&lt;sup&gt;-2&lt;/sup&gt;. For comparison, the highest soft X-ray energy emitted by the Sun is of the order of 10&lt;sup&gt;-4&lt;/sup&gt;   Wm&lt;sup&gt;-2&lt;/sup&gt;, which is 6 orders of magnitude higher!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/2041-8213/abf35d&quot; target=&quot;_blank&quot;&gt; Observations Of The Quiet Sun During The Deepest Solar Minimum Of The PastCentury With Chandrayaan-2 XSM: Elemental Abundances in the Quiescent Corona&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Santosh Vadawale&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Biswajit Mondal, N. P. S. Mithun, Aveek Sarkar, P. Janardhan, Bhuwan Joshi, Anil Bhardwaj, M. Shanmugam, Arpit R. Patel, Hitesh Kumar L. Adalja&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Physical Research Laboratory, Ahmedabad, Gujarat-380 009, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Mon, 16 May 2022 00:00:00 +0530</pubDate>
-        <link>/lakshitha_solar_article_quiet_sun</link>
-        <guid isPermaLink="true">/lakshitha_solar_article_quiet_sun</guid>
-        
-        <category>Sun</category>
-        
-        <category>Corona</category>
-        
-        <category>Chandrayaan-2</category>
-        
-        <category>Elemental abundances</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
         
       </item>
     
