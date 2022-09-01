@@ -1,4 +1,4 @@
-I"X,<blockquote>
+I"",<blockquote>
 
   <p>A small percentage of the ejected hot plasma flows (the jets) from supermassive blackholes are observed to deviate from their intended path, resulting in unusual jetted morphologies. One of these peculiarities appears when the jet starts to dance /precess around an axis, forming curved jets with <strong>S-shaped</strong> morphology. When we observe such sources through radio telescopes, we see a massive S-like structure floating in the vast cosmos. Due to their peculiar morphology, the formation mechanism of such sources is still debated. Simultaneously, an increasing number of such sources are being discovered with even more complex S-shaped structures, making the unravelling of the underlying physics more difficult than earlier.</p>
 
@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-<em>Credit: Our <a href="https://academic.oup.com/mnras/article/514/4/5625/6608271">published work</a></em>
+<em>Credit: <a href="https://arxiv.org/abs/2206.04705">arXiv:2206.04705</a></em>
 </p>
 
 <p>To elaborate our work a bit more, we have carried out computer simulations by adopting a novel  approach where we modelled not only the observed morphology but also the underlying micro physical processes of this radio structure. To answer the morphological peculiarity of the source, we first built a setup where a precessing jet is being injected from the centre of a realistic galactic medium whose time evolution we have further followed. As time progresses, the precessing jet grows in size, and at time 2.23 mega-year, a fully grown dancing jet is formed. When you see this structure from a  particular angle (the line-of-sight), the structure will appear as an S-shaped source with extended wing-like substructures.</p>
@@ -44,7 +44,7 @@
 </p>
 
 <p align="center">
-<em>Credit: Our <a href="https://academic.oup.com/mnras/article/514/4/5625/6608271">published work</a></em>
+<em>Credit: <a href="https://arxiv.org/abs/2206.04705">arXiv:2206.04705</a></em>
 </p>
 
 <p>I must mention that finding this fortuitous line-of-sight angle, as well as the jet parameters that  perfectly mimic the observed source (2MASX J1203) was quite a challenging task. This is because the  existing models that tend to predict these parameters of dancing jets have seemed to ignore the jet  deceleration effects imparted by the ambient medium, which have been self-consistently adopted in  our simulations. As a result, our study pointed out that for a better determination of precessing jet’s parameters, numerical simulations are a better choice. Furthermore, when we started to model the  synchrotron emission part of this structure, we found out that the galaxy is radiating at a higher level  that contradicts the theories if we consider that the hot plasma of the jet is radiating away its energies  via radiation as well as via adiabatic expansion of the whole system with time. This further hint that  the radiating non-thermal particles are somehow getting re-energized, which is keeping the structure  alive for a longer time than what has been anticipated from theories. Using our simulations, we explicitly demonstrated that diffusive shock acceleration is the physical factor that assists the particle  in regaining energy supplied by the generated shocks in the medium. These shocks were formed by  the jet’s supersonic flows (flows that move faster than the sound speed in that medium), which caused  the source to be more active than it should have been.</p>
