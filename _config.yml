@@ -300,6 +300,16 @@ authors:
         twitter: https://www.researchgate.net/profile/Amar-Aryan
         description: "I am a Senior Research Fellow (SRF) at Aryabhatta Research Institute of observational sciencES (ARIES), Nainital, Uttarakhand, India. My research interests mainly include transients such as core-collapse supernovae of various types and Gamma-ray bursts. I use various openly available tools such as MESA, STELLA, SNEC, MOSFiT, SNcosmo, etc., for multiple analyses."
 
+
+ Neelam Panwar:
+        name: Neelam Panwar
+        display_name: Neelam Panwar
+        avatar: 'assets/images/neelam.jpg'
+        email: neelam@aries.res.in
+        web: https://www.researchgate.net/profile/Neelam-Panwar
+        twitter: https://www.researchgate.net/profile/Neelam-Panwar
+        description: "I am Neelam Panwar, working as a Scientist at Aryabhatta Research Institute of Observational Sciences (ARIES), India. My research interest are  to study star formation in young clusters, bright-rimmed cloud and HII regions, and variability in T-Tauri stars."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
