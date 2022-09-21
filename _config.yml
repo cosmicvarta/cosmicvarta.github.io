@@ -25,7 +25,7 @@ authors:
  Lakshitha:
     name: Lakshitha Nama
     display_name: Lakshitha Nama
-    avatar: 'assets/images/lakshitha1.jpg'
+    avatar: 'assets/images/lakshitha.jpg'
     email: cosmicvarta@gmail.com
     web: https://www.researchgate.net/profile/Lakshitha-Mahesh
     twitter: https://www.researchgate.net/profile/Lakshitha-Mahesh
@@ -309,6 +309,18 @@ authors:
         web: https://www.researchgate.net/profile/Neelam-Panwar
         twitter: https://www.researchgate.net/profile/Neelam-Panwar
         description: "I am Neelam Panwar, working as a Scientist at Aryabhatta Research Institute of Observational Sciences (ARIES), India. My research interest are  to study star formation in young clusters, bright-rimmed cloud and HII regions, and variability in T-Tauri stars."
+
+
+
+ Sneha Kachhara:
+        name: Sneha Kachhara
+        display_name: Sneha Kachhara
+        avatar: 'assets/images/female_avatar.png'
+        email: snehakachhara@students.iisertirupati.ac.in
+        web: https://nonlinearsystems.wordpress.com/
+        twitter: https://nonlinearsystems.wordpress.com/
+        description: "I study complex networks, dynamical systems and their applications in areas spanning from physiology to astrophysics. I am currently a postdoctoral scholar at Northwestern University."
+
 
 plugins:
   - jekyll-paginate

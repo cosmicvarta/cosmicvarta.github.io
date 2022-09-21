@@ -31,7 +31,7 @@ Allow us to introduce ourselves :)
 
 
 <p align="center">
-  <img src="assets/images/lakshitha.jpg" height="300" width="260" style="border-radius:50%">
+  <img src="assets/images/lakshitha.jpg" height="250" width="260" style="border-radius:50%">
 </p>
 <h2> <span style="color:blue">Lakshitha Nama</span></h2>
 
