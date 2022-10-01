@@ -322,6 +322,17 @@ authors:
         description: "I study complex networks, dynamical systems and their applications in areas spanning from physiology to astrophysics. I am currently a postdoctoral scholar at Northwestern University."
 
 
+ Himansh Kavin:
+        name: Himansh Rathore, Kavin Kumar
+        display_name: Himansh Rathore, Kavin Kumar
+        avatar: 'assets/images/avatar.png'
+        email: 
+        web: 
+        twitter: 
+        description: "Himansh Rathore is from the department of Physics, Indian Institute of Technology Bombay and Kavin Kumar is from Indian Institute of Science Education and Research Bhopal."
+
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

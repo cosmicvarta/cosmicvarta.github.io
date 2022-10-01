@@ -1,11 +1,12 @@
-I"iB<blockquote>
+I"fB<blockquote>
 
   <p>The Great Dimming of Betelgeuse (alpha Orionis) in late 2019 puzzled astronomers across the globe. The star appeared the faintest in all its modern recorded history. The mystery mounted as it quickly regained brightness in the next few months, and showed interesting patterns of light variations post dimming. Previously, we had investigated the light curve of Betelgeuse from the perspective of nonlinear dynamics and time series analysis (George et al. 2020). We found signatures of a dynamical transition causing a permanent change in the pulsation dynamics of the star. Here, we discuss these results and present further evidence obtained by analysing multiwavelength data from the star, including visible and infrared radiation.</p>
 
   <hr />
-  <h1 id="introduction">Introduction</h1>
-  <p>It is easy to spot the constellation Orion in the summer night sky—it looks like a hunter or a shepherd with its waist (or belt) characterised by three stars in a straight line. The shoulder of Orion, Betelgeuse, varies in brightness irregularly, so much so that these variations are noticeable to the naked eye! It is therefore classified as a semiregular variable star—an object of fascination since ancient times.</p>
 </blockquote>
+
+<h2 id="introduction">Introduction</h2>
+<p>It is easy to spot the constellation Orion in the summer night sky—it looks like a hunter or a shepherd with its waist (or belt) characterised by three stars in a straight line. The shoulder of Orion, Betelgeuse, varies in brightness irregularly, so much so that these variations are noticeable to the naked eye! It is therefore classified as a semiregular variable star—an object of fascination since ancient times.</p>
 
 <p align="center">
   <img src="../assets/images/Great_Dimming_Betelgeuse_sneha/image1.jpg" />
@@ -29,7 +30,7 @@ Figure 2: Betelgeuse seen with VLT/SPHERE-ZIMPOL before (January 2019) and durin
 
 <p>Several hypotheses have been suggested to explain the unprecedented event. These include formation of a dust cloud, gigantic star spots, or an overlapping of the primary and secondary periods. The observed dimming was later confirmed in Infrared as well <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac19b5">(Harper et al., 2021)</a>, complicating the mystery because the greater part of its radiation actually belongs to the infrared/near-infrared spectrum. Now, like all stars, Betelgeuse emits radiation at all parts of the electromagnetic spectrum, but the intensity at a given wavelength is governed by different factors. The surface temperature, for example, governs the peak observed in the thermal spectrum but there could be localised temperature changes on the surface (star spots), driven by large convection cells. Presence of dust and gas in the circumstellar environment affects the visible region and causes scattering in the UV. Any changes in pulsation also affects the different layers of the star, reflected as variations in different wavelengths. Moreover, these phenomena can happen together, further complicating the interpretation of observed radiation. In the context of Great Dimming of Betelgeuse, it therefore makes sense to ask whether it was a temporary, peripheral phenomenon (such as star spots or dust cloud), or something else, such as changes to the pulsation dynamics (which would likely affect the star as a whole). With this perspective, we investigated the light curve of the star prior to the dimming in all these wavelengths. We start by treating the star as a dynamical system.</p>
 
-<h1 id="multistable-dynamical-systems">Multistable dynamical systems</h1>
+<h2 id="multistable-dynamical-systems">Multistable dynamical systems</h2>
 <p>Loosely speaking, a <strong>dynamical system</strong> is one that evolves in time according to a set of predefined rules. Mathematically, it is a system whose behaviour in time is described by a set of differential equations, subject to some parameters and initial conditions (and external influences). Swinging pendula, celestial bodies in motion, population growth in ecosystems, neuronal synapses, etc., can all be studied as dynamical systems. Some of these systems can exist in one of many possible states. Such <strong>multi-stable</strong> systems are very interesting and can serve as models of real systems. Let us understand them with the help of a toy model with two possible stable states as illustrated in figure 3:</p>
 <p align="center">
   <img src="../assets/images/Great_Dimming_Betelgeuse_sneha/image3.png" />
@@ -43,7 +44,7 @@ Figure 3: Schematic representation of a multistable dynamical system. It can be 
 
 <p>A critical transition in such a system refers to a sudden change in the state, leading to a contrasting dynamics. In our example, it would mean the system going from A to B (or vice-a-versa). The melting of sea ice in recent times and the historically green Sahara becoming a desert, are often cited as examples of such transitions. These transitions are notoriously difficult to anticipate because they happen suddenly. Such transitions are ubiquitous but most recognized in ecology, psychology, and climate. In recent decades, a whole body of literature has focused on the development of so-called <em>Early Warning Signals (EWS)</em>, that detect such transitions well in advance. Most of these EWS rely on the assumption of <em>Critical Slowing Down</em>.</p>
 
-<h1 id="critical-slowing-down-and-ews">Critical Slowing Down and EWS</h1>
+<h2 id="critical-slowing-down-and-ews">Critical Slowing Down and EWS</h2>
 <p>Let us imagine that the structure (or stability landscape) from figure 3 is governed by a system parameter β. Increasing β makes the well corresponding to state A shallower, decreasing the system resilience in this state. Decreased resilience implies that any displacement from state A will now be endured longer, increasing correlation in time. This will also reflect in longer return times (captured in recurrence based quantifiers) and increased fluctuations, causing large variance. This phenomenon is commonly known as <strong>Critical Slowing Down (CSD)</strong>.</p>
 
 <p align="center">
@@ -56,7 +57,7 @@ Figure 4: In normal conditions (left), small perturbations to the stable state A
 
 <p>At a certain point, the system reaches a tipping point where the tiniest of disturbance can take the system to the alternate stable state, B. This is called <strong>bifurcation-induced tipping</strong> (there also exist other types of tipping such as noise-induced tipping and rate-induced tipping, which are beyond the scope of discussion of this article). At this point, the resilience indicators show characteristic trends such as increase in statistical variance (due to perturbations persisting over long time), autocorrelation at lag-1 (correlation in the present state and immediate past state), increase in Hurst exponent (a measure of autocorrelations in the data over different time lags), etc. Similarly, longer return times cause systematic trends in recurrence-based quantifiers. Such trends indicate the existence of a tipping point and are therefore collectively known as <a href="http://www.early-warning-signals.org/?page_id=480">Early Warning Signals (EWS)</a> of a dynamical transition. It can be noted that although the example discussed here is a very simple one, CSD and associated EWS have been applied in more nuanced contexts in different areas ranging from psychology, finance, ecology and climate change, etc.</p>
 
-<h1 id="critical-transition-in-betelgeuse">Critical transition in Betelgeuse</h1>
+<h2 id="critical-transition-in-betelgeuse">Critical transition in Betelgeuse</h2>
 
 <p>Coming back to Betelgeuse, we considered it as a dynamical system and analysed the light curve data collected by the The American Association of Variable Star Observers <a href="https://www.aavso.org/">(AAVSO)</a>. We identified some of the EWS in this data prior to dimming. The process consists of taking subsequent windows (sections) of the light curve in a sliding fashion (i.e. with some overlap), moving a few data points at a time. Then, statistical measures for these windows are calculated and plotted against time, as shown in the figure 5.</p>
 
@@ -70,7 +71,7 @@ Figure 5: Variation in the (a) Autocorrelation at lag 1 and (b) Variance calcula
 
 <p>As we can see, these measures rise prior to the dimming, and serve as strong evidence of a dynamical transition preceded by CSD. Now, we know that the variability in the light curve of Betelgeuse is primarily governed by pulsation. EWS in the data, therefore, hint at a transition affecting its pulsation dynamics. Of course, the credibility of these results relies on statistical significance (further details in the paper). However, there is another way we can verify the existence of a transition—by looking at the variation in other wavelengths.</p>
 
-<h1 id="variations-in-other-wavelengths">Variations in other wavelengths</h1>
+<h2 id="variations-in-other-wavelengths">Variations in other wavelengths</h2>
 
 <p>The radiation of a star comprises of different components of the electromagnetic spectrum. These components originate due to different stellar processes. In the case of Betelgeuse, the greatest part of electromagnetic radiation is in the infrared. In fact, Betelgeuse is the brightest star in infrared as seen from Earth! Naturally, the variations in this part of the spectrum are highly relevant to understand the dynamics of Betelgeuse. The multiwavelength data discussed in the paper has been taken with permission from <a href="https://iopscience.iop.org/article/10.3847/1538-3881/ac19b5">Harper et al. (2021)</a>. It consists of a simplified three-filter system devised by <a href="https://adsabs.harvard.edu/pdf/1992JAVSO..21...42W">Wing et al. (1992)</a> for red variable stars. Wing A filter is dominated by the TiO 719 nm (narrow band) and the Wing B and C filters are continuum bands centred around 750 nm and 1024 nm respectively. These filters are carefully selected to measure the infrared magnitude, colour and the spectral type of the star. The primary use of this filter system is for estimating surface temperature of these stars. In addition, this data also includes measurements in the V-band centred around 555 nanometer (nm), that can be compared to the same region in the AAVSO data.</p>
 
@@ -93,7 +94,7 @@ Figure 7: Pearson correlation coefficient calculated for each pair of wavelength
 
 <p>The dimming could be just a normal cycle of the star but brightness variations in the past have never been so extreme (within the limits of available data). Since the infrared radiation comes from deeper layers of the star, we conclude that the dimming was not a surface phenomena. Further, since the dimming was simultaneous in all bands, we can argue that it was related to a dynamical process that affected the whole star, making change in pulsation dynamics the natural answer.</p>
 
-<h1 id="the-current-state-of-the-stellar-matter">The current state of the (stellar) matter</h1>
+<h2 id="the-current-state-of-the-stellar-matter">The current state of the (stellar) matter</h2>
 
 <p>Some of the measurements post dimming seem to validate the dynamical transition. For example, the brightening of the star was almost as quick as the dimming, and the next seasonal cycle was ‘rounder’ than ever! Moreover, later studies found increased prominence of the ~180 day period. These observations suggest a permanent change to the pulsation dynamics.</p>
 

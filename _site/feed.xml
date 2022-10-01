@@ -5,9 +5,172 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 21 Sep 2022 18:47:03 +0530</pubDate>
-    <lastBuildDate>Wed, 21 Sep 2022 18:47:03 +0530</lastBuildDate>
+    <pubDate>Sat, 01 Oct 2022 20:50:07 +0530</pubDate>
+    <lastBuildDate>Sat, 01 Oct 2022 20:50:07 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Star-forming S0 Galaxies in SDSS-MaNGA: fading spirals or rejuvenated S0s?</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Galaxies are the building blocks of our universe. A comprehensive theory of how galaxies evolve with cosmic time is key to understanding how the universe turns out the way it is today. Decades of observational, theoretical and computational efforts have been devoted to this purpose. Despite this, observations continue throwing challenges that theories of galaxy evolution cannot explain. In this work, we try to address one such challenge.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;On the basis of their morphology, i.e. appearance, galaxies can be divided into three classes:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The Spirals: Spiral galaxies possess a flat rotating disc with spiral arms.&lt;/li&gt;
+  &lt;li&gt;The S0s: S0 galaxies possess a flat rotating disc, but lack spiral arms. Quite often, the side-view of S0s takes the shape of a convex lens, thus in the old days S0s were called Lenticulars.&lt;/li&gt;
+  &lt;li&gt;The Ellipticals: Elliptical galaxies, on the other hand, are 3-D ellipsoidal distribution of stars, and do not have any disc-like structure.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Typical examples of the three classes are illustrated in Fig. 1 below.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1a.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1b.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1c.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Typical example of a Spiral (top), an S0 (middle) and an Elliptical (bottom) galaxy. (Credits: &lt;a href=&quot;http://skyserver.sdss.org/dr17/&quot;&gt;SDSS, HSC-SSP sky-server&lt;/a&gt;
+)
+&lt;/p&gt;
+
+&lt;p&gt;Through galaxy formation theories, we know that Spiral galaxies continuously form new stars. Spiral galaxies contain beautiful spiral arms - the places where new stars are born. On the other hand, S0 and elliptical galaxies are found to have stopped any kind of active star formation. But, it turns out that there exist some S0 galaxies in the nearby universe, which are actively star-forming. In our work, we identify a sample of 120 star-forming S0 galaxies in a large galaxy survey known as the SDSS-MaNGA survey. The images of some of these galaxies is shown in Fig. 2 below.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Very deep HSC-SSP telescope images of some of our star-forming S0 galaxies. (Credits: &lt;a href=&quot;http://skyserver.sdss.org/dr17/&quot;&gt;SDSS, HSC-SSP sky-server&lt;/a&gt;
+)
+&lt;/p&gt;
+
+&lt;p&gt;The peculiar nature of these star-forming S0s leads us to quite a few questions. First of all, where does the star-formation happen in these galaxies? The spirals have well defined regions where new stars are born - the spiral arms. No such structure is present in the S0s. 
+In order to answer this question, we will have to probe within these galaxies and find out where new stars are being born. We cannot do this with the conventional spectroscopic and photometric methods, since they give us the light of the entire galaxy as a whole. This does not allow us to resolve the details inside the galaxy. This is where the revolutionary MaNGA survey comes to the rescue!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is so special about the MaNGA survey?&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;One of the most important observables of a galaxy is its spectrum. Spectrum is awesome compared to photometry. Photometry just gives you the total light emitted by the galaxy over a broad range of wavelengths. Whereas, with a spectrum you get the light of the galaxy at every wavelength! That is a lot more information! The spectrum can be used to derive various physical properties of the galaxy, like the Star-Formation Rate (SFR), stellar mass, chemical composition etc. 
+In the past decade, most galaxy surveys were equipped with single-aperture spectroscopy. This means you got the spectrum of the entire galaxy as a whole. However, in recent times, advancement in technology has led to the development of Integral Field Spectrographs (IFS). IFS provides us with the spectrum of various spatial regions of a galaxy in a single observation. Let’s understand this in more detail. 
+The image of a galaxy is divided into numerous spatial regions (similar to pixels in a photographic image). Each such region is called a spaxel (short for spatial-pixel), and we can obtain the spectrum of each spaxel.&lt;br /&gt;
+Because of these spaxels, we get excellent resolution over the 2D image of the galaxy.  With the spectrum of each spaxel, we get the 2D resolved image in each wavelength! Thus, in some sense, IFS provides us with 3D information about the galaxy. The first two axes are the spatial X and Y coordinates, and the third axis is the wavelength. This is illustrated in Fig. 3 below:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image3a.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image3b.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Top - MaNGA obtains spatially resolved spectra of a galaxy. The galaxy image is divided into various spatial regions, called spaxels. Each spaxel has a spectrum. This leads to what is called a 3D galaxy data-cube (bottom). The first two axes are the spatial X and Y axis of the galaxy image. We obtain the galaxy image at each wavelength (which is the third axis). (Credits: Dana Berry / SkyWorks Digital Inc., David Law, and the SDSS collaboration; &lt;a href=&quot;https://www.sdss.org/surveys/manga/&quot;&gt;https://www.sdss.org/surveys/manga/&lt;/a&gt;; &lt;a href=&quot;https://www.eso.org/public/&quot;&gt;ESO&lt;/a&gt;
+)
+&lt;/p&gt;
+
+&lt;p&gt;The SDSS-MaNGA is one such IFS survey. It enables us to study properties of a galaxy in a spatially resolved manner. Thus, we shall be able to understand the physical processes going on in our star-forming S0 galaxies in great detail. In particular, this will help us probe the interiors of these galaxies and find out where the new stars are being born!&lt;/p&gt;
+
+&lt;p&gt;We start by studying how the Star-Formation Rate (SFR) of the star-forming S0s varies with the distance from the center of the galaxy. This will give us insights about the site and spatial extent of star-formation in these peculiar galaxies. 
+When we studied the star formation as a function of distance from the galaxy center for the star-forming S0s, we found that they are forming new stars close to their center. This is opposite to what happens in Spiral galaxies, since most of their star-formation happens in the spiral arms present in the disc - i.e. away from the center. This is a very interesting result about the star-forming S0s, which was not known before!
+Having answered where the star-formation is happening in these star-forming S0s, now we get to the even bigger question - why are they forming new stars (being S0s, they are not supposed to do that!) ? In order to answer this question, we would want to go deeper into the past of these galaxies. 
+A lot of research suggests that S0 galaxies form from Spiral galaxies. When new stars are no longer being born in a Spiral galaxy, the spiral arms slowly start to fade - and eventually disappear. This leads to a galaxy which has a disc, but no spiral arms - i.e. an S0. So, the star-forming S0s could be a population of Spiral galaxies whose spiral arms have faded, but some star-formation activity is still going on in the center - i.e. a last burst of star-formation. This is just one hypothesis with regards to the formation of star-forming S0s.
+Alternatively, the star-forming S0s could be a population of the usual S0s (with no star-formation), whose star-formation has been somehow revived. They could also be something totally out of the box - a galaxy population with a distinct past of its own!
+The above hypotheses suggest that there can be various possible connections and comparison points between the star-forming S0s, star-forming Spirals and the usual S0s with no star-formation (also known as quenched S0s). To probe these connections, we construct control samples of star-forming spirals and quenched S0s, in addition to our main sample of star-forming S0s.
+Now, a main property that distinguishes different classes of galaxies is how compact the spatial distribution of their stars is. An excellent way to probe this compactness is through the galaxy size - mass relation. The galaxy size is to be plotted on the Y-axis, and its stellar mass on the X-axis. It is well known that different classes of galaxies nicely separate out in this plot. We construct the size - mass relation for our star-forming S0s, star-forming Spirals and the usual quenched S0s in Fig. 4. This will help us to compare and contrast the three galaxy populations, in lieu of the hypotheses presented before regarding the star-forming S0s.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 4: Galaxy size (Y-axis) v/s galaxy stellar mass (X-axis) for star-forming S0s (SF-S0s), star-forming Spirals (SF-Sps) and quenched S0s (Q-S0s). Solid line denotes the median trend. (Credits: Authors)
+&lt;/p&gt;
+
+&lt;p&gt;In the size - mass plane, the star-forming S0s are quite similar to the quenched S0s, and are different from star-forming Spirals. This suggests that the star-forming S0s are not fading spirals, and are likely to be the usual S0s whose star-formation has been somehow revived! This is another very interesting result which was not confirmed before!
+Now the next natural question is, what caused the revival of star-formation in our star-forming S0s? One way in which this can happen is if another gas-rich galaxy merged with our S0, and brought in the necessary Hydrogen gas required for forming new stars. This other galaxy must be significantly less massive than our S0, so that the merger does not end up completely deforming our S0. Such mergers are called minor mergers. 
+One key signature of whether a galaxy has undergone a recent minor merger is in the motion of its stars and gas. The minor merger will cause some perturbations to the main galaxy, causing the velocity of stars and gas to get disturbed, as opposed to a coherent rotation around the galaxy center. But how do we study the velocities of stars and gas within these galaxies? Again, MaNGA Integral Field Spectroscopy comes to the rescue! 
+Another very useful quantity that can be derived from a spectrum is the velocity of the object along the line of sight, using the principle of Doppler effect (see &lt;a href=&quot;http://spiff.rit.edu/classes/phys301/lectures/doppler/doppler.html&quot;&gt;this link&lt;/a&gt; for more details). Using the MaNGA IFS, we obtain the velocities of stars and gas in various regions of our star-forming S0s.
+We find that more than 50% of our star-forming S0s have disturbed stellar and gas velocities. In a few cases, we even find the stars and gas rotating in opposite directions about the galaxy center (Fig. 6) !&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image5a.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image5b.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 5: Example of a counter-rotating star-forming S0. Stars (top) and gas (bottom) rotate in the opposite sense. The gas has likely come from a smaller galaxy that has merged with the main galaxy! (Credits: Authors)
+&lt;/p&gt;
+
+&lt;p&gt;Such disturbed and incoherent stellar and gas velocities indicate instabilities triggered by a recent minor merger. This merger could have brought in the necessary gas for reviving the star-formation in the star-forming S0s. Thus, we infer that minor mergers are the most likely cause for the revival of star-formation in our star-forming S0s!
+To summarize, in this work, we have been able to answer many questions about these mysterious objects called star-forming S0s. We found that the star-forming S0s form new stars primarily in their central regions, which is opposite to what happens in Spiral galaxies. We also inferred that the star-forming S0s are likely the usual S0s (which do not form new stars), in which star-formation activity has been somehow revived. We conclude that minor merger with a gas-rich galaxy has likely caused this revival. Thus, we have made good progress in solving the mystery behind the existence of star-forming S0s! Moreover, in the bigger picture, our work highlights the importance of minor-mergers as a complex ingredient that shapes how galaxies evolve with time!
+Still, quite a few concerns remain. We have 120 galaxies in this work, and ideally, we would like to have a larger sample to constrain our findings better. Many large IFS surveys are coming up in the future, and we look forward to them. Moreover, the star-forming gas of these star-forming S0s needs to be analyzed in more detail to fully confirm whether it has come from another galaxy. Molecular gas observations from radio telescopes and better resolution IFS observations will be very helpful in this pursuit!&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Acknowledgements&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Himansh and Kavin would like to thank Prof. Yogesh Wadadekar for helpful feedback on this article. Also, a sincere thanks to the Cosmicvaarta editor Kshitija Kelkar, whose constructive suggestions significantly improved the quality of this article.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://academic.oup.com/mnras/article/513/1/389/6561635&quot; target=&quot;_blank&quot;&gt;Star-forming S0 Galaxies in SDSS-MaNGA: fading spirals or rejuvenated S0s?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Himansh Rathore&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Kavin Kumar, Preetish K Mishra, Yogesh Wadadekar, Omkar Bait&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Department of Physics, Indian Institute of Technology Bombay, Powai, Mumbai, Maharashtra 400076, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Fri, 30 Sep 2022 00:00:00 +0530</pubDate>
+        <link>/star_formation_sdss_himansh_kavin</link>
+        <guid isPermaLink="true">/star_formation_sdss_himansh_kavin</guid>
+        
+        <category>Galaxies</category>
+        
+        <category>SDSS</category>
+        
+        <category>MaNGA</category>
+        
+        <category>galaxy morphology</category>
+        
+        <category>S0</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>The Great Dimming of Betelgeuse: A Stellar Tipping Point?</title>
@@ -16,9 +179,10 @@
   &lt;p&gt;The Great Dimming of Betelgeuse (alpha Orionis) in late 2019 puzzled astronomers across the globe. The star appeared the faintest in all its modern recorded history. The mystery mounted as it quickly regained brightness in the next few months, and showed interesting patterns of light variations post dimming. Previously, we had investigated the light curve of Betelgeuse from the perspective of nonlinear dynamics and time series analysis (George et al. 2020). We found signatures of a dynamical transition causing a permanent change in the pulsation dynamics of the star. Here, we discuss these results and present further evidence obtained by analysing multiwavelength data from the star, including visible and infrared radiation.&lt;/p&gt;
 
   &lt;hr /&gt;
-  &lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-  &lt;p&gt;It is easy to spot the constellation Orion in the summer night sky—it looks like a hunter or a shepherd with its waist (or belt) characterised by three stars in a straight line. The shoulder of Orion, Betelgeuse, varies in brightness irregularly, so much so that these variations are noticeable to the naked eye! It is therefore classified as a semiregular variable star—an object of fascination since ancient times.&lt;/p&gt;
 &lt;/blockquote&gt;
+
+&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;It is easy to spot the constellation Orion in the summer night sky—it looks like a hunter or a shepherd with its waist (or belt) characterised by three stars in a straight line. The shoulder of Orion, Betelgeuse, varies in brightness irregularly, so much so that these variations are noticeable to the naked eye! It is therefore classified as a semiregular variable star—an object of fascination since ancient times.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image1.jpg&quot; /&gt;
@@ -42,7 +206,7 @@ Figure 2: Betelgeuse seen with VLT/SPHERE-ZIMPOL before (January 2019) and durin
 
 &lt;p&gt;Several hypotheses have been suggested to explain the unprecedented event. These include formation of a dust cloud, gigantic star spots, or an overlapping of the primary and secondary periods. The observed dimming was later confirmed in Infrared as well &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-3881/ac19b5&quot;&gt;(Harper et al., 2021)&lt;/a&gt;, complicating the mystery because the greater part of its radiation actually belongs to the infrared/near-infrared spectrum. Now, like all stars, Betelgeuse emits radiation at all parts of the electromagnetic spectrum, but the intensity at a given wavelength is governed by different factors. The surface temperature, for example, governs the peak observed in the thermal spectrum but there could be localised temperature changes on the surface (star spots), driven by large convection cells. Presence of dust and gas in the circumstellar environment affects the visible region and causes scattering in the UV. Any changes in pulsation also affects the different layers of the star, reflected as variations in different wavelengths. Moreover, these phenomena can happen together, further complicating the interpretation of observed radiation. In the context of Great Dimming of Betelgeuse, it therefore makes sense to ask whether it was a temporary, peripheral phenomenon (such as star spots or dust cloud), or something else, such as changes to the pulsation dynamics (which would likely affect the star as a whole). With this perspective, we investigated the light curve of the star prior to the dimming in all these wavelengths. We start by treating the star as a dynamical system.&lt;/p&gt;
 
-&lt;h1 id=&quot;multistable-dynamical-systems&quot;&gt;Multistable dynamical systems&lt;/h1&gt;
+&lt;h2 id=&quot;multistable-dynamical-systems&quot;&gt;Multistable dynamical systems&lt;/h2&gt;
 &lt;p&gt;Loosely speaking, a &lt;strong&gt;dynamical system&lt;/strong&gt; is one that evolves in time according to a set of predefined rules. Mathematically, it is a system whose behaviour in time is described by a set of differential equations, subject to some parameters and initial conditions (and external influences). Swinging pendula, celestial bodies in motion, population growth in ecosystems, neuronal synapses, etc., can all be studied as dynamical systems. Some of these systems can exist in one of many possible states. Such &lt;strong&gt;multi-stable&lt;/strong&gt; systems are very interesting and can serve as models of real systems. Let us understand them with the help of a toy model with two possible stable states as illustrated in figure 3:&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image3.png&quot; /&gt;
@@ -56,7 +220,7 @@ Figure 3: Schematic representation of a multistable dynamical system. It can be 
 
 &lt;p&gt;A critical transition in such a system refers to a sudden change in the state, leading to a contrasting dynamics. In our example, it would mean the system going from A to B (or vice-a-versa). The melting of sea ice in recent times and the historically green Sahara becoming a desert, are often cited as examples of such transitions. These transitions are notoriously difficult to anticipate because they happen suddenly. Such transitions are ubiquitous but most recognized in ecology, psychology, and climate. In recent decades, a whole body of literature has focused on the development of so-called &lt;em&gt;Early Warning Signals (EWS)&lt;/em&gt;, that detect such transitions well in advance. Most of these EWS rely on the assumption of &lt;em&gt;Critical Slowing Down&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h1 id=&quot;critical-slowing-down-and-ews&quot;&gt;Critical Slowing Down and EWS&lt;/h1&gt;
+&lt;h2 id=&quot;critical-slowing-down-and-ews&quot;&gt;Critical Slowing Down and EWS&lt;/h2&gt;
 &lt;p&gt;Let us imagine that the structure (or stability landscape) from figure 3 is governed by a system parameter β. Increasing β makes the well corresponding to state A shallower, decreasing the system resilience in this state. Decreased resilience implies that any displacement from state A will now be endured longer, increasing correlation in time. This will also reflect in longer return times (captured in recurrence based quantifiers) and increased fluctuations, causing large variance. This phenomenon is commonly known as &lt;strong&gt;Critical Slowing Down (CSD)&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
@@ -69,7 +233,7 @@ Figure 4: In normal conditions (left), small perturbations to the stable state A
 
 &lt;p&gt;At a certain point, the system reaches a tipping point where the tiniest of disturbance can take the system to the alternate stable state, B. This is called &lt;strong&gt;bifurcation-induced tipping&lt;/strong&gt; (there also exist other types of tipping such as noise-induced tipping and rate-induced tipping, which are beyond the scope of discussion of this article). At this point, the resilience indicators show characteristic trends such as increase in statistical variance (due to perturbations persisting over long time), autocorrelation at lag-1 (correlation in the present state and immediate past state), increase in Hurst exponent (a measure of autocorrelations in the data over different time lags), etc. Similarly, longer return times cause systematic trends in recurrence-based quantifiers. Such trends indicate the existence of a tipping point and are therefore collectively known as &lt;a href=&quot;http://www.early-warning-signals.org/?page_id=480&quot;&gt;Early Warning Signals (EWS)&lt;/a&gt; of a dynamical transition. It can be noted that although the example discussed here is a very simple one, CSD and associated EWS have been applied in more nuanced contexts in different areas ranging from psychology, finance, ecology and climate change, etc.&lt;/p&gt;
 
-&lt;h1 id=&quot;critical-transition-in-betelgeuse&quot;&gt;Critical transition in Betelgeuse&lt;/h1&gt;
+&lt;h2 id=&quot;critical-transition-in-betelgeuse&quot;&gt;Critical transition in Betelgeuse&lt;/h2&gt;
 
 &lt;p&gt;Coming back to Betelgeuse, we considered it as a dynamical system and analysed the light curve data collected by the The American Association of Variable Star Observers &lt;a href=&quot;https://www.aavso.org/&quot;&gt;(AAVSO)&lt;/a&gt;. We identified some of the EWS in this data prior to dimming. The process consists of taking subsequent windows (sections) of the light curve in a sliding fashion (i.e. with some overlap), moving a few data points at a time. Then, statistical measures for these windows are calculated and plotted against time, as shown in the figure 5.&lt;/p&gt;
 
@@ -83,7 +247,7 @@ Figure 5: Variation in the (a) Autocorrelation at lag 1 and (b) Variance calcula
 
 &lt;p&gt;As we can see, these measures rise prior to the dimming, and serve as strong evidence of a dynamical transition preceded by CSD. Now, we know that the variability in the light curve of Betelgeuse is primarily governed by pulsation. EWS in the data, therefore, hint at a transition affecting its pulsation dynamics. Of course, the credibility of these results relies on statistical significance (further details in the paper). However, there is another way we can verify the existence of a transition—by looking at the variation in other wavelengths.&lt;/p&gt;
 
-&lt;h1 id=&quot;variations-in-other-wavelengths&quot;&gt;Variations in other wavelengths&lt;/h1&gt;
+&lt;h2 id=&quot;variations-in-other-wavelengths&quot;&gt;Variations in other wavelengths&lt;/h2&gt;
 
 &lt;p&gt;The radiation of a star comprises of different components of the electromagnetic spectrum. These components originate due to different stellar processes. In the case of Betelgeuse, the greatest part of electromagnetic radiation is in the infrared. In fact, Betelgeuse is the brightest star in infrared as seen from Earth! Naturally, the variations in this part of the spectrum are highly relevant to understand the dynamics of Betelgeuse. The multiwavelength data discussed in the paper has been taken with permission from &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-3881/ac19b5&quot;&gt;Harper et al. (2021)&lt;/a&gt;. It consists of a simplified three-filter system devised by &lt;a href=&quot;https://adsabs.harvard.edu/pdf/1992JAVSO..21...42W&quot;&gt;Wing et al. (1992)&lt;/a&gt; for red variable stars. Wing A filter is dominated by the TiO 719 nm (narrow band) and the Wing B and C filters are continuum bands centred around 750 nm and 1024 nm respectively. These filters are carefully selected to measure the infrared magnitude, colour and the spectral type of the star. The primary use of this filter system is for estimating surface temperature of these stars. In addition, this data also includes measurements in the V-band centred around 555 nanometer (nm), that can be compared to the same region in the AAVSO data.&lt;/p&gt;
 
@@ -106,7 +270,7 @@ Figure 7: Pearson correlation coefficient calculated for each pair of wavelength
 
 &lt;p&gt;The dimming could be just a normal cycle of the star but brightness variations in the past have never been so extreme (within the limits of available data). Since the infrared radiation comes from deeper layers of the star, we conclude that the dimming was not a surface phenomena. Further, since the dimming was simultaneous in all bands, we can argue that it was related to a dynamical process that affected the whole star, making change in pulsation dynamics the natural answer.&lt;/p&gt;
 
-&lt;h1 id=&quot;the-current-state-of-the-stellar-matter&quot;&gt;The current state of the (stellar) matter&lt;/h1&gt;
+&lt;h2 id=&quot;the-current-state-of-the-stellar-matter&quot;&gt;The current state of the (stellar) matter&lt;/h2&gt;
 
 &lt;p&gt;Some of the measurements post dimming seem to validate the dynamical transition. For example, the brightening of the star was almost as quick as the dimming, and the next seasonal cycle was ‘rounder’ than ever! Moreover, later studies found increased prominence of the ~180 day period. These observations suggest a permanent change to the pulsation dynamics.&lt;/p&gt;
 
@@ -976,104 +1140,6 @@ Credit: &lt;a href=&quot;https://arxiv.org/pdf/2109.07510.pdf&quot;&gt;Sharma et
         
         
         <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>Understanding the emissions in Black hole binaries</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;Yash Bhargava from Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, takes us through the journey of the death of a star in this wonderful article about his work.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;To understand what I do, I will have to take you on a journey of what happens after a star dies. Yes. Stars also die. Depending on its mass and composition, a star can die either by blooming into a red giant and then dispersing its external shell to leave a bright core at the centre, known as a White Dwarf, or by a gigantic explosion which can typically outshine a Galaxy - leaving either an extremely dense ball made almost entirely of Neutrons (also known as Neutron Stars) or an enigmatic Black hole at the centre. It becomes more interesting if the original star was already revolving around another star also known as the companion star. If the companion is close and large enough, the compact star (either White dwarf, Neutron star, or Black hole) is in a position to capture material from the companion.
-When matter from the companion is captured in the gravitational well of the compact object, it doesn’t simply fall towards the compact object.  The matter would have an initial velocity which would force it to go into an orbit around the compact object. After a huge number of collisions, a fraction of matter would eventually form a disk around the compact object, something similar to the Rings of Saturn but with a tiny but very important twist. The matter in this disk is actually moving inwards while the particles in Saturn’s ring are orbiting the planet in a very stable manner. Hence these disks are called accretion disks. As the matter moves inwards closer to the compact object, it releases the gravitational potential energy. The closer the matter can get to the compact object, the more gravitational energy is available to be released. The conversion of the gravitational potential energy in the disk is a very efficient mechanism making these sources extremely bright. 
- The amount of energy being expelled is quite large, which raises the temperature of the matter so much that it emits radiation peaking in X-rays. Observing X-rays from ground-based observatories is impossible as the incoming radiation is blocked by the atmosphere. Thus scientists have sent many observatories to space to observe and study these enigmatic sources. One such observatory is AstroSat, which is India’s first multi-wavelength mission. It has 5 co-pointed instruments onboard to probe different properties of the target.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/blackhole_emission_yashb/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: An artist’s impression of accretion around the Black hole binary Cyg X-1. The typical emission from the accretion disk is in X-rays while the jet emits from Radio to X-ray wavelengths. (Credits: &lt;a href=&quot;https://chandra.harvard.edu/photo/2011/cygx1/cygx1_ill.jpg&quot;&gt;Chandra X-ray Observatory&lt;/a&gt;
-)
-&lt;/p&gt;
-
-&lt;p&gt;Black hole Binaries are systems of binary stars in which the compact object is a Black hole. As compared to Neutron Star and White Dwarf, Black holes are more dense and compact, thus presenting a deeper gravitational potential well. Close to the Black hole, the extreme gravity, and relativistic effects dominate. Thus these systems are excellent laboratories to probe extreme conditions that are impossible to recreate on Earth. They also show very unique features which have not been completely understood to date. One of these features is a Quasi-Periodic Oscillation (QPO), which is like an oscillation with many close-by frequencies occurring simultaneously. In contrast, many Neutron star binaries show pulsations that correspond to the rotation of the Neutron star and have only a single frequency, thus making them a great clock. The origin of QPO is quite uncertain as some observations indicate that it is a geometrical effect while others imply it is a resonance feature. Previous studies have indicated that the QPO might be related to precession in the accretion disk. But no single model can fully explain the properties of QPOs.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/blackhole_emission_yashb/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: An example of a Quasi-periodic oscillation observed in MAXI J1535-571. The plot shows the power density spectrum, which is the square of the Fourier transform of the intensity variations with time (often called the light curve in the astronomical community). The QPO is highlighted as the grey shaded function. The features at harmonic frequencies (twice &amp;amp; half the QPO frequency) can also be seen.
-)
-&lt;/p&gt;
-
-&lt;p&gt;As part of my research, I have studied different Black hole binary systems which have provided valuable insight into the dynamics of accretion disks. One of these systems, MAXI J1535-571 is quite intriguing. It was discovered in September 2017 and was one of the brightest objects in the X-ray sky when it went into an outburst. AstroSat stared at the source for 5 consecutive days and using the instruments on board we have a unique insight into the source. We have modeled the energy spectrum (which is a count of how many photons of different energies are we seeing) of the source using the Soft X-ray Telescope (SXT) and the Large Area X-ray Proportional Counter (LAXPC), which tells us that this source has a high-temperature accretion disk and a cloud of electron which intercepts some of the energy from the disk and then scatters it to higher energies. The cloud of the electrons can be characterized by the slope of the high-energy spectrum seen by LAXPC. We find that during the observation, this slope is not constant and fluctuates about a mean value.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/blackhole_emission_yashb/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: The X-ray spectrum of MAXI J1535-571. The emission from this source can be characterized by the multi-temperature accretion disk and Compton up-scattering of the accretion disk photons by a thermal cloud of electrons. The total emission was absorbed by neutral Hydrogen close to the source before reaching us. The emission from the Compton up-scattering of the photons depends on the electron temperature and the optical depth and manifests itself as the slope of the spectrum.
-)
-&lt;/p&gt;
-
-&lt;p&gt;LAXPC is a high time resolution instrument and allows us to measure when a photon strikes the detector with an accuracy of 10 microseconds. Thus we can determine if there are any fast oscillations occurring in the source. In this particular case, we see a very prominent QPO which also changes its frequency about a mean value as the observation progresses. We also measure the total output of the source which is dependent on the total accretion rate of the system and we find that it is increasing as time progresses. Models of QPO predict that, typically, the peak frequency of a QPO is linked with the accretion rate; as the accretion rate increases, the QPO frequency also increases. We find that for this source this is not the case for at least the duration of our observation. We see a very strong correlation between the variation in the QPO frequency and the spectral slope indicating that the origin of the QPO is tightly linked with the component responsible for shaping the spectrum. Whenever the QPO frequency increases the slope increases and when one decreases the other is also seen to decrease. These results led us to conclude that the QPO is closely tied to the cloud of electrons instead of the accretion disk where the previous theories expect it to arise from. This work questions the existing models of QPOs and accretion and demands the revision of long-held ideas.
-This work and observations like this provide us with a window into a tiny region, extremely close to a Black hole that cannot be yet imaged with the current technologies. Only recently, scientists were able to combine the observations from radio telescopes across the world to create the first picture of a much larger black hole at the centre of the galaxy. But to understand the environment around a black hole in a binary system, indirect measurements (like the work described here) using the spectral and timing properties of the source will remain the primary method of investigation.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;Note: This article is submitted for &lt;a href=&quot;https://www.awsar-dst.in/&quot;&gt;DST-AWSAR award&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://academic.oup.com/mnras/article/488/1/720/5525097&quot; target=&quot;_blank&quot;&gt;Spectro-timing analysis of MAXI J1535–571 using AstroSat&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Yash Bhargava&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Tomaso Belloni, Dipankar Bhattacharya, Ranjeev Misra&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Thu, 30 Jun 2022 00:00:00 +0530</pubDate>
-        <link>/blackhole_emission_yashb</link>
-        <guid isPermaLink="true">/blackhole_emission_yashb</guid>
-        
-        <category>Accretion</category>
-        
-        <category>Accretion discs</category>
-        
-        <category>Black hole physics</category>
-        
-        <category>X-rays</category>
-        
-        <category>X-ray binaries</category>
-        
-        
-        <category>High Energy Astrophysical Phenomena</category>
         
       </item>
     
