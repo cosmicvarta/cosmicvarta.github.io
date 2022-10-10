@@ -25,7 +25,7 @@ On the basis of their morphology, i.e. appearance, galaxies can be divided into 
 Typical examples of the three classes are illustrated in Fig. 1 below.
 
 <p align="center">
-  <img src="../assets/images/star_formation_sdss_himansh_kavin_images/image1a.png">
+  <img src="../assets/images/star_formation_sdss_himansh_kavin_images/image1a.png" width="350" height="400">
 </p>
 
 <p align="center">
