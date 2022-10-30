@@ -16,8 +16,6 @@ Galaxies are the building blocks of our universe. A comprehensive theory of how 
 >
 ---
 
-<p style="font-family:Courier New">S0</p>
-
 On the basis of their morphology, i.e. appearance, galaxies can be divided into three classes:
 
 ●	The Spirals: Spiral galaxies possess a flat rotating disc with spiral arms. 
