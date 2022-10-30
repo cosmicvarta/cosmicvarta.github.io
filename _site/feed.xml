@@ -5,8 +5,8 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 30 Oct 2022 12:29:30 +0530</pubDate>
-    <lastBuildDate>Sun, 30 Oct 2022 12:29:30 +0530</lastBuildDate>
+    <pubDate>Sun, 30 Oct 2022 12:45:47 +0530</pubDate>
+    <lastBuildDate>Sun, 30 Oct 2022 12:45:47 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -20,9 +20,11 @@
 
 &lt;p&gt;On the basis of their morphology, i.e. appearance, galaxies can be divided into three classes:&lt;/p&gt;
 
-&lt;p&gt;●	The Spirals: Spiral galaxies possess a flat rotating disc with spiral arms. 
-●	The &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s: &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies possess a flat rotating disc, but lack spiral arms. Quite often, the side-view of &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s takes the shape of a convex lens, thus in the old days &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s were called Lenticulars. 
-●	The Ellipticals: Elliptical galaxies, on the other hand, are 3-D ellipsoidal distribution of stars, and do not have any disc-like structure.&lt;/p&gt;
+&lt;p&gt;●	The Spirals: Spiral galaxies possess a flat rotating disc with spiral arms.&lt;/p&gt;
+
+&lt;p&gt;●	The &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s: &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies possess a flat rotating disc, but lack spiral arms. Quite often, the side-view of &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s takes the shape of a convex lens, thus in the old days &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s were called Lenticulars.&lt;/p&gt;
+
+&lt;p&gt;●	The Ellipticals: Elliptical galaxies, on the other hand, are 3-D ellipsoidal distribution of stars, and do not have any disc-like structure.&lt;/p&gt;
 
 &lt;p&gt;Typical examples of the three classes are illustrated in Fig. 1 below.&lt;/p&gt;
 
@@ -31,11 +33,11 @@
 &lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1b.png&quot; /&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1b.png&quot; width=&quot;350&quot; height=&quot;400&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1c.png&quot; /&gt;
+  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1c.png&quot; width=&quot;350&quot; height=&quot;400&quot; /&gt;
 &lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;

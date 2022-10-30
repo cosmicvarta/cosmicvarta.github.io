@@ -19,8 +19,11 @@ Galaxies are the building blocks of our universe. A comprehensive theory of how 
 On the basis of their morphology, i.e. appearance, galaxies can be divided into three classes:
 
 ●	The Spirals: Spiral galaxies possess a flat rotating disc with spiral arms. 
+
 ●	The <a style="font-family:Courier New">S0</a>s: <a style="font-family:Courier New">S0</a> galaxies possess a flat rotating disc, but lack spiral arms. Quite often, the side-view of <a style="font-family:Courier New">S0</a>s takes the shape of a convex lens, thus in the old days <a style="font-family:Courier New">S0</a>s were called Lenticulars. 
+
 ●	The Ellipticals: Elliptical galaxies, on the other hand, are 3-D ellipsoidal distribution of stars, and do not have any disc-like structure. 
+
 
 Typical examples of the three classes are illustrated in Fig. 1 below.
 
@@ -29,11 +32,11 @@ Typical examples of the three classes are illustrated in Fig. 1 below.
 </p>
 
 <p align="center">
-  <img src="../assets/images/star_formation_sdss_himansh_kavin_images/image1b.png">
+  <img src="../assets/images/star_formation_sdss_himansh_kavin_images/image1b.png" width="350" height="400">
 </p>
 
 <p align="center">
-  <img src="../assets/images/star_formation_sdss_himansh_kavin_images/image1c.png">
+  <img src="../assets/images/star_formation_sdss_himansh_kavin_images/image1c.png" width="350" height="400">
 </p>
 
 <p align = "center">
