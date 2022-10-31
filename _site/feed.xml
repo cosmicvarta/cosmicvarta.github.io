@@ -5,9 +5,111 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 31 Oct 2022 14:18:27 +0530</pubDate>
-    <lastBuildDate>Mon, 31 Oct 2022 14:18:27 +0530</lastBuildDate>
+    <pubDate>Mon, 31 Oct 2022 16:51:36 +0530</pubDate>
+    <lastBuildDate>Mon, 31 Oct 2022 16:51:36 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Insight into the pulsar emmision mechanism using subpulse drifting: Subpulse drifting in PSR J1822−2256</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Long after humans figured out that the small bright dots in the night sky were just another sun-like object, and not very long after the discovery of the neutron, in the year 1933, Baade and Zwicky theorized the existence of a star made entirely of neutrons. It was called a neutron star and was thought to be leftover after the death of a rather massive star. The theory was, however, left alone due to the lack of proof.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In 1967, a graduate student found something strange in her data. She saw a signal coming from the sky at equal intervals in time with impeccable accuracy, unknown, until then, to any known astrophysical source. Naturally, this sparked an interest in not just the entire scientific community but also among the non-scientific folks. The phenomenon was initially ascribed to alien civilizations due to the lack of scientific reason. Within a year, the era’s greatest minds figured that the 1967 discovery was, in fact, related to the theory conjectured in 1933.&lt;/p&gt;
+
+&lt;p&gt;The neutron star spins at incredibly high rotational velocity owing to the conservation of angular momentum. They also emit radiation from their magnetic poles, observed at a wide range of wavelengths from Gamma-ray to Radio. This combination of emission from poles and rotation caused the apparent pulsating nature of the signal as seen by a steady observer on Earth. These ‘pulsating’ objects are now commonly known as pulsars.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/subpulse_drifting_parul_images/image01.jpeg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: 2D pulse stacks displaying the subpulse drifting modes of emission observed for J1822−2256. The modes A, B, C, and D are arranged anticlockwise. Here, the x-axis shows the pulse phase, whereas the y-axis is the pulse number. The figure clearly shows drift patterns and their distinct behaviour representing the four different drift modes. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p&gt;In a recent publication, our team tried to understand some long-standing questions related to pulsar emission, in light of new high-quality data from the upgraded Giant Meterwave Radio Telescope (uGMRT), on the pulsar J1822-2256. This work revolves around a periodic pattern found in some pulsars, different from their rotational periodicity. It has been found that the pulse observed from pulsars is not uniform and often shows sub-structures called subpulses. These subpulses are conjectured to come from small pockets of ‘sparks’. The exact working of these sparks is still unclear. But the idea is that as the pulsar rotates around its rotational axis, these sparks also rotate with a period different from the pulsar’s rotational period. Therefore, after each pulsar rotation, the spark arrangement seen by the observer is different from before. Interestingly, a diagonal pattern can be seen when the pulses are stacked in a 2D pulse stack, as shown in figure 1. This phenomenon is called subpulse drifting and gives a unique insight directly into the pulsar emission process. It is to be noted that pulsars show different kinds of drifting, and the parameters are rarely similar for any two pulsars. The number of pulsar rotations it takes for a subpulse to reappear at any given phase is denoted by the value P3.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/subpulse_drifting_parul_images/table01.JPG&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Table 1: Drift mode measurements of J1822−2256. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/subpulse_drifting_parul_images/image02.jpeg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Average profiles of different modes of emission of J1822−2256 at band 3 (300–500 MHz) and band 4 (550–750 MHz). The black dashed lines show the average profile, and the rest show the colour-coded average profile for each mode. The profiles are given arbitrary constant shifts along the y-axis for display purposes. Apart from the variation of the profiles across the different modes, the frequency-dependent behaviour of the profiles in each mode can also be observed here. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/subpulse_drifting_parul_images/image03.jpeg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Plot of emission heights for different modes with frequency. The different colours represent the different subpulse drifting modes. (Credits: Author)
+&lt;/p&gt;
+
+&lt;p&gt;Our study found that the pulsar J1822-2256 shows at least four types of subpulse drifting modes, listed in table 1. The pulsar also seems to significantly lower or stop its emission aperiodically. The average pulsar emission (seen in an average profile, figure 2) also changes as the pulsar switches from one mode to the other. A direct implication of this finding is that the spark configuration changes as the pulsar changes its drifting modes. Through a robust calculation, we also calculated the possible number of sparks in each subpulse drifting mode. How and why the spark configuration changes are the questions that need to be answered. We further tried to explore the emission region for this pulsar. We estimated the emission heights for each subpulse drifting mode using the radius to frequency mapping model, suggesting that high-frequency emission dominantly comes from lower emission heights and low-frequency emission comes from higher altitudes. According to this new-found-knowledge, we claim that the emission we observe from the pulsar is inversely related to the number of sparks in each drifting mode. Figure 3 shows this inverse relationship between the emission height of different modes and the quantity P3, which is used to characterize the subpulse drifting modes. Therefore, each subpulse mode of emission comes from a different height in the pulsar’s magnetosphere and each mode contains a different number of sparks.&lt;/p&gt;
+
+&lt;p&gt;Since the discovery of the first pulsar CP1919 by Jocelyn Bell, thousands of pulsars have been observed. Emission from pulsars has been seen at multiple wavelengths; however, not all pulsars emit at all wavelengths. Some pulsars only emit at radio frequencies, while some others only at Gamma-ray frequencies, and a small fraction also emit at multiple wavelengths. However, a majority of the pulsar population shows emission at radio frequencies, sometimes in conjunction with emission at other frequencies as well. These compact objects have been subjects of curiosity for a long time and continue to do so. Neutron stars are highly gravitating objects, only second to black holes. They have magnetic fields over a trillion times stronger than the Earth’s magnetic field. Thus, neutron stars, aka pulsars, are laboratories to study physics in extreme environments, which are otherwise impossible to attain in labs. Despite the pulsars being known for decades, they continue to be mysterious and something that will always gravitate the astronomers.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;
+If you like this sneak peek into the world of astronomical research, do visit my &lt;a href=&quot;https://www.youtube.com/channel/UCtyBYX722FICBnH-sodTBsQ&quot;&gt;YouTube channel!&lt;/a&gt; I aperiodically (unlike pulsars) post about my life as a PhD scholar, tips for the ones who want to do research, and discuss far more interesting topics related to astrophysics. Psst! I also went to the All India Radio station to record an astronomy podcast. Check out the vlog &lt;a href=&quot;https://www.youtube.com/watch?v=0BaTg1UC5Z0&quot;&gt;here&lt;/a&gt;. Like! Share! Subscribe!
+&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://academic.oup.com/mnras/article/509/3/4573/6429311&quot; target=&quot;_blank&quot;&gt;Revisiting the subpulse drifting phenomenon in PSR J1822−2256: drift modes, sparks, and emission heights&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Parul Janagal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Manoneeta Chakraborty, N D Ramesh Bhat, Bhaswati Bhattacharyya, Samuel J McSweeney&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Department of Astronomy, Astrophysics, and Space Engineering, Indian Institute of Technology Indore, Indore 453552, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 31 Oct 2022 00:00:00 +0530</pubDate>
+        <link>/subpulse_drifting_parul</link>
+        <guid isPermaLink="true">/subpulse_drifting_parul</guid>
+        
+        <category>Neutron Stars</category>
+        
+        <category>Pulsars</category>
+        
+        <category>PSR J1822−2256</category>
+        
+        <category>Subpulse Drifting</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Star-forming S0 Galaxies in SDSS-MaNGA: fading spirals or rejuvenated S0s?</title>
@@ -1062,99 +1164,6 @@ Credit: &lt;a href=&quot;https://astronomy.com/news/2019/05/giant-impact-hypothe
         
         
         <category>Earth and Planetary Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Clouds’ Motion entangled by Magnetic Fields in Cepheus Flare</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;Stars take birth in molecular clouds. The presence of magnetic fields everywhere in the universe naturally creates a curiosity to investigate their role at all the stages of star fomation. The motion of clouds through the interstellar medium in the presence of magnetic fields may get effected and can shed light on the structure/orientation of stellar nurseries.  This short article will explain these possible effects in an interesting region of our Universe, Cepheus Flare.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Understanding how stars are formed is one of the crucial questions in astronomy. Molecular clouds are the blank spaces or voids in between stars in our galaxy, the Milky Way and they consist of predominantly hydrogen or helium molecules. They are stellar nurseries in our local galaxy and the universe. The prestellar/protostellar cores are the high density nested quantities in large molecular clouds with a typical temperatures of 10 K and density of ~ 103 cm&lt;sup&gt;-3&lt;/sup&gt;. They are considered as the fundamental units for the formation of stars.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig1.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: Schematic of cloud of radius Rc moving in a uniformly magnetized background medium with a velocity, Vc making an angle θ with the field lines
-Credit: &lt;a href=&quot;https://iopscience.iop.org/article/10.1086/307162/pdf&quot;&gt;Miniati et al. 1999&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Magnetic fields, which are ubiquitous to the universe, is a very interesting property. Due to their interaction with the ionized material, they can play an important role in the dynamics of the clouds. The angular offsets between the direction of the cloud motion and the magnetic fields, θ is shown in Fig. 1. These offsets can help in preventing the disruption of the cloud (radius Rc moving with velocity Vc) against the Kelvin-Helmholtz instability in the interstellar medium as suggested by simulations.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig1.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: Schematic of cloud of radius Rc moving in a uniformly magnetized background medium with a velocity, Vc making an angle θ with the field lines
-Credit: &lt;a href=&quot;https://iopscience.iop.org/article/10.1086/307162/pdf&quot;&gt;Miniati et al. 1999&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Stars which are young are still associated/embedded in the high-density clouds because the surrounding molecular material has not completely collapsed towards the centre. Their motion in the projected plane of the galaxy is defined as proper motion. Stars move in the interstellar medium (ISM) and their proper motion is a critical factor in determining their overall motion in the galaxy.  Proper motion can serve as a proxy of the motion of the clouds in the ISM. A team of researchers led by Dr. Ekta Sharma and Dr. Maheswar Gopinathan from the Indian Institute of Astrophysics, an autonomous institute of the Department of Science &amp;amp; Technology, Govt. of India and Dr. Sami Dib from Niels Bohr Institute, University of Copenhagen, Denmark carried out an observational test on a sample of clouds (L1228, L1251, L1172/1174 and L1147/1158) located at a nearby distance of ~330 pc in Cepheus Flare region identified in Fig. 2. The Gaia (Global Astrometric Interferometer for Astrophysics) and Planck, both are space based observatories to study the motion of stars and the emission in far-infrared wavelengths, respectively. The authors used proper motion data from Gaia Data Release 3 to study the motion of the clouds in sky plane (shown by arrows in Fig. 2) and Planck polarization data to construct magnetic field maps.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig2.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Background image in color scale is cloud emission in far-infrared wavelengths obtained by Planck satellite. Blue arrows show the direction of proper motion.
-Credit: &lt;a href=&quot;https://arxiv.org/pdf/2109.07510.pdf&quot;&gt;Sharma et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;They estimated various offsets between the direction of magnetic field and the motion of the clouds in the sky. The results show that the magnetic fields are ordered in all the clouds except one cloud, L1172/1174 which shows an offset (angle, θ in Fig. 1) higher than 30°. The authors suggest that the higher offset could be responsible for converting the cloud material in the form of hub-filament structure (see Fig. 3). These structures consist of a hub having less aspect ratio with high column density and a number of filaments with high aspect ratio with less column density.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig3.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: Schematics of Hub-filament systems.
-Credit: &lt;a href=&quot;https://arxiv.org/pdf/2008.00295.pdf&quot;&gt;Kumar et al., 2020&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Starless cores are the earlier stages in the process of star formation which have not formed stars and the pretsellar cores are the ones which are on the verge of making stars. We made a quantitative analysis of the core orientations (direction of major axes) (in Fig. 4) with respect to the magnetic field in case of starless as well as the prestellar cores. The distribution for all the clouds is found to be random. The study concluded that the core dynamics could be affected more by the local variations in the magnetic field in the cloud’s environment. The results of this study have been published in the journal “Astronomy &amp;amp; Astrophysics”.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/cloud_motion_cepheus_flare_ekta/ekta_fig4.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 4: Distribution of offset between magnetic field direction and clump orientation. 
-Credit: &lt;a href=&quot;https://arxiv.org/pdf/2109.07510.pdf&quot;&gt;Sharma et al., 2021&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://www.aanda.org/articles/aa/abs/2022/02/aa40495-21/aa40495-21.html&quot; target=&quot;_blank&quot;&gt; Cloud motion and magnetic fields: Four clouds in the Cepheus Flare region&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Ekta Sharma&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; G. Maheswar and S. Dib&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Astrophysics (IIA), Sarjapur Road, Koramangala, Bangalore 560034, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-</description>
-        <pubDate>Sun, 17 Jul 2022 00:00:00 +0530</pubDate>
-        <link>/cloud_motion_cepheus_flare_ekta</link>
-        <guid isPermaLink="true">/cloud_motion_cepheus_flare_ekta</guid>
-        
-        <category>polarization; clouds; ISM; proper motion; GAIA</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
         
       </item>
     
