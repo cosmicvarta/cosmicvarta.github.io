@@ -331,6 +331,14 @@ authors:
         twitter: 
         description: "Himansh Rathore participated in this work as an undergrad from the Department of Physics, Indian Institute of Technology Bombay. He is currently pursuing a PhD from the Department of Astronomy, University of Arizona. Kavin Kumar is from the Department of Physics, Indian Institute of Science Education and Research Bhopal, and is currently pursuing his masters thesis from the National Center for Radio Astrophysics, Pune."
 
+ Parul Janagal:
+        name: Parul Janagal
+        display_name: Parul Janagal
+        avatar: 'assets/images/parul_janagal.jpeg'
+        email: phd1801121004@iiti.ac.in
+        web: https://sites.google.com/view/paruljanagal/home?authuser=0
+        twitter: 
+        description: "I'm a final year PhD Scholar currently excavating secrets of the universe as an Astrophysicist. Beyond my obvious love for pulsars, I like to read and do DIY projects. I'm also obsessed with Astrophotography, and one can always find me lurking in the shadows, trying to find a clean spot to see the stars."
 
 
 plugins:
