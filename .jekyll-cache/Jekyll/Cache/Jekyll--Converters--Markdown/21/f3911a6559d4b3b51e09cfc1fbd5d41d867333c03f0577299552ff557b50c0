@@ -1,0 +1,102 @@
+I"Z<blockquote>
+
+  <p><strong>CosmicVarta</strong> celebrates its <strong>first birthday</strong> today! Hurray!
+It was a wonderful year indeed.
+Today, we take a look back at our journey and briefly talk about our future plans.</p>
+
+  <hr />
+</blockquote>
+
+<h2 id="our-story">Our Story</h2>
+
+<p><strong>Astronomy and Astrophysics</strong> as a subject has the potential to remove the barriers between people and unite them in a hope of understanding the cosmos. However, even though cutting-edge research is being carried out across India, a communication gap exists between the researchers and the younger students as well as the general public who may not be familiar with the technical details.</p>
+
+<p>In the hope of bridging this gap, came together a group of enthusiastic PhD students from various research institutes across India and <strong>CosmicVarta</strong> was born.</p>
+
+<p align="center">
+  <img src="../assets/images/cosmic_varta_one_yr_ann_images/our_story.jpg" />
+</p>
+
+<p align="center">
+</p>
+
+<p>Here is an article describing <a href="https://cosmicvarta.in/welcome-to-cosmicvarta-team/" target="_blank">“What is CosmicVarta?”</a></p>
+
+<h2 id="cosmicvarta-in-numbers">CosmicVarta in numbers…</h2>
+
+<ol>
+  <li>Total number of articles: 46</li>
+  <li>Total number of featured articles: 5</li>
+  <li>Number of articles under progress: 10+</li>
+  <li>Contributions from: Masters’ students, PhD scholars, post docs and scientists</li>
+  <li>Number of authors: 34</li>
+  <li>Number of editors: 10+</li>
+  <li>Contribution from University students: 32.35%</li>
+  <li>Contribution from Institute students: 67.65%</li>
+  <li>Readers from <strong>76</strong> countries with maximum users from India followed by US</li>
+</ol>
+
+<h2 id="showcasing-cosmicvarta">Showcasing CosmicVarta</h2>
+
+<p>This year, we had an opportunity to showcase CosmicVarta at several conferences and events. Here is the list of those events.</p>
+
+<p align="center">
+  <img src="../assets/images/cosmic_varta_one_yr_ann_images/cv_appearances.jpg" />
+</p>
+
+<p align="center">
+</p>
+
+<h2 id="future-goals">Future Goals</h2>
+
+<p align="center">
+  <img src="../assets/images/cosmic_varta_one_yr_ann_images/goals_short.jpg" />
+</p>
+
+<p align="center">
+</p>
+
+<p align="center">
+  <img src="../assets/images/cosmic_varta_one_yr_ann_images/goals_long.jpg" />
+</p>
+
+<p align="center">
+</p>
+
+<h2 id="contribute-to-cosmicvarta">Contribute to CosmicVarta</h2>
+
+<p>We are always looking for contributors.
+<strong>Here is how you may contribute to our efforts and help us take the research done by the Indian Astronomy and Astrophysics community to wider audiences.</strong></p>
+
+<p align="center">
+  <img src="../assets/images/cosmic_varta_one_yr_ann_images/contribute.jpg" />
+</p>
+
+<p align="center">
+</p>
+
+<p><strong>We thank everyone who has been part of our journey. We look forward much more eventful and exciting year ahead!</strong></p>
+
+<h2 id="thank-you">Thank you!</h2>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+:ET

@@ -8,10 +8,9 @@ categories: [General]
 tags: [popular, women-in science]
 class: [Featured]
 image: assets/images/woman_science_day_books/women_science_cover_image.jpg
-featured: True
-hidden: True
-review: true
-
+featured: False
+hidden: False
+popular: true
 ---
 
  *Progress is possible only when everyone capable of contributing is given an equal chance irrespective of gender, community and nationality. While there is a long way to go before this gap is fulfilled, it should be noted that we as a community have made considerable strides in meeting this agenda. Even at the dawn of independence, the majority of women were not even given a chance to study but now, in 70 years, we can happily say that women are not only earning degrees and doctorates but actively leading the world on major scientific, technological and industrial fronts!*

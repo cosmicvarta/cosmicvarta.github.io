@@ -118,7 +118,7 @@ I'm Anusha. I'm a Ph.D. scholar at the University of Western Ontario. My researc
 
 
 ## Acknowledgements:
-We thank the [Astronomical Society of India (ASI)](https://www.astron-soc.in/) for supporting our initiative as a part of their golden anniversary celebrations (#ASI50). We would like to mention [Vivek Kumar Jha](https://viveikjha.github.io/) from Aryabhatta Research Institute of Observational Sciences (ARIES) and Gourav Banerjee from CHRIST (Deemed to be University) for their valuable inputs regarding the website from the time the idea for CosmicVarta was conceived and Suman Bhattacharyya from CHRIST (Deemed to be University) for designing the beautiful logo of CosmicVarta and Vishal Upendran from IUCAA for working with us to improve the website.
+We thank the [Astronomical Society of India (ASI)](https://www.astron-soc.in/) for supporting our initiative as a part of their golden anniversary celebrations (#ASI50). We would like to mention [Vivek Kumar Jha](https://viveikjha.github.io/) from Aryabhatta Research Institute of Observational Sciences (ARIES) and Gourav Banerjee from CHRIST (Deemed to be University) for their valuable inputs regarding the website from the time the idea for CosmicVarta was conceived and Suman Bhattacharyya from CHRIST (Deemed to be University) for designing the beautiful logo of CosmicVarta.
 
 
 ---

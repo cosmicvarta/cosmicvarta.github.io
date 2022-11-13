@@ -7,9 +7,9 @@ categories: [General]
 tags: [popular]
 class: [Anniversary special]
 image: assets/images/cosmic_varta_one_yr_ann_images/1_year_ann.png
-featured: False
-hidden: False
-review: true
+featured: True
+hidden: True
+review: False
 ---
 >
 **CosmicVarta** celebrates its **first birthday** today! Hurray!
@@ -17,6 +17,8 @@ It was a wonderful year indeed.
 Today, we take a look back at our journey and briefly talk about our future plans.
 >
 ---
+
+## Our Story
 
 **Astronomy and Astrophysics** as a subject has the potential to remove the barriers between people and unite them in a hope of understanding the cosmos. However, even though cutting-edge research is being carried out across India, a communication gap exists between the researchers and the younger students as well as the general public who may not be familiar with the technical details.
 
@@ -28,6 +30,8 @@ In the hope of bridging this gap, came together a group of enthusiastic PhD stud
 
 <p align = "center">
 </p>
+
+Here is an article describing <a href="https://cosmicvarta.in/welcome-to-cosmicvarta-team/" target="_blank">"What is CosmicVarta?"</a>
 
 ## CosmicVarta in numbers...
 
@@ -42,6 +46,8 @@ In the hope of bridging this gap, came together a group of enthusiastic PhD stud
 9. Readers from **76** countries with maximum users from India followed by US
 
 ## Showcasing CosmicVarta
+
+This year, we had an opportunity to showcase CosmicVarta at several conferences and events. Here is the list of those events.
 
 <p align="center">
   <img src="../assets/images/cosmic_varta_one_yr_ann_images/cv_appearances.jpg">
@@ -66,6 +72,9 @@ In the hope of bridging this gap, came together a group of enthusiastic PhD stud
 <p align = "center">
 </p>
 
+## Contribute to CosmicVarta
+
+We are always looking for contributors.
 **Here is how you may contribute to our efforts and help us take the research done by the Indian Astronomy and Astrophysics community to wider audiences.**
 
 <p align="center">
@@ -75,7 +84,9 @@ In the hope of bridging this gap, came together a group of enthusiastic PhD stud
 <p align = "center">
 </p>
 
-**Thank you note**
+**In the end thank everyone who has been part of our journey. We look forward much more eventful and exciting year ahead!**
+
+## Thank you!
 
 <div id="disqus_thread"></div>
 <script>
