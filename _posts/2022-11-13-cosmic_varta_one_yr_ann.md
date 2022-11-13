@@ -47,7 +47,7 @@ Here is an article describing <a href="https://cosmicvarta.in/welcome-to-cosmicv
 
 ## Showcasing CosmicVarta
 
-This year, we had an opportunity to showcase CosmicVarta at several conferences and events. Here is the list of those events.
+This year, we had several opportunities to showcase CosmicVarta conferences and events. Here is the list of those events.
 
 <p align="center">
   <img src="../assets/images/cosmic_varta_one_yr_ann_images/cv_appearances.jpg">
