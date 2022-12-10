@@ -340,6 +340,14 @@ authors:
         twitter: https://www.linkedin.com/in/parul-janagal/?originalSubdomain=in
         description: "I'm a final year PhD Scholar currently excavating secrets of the universe as an Astrophysicist. Beyond my obvious love for pulsars, I like to read and do DIY projects. I'm also obsessed with Astrophotography, and one can always find me lurking in the shadows, trying to find a clean spot to see the stars."
 
+ Shashank Pandey:
+        name: Shashank Pandey
+        display_name: Shashank Pandey
+        avatar: 'assets/images/avatar.png'
+        email: 
+        web: 
+        twitter: 
+        description: "PhD scholar at the department of Astrophysics and Cosmology, S.N. Bose National Centre for Basic Sciences, Kolkata."
 
 plugins:
   - jekyll-paginate
