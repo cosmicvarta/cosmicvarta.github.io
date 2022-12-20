@@ -349,6 +349,15 @@ authors:
         twitter: 
         description: "PhD scholar at the department of Astrophysics and Cosmology, S.N. Bose National Centre for Basic Sciences, Kolkata."
 
+ Silpa Sasikumar:
+        name: Silpa Sasikumar
+        display_name: Silpa Sasikumar
+        avatar: 'assets/images/silpa_sasikumar.jpg'
+        email: 
+        web: https://sites.google.com/view/silpasasikumar/?pli=1
+        twitter: 
+        description: "My primary research interest is to understand the physical mechanisms driving radio outflows in Active Galactic Nuclei (AGN), particularly quasars."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
