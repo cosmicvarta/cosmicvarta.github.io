@@ -12,17 +12,21 @@ comments: False
 
 Articles based on the following list of papers have been received by **CosmicVarta**  and are under the process of editing by our team members. Usually the articles stay with our editors for a period of 2-3 weeks, after which you may expect the article to be published on the main webpage.
 
+- [Review of "Robust absolute solar flux density calibration for the Murchison Widefield Array" by Devojyoti Kansabanik](https://ui.adsabs.harvard.edu/abs/2022ApJ...927...17K/abstract)
 
+- [Review of "A nearby long gamma-ray burst from a merger of compact objects" by Rahul Gupta](https://www.nature.com/articles/s41586-022-05327-3#:~:text=On%2011%20December%202021%20at,Fermi%2C%20INTEGRAL%20and%20CALET%20satellites.)
 
- - [Review of *A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies* by Vivek Kumar Jha.](https://doi.org/10.1093/mnras/stab3700)
+- [Review of "HI gas playing hide-and-seek around a powerful FRI type quasar at z~2.1" by Neeraj Gupta](https://iopscience.iop.org/article/10.3847/2041-8213/ac589f)
 
- - [*Star-forming S0 Galaxies in SDSS-MaNGA: fading spirals or rejuvenated S0s?* by Himansh Rathore](https://academic.oup.com/mnras/article/513/1/389/6561635)
+- [Review of "SN 2020jfo: A short plateau Type II supernova from a low mass progenitor!" by Rishab Singh Teja](https://ui.adsabs.harvard.edu/abs/2022ApJ...930...34T/abstract)
 
+- [Review of "Distinguishing reionization models using the largest cluster statistics of the 21-cm maps" by Aadarsh Pathak](https://ui.adsabs.harvard.edu/abs/2022JCAP...11..027P/abstract)
 
-- [*Revisiting the sub-pulse drifting phenomenon in PSR J1822−2256: Drift Modes, Sparks, and Emission Heights* by Parul Janagal](https://academic.oup.com/mnras/article/509/3/4573/6429311)
-
+- [Review of *A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies* by Vivek Kumar Jha.](https://doi.org/10.1093/mnras/stab3700)
 
 - [*Measurement of accretion disc sizes for quasars from the ZTF survey* by Vivek Kumar Jha](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3005J/abstract)
+
+- [Article on science outreach activities at YAM 2022 by Vishal Upendran]()
 
 ---
 ---

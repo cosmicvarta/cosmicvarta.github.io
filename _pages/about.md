@@ -98,6 +98,7 @@ Hello there! My name is Robin Thomas. I am a PhD student at CHRIST (Deemed to be
 ---
 ---
 
+<!---
 
 <p align="center">
   <img src="assets/images/anusha.jpg" height="300" width="300" style="border-radius:50%">
@@ -112,13 +113,13 @@ I'm Anusha. I'm a Ph.D. scholar at the University of Western Ontario. My researc
 ---
 ---
 
-
+-->
 
 
 
 
 ## Acknowledgements:
-We thank the [Astronomical Society of India (ASI)](https://www.astron-soc.in/) for supporting our initiative as a part of their golden anniversary celebrations (#ASI50). We would like to mention [Vivek Kumar Jha](https://viveikjha.github.io/) from Aryabhatta Research Institute of Observational Sciences (ARIES) and Gourav Banerjee from CHRIST (Deemed to be University) for their valuable inputs regarding the website from the time the idea for CosmicVarta was conceived and Suman Bhattacharyya from CHRIST (Deemed to be University) for designing the beautiful logo of CosmicVarta.
+We thank the [Astronomical Society of India (ASI)](https://www.astron-soc.in/) for supporting our initiative as a part of their golden anniversary celebrations (#ASI50). We would like to mention [Vivek Kumar Jha](https://viveikjha.github.io/) from Aryabhatta Research Institute of Observational Sciences (ARIES), Gourav Banerjee from CHRIST (Deemed to be University) and Anusha Ravikumar from the University of Western Ontario, for their valuable inputs regarding the website from the time the idea for CosmicVarta was conceived and Suman Bhattacharyya from CHRIST (Deemed to be University) for designing the beautiful logo of CosmicVarta.
 
 
 ---
