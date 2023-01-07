@@ -5,9 +5,209 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 04 Jan 2023 21:25:52 +0530</pubDate>
-    <lastBuildDate>Wed, 04 Jan 2023 21:25:52 +0530</lastBuildDate>
+    <pubDate>Sat, 07 Jan 2023 17:21:25 +0530</pubDate>
+    <lastBuildDate>Sat, 07 Jan 2023 17:21:25 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Fantastic beasts and where to find them: the elusive nature of X-ray quiet black holes</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;With the gravitational wave observations capturing the coalescence of compact objects, hunting for black holes has taken quite a front-row seat in astronomical observations. Here, we discuss two such detection of black holes in orbit with a main sequence companion, and why it is very difficult to find them in the forest of massive stars.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;Massive stars are objects that are more massive than eight times the mass of our Sun (M⊙). They play an essential role in the evolution of our Universe. They enrich the void between stars with matter via strong winds and provide mechanical feedback. However, many aspects of massive star evolution are still unconstrained, such as their wind mass-loss rates, the mixing efficiency inside their surface, and their death.&lt;/p&gt;
+
+&lt;p&gt;Massive stars that are heavier than ~20 M⊙ are thought to collapse directly to form black holes. Expectantly, there are many uncertainties such as the mass range for black hole formation, the natal kick imparted during the black hole formation due to asymmetric collapse,
+and the spin of the resultant black hole. The gravitational wave detectors have already observed ~90 compact object merger events involving black holes and neutron stars. However, more than a million black holes are predicted to be present in our Galaxy itself, waiting to be discovered. So, observationally detecting a large sample of black holes can shed necessary light on their formation properties and their subsequent evolution.&lt;/p&gt;
+
+&lt;p&gt;Empirically, massive stars have been observed to exist in binaries and higher order multiples, with about three out of every 100 massive star binary above 10M⊙ expected to harbour a black hole as its companion. However, a large fraction of these binaries that will eventually form double compact object binaries will not merge within the current age of our Universe. Hence, they will remain unobservable in the current gravitational wave surveys. Nevertheless, progress can be made to discover these black holes while they are in orbit with a massive star companion, where they are detectable via alternative methods. This is possible, for example, by measuring the X-ray emission from the accretion disk of the black hole, the radial velocity variations in the spectral lines&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; of the massive main sequence companion, and through periodic astrometric variations&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; or photometric variability&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; of the massive star companion induced by the black hole.&lt;/p&gt;
+
+&lt;h1 id=&quot;results&quot;&gt;Results&lt;/h1&gt;
+
+&lt;p&gt;Black holes in binaries are thought to form from the collapse of massive Wolf-Rayet stars, which are very hot and bright stars that show emission lines in their spectrum. Now, there are many observed Wolf-Rayet+O star binaries in our Galaxy (~80) compared to observed black hole+O star binaries (only one, Cyg X-1). To resolve this disparity, it was recently suggested that black holes receive a significant natal kick when the Wolf-Rayet stars collapse to form a black hole, disrupting the binary.&lt;/p&gt;
+
+&lt;p&gt;Since black holes do not emit any light of their own, we need to rely on the indirect ways discussed above to observe a black hole. The most common method has been to detect X-rays from the accretion disk around the black hole in a binary with the O star companion. Some of the wind matter from the companion gets attracted by the gravity of the black hole, and if that matter falling into it has enough angular momentum, it can form a disk before being engulfed by the black hole. The matter then swirls around the black hole multiple times, gets heated up to millions of degrees, and gets hot enough to emit X-rays. Bondi, Hoyle and Lyttleton did pioneering work in this field in the 1940s.&lt;/p&gt;
+
+&lt;p&gt;However, we find that such wind accretion in our black hole+O star binary models is not expected to lead to observable X-ray emission. Only in exceptionally favourable cases, such as high angular momentum accretion efficiency and low wind velocities, can an accretion disk form, leading to observable X-ray emission. Moreover, the formation of an accretion disk is also biased towards binaries containing rapidly spinning black holes.&lt;/p&gt;
+
+&lt;p&gt;The first-born black hole in a massive binary is expected to be slowly spinning due to efficient angular momentum transport inside a star. The wind velocity of O stars is very high (~2000 km/s), empirically verified through observations. Detailed hydrodynamic calculations predict only one-third of the angular momentum available is accreted by the black hole. Hence, most black holes in orbit with an O star are not expected to form an accretion disk and remain unobservant via X-ray telescopes. So, the discrepancy in the number of observed Wolf-Rayet+O star binaries in comparison to black hole+O star binaries may be due to the lack of observability of the black hole binaries in X-rays. We conclude that high black hole natal kicks are not necessary to explain the scarcity of observed high-mass X-ray binaries. Instead, searching for black holes via alternative methods may be more fruitful.&lt;/p&gt;
+
+&lt;p&gt;One alternative would be to search for black holes in our Milky Way via astrometric variations in visible stars - that is, variations in the precise measurements of the position of stars in the sky. This method has been shown to be very promising as our Milky Way is expected to harbour millions of black holes in orbit with main sequence companions whose astrometry can be carried out in principle by the GAIA telescope. Unfortunately, the GAIA Data Release 3 did not have the relevant data for stars massive enough to host black holes, and hence this method could not be pursued.&lt;/p&gt;
+
+&lt;p&gt;Thus in this work, we look at radial velocity variations of observed massive stars. We have a nearly complete census of the massive star content in the Tarantula nebula of Large Magellanic Cloud, which enables us to also carry out precise number statistics for the massive stars in this region. In fact, it is the most active star-forming region known in the Local Group of galaxies containing very massive stars with a metallicity resembling the peak of star formation in our Universe. The radial velocity of stars is measured by observing the Doppler shift in a prominent spectral line of the star. As the star moves around in one full orbit, the spectral lines are blue-shifted for half of the orbit and red-shifted for the remaining orbit.&lt;/p&gt;
+
+&lt;p&gt;When we see a Doppler shift in a spectral line of a stellar object both towards the bluer and redder wavelengths simultaneously, we identify the object as a double-lined spectroscopic binary. This is because both the components of the binary are responsible for creating the Doppler shifts in opposite directions, one moving towards us in orbit and the other away from us. When we see a Doppler shift in only one direction, we identify the object as a single-lined spectroscopic binary. This is because the companion star is usually too faint for its spectral line to be detected. Or, in the most interesting case, the companion is a compact object which does not emit any light of its own.&lt;/p&gt;
+
+&lt;p&gt;We identify the single-lined spectroscopic binaries in the sample of massive stars observed in the Tarantula region. The VLT Flames Tarantula Survey observed approximately 800 massive stars, out of which 300 were O-type stars. From these, around 100 targets that showed radial velocity variations were followed up in the Tarantula Massive Binary Monitoring Survey. Of these, 51 of them were categorised as single-lined spectroscopic binaries. Through follow-up spectral disentangling, we retrieved hidden spectra in 43 of these targets. For the remaining targets where we were not able to find a non-degenerate companion, three of them had an estimated minimum mass of the unseen companion above 4M⊙.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/xray_quiet_blackholes_koushik/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 1 : Visualisation of the BH+O star binary VFTS 243, a 10.4 d-period binary with a (near-)circular orbit situated in the Tarantula nebula in the Large Magellanic Cloud (credit: Isca Mayo / Sara Pinilla). The sizes of the star, black hole, and orbits are not to scale.
+&lt;/p&gt;
+
+&lt;p&gt;Of the above, we were able to find unambiguous evidence for the presence of a 9.1M⊙ object in the system named VFTS 243. The orbital period of this system is 10.4  days and the orbit is also circular. Through follow-up rigorous analysis, we arrive at the conclusion that the object is a black hole, the first one detected in the Large Magellanic Cloud. The system is also X-ray quiet, in agreement with our earlier study on the X-ray emission from black hole + main sequence systems. The above number statistics show how big an observing program needs to be undertaken to unambiguously find black holes via radial velocity monitoring of observed massive stars. In the Milky Way, we have found another system, HD 130298, that could be another candidate to host a stellar-mass black hole. Our journey towards identifying a population of X-ray quiet black holes has only started, and we aim to slowly but surely hunt them down, through future observational surveys, one black hole at a time.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+&lt;hr /&gt;
+
+&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;i.e. the spectral lines oscillate about the mean wavelength due to doppler effect. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;i.e. change in absolute position on the sky. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
+      &lt;p&gt;change in luminosity or flux. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2023 00:00:00 +0530</pubDate>
+        <link>/xray_quiet_blackholes_koushik</link>
+        <guid isPermaLink="true">/xray_quiet_blackholes_koushik</guid>
+        
+        <category>stars</category>
+        
+        <category>massive black holes</category>
+        
+        <category>binaries</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
+    
+      <item>
+        <title>Precise Measurement of Flux Density of Radio Emissions from the Sun using Day-time Celestial Radio Sources</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;During astronomical observation, astronomers measure the amount of energy emitted by astronomical objects. This energy is generally measured in terms of the flux density of the source. At radio frequencies, these measurements are calibrated using calibrator sources, which have known constant flux densities. Since the Sun is about 1000 times brighter at radio frequencies than the calibrator sources, estimating the flux density of the solar radio emission is challenging. With the new generation radio telescope, the Murchison Widefield Array, it is now possible to observe the faint background radio sources simultaneously with the Sun. This is the first such an observation has been made, which seems like “observing stars in the day”. Using these background radio sources it is now possible to estimate the flux density of the solar radio emission with much better accuracy, which is important to understand the emission mechanisms of solar radio emissions.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;In most physics experiments, researchers measure various quantities in different units, like the mass of a body measured in grams, the length of an object measured in centimeters, and so on. Similarly, Astronomers also measure different quantities during astronomy observations, which can be used to understand the physical properties of that astronomical object. In astronomy, measurements are done in some well-defined units, like any other area of physics. One such important quantity in astronomy is the &lt;em&gt;flux density&lt;/em&gt;, which defines the amount of energy received per unit of time from astronomical sources if collected over a unit area and unit solid angle for a monochromatic emission. At radio wavelengths, the unit of this flux density is &lt;em&gt;Jansky (Jy)&lt;/em&gt;, named after the pioneer of radio
+astronomy, Karl. J. Jansky.&lt;/p&gt;
+
+&lt;p&gt;When an astronomer observes the radio emission from a celestial object using a radio telescope, the tiny amount of incident radio emission is converted into electronic voltages by the very sensitive electronic instruments of the radio telescope. The corresponding power generated by these very tiny voltages is recorded in some arbitrary units. But, to understand the physical processes happening on that celestial object, astronomers need to convert this measured power into the units of &lt;em&gt;Jy&lt;/em&gt;. The process to convert this is known as flux density calibration. Precise measurement of the flux density in units of &lt;em&gt;Jy&lt;/em&gt; is essential to properly measure other physical properties, like distance, size, temperature, and so on, of that astronomical source.&lt;/p&gt;
+
+&lt;p&gt;This process is routinely done using a bright radio source with a well-pre-defined flux density. These are called calibrator sources. While observing the Sun at radio wavelengths, this standard approach does not work. The flux density of the Sun is about 1000 times more than the brightest celestial radio source in the sky. Like at the optical wavelengths, it is tough to observe the background sources in the sky at radio wavelengths when the Sun is in the sky. Hence, to obtain the flux density of the Sun at radio wavelengths, solar physicists have used different laboratory measurements of the properties of the instrument to estimate the flux density of solar radio emission. But those estimations had comparatively large errors in the flux density.&lt;/p&gt;
+
+&lt;h1 id=&quot;observing-stars-in-the-day&quot;&gt;Observing Stars in the Day&lt;/h1&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/flux_density_radio_emission_devojyoti/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Fig. 1 : An image of the daytime sky at radio frequency (80 MHz). The image is made from the observations taken with the instrument called the Murchison Widefield Array, which can observe a large, about 2500 square degrees of the sky at a time. The red circle in the image marks the Sun. All small white dots in the image are background sources
+emitting radio frequencies, including stars, galaxies, quasars, pulsars, and others.
+&lt;/p&gt;
+
+&lt;p&gt;For precise flux density calibration of solar observation, several background radio sources with well-known flux densities must be observed during the daytime. This is extremely challenging.&lt;/p&gt;
+
+&lt;p&gt;Despite great challenges, a team of solar physicists from NCRA, led by Devojyoti Kansabanik, have successfully observed more than 80 background radio sources with the Sun in the field of view (FOV) of the telescope using images having a dynamic range of 1000. The dynamic range is the ratio between the brightest and faintest emission detected in the image. They used one of the most advanced telescopes in the world, the Murchison Widefield Array (MWA), situated in the western Australian desert, to make this high dynamic range image. This image is shown in Figure 1. A red circle marks the Sun, and all other small white dots are the radio emissions from background stars, galaxies, and other celestial bodies. They detected more than 80 sources with the Sun in the sky. This is the first time such an image of a daytime sky is made, which seems like &lt;em&gt;observing stars in the day&lt;/em&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;precise-measurement-of-flux-density-of-the-radio-sun&quot;&gt;Precise Measurement of Flux Density of the Radio Sun&lt;/h1&gt;
+
+&lt;p&gt;Kansabanik et al. use these background radio sources to estimate the flux density of the radio Sun. The known flux density of these sources is obtained from the GLEAM survey and determines a scalar number for each source to match their flux density obtained from the image with the previously known values. They have found that these scalar numbers are constant for the full image. Hence, the same scalar number can be used to obtain the true flux density of the Sun in units of &lt;em&gt;Jy&lt;/em&gt;. This method allows them to measure solar flux density with a precision of 10 %, which is about 3 to 6 times more precise than the previous method developed by Oberoi et al. 2017. They also found that the 10% error is mostly coming from the error on the known flux densities from GLEAM of these radio sources.&lt;/p&gt;
+
+&lt;p&gt;Kansabanik et al. also devise a method exploiting the extreme stability of the MWA. They demonstrated that a very precise solar flux density could be obtained only using an analytical function of frequency without using any dedicated observation of flux density calibrator.&lt;/p&gt;
+
+&lt;h1 id=&quot;importance-for-future-observations-of-the-sun-and-heliosphere&quot;&gt;Importance for Future Observations of the Sun and Heliosphere&lt;/h1&gt;
+
+&lt;p&gt;As said earlier, astronomers use precise flux density measurements to estimate several physical parameters of the celestial source. The radio emission from quiet solar corona or coronal mass ejections can be used to measure those media’s temperature, magnetic field, and electron properties. The estimated values of these plasma parameters strongly depend on the precision of the flux density measurements.&lt;/p&gt;
+
+&lt;p&gt;Besides achieving precise flux density measurement, the first-ever successful detection of a large number of faint background radio sources makes it possible to observe the heliosphere close to the Sun using a wide FOV instrument, which is otherwise impossible. These sources and their polarized emission can be used in the future to measure the magnetic field in interplanetary space. When a large amount of plasma is erupted from theSun in the form of a CME and crosses the background sources, its polarization properties get changed by the magnetic field of the CME plasma. A similar phenomenon can be observed when magnetized solar wind passes through the line of sight of these background sources. The changes in polarization properties of them can be an efficient method to measure the magnetic field in the heliosphere over a larger region, which is rather challenging and only limited to some vantage point measurements directly from a handful of spacecraft. Work is currently underway to use the polarization properties of these sources to achieve this objective.&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References:&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Oberoi, D., Sharma, R. &amp;amp; Rogers, A.E.E. Estimating Solar Flux Density at Low Radio Frequencies Using a Sky Brightness Model. Sol Phys 292, 75 (2017). https://doi.org/10.1007/s11207-017-1096-1&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ac4bba&quot; target=&quot;_blank&quot;&gt;Robust Absolute Solar Flux Density Calibration for the Murchison Widefield Array&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Devojyoti Kansabanik&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Surajit Mondal, Divya Oberoi, Shilpi Bhunia, Ayan Biswas&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune,
+India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Tue, 03 Jan 2023 00:00:00 +0530</pubDate>
+        <link>/flux_density_radio_emission_devojyoti</link>
+        <guid isPermaLink="true">/flux_density_radio_emission_devojyoti</guid>
+        
+        <category>Solar Physics</category>
+        
+        <category>Solar Radio Physics</category>
+        
+        <category>MWA</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
     
       <item>
         <title>Vainu Bappu Observatory: the telescope town of India</title>
@@ -1128,222 +1328,6 @@ Fig.2 : HR diagram showing the evolutionary stages for different mass stars (lef
         
         
         <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Why are some jets curved: presence of dancing blackholes?</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;A small percentage of the ejected hot plasma flows (the jets) from supermassive blackholes are observed to deviate from their intended path, resulting in unusual jetted morphologies. One of these peculiarities appears when the jet starts to dance /precess around an axis, forming curved jets with &lt;strong&gt;S-shaped&lt;/strong&gt; morphology. When we observe such sources through radio telescopes, we see a massive S-like structure floating in the vast cosmos. Due to their peculiar morphology, the formation mechanism of such sources is still debated. Simultaneously, an increasing number of such sources are being discovered with even more complex S-shaped structures, making the unravelling of the underlying physics more difficult than earlier.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;A blackhole is a voracious cosmic giant that feeds on surrounding matter to grow. Its gravitational pull  is so strong that anything that enters inside a certain radius (known as event horizon), finds no way  out, not even the fastest thing in this universe; the light photons. There is no limit to how large a  blackhole can grow in size. The largest of them are supermassive blackholes (nearly a billion times  more massive than the sun; SMBH), which are found at the centres of galaxies. Some of these SMBH  enter into an active phase (not yet fully understood how), during which they accrete matter  (surrounding hot ionised gas/plasma) at an accelerated rate, with some of this material being violently  ejected down the SMBH’s spin axis due to a complex process caused by a powerful magnetic  disturbance. The super-heated plasma material that is thrown out traverses a distance ranging from  sub-parsec to a few megaparsec in space with a velocity nearing the speed of light. Just to compare with our usable scales, one parsec is 3.26 light-years (a distance that light travels in a year). These  ejected streams of matter are called jets, which are destined to propagate along a straight path while  carrying the magnetic field from their origin. As a result, they mostly emit radiation at radio  frequencies due to the synchrotron process (a process where charged particles radiate when they  move in curved paths in magnetic fields), and hence we need radio telescopes to observe and study  them.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/curved_jets_dancing_blackhole_gourab/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-(&lt;em&gt;Credit: https://fermi.gsfc.nasa.gov/science/eteu/agn/&lt;/em&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;A small percentage of these ejected hot plasma flows (the jets) are observed to deviate from their  intended path, resulting in unusual jetted morphologies. One of these peculiarities appears when the  jet starts to dance /precess around an axis, forming curved jets with &lt;strong&gt;S-shaped&lt;/strong&gt; morphology. When  we observe such sources through radio telescopes, we see a massive S-like structure floating in the  vast cosmos. Due to their peculiar morphology, the formation mechanism of such sources is still  debated. Simultaneously, an increasing number of such sources are being discovered with even more complex S-shaped structures, making the unravelling of the underlying physics more difficult than  earlier. Some examples of these radio sources are highlighted below.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/curved_jets_dancing_blackhole_gourab/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;strong&gt;Top image&lt;/strong&gt;: Image of SS 433 (obtained from VLA radio telescope), a micro-quasar in our galaxy  (similar system to what we are discussing here, but with a smaller length scale) showing the  presence of bidirectional precessing jets. [Credit: NRAO]. &lt;strong&gt;Bottom image&lt;/strong&gt;: Another example of  precessing jets of a powerful radio galaxy 4C +12.50, studied by Lister et al. 2003.
-(&lt;em&gt;Credit: &lt;a href=&quot;https://www.nrao.edu/pr/2004/ss433corkscrew/&quot;&gt;SS 433&lt;/a&gt;, 
-&lt;a href=&quot;http://www.astroexplorer.org/details/10_1086_345666_fg6&quot;&gt;4C +12.50&lt;/a&gt;
-&lt;/em&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;To uncover the underlying mechanism that produces these sources, I, along with a team of Indian  scientists, have conducted a study where we tried to numerically (using computer simulation) reproduce an observed peculiar S-shaped source that has recently been observed using  &lt;a href=&quot;https://www.aoc.nrao.edu/evla/&quot;&gt;the Expanded Very Large Array Telescope&lt;/a&gt; in New Mexico. The source has a  technical name &lt;em&gt;2MASX J1203&lt;/em&gt;. At first appearance, the jets seem to propagate along a straight line from the compact core of the galaxy (centre of mystery!) and end in hotspots (places where jets  terminate or encounter a major collision with the ambient medium). But afterwards, the jets suddenly  bend in opposite directions, making a structure that looks like a wing. This is why it is called an &lt;em&gt;S shaped winged source&lt;/em&gt;. Our novel simulations have modelled this peculiar galaxy using a precessing  jet and have shown that it is not only the jet precession that causes such ambiguities in morphology  but also the galactic medium through which the jet is travelling shape the structure. The heavy galactic  medium (mostly gas) exerts additional force on opposing jet’s free propagation leading to slowing  down the jet significantly, as well as causing it to be unstable as it propagates to longer distances. The resultant structure, when observed from a fortuitous viewing angle (the orientation angle an object  makes with respect to the observer here on Earth), we see the formation of such peculiar &lt;em&gt;S-shaped  winged&lt;/em&gt; sources on the sky plane; what we see in the sky is just a two-dimensional representation of  three-dimensional objects.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/curved_jets_dancing_blackhole_gourab/image4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;em&gt;Credit: &lt;a href=&quot;https://arxiv.org/abs/2206.04705&quot;&gt;arXiv:2206.04705&lt;/a&gt;&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;p&gt;To elaborate our work a bit more, we have carried out computer simulations by adopting a novel  approach where we modelled not only the observed morphology but also the underlying micro physical processes of this radio structure. To answer the morphological peculiarity of the source, we first built a setup where a precessing jet is being injected from the centre of a realistic galactic medium whose time evolution we have further followed. As time progresses, the precessing jet grows in size, and at time 2.23 mega-year, a fully grown dancing jet is formed. When you see this structure from a  particular angle (the line-of-sight), the structure will appear as an S-shaped source with extended wing-like substructures.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/curved_jets_dancing_blackhole_gourab/image5.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;em&gt;Credit: &lt;a href=&quot;https://arxiv.org/abs/2206.04705&quot;&gt;arXiv:2206.04705&lt;/a&gt;&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;p&gt;I must mention that finding this fortuitous line-of-sight angle, as well as the jet parameters that  perfectly mimic the observed source (2MASX J1203) was quite a challenging task. This is because the  existing models that tend to predict these parameters of dancing jets have seemed to ignore the jet  deceleration effects imparted by the ambient medium, which have been self-consistently adopted in  our simulations. As a result, our study pointed out that for a better determination of precessing jet’s parameters, numerical simulations are a better choice. Furthermore, when we started to model the  synchrotron emission part of this structure, we found out that the galaxy is radiating at a higher level  that contradicts the theories if we consider that the hot plasma of the jet is radiating away its energies  via radiation as well as via adiabatic expansion of the whole system with time. This further hint that  the radiating non-thermal particles are somehow getting re-energized, which is keeping the structure  alive for a longer time than what has been anticipated from theories. Using our simulations, we explicitly demonstrated that diffusive shock acceleration is the physical factor that assists the particle  in regaining energy supplied by the generated shocks in the medium. These shocks were formed by  the jet’s supersonic flows (flows that move faster than the sound speed in that medium), which caused  the source to be more active than it should have been.&lt;/p&gt;
-
-&lt;p&gt;A significant question now arises: why did the jet begin to precess in the first place?&lt;/p&gt;
-
-&lt;p&gt;Let’s say we have a water fountain that sprays water to a certain height. Now, if we want to make the  ejected stream of water precess around an axis, one has to externally precess the nozzle from where  water is ejected. Similarly, in our astrophysical scenario, the blackhole that is responsible for jet  ejection has to be precessed by an external force. It has been theorized that a secondary supermassive  blackhole possibly orbits close to the primary one, causing the spin axis of the primary SMBH to  precess. The secondary SMBH came from another galaxy that has recently collided with the existing  one, resulting in two SMBHs in a single galaxy. It has been observed that galaxies do collide with each  other, and in the local Universe, the rate of it is significant too. Hence the systematic dance of the  binary blackholes most possibly have made the jet to precess. In this regard, our numerical simulations have successfully constrained the precession period of the jet, using which one can calculate the  separation of the binary BHs.&lt;/p&gt;
-
-&lt;p&gt;In general, only a handful of dual AGNs have been discovered yet, maybe because we are looking at  the wrong sources. Nonetheless, these sources with curved/bent jets can now be the ideal candidates  to look for dual SMBH pairs at their centres, detection of which can further help us better understand  the evolution of supermassive blackholes throughout the Universe.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://academic.oup.com/mnras/article/514/4/5625/6608271&quot; target=&quot;_blank&quot;&gt;Dynamical modelling and emission signatures of a candidate dual AGN with precessing radio jets&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  Gourab Giri&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Ravi Pratap Dubey, K Rubinur, Bhargav Vaidya, Preeti Kharb&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Technology Indore, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Tue, 30 Aug 2022 00:00:00 +0530</pubDate>
-        <link>/curved_jets_dancing_blackhole_gourab</link>
-        <guid isPermaLink="true">/curved_jets_dancing_blackhole_gourab</guid>
-        
-        <category>Magnetohydrodynamics</category>
-        
-        <category>Blackholes</category>
-        
-        <category>Jet precession</category>
-        
-        <category>Shock acceleration</category>
-        
-        <category>Radiation mechanisms</category>
-        
-        <category>Active galaxies</category>
-        
-        <category>Jet-Galaxy interaction</category>
-        
-        <category>Dual AGN</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>Core-collapse supernova from a possible progenitor star of 100 solar mass</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;Supernovae are extreme astrophysical transient phenomena marking the death of stars. In this article, I take you to the journey of the life of a star as massive as 100 times our sun. Through the state-of-the-art simulation tool &lt;strong&gt;MESA&lt;/strong&gt;, we have studied the overall life of a 100 solar mass star and the implications of the resulting supernova. At the time of its birth, the 100 solar mass star is around 10 times bigger than the current size of our sun, while in the last stages of its life, it has evolved to around 1700 times the current size of our sun. The energy released from the resulting supernova from such a massive star would be so powerful that it would take around 100 million Suns shining together for a period of at least a few hundred days.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Looking up into the sky on a clear and dark night, we can see thousands of stars twinkling. While sleeping on the rooftop of my home in our village during summer days, I used to wonder why the night sky looked similar every night. The stars present in the sky last night used to appear in the sky every other night. Similarly, seeing the constellation Ursa Major (popularly known as &lt;em&gt;Saptarishi Taramandal in Hindi&lt;/em&gt;) shining brightly with its seven visible stars every summer night, I used to scratch my tiny mind about the unchanging nature of the heavens. But, do the heavens remain unchanged? No, not at all! Similar to the lifespan of a human being, every star that we see in the sky has a finite lifetime. Accumulation of cosmic clouds gives birth to stars in the form of spherical blobs by burning hydrogen as fuel in their core. These stars grow older while spreading a tremendous amount of energy in the form of light/radiation and finally die with no active fuel burning left in their core.&lt;/p&gt;
-
-&lt;p&gt;The death of each star (for less massive stars having masses &amp;lt; 8 M⊙ subjected to mass accretion from a companion) is marked by one final, massive detonation or explosion, and the phenomenon is known as a supernova (SN), an event so bright that even if it occurred in another, very far galaxy, it could be seen from the telescopes available on earth and in space. The only difference between the lifetime of humans and stars is that humans can have a lifespan of around a hundred years or so only, but the stars live for a few million to a few billion years of age! This is the reason why the heavens in the night appear unchanged every night when seen through the naked eyes. However, as I mentioned above, the heavens change, with supernovae (SNe) being one of the means. So, has there been any bright supernova event in human civilizations that could have been seen through the naked eyes? Yes, nine such events have been identified and recorded by human civilizations in the past 2000 years! The first SN event was recorded in 185 A.D. by the ancient Chinese, as referenced in the work of two Roman chroniclers. Around 200 years later, two bright SNe in 386 A.D. and 393 A.D. were also recorded. The fourth one is the most bright SN in human history, which occurred in the year 1006 A.D., an event so bright that it could cast shadows on the ground. The fifth and sixth SNe seen through the naked eyes occurred in 1054 A.D. and 1181 A.D., respectively. The remnant of the SN that occurred in 1054 A.D. is known as the very famous &lt;em&gt;crab nebula&lt;/em&gt;. The seventh and eighth SNe seen through the naked eyes occurred in 1572 A.D. (known as Tycho’s supernova) and 1604 A.D. (known as Kepler’s supernova). The ninth SN seen through the naked eyes occurred just a few decades earlier, in 1987, named SN 1987A.&lt;/p&gt;
-
-&lt;p&gt;Our sun is a star in our galaxy &lt;em&gt;Milky Way&lt;/em&gt; which hosts about a billion other stars, many of them having masses greater or lesser than our sun. Further, in the known universe, there are billions of other galaxies, each of them hosting billions of stars. However, the SNe can be so bright that they can outshine their entire host galaxy and can be seen through the telescopes on earth even if they are occurring in other galaxies (or, in other words, being extra-galactic). Once such SNe is detected through space-based or ground-based telescopes, they are followed up, and their brightness is recorded until they become fainter beyond the detection limits of telescopes. For SN, the variation in brightness (or intrinsic luminosity) over a period of time is called its &lt;em&gt;light curve&lt;/em&gt;.&lt;/p&gt;
-
-&lt;blockquote&gt;
-
-  &lt;p&gt;With the state of the art software and simulation techniques, we are now capable of studying the lifespan of a star. We can numerically evolve a certain mass star from birth to death and study its implications. A review of one such work is presented in this article. Here, we have studied the life span of a star as massive as 100 M⊙. Figure 1 shows the change in the size of 100 M⊙ star as it evolves through various phases of its life. This star starts as a relatively smaller blob of gas, evolves to grow bigger, and during its last evolutionary stages, it has grown in size, having a radius of a few 1000 times bigger than our sun.&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/2020fqv_core_collapse_superova_amar_images/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1 : The evolution of the size (measured by its radius) of a 100 solar mass star as it gets birth (left panel), becomes an adult (mid panel), and finally reaches the stage where it is about to die (rightmost panel). The subplot in the left-bottom corner marks the star&apos;s position on HR diagram (which is the variation of luminosity with effective surface temperature). The figures are also color-coded with blue meaning hot and red meaning less hot. These figures have made use of the results from Aryan et al. 2022. (Credits: Author)
-&lt;/p&gt;
-
-&lt;p&gt;During the last evolutionary stages (approaching its death), the star is mainly composed of inert Iron in its core, and the burning of fuel in the core has almost stopped. Due to this, the core of the star is vacated of any radiation. The role of the presence of radiation in the core of a star is vital as it is the source of radiation pressure responsible for balancing the self-gravity of the core. But, when the core is vacated of almost all the radiations, there is no support to the self-gravity of the core, and it &lt;em&gt;starts to collapse&lt;/em&gt; under its own gravity resulting in a core-collapse supernova.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-   &lt;img src=&quot;../assets/images/2020fqv_core_collapse_superova_amar_images/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2 : (Left )The variation of the core temperature (T&lt;sub&gt;core&lt;/sub&gt;)  and core density (&amp;rho;&lt;sub&gt;core&lt;/sub&gt;) as the 100 M⊙ star is born and evolves older to reach the last evolutionary stage reaching on the verge of core collapse. The blue triangle marks the core temperature and density at the birth of the star, while the red solid circle marks the same when the star is on the verge of death. This panel makes use of the results from Aryan et. al 2022. (Right) The light curves of supernovae resulting from the death of a 100 M⊙ star by keeping total explosion energy constant and varying the amount of total nickel mass. For comparison purposes, the light curves of three similar type supernovae are also shown but these three supernovae result from much lower mass (10 - 20 M⊙) stars. This figure has been adapted from Aryan et al. 2022.
-&lt;/p&gt;
-
-&lt;p&gt;The left panel of Figure 2 shows the variation of core temperature (T&lt;sub&gt;core&lt;/sub&gt;) with core density (ρ&lt;sub&gt;core&lt;/sub&gt;) as the 100 M⊙ star evolves from its birth (marked by a blue triangle) to the stage where it is about to die (marked by red solid-circle). We could see that near the last evolutionary stages, the core temperature and core density have reached in excess of 1010 K and 1010 g cm-3, respectively. Keeping such high density in a normal human life perspective, a matchbox full of such core material would weigh around 200 million Kg!&lt;/p&gt;
-
-&lt;p&gt;The right panel of Figure 2 shows the light curves when a 100 M &amp;amp;odot; star explodes as a core-collapse supernova. The resulting SNe are Type IIP-like that are identified by a phase of nearly constant luminosity (also called &lt;em&gt;plateau&lt;/em&gt; phase) in their light curves. The length of the plateau is dependent on the size of the Hydrogen envelope retained by the star. So, we can see that SN 1999em, SN 2005cs, and SN2009N have shorter plateau duration, as they arrive from much lower stars having masses in the range of 10 to 20 M⊙. Further, in the right panel of Figure 2, on increasing the Nickel mass while keeping the explosion energy constant, the duration of the plateau in the light curve is increased. This behavior due to the increase in Nickel mass is attributed to the increase in energy deposition in the expanding ejecta by the γ rays that are produced by the radioactive decay of Nickel (&lt;sup&gt;56&lt;/sup&gt;Ni) and Cobalt (&lt;sup&gt;56&lt;/sup&gt;Co). 
-One can also notice that the explosions from such a massive star would be so humongous that they would radiate at a rate of 10&lt;sup&gt;40&lt;/sup&gt; ergs/s or more for at least a period of 350 days. Again putting it in an observational perspective, it would be equal to around 100 million Suns shining together for a period of at least 350 days! Thus, the core-collapse supernovae are extreme catastrophic phenomena and are among one of the major events marking the alterable heavens. Keeping these aspects of supernovae in mind, we conclude that the heavens do change. It only requires an eye of a keen observer to see the change!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Symbols used&lt;/strong&gt; : 
-M⊙= Mass of the Sun&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Note&lt;/strong&gt; : &lt;em&gt;This article has been submitted for the DST-AWSAR award.&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Additional read&lt;/strong&gt;:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;A) Aryan et al. 2022, JApA, 43, 2, and,&lt;/li&gt;
-  &lt;li&gt;B) &lt;em&gt;Supernovae&lt;/em&gt; by Paul &amp;amp; Lesley Murdin&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://link.springer.com/article/10.1007/s12036-021-09784-6&quot; target=&quot;_blank&quot;&gt;Core-collapse supernova from a possible progenitor star of 100 M⊙&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Amar Aryan&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Shashi Bhushan Pandey, Abhay Pratap Yadav, Amit Kumar, Rahul Gupta, and Sugriva Nath Tiwari&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Aryabhatta Research Institute of Observational Sciences (ARIES), Manora Peak, Nainital-263002, India and Department of Physics, Deen Dayal Upadhyaya Gorakhpur University, Gorakhpur-273009, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Mon, 29 Aug 2022 00:00:00 +0530</pubDate>
-        <link>/2020fqv_core_collapse_superova_amar</link>
-        <guid isPermaLink="true">/2020fqv_core_collapse_superova_amar</guid>
-        
-        <category>Stars</category>
-        
-        <category>Supernova</category>
-        
-        
-        <category>High Energy Astrophysical Phenomena</category>
         
       </item>
     

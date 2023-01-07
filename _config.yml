@@ -358,6 +358,24 @@ authors:
         twitter: 
         description: "My primary research interest is to understand the physical mechanisms driving radio outflows in Active Galactic Nuclei (AGN), particularly quasars."
 
+ Devojyoti Kansabanik:
+        name: Devojyoti Kansabanik
+        display_name: Devojyoti Kansabanik
+        avatar: 'assets/images/devojyoti_kansabanik.jpeg'
+        email: 
+        web: http://www.ncra.tifr.res.in/ncra/people/Academic_StudentsPage?oid=302#
+        twitter: 
+        description: "Devojyoti Kansabanik is currently a working with Divya Oberoi at National Centre for Radio Astrophysics - Tata Institute of Fundamental Research (NCRA-TIFR), Pune for his doctoral research on a spectro-polarimetric study of the radio Sun."
+
+ Koushik Sen:
+        name: Koushik Sen
+        display_name: Koushik Sen
+        avatar: 'assets/images/koushik_sen.jpeg'
+        email: 
+        web: https://www.linkedin.com/in/koushik-sen-1a9b4096/
+        twitter: 
+        description: "Hi, I am a stellar astrophysicist. I am interested in massive single and binary star evolution: Algol binaries, Wolf-Rayet binaries, X-ray binaries, compact object binaries, and gravitational waves."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

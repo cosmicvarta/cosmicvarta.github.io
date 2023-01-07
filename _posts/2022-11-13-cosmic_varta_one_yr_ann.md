@@ -7,9 +7,9 @@ categories: [General]
 tags: [popular]
 class: [Anniversary special]
 image: assets/images/cosmic_varta_one_yr_ann_images/1_year_ann.png
-featured: True
-hidden: True
-review: False
+featured: False
+hidden: False
+review: true
 ---
 >
 **CosmicVarta** celebrates its **first birthday** today! Hurray!
