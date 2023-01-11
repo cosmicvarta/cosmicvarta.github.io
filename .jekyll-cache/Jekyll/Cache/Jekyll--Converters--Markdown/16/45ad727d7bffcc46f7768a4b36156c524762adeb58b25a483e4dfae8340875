@@ -1,25 +1,18 @@
----
-layout: page
-title:
----
-
-{% if page.url == "/" %}
+I"�<p>{% if page.url == “/” %}</p>
 
 <!-- Essay Competition Link>
 ================================================== -->
 
 <center>
-<img src="assets/images/new_alert.jpg" width="100" alt=""> <font size="+7"><b><TT><a href="/essay_comp_asi23" target="_blank">CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!</a></TT></b></font> <img src="assets/images/new_alert.jpg" width="100" alt="">
-<br>
-<hr>
-<br>
-<br>
+<img src="assets/images/new_alert.jpg" width="100" alt="" /> <font size="+7"><b><tt><a href="/essay_comp_asi23" target="_blank">CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!</a></tt></b></font> <img src="assets/images/new_alert.jpg" width="100" alt="" />
+<br />
+<hr />
+<br />
+<br />
 </center>
 
 <!-- Featured>
 ================================================== -->
-
-
 
 <section class="featured-posts">
     <div class="section-title">
@@ -40,10 +33,7 @@ title:
     </div>
 </section>
 
-
-
-
-{% endif %}
+<p>{% endif %}</p>
 
 <!-- Posts Index
 ================================================== -->
@@ -68,8 +58,6 @@ title:
 
 </section>
 
-
-
 <!-- Pagination
 ================================================== -->
 <div class="bottompagination">
@@ -79,5 +67,8 @@ title:
 </span>
 </div>
 
-<hr>
-<hr>
+<hr />
+
+<hr />
+
+:ET

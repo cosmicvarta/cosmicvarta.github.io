@@ -86,7 +86,7 @@ Hi all. I am Shridharan Baskaran, Ph.D. student at CHRIST (Deemed to be Universi
 
 
 <p align="center">
-  <img src="assets/images/robin.jpg" height="auto" width="300" style="border-radius:50%">
+  <img src="assets/images/robin.jpg" height="300" width="300" style="border-radius:50%">
 </p>
 
 
@@ -94,6 +94,49 @@ Hi all. I am Shridharan Baskaran, Ph.D. student at CHRIST (Deemed to be Universi
 
 
 Hello there! My name is Robin Thomas. I am a PhD student at CHRIST (Deemed to be University). My PhD research aims at understanding the role of interaction in the evolution of galaxies. My research makes use of photometric data from different telescopes. You will find me reading John Grisham and Michael Crichton books outside the office hours. I also love to go on long treks, cycling and cafe hopping. 
+
+---
+---
+
+
+<p align="center">
+  <img src="assets/images/arpit_about_us.jpg" height="auto" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Arpit Kumar Shrivastav</span></h2>
+
+
+I am a PhD student at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital and the Joint Astronomy Programme (JAP) of the Indian Institute of Science, Bangalore. My research revolves around observational aspects of Magnetohydrodynamics waves in the solar atmosphere and their relation to coronal heating. I love to play table tennis and badminton. I watch web series and anime in my free time.
+
+---
+---
+
+
+<p align="center">
+  <img src="assets/images/akhil_jaini_about_us.jpeg" height="auto" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Akhil Jaini</span></h2>
+
+
+Hey there! I am Akhil Jaini, currently pursuing my PhD from the Indian Institute of Astrophysics. I have been fascinated by the stars and space since as long as I can remember, and I wanted to be an astronomer ever since I knew the meaning of that word! Being from an engineering background, I started my journey in astronomy through instrumentation, and have been slowly meddling more and more in the physics side of things. I have worked on developing antennas for radio astronomy, followed by designing spectrographs for ultraviolet space telescopes. Currently, I am working on reimaging existing and future spectrographs with a focus on exoplanet transits. Other than that, I love writing, photography, travelling and riding motorcycles.
+
+---
+---
+
+
+<p align="center">
+  <img src="assets/images/rishabh_singh_teja_about_us.jpg" height="300" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Rishabh Singh Teja</span></h2>
+
+
+I am a researcher at the Indian Institute of Astrophysics (IIA), Bengaluru. I am working on the observations (photometry and spectroscopy) and 1-D modeling of core-collapse supernovae. Being a sports enthusiast, I play many games indoors and outdoors. I am in constant pursuit of learning and indulging in new things.
+<center><i>“Let the fruit of science reach every individual.”</i></center>
 
 ---
 ---
