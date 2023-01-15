@@ -38,12 +38,12 @@ var documents = [{
     "id": 7,
     "url": "/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 8,
-    "url": "/index_org/",
+    "url": "/index_asi_essay_comp/",
     "title": "",
-    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 9,
     "url": "/links",
@@ -68,42 +68,42 @@ var documents = [{
     "id": 13,
     "url": "/page2/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 14,
     "url": "/page3/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 15,
     "url": "/page4/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 16,
     "url": "/page5/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 17,
     "url": "/page6/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 18,
     "url": "/page7/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 19,
     "url": "/page8/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 20,
     "url": "/page9/",
     "title": "",
-    "body": "{% if page. url == “/” %} CLICK HERE TO APPLY FOR THE ESSAY COMPETITION!       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
+    "body": "{% if page. url == “/” %}       Featured articles:       {% for post in site. posts %}    {% if post. featured == true %}      {% include featuredbox. html %}    {% endif %}  {% endfor %}  {% endif %}       All articles:         {% for post in paginator. posts %}    {% include postbox. html %}    {% endfor %}    {% include pagination. html %}"
     }, {
     "id": 21,
     "url": "/xray_quiet_blackholes_koushik",
