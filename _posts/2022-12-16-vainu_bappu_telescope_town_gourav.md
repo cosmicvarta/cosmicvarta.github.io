@@ -7,7 +7,7 @@ categories: [General articles (in any of the above categories)]
 tags: [ ]
 class: [Popular Science]
 image: assets/images/vainu_bappu_telescope_town_gourav/image_cover.jpg
-featured: True
+featured: False
 hidden: True
 review: False
 ---

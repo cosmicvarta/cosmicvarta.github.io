@@ -5,9 +5,195 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 15 Jan 2023 18:13:58 +0530</pubDate>
-    <lastBuildDate>Sun, 15 Jan 2023 18:13:58 +0530</lastBuildDate>
+    <pubDate>Mon, 23 Jan 2023 02:54:30 +0530</pubDate>
+    <lastBuildDate>Mon, 23 Jan 2023 02:54:30 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>A comparison of the properties of Narrow Line and the Broad Line Seyfert galaxies</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;AGNs are very luminous objects at the centre of active galaxies. The inner regions of these galaxies can not be resolved directly, yet the understanding of these regions can be achieved by employing indirect methods. In this study, we employed a statistical approach to understand a very peculiar class of AGN with respect to the general AGN population- the Narrow Line Seyfert galaxies, and have found out that emission line region outflows exist in the innermost regions of these AGN which adds another peculiarity to their behaviour.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Recent discoveries have pointed out that a supermassive black hole (SMBH) exists in the centre of the galaxies, with mass ranging from a million to a billion solar masses. This central black hole accretes matter at a very high rate. In turn, an accretion disk is formed and it radiates a luminosity ranging from a billion to a trillion times the luminosity of the Sun!&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FPF1X13wbDI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+This animation is an artistic impression of the inner regions of an active galaxy. The animation starts with the optical image of 3C273, a very well-known quasar, and zooms in up to the sub-parsec scale, where the clumps of gas known as the Broad Line Region (BLR) clouds exist embedded beneath a torus of dust. (Video Courtesy: ESO YouTube channel)
+&lt;/p&gt;
+
+&lt;p&gt;These kinds of galaxies are called active galaxies, or more popularly these objects are called Quasars. Quasars were discovered to be very luminous extragalactic objects only in 1963, through the work of Martin Schmidt. In research, various names: Active galactic Nuclei (AGN), Quasars, Blazar, Seyferts, etc. are known (see this for detailed information about the Quasars). Commonly, people use AGN as a generic term, while Quasar is used for AGNs having higher luminosities (&amp;gt; 1e44 ergs/sec). Seyferts are the AGN that are a little less luminous than Quasars. Type-1 AGN are the ones where the observer is able to view the innermost regions comprising the accretion disk and the BLR without any obscuration, while in the Type-2 AGN, the dusty torus obscures the innermost regions. 
+Among the type 1 Seyferts, a peculiar class of galaxies known as the Narrow line Seyfert 1 galaxies is known to exist. These are young AGN, with very high accretion rates. The study of these objects provides clues to the understanding of the formation and growth of AGNs.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image1.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+The Unified Model for AGN accounts for various properties observed in AGN. This simple model differentiates between the various classes based on the orientation with respect to the observer. (&lt;a href=&quot;https://fermi.gsfc.nasa.gov/science/eteu/agn/&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;)
+&lt;/p&gt;
+
+&lt;p&gt;In this work, we have studied the properties of these NLSy1 galaxies as compared to the general type-1 AGN which we term Broad-line Seyfert galaxies (BLSy1) galaxies. We achieved this by collecting optical spectra for a sample of about 260 galaxies. We searched for the spectra in the publicly available SDSS database. SDSS provides information for hundreds and thousands of such objects on their server. We assembled a set of 144 NLSy1 and 117 BLSy1 galaxies which are in a similar luminosity and redshift range.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image2.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+The multiple-component spectral decomposition was applied to fit one of the sources in this study.(&lt;a href=&quot;https://arxiv.org/abs/2112.09150&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;)
+&lt;/p&gt;
+
+&lt;p&gt;After fitting the spectra by employing a multi-component spectral decomposition technique, we studied a set of 11 physical parameters to compare these two populations. It is very important to know that the exact relation of the NLSy1 galaxies with the BLSy1 galaxies remains unknown for the general AGN population.&lt;/p&gt;
+
+&lt;p&gt;We characterized the population of these galaxies based on the asymmetry observed in a very prominent emission line: the H-beta emission line. In our sample, we found out the NSLy1 galaxies are 3 times more likely to show emission line asymmetries as compared to the BLSy1 galaxies population. This result is very important in our understanding of the difference between these two populations. Note that the emission lines are generated in the Broad-line Region (BLR) of these AGNs, and this region cannot be resolved by any observation technique at present. Thus, we are reliant on indirect tools to infer the dynamics of matter in these regions. In this regard, emission line asymmetries encode information about the dynamics of matter at the location from where they are emitted and thus it becomes necessary to characterize. The outflows may also be due to the winds arising from the accretion disk in these AGNs, which influences our understanding and further modelling of the AGN accretion disks.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image3.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+A cluster map showing the correlations between 11 parameters.  (&lt;a href=&quot;https://arxiv.org/abs/2112.09150&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;) 
+&lt;/p&gt;
+&lt;p&gt;We calculated the Spearman rank correlation coefficients among the parameters. We found that the accretion rate characterized by the Eddington Ratio is anti-correlated with the FWHM of the H-beta emission line which means the AGNs which are accreting at a faster rate, will have narrower emission profiles.&lt;/p&gt;
+
+&lt;p&gt;Further, we ran a Principal component analysis (PCA) on the data to understand the parameters deriving the correlations and anti-correlations. Basically, PCA reduces the dimensions of the dataset in the sense that what we were able to derive based on 11 physical parameters, we could do with fewer principal components. This helps us understand the underlying correlations among the fewer parameters. Based on the results from the PCA, we find out that the Eigenvectors 1 and 2 of the PCA are a bit different for both populations. What can be the possible reason behind this?&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image4.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+The main sequence of quasars obtained from the recent studies. (&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fspas.2018.00006/full&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;) 
+&lt;/p&gt;
+
+&lt;p&gt;Importantly, based on an ensemble study of around 500,000 AGN, &lt;a href=&quot;https://www.nature.com/articles/nature13712&quot; target=&quot;_blank&quot;&gt;Shen et al. 2014&lt;/a&gt;  reported the same Eigenvector correlation as has been observed in this study. This is significant because it points out that AGN located in different redshifts and luminosity bins show similar properties which can be arranged to form a sort of main sequence. The main sequence is a very neat way to arrange the population of stars based on the luminosities and their age. A similar main sequence for the AGN has been proposed based on this correlation.
+Are the Eigenvectors telling a different story? We don’t know yet. However, we can safely say that the NLSy1 galaxies form the extreme end of the AGN population with very high accretion rates and low SMBH masses. The discovery of significant emission line asymmetries in the NLSy1 galaxies means that outflowing gas is indeed present in the line emitting regions. Similar studies covering a larger population will be very helpful in our understanding of the peculiarity of these AGNs.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4379J/abstract&quot; target=&quot;_blank&quot;&gt;A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vivek Kumar Jha&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Hum Chand, Vineet Ojha, Amitesh Omar, Shantanu Rastogi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Aryabhatta Research Institute of observational sciencES (ARIES), Nainital, 263002; India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Fri, 13 Jan 2023 00:00:00 +0530</pubDate>
+        <link>/narrow_broad_seyfert_galaxies_vivek</link>
+        <guid isPermaLink="true">/narrow_broad_seyfert_galaxies_vivek</guid>
+        
+        <category>AGNs</category>
+        
+        <category>Blackhole</category>
+        
+        <category>Galaxies</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
+    
+      <item>
+        <title>3.6m DOT discovered unexpected kilonova emission from a long-duration gamma-ray burst</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Gamma-ray bursts (GRBs) are flashes of high-energy radiation arising from energetic cosmic explosions. Bursts of long (greater than two seconds) duration are produced by the core-collapse of massive stars, and those of short (less than two seconds) duration by the merger of compact objects, such as two neutron stars. A third class of events with hybrid high-energy properties was identified, but never conclusively linked to a stellar progenitor. The lack of bright supernovae rules out typical core-collapse explosions, but their distance scales prevent sensitive searches for direct signatures of a progenitor system. Only tentative evidence for a kilonova has been presented. Here we report observations of the exceptionally bright GRB 211211A, which classify it as a hybrid event and constrain its distance scale to only 346 megaparsecs. Our measurements indicate that its lower-energy (from ultraviolet to near-infrared) counterpart is powered by a luminous kilonova possibly formed in the ejecta of a compact object merger. To study the aftermath of this long GRB, we used several telescopes in space and on Earth, in which the 3.6 m Devasthal Optical Telescope of the Aryabhatta Research Institute of Observational Sciences (ARIES) played a significant role.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Some massive stars die as the brightest and most explosive astrophysical sources in the universe, known as gamma-ray bursts (GRBs). GRBs are powerful astronomical bursts of high-energy gamma-ray radiation and are one of the most interesting and scientifically fulfilling phenomena studied in modern astronomy. GRB events have two distinct emission phases: one is the short-lived prompt emission (the initial burst phase, that emits gamma-rays), followed by a long-lived multiwavelength afterglow phase.&lt;/p&gt;
+
+&lt;p&gt;For the past few decades, based on the observed time scale of prompt emission, astronomers have generally divided GRBs into two categories: long and short-duration GRBs, respectively. Long GRBs typically emit gamma rays for two seconds or more. They are associated with the death of very massive stars and are sometimes associated with supernovae. On the other hand, Short GRBs emit gamma rays for short periods of less than two seconds. This class of GRBs is formed when pairs of very dense celestial bodies (compact) - such as neutron stars or black holes - merge with each other, rotating in a spiral form over a period of billions of years. They also generate gravitational waves. In recent years, scientists have discovered a special phenomenon called a kilonova of visible and infrared light with short-period GRBs. According to a possible scientific hypothesis, the heat produced by the radioactive decay of heavier elements may emit kilonova. This process, known in physics as the r and s process, also produces heavier elements such as gold and platinum. However, observing kilonovas at near-infrared wavelengths is technically challenging, and only a few telescopes on Earth have been useful. The 3.6-meter Devasthal Optical Telescope (see Figure 1) of the Aryabhatta Research Institute of Observational Sciences (ARIES), is one such telescope that is  sensitive enough to detect kilonova and optical/near-IR counterparts of gravitational wave objects at these wavelengths up to faint limits.&lt;/p&gt;
+
+&lt;p&gt;On December 11, 2021, NASA’s Neil Gehrels Swift Observatory and the Fermi Gamma-ray Space Telescope detected a burst of high-energy light (GRB 211211A) from the outskirts of the Milky Way located approximately 1 billion light-years away. To study the aftermath of this long GRB, astronomers used several telescopes in space and on Earth, in which the 3.6 m Devasthal Optical Telescope of the Aryabhatta Research Institute of Observational Sciences (ARIES) played a very important role (see Figure 2). The spectral energy distribution of GRB afterglow is usually explained in terms of non-thermal emission (due to synchrotron radiation). However, in this event, both thermal and non-thermal emissions are included in the spectral energy distribution of the afterglow, modeled using the magnificent and dim observations of the 3.6 m Devasthal Optical Telescope. After subtracting the afterglow contribution from the collected data taken using the 3.6 m telescope and 4Kx4K CCD IMAGER, the scientists found that the multiwavelength data could be well explained by additional thermal spectra and that this thermal emission could be explained in terms of kilonova emission. &lt;strong&gt;This is the first astronomical event in which a long GRB has been accompanied by the unexpected discovery of a kilonova emission&lt;/strong&gt;, and  has shaken the understanding of scientists. In this event, the high-energy outburst lasted about a minute, and follow-up observations taken from the 3.6-meter Devasthal Optical Telescope identified a kilonova. Observations by the 3.6 m Devasthal Optical Telescope have provided information on the earliest phase of a kilonova ever detected. In addition to the first data taken by the 3.6-meter telescope, this scientific discovery, published in the journal &lt;strong&gt;Nature&lt;/strong&gt;, also used Hubble Space Telescope, Multicolor Imaging Telescopes for Survey and Monstrous Explosions, Calar Alto Observatory, Devasthal Fast Optical Telescope, and many other space and ground-based telescopes. This discovery will help in understanding the process of the formation of heavy elements in the universe.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/dot_kilonova_emission_grb_rahul/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: 3.6m Devasthal Optical Telescope installed at Devasthal Observatory of  Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital. 
+&lt;/p&gt;
+
+&lt;p&gt;“Several years ago, Neil Gehrels, an astrophysicist, and namesake of Swift suggested that some long-duration GRBs may be produced by merging neutron stars,” said Eleonora Troja, an astrophysicist at the University of Rome who led the team on the study. By GRB standards, this event was relatively nearby, allowing space and ground-based telescopes to capture the dim light of the kilonova. Kilonovae may also arise from more distant long GRBs, but we have not yet been able to see them through observations. PI of the 4Kx4K CCD IMAGER mounted on ARIES’ 3.6-meter telescope, senior Scientist Dr. Shashi Bhushan Pandey, along with research students Rahul Gupta, Amar Aryan, Amit Kumar, and Senior Scientist Kuntal Mishra, contributed significantly to the discovery of this milestone event published in the journal Nature on 07-12-2022 at 16:00 (London time). Dr. Shashi Bhushan Pandey and the team of Indian scientists involved in this work said that this discovery challenges our current understanding of the origin of GRBs and gives rise to new possibilities in this thrust area of research. Professor Dipankar Banerjee, director of ARIES, pointed out that future time-domain astronomy has a unique potential to make a lot of such discoveries using the 3.6m Devasthal optical telescope.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/dot_kilonova_emission_grb_rahul/image2.gif&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: The temporal evolution of optical emission (in R band) from GRB 211211A based on DOT data. The scientists from the ARIES, an autonomous institute of DST, used data from 3.6m DOT, in studying the aftermath of the long GRB (GRB 211211A), detected by NASA&apos;s Neil Gehrels Swift Observatory and the Fermi Gamma-ray Space Telescope on December 11, 2021. The high-energy outburst lasted about a minute, and follow-up observations taken from the 3.6-meter Devasthal Optical Telescope identified a kilonova. 
+&lt;/p&gt;
+
+&lt;p&gt;This discovery opens new questions regarding the origin and classification of GRBs. These sources’ unique gravitational wave signatures could be the key to unraveling the mystery. The gravitational wave detectors such as LIGO, Virgo, and KAGRA did not detect GRB 211211A, as these detectors were offline for advancements. Suppose  gravitational wave detectors can see a long-duration GRB after they begin operating again in 2023. In that case, the combination of gravitational wave and electromagnetic data may solve the mystery of this newly discovered event.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05327-3&quot; target=&quot;_blank&quot;&gt;A nearby long gamma-ray burst from a merger of compact objects&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; E. Troja&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; C. L. Fryer, B. O’Connor, G. Ryan, S. Dichiara, A. Kumar, N. Ito, R. Gupta, R. Wollaeger, J. P. Norris, N. Kawai, N. Butler, A. Aryan, K. Misra, R. Hosokawa, K. L. Murata, M. Niwano, S. B. Pandey, A. Kutyrev, H. J. van Eerten, E. A. Chase, Y.-D. Hu, M. D. Caballero-Garcia, A. J. Castro-Tirado&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Department of Physics, University of Rome “Tor Vergata”, Rome, Italy&lt;/li&gt;
+  &lt;li&gt;School of Earth and Space Exploration, Arizona State University, Tempe, AZ, USA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Thu, 12 Jan 2023 00:00:00 +0530</pubDate>
+        <link>/dot_kilonova_emission_grb_rahul</link>
+        <guid isPermaLink="true">/dot_kilonova_emission_grb_rahul</guid>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Fantastic beasts and where to find them: the elusive nature of X-ray quiet black holes</title>
@@ -1087,247 +1273,6 @@ Figure 5: Example of a counter-rotating star-forming &lt;a style=&quot;font-fami
         
         
         <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>The Great Dimming of Betelgeuse: A Stellar Tipping Point?</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;The Great Dimming of Betelgeuse (alpha Orionis) in late 2019 puzzled astronomers across the globe. The star appeared the faintest in all its modern recorded history. The mystery mounted as it quickly regained brightness in the next few months, and showed interesting patterns of light variations post dimming. Previously, we had investigated the light curve of Betelgeuse from the perspective of nonlinear dynamics and time series analysis (George et al. 2020). We found signatures of a dynamical transition causing a permanent change in the pulsation dynamics of the star. Here, we discuss these results and present further evidence obtained by analysing multiwavelength data from the star, including visible and infrared radiation.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;introduction&quot;&gt;Introduction&lt;/h2&gt;
-&lt;p&gt;It is easy to spot the constellation Orion in the summer night sky—it looks like a hunter or a shepherd with its waist (or belt) characterised by three stars in a straight line. The shoulder of Orion, Betelgeuse, varies in brightness irregularly, so much so that these variations are noticeable to the naked eye! It is therefore classified as a semiregular variable star—an object of fascination since ancient times.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: (left) The star Betelgeuse (as seen by the Hubble telescope) and its size in comparison to Earth’s and Jupiter’s orbit. (right) Location of Betelgeuse in the Orion constellation. 
-Source: http://hubblesite.org/newscenter/archive/1996/04/ Credit: Andrea Dupree (Harvard-Smithsonian CfA), Ronald Gilliland (STScI), NASA and ESA.
-&lt;/p&gt;
-&lt;p&gt;The brightness of astronomical objects is measured in terms of &lt;a href=&quot;https://en.wikipedia.org/wiki/Apparent_magnitude&quot;&gt;apparent magnitude&lt;/a&gt;: a reverse logarithmic scale to measure how bright the object appears from the Earth. The full moon registers at about -12.9 on this scale while the Sun is at -26.7. For &lt;a href=&quot;https://en.wikipedia.org/wiki/Stellar_pulsation&quot;&gt;pulsating variable stars&lt;/a&gt;, this quantity changes periodically as the star repeats cycles of expansions and contractions. Some stars pulsate in a simple periodic manner (corresponding to the so-called fundamental frequency) while others show a more complicated pattern with interfering periods (or frequencies). These additional periods (or corresponding frequencies) can be identified using &lt;a href=&quot;https://www.aavso.org/sites/default/files/education/vsa/Chapter11.pdf&quot;&gt;complex analysis of the light curve&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;Analysis of the light curve of Betelgeuse shows a primary period of ~425 days, a secondary period of ~5.9 years and a possible tertiary period of ~180 days. Following these periodicities, its visible brightness can usually go as high as 0.0 and as low as 1.3 in apparent magnitude. At 9 million years old, it is expected to go supernova in the next 100,000 years, and when it does, it will be a spectacular event in the night sky (if we survive until then). Perhaps for this reason, speculations of the impending supernova made headlines when an unprecedented dimming in the star was reported in late 2019 by Prof. Edward Guinan in the &lt;a href=&quot;https://www.astronomerstelegram.org/?read=13341&quot;&gt;Astronomer’s Telegram&lt;/a&gt;. With a reported apparent magnitude of 1.5614, it was the faintest in its history of modern observation.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image2.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Betelgeuse seen with VLT/SPHERE-ZIMPOL before (January 2019) and during (December 2019) the Great Dimming. © ESO/M. Montargès et al.
-&lt;/p&gt;
-
-&lt;p&gt;Several hypotheses have been suggested to explain the unprecedented event. These include formation of a dust cloud, gigantic star spots, or an overlapping of the primary and secondary periods. The observed dimming was later confirmed in Infrared as well &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-3881/ac19b5&quot;&gt;(Harper et al., 2021)&lt;/a&gt;, complicating the mystery because the greater part of its radiation actually belongs to the infrared/near-infrared spectrum. Now, like all stars, Betelgeuse emits radiation at all parts of the electromagnetic spectrum, but the intensity at a given wavelength is governed by different factors. The surface temperature, for example, governs the peak observed in the thermal spectrum but there could be localised temperature changes on the surface (star spots), driven by large convection cells. Presence of dust and gas in the circumstellar environment affects the visible region and causes scattering in the UV. Any changes in pulsation also affects the different layers of the star, reflected as variations in different wavelengths. Moreover, these phenomena can happen together, further complicating the interpretation of observed radiation. In the context of Great Dimming of Betelgeuse, it therefore makes sense to ask whether it was a temporary, peripheral phenomenon (such as star spots or dust cloud), or something else, such as changes to the pulsation dynamics (which would likely affect the star as a whole). With this perspective, we investigated the light curve of the star prior to the dimming in all these wavelengths. We start by treating the star as a dynamical system.&lt;/p&gt;
-
-&lt;h2 id=&quot;multistable-dynamical-systems&quot;&gt;Multistable dynamical systems&lt;/h2&gt;
-&lt;p&gt;Loosely speaking, a &lt;strong&gt;dynamical system&lt;/strong&gt; is one that evolves in time according to a set of predefined rules. Mathematically, it is a system whose behaviour in time is described by a set of differential equations, subject to some parameters and initial conditions (and external influences). Swinging pendula, celestial bodies in motion, population growth in ecosystems, neuronal synapses, etc., can all be studied as dynamical systems. Some of these systems can exist in one of many possible states. Such &lt;strong&gt;multi-stable&lt;/strong&gt; systems are very interesting and can serve as models of real systems. Let us understand them with the help of a toy model with two possible stable states as illustrated in figure 3:&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: Schematic representation of a multistable dynamical system. It can be in any state on the curve depending on parameters and initial state, etc. But given enough time, it will occupy either of the stable states, A or B (indicated by the green ball).
-&lt;/p&gt;
-
-&lt;p&gt;Now, when the system existing in state A is perturbed a little, it oscillates around and eventually settles to A. Alternatively, if initially in state B, and given some tiny perturbation, it will eventually settle back down to B.&lt;/p&gt;
-
-&lt;p&gt;A critical transition in such a system refers to a sudden change in the state, leading to a contrasting dynamics. In our example, it would mean the system going from A to B (or vice-a-versa). The melting of sea ice in recent times and the historically green Sahara becoming a desert, are often cited as examples of such transitions. These transitions are notoriously difficult to anticipate because they happen suddenly. Such transitions are ubiquitous but most recognized in ecology, psychology, and climate. In recent decades, a whole body of literature has focused on the development of so-called &lt;em&gt;Early Warning Signals (EWS)&lt;/em&gt;, that detect such transitions well in advance. Most of these EWS rely on the assumption of &lt;em&gt;Critical Slowing Down&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h2 id=&quot;critical-slowing-down-and-ews&quot;&gt;Critical Slowing Down and EWS&lt;/h2&gt;
-&lt;p&gt;Let us imagine that the structure (or stability landscape) from figure 3 is governed by a system parameter β. Increasing β makes the well corresponding to state A shallower, decreasing the system resilience in this state. Decreased resilience implies that any displacement from state A will now be endured longer, increasing correlation in time. This will also reflect in longer return times (captured in recurrence based quantifiers) and increased fluctuations, causing large variance. This phenomenon is commonly known as &lt;strong&gt;Critical Slowing Down (CSD)&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image4.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 4: In normal conditions (left), small perturbations to the stable state A do not last long and fluctuations are small. But at higher values of system parameter β, the resilience of system in state A decreases, schematically illustrated here as a shallower structure (right). This results in large fluctuations in time (above, right) even with small perturbations, along with longer return times to the stable state.
-&lt;/p&gt;
-
-&lt;p&gt;At a certain point, the system reaches a tipping point where the tiniest of disturbance can take the system to the alternate stable state, B. This is called &lt;strong&gt;bifurcation-induced tipping&lt;/strong&gt; (there also exist other types of tipping such as noise-induced tipping and rate-induced tipping, which are beyond the scope of discussion of this article). At this point, the resilience indicators show characteristic trends such as increase in statistical variance (due to perturbations persisting over long time), autocorrelation at lag-1 (correlation in the present state and immediate past state), increase in Hurst exponent (a measure of autocorrelations in the data over different time lags), etc. Similarly, longer return times cause systematic trends in recurrence-based quantifiers. Such trends indicate the existence of a tipping point and are therefore collectively known as &lt;a href=&quot;http://www.early-warning-signals.org/?page_id=480&quot;&gt;Early Warning Signals (EWS)&lt;/a&gt; of a dynamical transition. It can be noted that although the example discussed here is a very simple one, CSD and associated EWS have been applied in more nuanced contexts in different areas ranging from psychology, finance, ecology and climate change, etc.&lt;/p&gt;
-
-&lt;h2 id=&quot;critical-transition-in-betelgeuse&quot;&gt;Critical transition in Betelgeuse&lt;/h2&gt;
-
-&lt;p&gt;Coming back to Betelgeuse, we considered it as a dynamical system and analysed the light curve data collected by the The American Association of Variable Star Observers &lt;a href=&quot;https://www.aavso.org/&quot;&gt;(AAVSO)&lt;/a&gt;. We identified some of the EWS in this data prior to dimming. The process consists of taking subsequent windows (sections) of the light curve in a sliding fashion (i.e. with some overlap), moving a few data points at a time. Then, statistical measures for these windows are calculated and plotted against time, as shown in the figure 5.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image5.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 5: Variation in the (a) Autocorrelation at lag 1 and (b) Variance calculated from the light curve of Betelgeuse upto the dimming (red), during the dimming (blue) and post dimming (green). The left panels (figures 1a and 1b) show the variation from 1990 onwards using a window size of 300 points on data binned every 10 days. The right panels zoom into a region around the dimming, with data binned every 5 days with a window size of 40. &lt;a href=&quot;https://app.aavso.org/webobs/results/?star=000-BBK-383&amp;amp;num_results=200&quot;&gt;Based on the data from AAVSO database&lt;/a&gt;. 
-&lt;/p&gt;
-
-&lt;p&gt;As we can see, these measures rise prior to the dimming, and serve as strong evidence of a dynamical transition preceded by CSD. Now, we know that the variability in the light curve of Betelgeuse is primarily governed by pulsation. EWS in the data, therefore, hint at a transition affecting its pulsation dynamics. Of course, the credibility of these results relies on statistical significance (further details in the paper). However, there is another way we can verify the existence of a transition—by looking at the variation in other wavelengths.&lt;/p&gt;
-
-&lt;h2 id=&quot;variations-in-other-wavelengths&quot;&gt;Variations in other wavelengths&lt;/h2&gt;
-
-&lt;p&gt;The radiation of a star comprises of different components of the electromagnetic spectrum. These components originate due to different stellar processes. In the case of Betelgeuse, the greatest part of electromagnetic radiation is in the infrared. In fact, Betelgeuse is the brightest star in infrared as seen from Earth! Naturally, the variations in this part of the spectrum are highly relevant to understand the dynamics of Betelgeuse. The multiwavelength data discussed in the paper has been taken with permission from &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-3881/ac19b5&quot;&gt;Harper et al. (2021)&lt;/a&gt;. It consists of a simplified three-filter system devised by &lt;a href=&quot;https://adsabs.harvard.edu/pdf/1992JAVSO..21...42W&quot;&gt;Wing et al. (1992)&lt;/a&gt; for red variable stars. Wing A filter is dominated by the TiO 719 nm (narrow band) and the Wing B and C filters are continuum bands centred around 750 nm and 1024 nm respectively. These filters are carefully selected to measure the infrared magnitude, colour and the spectral type of the star. The primary use of this filter system is for estimating surface temperature of these stars. In addition, this data also includes measurements in the V-band centred around 555 nanometer (nm), that can be compared to the same region in the AAVSO data.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image6.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 6: Variation of intensity in Betelgeuse, as captured in Vis/V band AAVSO data (grey), V-band photometry from Wasatonic laboratory (blue), and Infrared Wing three-filter (A: green, B: orange, C: red) data.
-&lt;/p&gt;
-
-&lt;p&gt;It is apparent from figure 6 that the dimming was simultaneous in all wavelengths! Further, we calculated the cross-correlation among these wavelengths, and found a systematic decrease before dimming as shown in figure 7:&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/Great_Dimming_Betelgeuse_sneha/image7.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 7: Pearson correlation coefficient calculated for each pair of wavelengths, indicated here in different colours. These correlations in time decrease prior to dimming.
-&lt;/p&gt;
-
-&lt;p&gt;The dimming could be just a normal cycle of the star but brightness variations in the past have never been so extreme (within the limits of available data). Since the infrared radiation comes from deeper layers of the star, we conclude that the dimming was not a surface phenomena. Further, since the dimming was simultaneous in all bands, we can argue that it was related to a dynamical process that affected the whole star, making change in pulsation dynamics the natural answer.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-current-state-of-the-stellar-matter&quot;&gt;The current state of the (stellar) matter&lt;/h2&gt;
-
-&lt;p&gt;Some of the measurements post dimming seem to validate the dynamical transition. For example, the brightening of the star was almost as quick as the dimming, and the next seasonal cycle was ‘rounder’ than ever! Moreover, later studies found increased prominence of the ~180 day period. These observations suggest a permanent change to the pulsation dynamics.&lt;/p&gt;
-
-&lt;p&gt;The Great Dimming of Betelgeuse continues to astonish us, even with all the new data we have from Hubble and other sources. Possibilities range from a dynamical transition or overlapping of periodic cycles, to a dust cloud or a large star spot, but (sadly) almost certainly not a supernova! Betelgeuse is a complex star—full of mystery—and we excitedly await to observe and understand more about it in the future.&lt;/p&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://doi.org/10.48550/arXiv.2111.09218&quot; target=&quot;_blank&quot;&gt;Evidence for dynamical changes in Betelgeuse using multi-wavelength data&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  Sneha Kachhara&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Sandip V. George, Ranjeev Misra, and G. Ambika&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Science Education and Research (IISER) Tirupati, Tirupati, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Fri, 16 Sep 2022 00:00:00 +0530</pubDate>
-        <link>/Great_Dimming_Betelgeuse_sneha</link>
-        <guid isPermaLink="true">/Great_Dimming_Betelgeuse_sneha</guid>
-        
-        <category>early warning signals</category>
-        
-        <category>stellar dynamics</category>
-        
-        <category>dynamical systems</category>
-        
-        <category>critical transition</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>How do astronomers understand the evolution of young stars in star clusters?</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;This article is based on the paper published in the Journal of Astrophysics &amp;amp; Astronomy. The article shows the results of our deep optical photometric observations of a young cluster NGC 1893 taken with the 3.6m Devasthal Optical Telescope. Based on the optical data obtained with the data along with the Gaia data, we characterized the young stars in the central region of the cluster and determined their age, mass and membership. We found that the distribution of masses of young low-mass stars in the cluster is similar to that of other Galactic clusters.  Our analysis suggested a primordial mass segregation in the cluster.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Stars form out of dense clouds made up of molecular gas and dust. A majority of these stars emerge as groups or clusters. Star clusters contain stars that are gravitationally stable against dispersion for reasonably long periods of time. Stars in a cluster have the same age and chemical composition (metallicity) but differ in mass and hence are found in different evolutionary stages, allowing astronomers to test stellar evolution theory.&lt;/p&gt;
-
-&lt;p&gt;Recent observational studies of nearby star-forming regions show that more than half of their young stars are associated with groups of ten or more stars. Therefore, young star clusters are crucial to understand the physical processes involved in the birth and evolution of stars and star clusters.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/evolution_young_star_cluster_neelam/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 1 : A  young cluster NGC 1893 in star-forming region Sh2-236
-(&lt;em&gt;Credits: A color-composite image created using DSS2-R (blue), Spitzer-IRAC 3.6 micron (green) and Spitzer-IRAC 4.5 micron (red) images.
-&lt;/em&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;Star clusters enable astronomers to place the stars of a wide range of masses within the Hertzsprung-Russel (HR) diagram that shows the relationship between a star’s temperature and its luminosity and infer their evolutionary stages and physical parameters, such as age, mass etc. The mass of a star is one of the most important factors providing constraint to its future evolution, but it is not clearly known what determines the exact mass of a newly forming star. One aspect of this problem is the knowledge of the distribution of stellar masses, initial mass function (IMF), in a star cluster.  However, the precise statistics for low-mass stars (stars smaller than the Sun) are somewhat uncertain as they are faint. The theoretical basis for the IMF, variation with the metallicity, environment etc., is challenged by the observational evidence for the universality of the IMF. With the sensitive instruments mounted on moderate size telescopes, e.g., &lt;a href=&quot;https://www.cfht.hawaii.edu&quot;&gt;Canada-France-Hawaii Telescope&lt;/a&gt;, &lt;a href=&quot;https://aries.res.in/facilities/astronomical-telescopes/360cm-telescope&quot;&gt;Devasthal Optical Telescope (DOT)&lt;/a&gt;, &lt;a href=&quot;https://subarutelescope.org/en/&quot;&gt;Subaru&lt;/a&gt; etc., that are capable of detecting fainter low-mass stars, now it is possible to shed light on the IMF of the cluster towards the very low-mass end.&lt;/p&gt;
-
-&lt;p&gt;This research work focuses on a young star cluster NGC 1893 from the New General Catalog (NGC was compiled by J. L. E. Dreyer in the year 1888 and contains about 7840 celestial objects mostly galaxies, nebulae and star clusters). In order to get more insights into the properties of the stars in a young cluster NGC 1893 (Fig. 1), Dr. Neelam Panwar and a team of astronomers of the Aryabhatta Research Institute of Observational Sciences (ARIES) in India performed photometric monitoring of this cluster. For this purpose, they employed the 4Kx4K Imager camera mounted on the 3.6-meter ARIES DOT.  Image Reduction and Analysis Facility (IRAF) software is used for image reduction and analysis. Various programs developed in Python and C++ programming languages are also used for data analysis and plotting. The optical data from DOT were deep enough to reveal very low-mass stars (about 0.2 times the mass of the Sun) in NGC 1893 (Fig. 2). The DOT data allowed the team to identify about 420 young stars in the central portion of the cluster, out of which 110 turned out to be new members. The study was complemented by archival data from &lt;a href=&quot;https://sci.esa.int/web/gaia&quot;&gt;ESA’s Gaia&lt;/a&gt; satellite, a sample of young stars obtained using infrared data from &lt;a href=&quot;https://old.ipac.caltech.edu/2mass/&quot;&gt;2MASS&lt;/a&gt;/ &lt;a href=&quot;https://www.spitzer.caltech.edu/&quot;&gt;Spitzer space telescope&lt;/a&gt; and &lt;a href=&quot;https://chandra.harvard.edu/&quot;&gt;Chandra X-ray&lt;/a&gt; data.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/evolution_young_star_cluster_neelam/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig.2 : HR diagram showing the evolutionary stages for different mass stars (left). Distribution of stellar masses in the young cluster (right). (&lt;em&gt;Credit: &lt;a href=&quot;https://arxiv.org/abs/2111.11796&quot;&gt;arXiv:2111.11796 &lt;/a&gt;&lt;/em&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;To determine the physical parameters of the cluster, it is essential to select the stars that are associated with the cluster. Since cluster members share nearly similar motion in the plane of the sky,
-&lt;a href=&quot;https://vizier.u-strasbg.fr/viz-bin/VizieR-3?-source=I/350/gaiaedr3&quot;&gt;Gaia Early Data Release 3&lt;/a&gt; catalogue is used to select the kinematic members, i.e., stars having similar proper motion values and estimate the distance of the cluster using the mean parallax of the cluster members. The young cluster is found approximately 10,600 light years away from the Earth.&lt;/p&gt;
-
-&lt;p&gt;For faint stars (about V&amp;gt;20 mag which corresponds to about solar mass, as seen in the CMD for NGC 1893) there is higher uncertainty in the proper motion, parallax values.The kinematic information is accurate upto sun-like stars. As the cluster is young (with an age of less than 10 million years), its low-mass members are still contracting towards the main sequence. Hence, the low-mass cluster members are young stars for which the HR diagram (optical color-magnitude diagram) yields ages less than 10 million years. They also studied the mass distribution of the young low-mass stars in the cluster and found that it is similar to other young clusters, i.e., their results favour the idea of a universal IMF.&lt;/p&gt;
-
-&lt;p&gt;Observations of star clusters show that relatively massive stars are often found to be located toward the cluster centre. It is not well understood if this mass segregation is due to the dynamical evolution of the star cluster or if this is related to the star formation process itself. Their analysis also suggested that stars with masses above half of the solar mass are located toward the cluster centre as compared to the stars with masses lower than this limit, indicating primordial mass segregation in the young cluster&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://link.springer.com/article/10.1007/s12036-021-09785-5&quot; target=&quot;_blank&quot;&gt;Deep V and I CCD photometry of young star cluster NGC 1893 with the 3.6m DOT&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  Neelam Panwar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Amit Kumar, S. B. Pandey&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Aryabhatta Research Institute of Observational Sciences (ARIES), Manora Peak, Nainital-263002&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Tue, 06 Sep 2022 00:00:00 +0530</pubDate>
-        <link>/evolution_young_star_cluster_neelam</link>
-        <guid isPermaLink="true">/evolution_young_star_cluster_neelam</guid>
-        
-        <category>Young star clusters</category>
-        
-        <category>stellar evolution</category>
-        
-        <category>Initial Mass Function</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
         
       </item>
     
