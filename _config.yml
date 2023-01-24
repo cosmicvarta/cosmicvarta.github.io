@@ -356,25 +356,35 @@ authors:
         email: 
         web: https://sites.google.com/view/silpasasikumar/?pli=1
         twitter: 
-        description: "My primary research interest is to understand the physical mechanisms driving radio outflows in Active Galactic Nuclei (AGN), particularly quasars."
+        description: "I am Silpa Sasikumar, PhD student at National Centre for Radio Astrophysics (NCRA) - Tata Institute of Fundamental Research (TIFR), Pune. I study the physical mechanisms driving radio outflows in Active Galactic Nuclei (AGN) and how these outflows impact the properties and content of the multi-phase gas inside the interstellar medium of the host galaxies, using radio polarization and multi-wavelength observations."
 
  Devojyoti Kansabanik:
         name: Devojyoti Kansabanik
         display_name: Devojyoti Kansabanik
-        avatar: 'assets/images/devojyoti_kansabanik.jpeg'
+        avatar: 'assets/images/devojyoti_kansabanik.jpg'
         email: 
         web: http://www.ncra.tifr.res.in/ncra/people/Academic_StudentsPage?oid=302#
         twitter: 
-        description: "Devojyoti Kansabanik is currently a working with Divya Oberoi at National Centre for Radio Astrophysics - Tata Institute of Fundamental Research (NCRA-TIFR), Pune for his doctoral research on a spectro-polarimetric study of the radio Sun."
+        description: "I am a final year Ph.D. student at the National Centre for Radio Astrophysics of Tata Institute of Fundamental Research, Pune. I am currently working on solar physics, particularly using the observations at radio frequencies to understand the solar corona, magnetic field and its impact on space-weather. My research interest is not only limited to solar physics, but spans the radio interferometric calibration, pulsars, pulsar binaries and exoplanets."
 
  Koushik Sen:
         name: Koushik Sen
         display_name: Koushik Sen
-        avatar: 'assets/images/koushik_sen.jpeg'
+        avatar: 'assets/images/koushik_sen.jpg'
         email: 
         web: https://www.linkedin.com/in/koushik-sen-1a9b4096/
         twitter: 
-        description: "Hi, I am a stellar astrophysicist. I am interested in massive single and binary star evolution: Algol binaries, Wolf-Rayet binaries, X-ray binaries, compact object binaries, and gravitational waves."
+        description: "I am a postdoctoral researcher at the Nicolaus Copernicus University in Torun. I completed my doctoral studies at the Argelander Institute for Astronomy in Bonn. I am working on many phases of massive binary star evolution, such as Algol binaries, Wolf-Rayet binaries, and compact object binaries using large grids of detailed binary evolution models computed using Modules for Experiments in Stellar Astrophysics (MESA)."
+
+ Neeraj Gupta:
+        name: Neeraj Gupta
+        display_name: Neeraj Gupta
+        avatar: 'assets/images/neeraj_gupta.jpg'
+        email: 
+        web: https://web.iucaa.in/~ngupta/#:~:text=I%20was%20born%20in%20Delhi,Radio%20Astrophysics%20and%20obtained%20Ph.
+        twitter: 
+        description: "I work at the Inter-University Centre for Astronomy and Astrophysics (IUCAA). My research focuses on interstellar medium of galaxies. I am Principal Investigator of the MeerKAT Absorption Line Survey (MALS; https://mals.iucaa.in/), a large survey of HI 21-cm and OH 18-cm lines at the Square Kilometre Array (SKA) precursor MeerKAT radio telescope in South Africa."
+
 
 plugins:
   - jekyll-paginate

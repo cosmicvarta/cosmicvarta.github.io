@@ -5,9 +5,107 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 23 Jan 2023 02:54:30 +0530</pubDate>
-    <lastBuildDate>Mon, 23 Jan 2023 02:54:30 +0530</lastBuildDate>
+    <pubDate>Tue, 24 Jan 2023 20:39:03 +0530</pubDate>
+    <lastBuildDate>Tue, 24 Jan 2023 20:39:03 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Astronomers find cold atomic gas playing peek-a-boo around a powerful quasar</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;The interaction of radio jets with gas associated with the host galaxy could play an important role in determining their morphology.  Such interactions may be more prevalent at high redshifts, when these powerful AGN are still the assembly sites of giant galaxies.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image1.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 1 The canonical model of AGN (&lt;a href=&quot;https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html&quot; target=&quot;_blank&quot;&gt;Credit: Aurore Simonnet, Sonoma State University&lt;/a&gt;)
+&lt;/p&gt;
+
+&lt;p&gt;The active galactic nuclei (AGN) are among the most luminous sources in the Universe. Their energy output is fuelled by the supply of gas to the central engine, i.e., a supermassive black hole (SMBH) through an accretion disk (see Fig. 1).  The detection of Lyman-alpha emission from neutral hydrogen (HI) has established that the powerful AGN at high redshift are embedded in huge (10 - 100 kpc) gaseous halos of diffuse atomic gas.  The observations of absorption lines detected in the spectra of AGN can provide crucial insights into the processes through which gas at large scales can be transported to the circumnuclear disk to fuel the central engine.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ui.adsabs.harvard.edu/link_gateway/2022ApJ...927L..24G/doi:10.3847/2041-8213/ac589f&quot; target=&quot;_blank&quot;&gt;Gupta et al.(2022, ApJL, 927, L24)&lt;/a&gt; recently used the Robert Stobie Spectrograph (RSS) on &lt;a href=&quot;https://www.salt.ac.za/&quot; target=&quot;_blank&quot;&gt;the Southern African Large Telescope (SALT)&lt;/a&gt; in South Africa and &lt;a href=&quot;https://science.nrao.edu/facilities/vlba/introduction-to-vlba&quot; target=&quot;_blank&quot;&gt;the Very Long Baseline Array (VLBA)&lt;/a&gt;  in the USA to discover a curious case of high HI column density absorber that exhibits strong HI 21-cm absorption at radio wavelengths but is absent at optical wavelength! SALT is the largest single optical telescope in the southern hemisphere whereas VLBA is a radio interferometer  consisting of 10 identical antennas, separated by distances from 200 km to transcontinental 8600 km.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image2.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 2 HI 21-cm absorption line associated with the powerful AGN M1540-1453.  Note that the HI 21-cm line (rest frequency of 1420.405752 MHz) is redshifted to ~456.2 MHz.
+&lt;/p&gt;
+
+&lt;p&gt;The large reservoir of cold HI gas associated with the quasar M1540-1453 at the redshift of z = 2.104 was discovered using &lt;a href=&quot;http://www.gmrt.ncra.tifr.res.in/&quot; target=&quot;_blank&quot;&gt;the upgraded Giant Metrewave Radio Telescope (uGMRT)&lt;/a&gt;  in India.  The corresponding HI 21-cm absorption profile is shown in Fig. 2.  It doesn’t exhibit any unusual features except that such absorbers have been difficult to find at high redshifts and only four are known at z &amp;gt; 2.  To understand the origin of detected cold gas, Gupta et al. observed M1540-1453 with SALT to detect the strong Lyman-alpha (Lyα) absorption corresponding to the gas detected with uGMRT.  But to their surprise, no such absorption was detected in the optical spectrum (see Fig. 3).   Also, in comparison to typical quasars, the Lyα emission line associated with the AGN is much narrower.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image3.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 3 SALT spectrum of M1540-1453.  Note the absence of strong HI Lyman alpha absorption.  The blue curve represents the absorption profile expected on the basis of absorption detected in the uGMRT spectrum at radio wavelengths.
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image4.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 4 VLBA image revealing the diffuse radio morphology of M1540-1453.
+&lt;/p&gt;
+
+&lt;p&gt;In comparison to optical, in general the radio emission associated with AGN is much more spatially extended. This difference can be used to explain such ambiguities in the radio and optical spectra. To dissect this further and understand the &lt;em&gt;ghostly&lt;/em&gt; nature of this HI absorber, Gupta et al. observed M1540-1453 with VLBA.  Usually, one expects radio emission associated with such powerful AGN to exhibit well collimated radio jets and lobes (see Fig. 1). However, the milliarcsecond-scale resolution observation of M1540-1453 shows a diffuse morphology (Fig. 4), which implies that the gas in front of it, which is producing absorption, is also not a few localized gas clumps, but rather forms a clumpy shell or halo which could be as large as 10 kpc (see Fig. 5). It is conjectured that this HI shell represents infalling gas clouds that may have been blown by the interaction between radio jets and the host galaxy medium.&lt;/p&gt;
+
+&lt;p&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image5.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Fig. 5: Cartoon depicting a quadrant of M1540–1453 embedded in a clumpy ISM. The quasar’s optical sight line (dashed line) may not intercept infalling HI clouds. In comparison, extended radio emission (&amp;gt; 425 pc) from the lobes will be intercepted by several such clouds, producing the broad redshifted HI 21 cm absorption line. The extent of the HI halo and radio emission could be as large as 10 kpc.  
+&lt;/p&gt;
+
+&lt;p&gt;The quasar M1540-1453 was discovered through an ambitious spectroscopic survey using SALT (180 hrs) and the Nordic Optical Telescopes (6 nights) to build a purely infrared-selected sample of radio-loud quasars (RLQs) at z &amp;gt; 1.5 and define the footprint of &lt;a href=&quot;https://mals.iucaa.in/&quot; target=&quot;_blank&quot;&gt;the MeerKAT Absorption Line Survey&lt;/a&gt;  (MALS; PI: N. Gupta).  MALS is one of &lt;a href=&quot;https://www.ska.ac.za/science-engineering/meerkat/observers/observing-programme/large-survey-projects/&quot; target=&quot;_blank&quot;&gt;the ten large surveys&lt;/a&gt; being carried out with &lt;a href=&quot;https://www.ska.ac.za/science-engineering/meerkat/&quot; target=&quot;_blank&quot;&gt; the MeerKAT radio telescope&lt;/a&gt; in South Africa. In the coming years, MALS is expected to detect several such absorbers that may have escaped detection at other wavelengths, and address various fundamental issues related to AGN.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://doi.org/10.3847/2041-8213/ac589f&quot; target=&quot;_blank&quot;&gt; H I Gas Playing Hide-and-seek around a Powerful FRI-type Quasar at z ∼ 2.1&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Neeraj Gupta&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Hum Chand, Vineet Ojha, Amitesh Omar, Shantanu Rastogi&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Tue, 24 Jan 2023 00:00:00 +0530</pubDate>
+        <link>/cold_atomic_gas_powerful_quasar_neeraj</link>
+        <guid isPermaLink="true">/cold_atomic_gas_powerful_quasar_neeraj</guid>
+        
+        <category>Active galactic nuclei; Radio loud quasars; Radio jets; Quasar absorption line spectroscopy</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>A comparison of the properties of Narrow Line and the Broad Line Seyfert galaxies</title>
@@ -1095,184 +1193,6 @@ If you like this sneak peek into the world of astronomical research, do visit my
         
         
         <category>High Energy Astrophysical Phenomena</category>
-        
-      </item>
-    
-      <item>
-        <title>Star-forming S0 Galaxies in SDSS-MaNGA: fading spirals or rejuvenated S0s?</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;Galaxies are the building blocks of our universe. A comprehensive theory of how galaxies evolve with cosmic time is key to understanding how the universe turns out the way it is today. Decades of observational, theoretical and computational efforts have been devoted to this purpose. Despite this, observations continue throwing challenges that theories of galaxy evolution cannot explain. In this work, we try to address one such challenge.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;On the basis of their morphology, i.e. appearance, galaxies can be divided into three classes:&lt;/p&gt;
-
-&lt;p&gt;●	The Spirals: Spiral galaxies possess a flat rotating disc with spiral arms.&lt;/p&gt;
-
-&lt;p&gt;●	The &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s: &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies possess a flat rotating disc, but lack spiral arms. Quite often, the side-view of &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s takes the shape of a convex lens, thus in the old days &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s were called Lenticulars.&lt;/p&gt;
-
-&lt;p&gt;●	The Ellipticals: Elliptical galaxies, on the other hand, are 3-D ellipsoidal distribution of stars, and do not have any disc-like structure.&lt;/p&gt;
-
-&lt;p&gt;Typical examples of the three classes are illustrated in Fig. 1 below.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1a.png&quot; width=&quot;350&quot; height=&quot;400&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1b.png&quot; width=&quot;350&quot; height=&quot;400&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image1c.png&quot; width=&quot;350&quot; height=&quot;400&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: Typical example of a Spiral (top), an &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; (middle) and an Elliptical (bottom) galaxy. (Credits: &lt;a href=&quot;http://skyserver.sdss.org/dr17/&quot;&gt;SDSS, HSC-SSP sky-server&lt;/a&gt;
-)
-&lt;/p&gt;
-
-&lt;p&gt;Through galaxy formation theories, we know that Spiral galaxies continuously form new stars. Spiral galaxies contain beautiful spiral arms - the places where new stars are born. On the other hand, &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; and elliptical galaxies are found to have stopped any kind of active star formation. But, it turns out that there exist some &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies in the nearby universe, which are actively star-forming. In our work, we identify a sample of 120 star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies in a large galaxy survey known as the SDSS-MaNGA survey. The images of some of these galaxies is shown in Fig. 2 below.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Very deep HSC-SSP telescope images of some of our star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies. (Credits: &lt;a href=&quot;http://skyserver.sdss.org/dr17/&quot;&gt;SDSS, HSC-SSP sky-server&lt;/a&gt;
-)
-&lt;/p&gt;
-
-&lt;p&gt;The peculiar nature of these star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s leads us to quite a few questions. First of all, where does the star-formation happen in these galaxies? The spirals have well defined regions where new stars are born - the spiral arms. No such structure is present in the &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s.&lt;/p&gt;
-
-&lt;p&gt;In order to answer this question, we will have to probe within these galaxies and find out where new stars are being born. We cannot do this with the conventional spectroscopic and photometric methods, since they give us the light of the entire galaxy as a whole. This does not allow us to resolve the details inside the galaxy. This is where the revolutionary MaNGA survey comes to the rescue!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;What is so special about the MaNGA survey?&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;One of the most important observables of a galaxy is its spectrum. Spectrum is awesome compared to photometry. Photometry just gives you the total light emitted by the galaxy over a broad range of wavelengths. Whereas, with a spectrum you get the light of the galaxy at every wavelength! That is a lot more information! The spectrum can be used to derive various physical properties of the galaxy, like the Star-Formation Rate (SFR), stellar mass, chemical composition etc.&lt;/p&gt;
-
-&lt;p&gt;In the past decade, most galaxy surveys were equipped with single-aperture spectroscopy. This means you got the spectrum of the entire galaxy as a whole. However, in recent times, advancement in technology has led to the development of Integral Field Spectrographs (IFS). IFS provides us with the spectrum of various spatial regions of a galaxy in a single observation. Let’s understand this in more detail.&lt;/p&gt;
-
-&lt;p&gt;The image of a galaxy is divided into numerous spatial regions (similar to pixels in a photographic image). Each such region is called a spaxel (short for spatial-pixel), and we can obtain the spectrum of each spaxel.&lt;/p&gt;
-
-&lt;p&gt;Because of these spaxels, we get excellent resolution over the 2D image of the galaxy.  With the spectrum of each spaxel, we get the 2D resolved image in each wavelength! Thus, in some sense, IFS provides us with 3D information about the galaxy. The first two axes are the spatial X and Y coordinates, and the third axis is the wavelength. This is illustrated in Fig. 3 below:&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image3a.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image3b.png&quot; width=&quot;800&quot; height=&quot;500&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: Top - MaNGA obtains spatially resolved spectra of a galaxy. The galaxy image is divided into various spatial regions, called spaxels. Each spaxel has a spectrum. This leads to what is called a 3D galaxy data-cube (bottom). The first two axes are the spatial X and Y axis of the galaxy image. We obtain the galaxy image at each wavelength (which is the third axis). (Credits: Dana Berry / SkyWorks Digital Inc., David Law, and the SDSS collaboration; &lt;a href=&quot;https://www.sdss.org/surveys/manga/&quot;&gt;https://www.sdss.org/surveys/manga/&lt;/a&gt;; &lt;a href=&quot;https://www.eso.org/public/&quot;&gt;ESO&lt;/a&gt;
-)
-&lt;/p&gt;
-
-&lt;p&gt;The SDSS-MaNGA is one such IFS survey. It enables us to study properties of a galaxy in a spatially resolved manner. Thus, we shall be able to understand the physical processes going on in our star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies in great detail. In particular, this will help us probe the interiors of these galaxies and find out where the new stars are being born!&lt;/p&gt;
-
-&lt;p&gt;We start by studying how the Star-Formation Rate (SFR) of the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s varies with the distance from the center of the galaxy. This will give us insights about the site and spatial extent of star-formation in these peculiar galaxies.&lt;/p&gt;
-
-&lt;p&gt;When we studied the star formation as a function of distance from the galaxy center for the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, we found that they are forming new stars close to their center. This is opposite to what happens in Spiral galaxies, since most of their star-formation happens in the spiral arms present in the disc - i.e. away from the center. This is a very interesting result about the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, which was not known before!
-Having answered where the star-formation is happening in these star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, now we get to the even bigger question - why are they forming new stars (being &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, they are not supposed to do that!) ? In order to answer this question, we would want to go deeper into the past of these galaxies.&lt;/p&gt;
-
-&lt;p&gt;A lot of research suggests that &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt; galaxies form from Spiral galaxies. When new stars are no longer being born in a Spiral galaxy, the spiral arms slowly start to fade - and eventually disappear. This leads to a galaxy which has a disc, but no spiral arms - i.e. an &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;. So, the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s could be a population of Spiral galaxies whose spiral arms have faded, but some star-formation activity is still going on in the center - i.e. a last burst of star-formation. This is just one hypothesis with regards to the formation of star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s.&lt;/p&gt;
-
-&lt;p&gt;Alternatively, the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s could be a population of the usual &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s (with no star-formation), whose star-formation has been somehow revived. They could also be something totally out of the box - a galaxy population with a distinct past of its own!&lt;/p&gt;
-
-&lt;p&gt;The above hypotheses suggest that there can be various possible connections and comparison points between the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, star-forming Spirals and the usual &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s with no star-formation (also known as quenched &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s). To probe these connections, we construct control samples of star-forming spirals and quenched &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, in addition to our main sample of star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s.&lt;/p&gt;
-
-&lt;p&gt;Now, a main property that distinguishes different classes of galaxies is how compact the spatial distribution of their stars is. An excellent way to probe this compactness is through the galaxy size - mass relation. The galaxy size is to be plotted on the Y-axis, and its stellar mass on the X-axis. It is well known that different classes of galaxies nicely separate out in this plot. We construct the size - mass relation for our star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, star-forming Spirals and the usual quenched &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s in Fig. 4. This will help us to compare and contrast the three galaxy populations, in lieu of the hypotheses presented before regarding the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 4: Galaxy size (Y-axis) v/s galaxy stellar mass (X-axis) for star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s (&lt;a style=&quot;font-family:Courier New&quot;&gt;SF-S0&lt;/a&gt;s), star-forming Spirals (&lt;a style=&quot;font-family:Courier New&quot;&gt;SF-Sp&lt;/a&gt;s) and quenched &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s (&lt;a style=&quot;font-family:Courier New&quot;&gt;Q-S0&lt;/a&gt;s). Solid line denotes the median trend. (Credits: Authors)
-&lt;/p&gt;
-
-&lt;p&gt;In the size - mass plane, the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s are quite similar to the quenched &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s, and are different from star-forming Spirals. This suggests that the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s are not fading spirals, and are likely to be the usual &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s whose star-formation has been somehow revived! This is another very interesting result which was not confirmed before!&lt;/p&gt;
-
-&lt;p&gt;Now the next natural question is, what caused the revival of star-formation in our star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s? One way in which this can happen is if another gas-rich galaxy merged with our &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;, and brought in the necessary Hydrogen gas required for forming new stars. This other galaxy must be significantly less massive than our &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;, so that the merger does not end up completely deforming our &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;. Such mergers are called minor mergers.&lt;/p&gt;
-
-&lt;p&gt;One key signature of whether a galaxy has undergone a recent minor merger is in the motion of its stars and gas. The minor merger will cause some perturbations to the main galaxy, causing the velocity of stars and gas to get disturbed, as opposed to a coherent rotation around the galaxy center. But how do we study the velocities of stars and gas within these galaxies? Again, MaNGA Integral Field Spectroscopy comes to the rescue!&lt;/p&gt;
-
-&lt;p&gt;Another very useful quantity that can be derived from a spectrum is the velocity of the object along the line of sight, using the principle of Doppler effect (see &lt;a href=&quot;http://spiff.rit.edu/classes/phys301/lectures/doppler/doppler.html&quot;&gt;this link&lt;/a&gt; for more details). Using the MaNGA IFS, we obtain the velocities of stars and gas in various regions of our star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s.&lt;/p&gt;
-
-&lt;p&gt;We find that more than 50% of our star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s have disturbed stellar and gas velocities. In a few cases, we even find the stars and gas rotating in opposite directions about the galaxy center (Fig. 6) !&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image5a.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/star_formation_sdss_himansh_kavin_images/image5b.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 5: Example of a counter-rotating star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;. Stars (left) and gas (right) rotate in the opposite sense. The gas has likely come from a smaller galaxy that has merged with the main galaxy! (Credits: Authors)
-&lt;/p&gt;
-
-&lt;p&gt;Such disturbed and incoherent stellar and gas velocities indicate instabilities triggered by a recent minor merger. This merger could have brought in the necessary gas for reviving the star-formation in the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s. Thus, we infer that minor mergers are the most likely cause for the revival of star-formation in our star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s!&lt;/p&gt;
-
-&lt;p&gt;To summarize, in this work, we have been able to answer many questions about these mysterious objects called star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s. We found that the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s form new stars primarily in their central regions, which is opposite to what happens in Spiral galaxies. We also inferred that the star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s are likely the usual &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s (which do not form new stars), in which star-formation activity has been somehow revived. We conclude that minor merger with a gas-rich galaxy has likely caused this revival. Thus, we have made good progress in solving the mystery behind the existence of star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s! Moreover, in the bigger picture, our work highlights the importance of minor-mergers as a complex ingredient that shapes how galaxies evolve with time!&lt;/p&gt;
-
-&lt;p&gt;Still, quite a few concerns remain. We have 120 galaxies in this work, and ideally, we would like to have a larger sample to constrain our findings better. Many large IFS surveys are coming up in the future, and we look forward to them. Moreover, the star-forming gas of these star-forming &lt;a style=&quot;font-family:Courier New&quot;&gt;S0&lt;/a&gt;s needs to be analyzed in more detail to fully confirm whether it has come from another galaxy. Molecular gas observations from radio telescopes and better resolution IFS observations will be very helpful in this pursuit!&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Acknowledgements&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p&gt;Himansh and Kavin would like to thank Prof. Yogesh Wadadekar for helpful feedback on this article. Also, a sincere thanks to the Cosmicvaarta editor Kshitija Kelkar, whose constructive suggestions significantly improved the quality of this article.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://academic.oup.com/mnras/article/513/1/389/6561635&quot; target=&quot;_blank&quot;&gt;Star-forming S0 Galaxies in SDSS-MaNGA: fading spirals or rejuvenated S0s?&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Himansh Rathore&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Kavin Kumar, Preetish K Mishra, Yogesh Wadadekar, Omkar Bait&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Department of Physics, Indian Institute of Technology Bombay, Powai, Mumbai, Maharashtra 400076, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Fri, 30 Sep 2022 00:00:00 +0530</pubDate>
-        <link>/star_formation_sdss_himansh_kavin</link>
-        <guid isPermaLink="true">/star_formation_sdss_himansh_kavin</guid>
-        
-        <category>Galaxies</category>
-        
-        <category>SDSS</category>
-        
-        <category>MaNGA</category>
-        
-        <category>galaxy morphology</category>
-        
-        <category>S0</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
         
       </item>
     
