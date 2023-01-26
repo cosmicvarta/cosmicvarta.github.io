@@ -69,7 +69,7 @@ The quasar M1540-1453 was discovered through an ambitious spectroscopic survey u
 
 **First Author:** Neeraj Gupta
 
-**Co-authors:** Hum Chand, Vineet Ojha, Amitesh Omar, Shantanu Rastogi
+**Co-authors:** R. Srianand, E. Momjian, G. Shukla, F. Combes, J.-K. Krogager, P. Noterdaeme, and P. Petitjean
 
 **First author’s Institution:** Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India.
 
