@@ -52,7 +52,6 @@ Fig. 4 VLBA image revealing the diffuse radio morphology of M1540-1453.
 
 In comparison to optical, in general the radio emission associated with AGN is much more spatially extended. This difference can be used to explain such ambiguities in the radio and optical spectra. To dissect this further and understand the *ghostly* nature of this HI absorber, Gupta et al. observed M1540-1453 with VLBA.  Usually, one expects radio emission associated with such powerful AGN to exhibit well collimated radio jets and lobes (see Fig. 1). However, the milliarcsecond-scale resolution observation of M1540-1453 shows a diffuse morphology (Fig. 4), which implies that the gas in front of it, which is producing absorption, is also not a few localized gas clumps, but rather forms a clumpy shell or halo which could be as large as 10 kpc (see Fig. 5). It is conjectured that this HI shell represents infalling gas clouds that may have been blown by the interaction between radio jets and the host galaxy medium.
 
-</p>
 <p align="center">
   <img src="../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image5.png">
 </p>

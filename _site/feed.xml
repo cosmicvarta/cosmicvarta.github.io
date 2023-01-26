@@ -5,8 +5,8 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 26 Jan 2023 11:04:55 +0530</pubDate>
-    <lastBuildDate>Thu, 26 Jan 2023 11:04:55 +0530</lastBuildDate>
+    <pubDate>Thu, 26 Jan 2023 15:29:05 +0530</pubDate>
+    <lastBuildDate>Thu, 26 Jan 2023 15:29:05 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -54,7 +54,6 @@ Fig. 4 VLBA image revealing the diffuse radio morphology of M1540-1453.
 
 &lt;p&gt;In comparison to optical, in general the radio emission associated with AGN is much more spatially extended. This difference can be used to explain such ambiguities in the radio and optical spectra. To dissect this further and understand the &lt;em&gt;ghostly&lt;/em&gt; nature of this HI absorber, Gupta et al. observed M1540-1453 with VLBA.  Usually, one expects radio emission associated with such powerful AGN to exhibit well collimated radio jets and lobes (see Fig. 1). However, the milliarcsecond-scale resolution observation of M1540-1453 shows a diffuse morphology (Fig. 4), which implies that the gas in front of it, which is producing absorption, is also not a few localized gas clumps, but rather forms a clumpy shell or halo which could be as large as 10 kpc (see Fig. 5). It is conjectured that this HI shell represents infalling gas clouds that may have been blown by the interaction between radio jets and the host galaxy medium.&lt;/p&gt;
 
-&lt;p&gt;&amp;lt;/p&amp;gt;&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image5.png&quot; /&gt;
 &lt;/p&gt;
@@ -146,7 +145,7 @@ The multiple-component spectral decomposition was applied to fit one of the sour
 
 &lt;p&gt;After fitting the spectra by employing a multi-component spectral decomposition technique, we studied a set of 11 physical parameters to compare these two populations. It is very important to know that the exact relation of the NLSy1 galaxies with the BLSy1 galaxies remains unknown for the general AGN population.&lt;/p&gt;
 
-&lt;p&gt;We characterized the population of these galaxies based on the asymmetry observed in a very prominent emission line: the H-beta emission line. In our sample, we found out the NSLy1 galaxies are 3 times more likely to show emission line asymmetries as compared to the BLSy1 galaxies population. This result is very important in our understanding of the difference between these two populations. Note that the emission lines are generated in the Broad-line Region (BLR) of these AGNs, and this region cannot be resolved by any observation technique at present. Thus, we are reliant on indirect tools to infer the dynamics of matter in these regions. In this regard, emission line asymmetries encode information about the dynamics of matter at the location from where they are emitted and thus it becomes necessary to characterize. The outflows may also be due to the winds arising from the accretion disk in these AGNs, which influences our understanding and further modelling of the AGN accretion disks.&lt;/p&gt;
+&lt;p&gt;We characterized the population of these galaxies based on the asymmetry observed in a very prominent emission line: the H-beta emission line. In our sample, we found out the NLSy1 galaxies are 3 times more likely to show emission line asymmetries as compared to the BLSy1 galaxies population. This result is very important in our understanding of the difference between these two populations. Note that the emission lines are generated in the Broad-line Region (BLR) of these AGNs, and this region cannot be resolved by any observation technique at present. Thus, we are reliant on indirect tools to infer the dynamics of matter in these regions. In this regard, emission line asymmetries encode information about the dynamics of matter at the location from where they are emitted and thus it becomes necessary to characterize. The outflows may also be due to the winds arising from the accretion disk in these AGNs, which influences our understanding and further modelling of the AGN accretion disks.&lt;/p&gt;
 &lt;p align=&quot;center&quot;&gt;
   &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image3.png&quot; /&gt;
 &lt;/p&gt;
