@@ -7,9 +7,9 @@ categories: [High Energy Astrophysical Phenomena, Solar and Stellar Astrophysics
 tags: [stars, massive black holes, binaries]
 class: [Featured]
 image: assets/images/xray_quiet_blackholes_koushik/image_cover.jpg
-featured: True
-hidden: True
-review: False
+featured: False
+hidden: False
+review: true
 ---
 >
 With the gravitational wave observations capturing the coalescence of compact objects, hunting for black holes has taken quite a front-row seat in astronomical observations. Here, we discuss two such detection of black holes in orbit with a main sequence companion, and why it is very difficult to find them in the forest of massive stars. 
