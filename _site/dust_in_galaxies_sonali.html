@@ -1,0 +1,1079 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVRTXP9407"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-BVRTXP9407');
+	</script>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/thumb.png">
+
+<title>Accounting for the presence of dust in galaxies | CosmicVarta</title>
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Accounting for the presence of dust in galaxies | Welcome to CosmicVarta.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Accounting for the presence of dust in galaxies" />
+<meta name="author" content="Sonali Sachdeva" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust." />
+<meta property="og:description" content="Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust." />
+<meta property="og:site_name" content="Welcome to CosmicVarta." />
+<meta property="og:image" content="/assets/images/dust_in_galaxies_sonali/image_cover.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-02-13T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/assets/images/dust_in_galaxies_sonali/image_cover.jpg" />
+<meta property="twitter:title" content="Accounting for the presence of dust in galaxies" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Sonali Sachdeva"},"image":"/assets/images/dust_in_galaxies_sonali/image_cover.jpg","@type":"BlogPosting","headline":"Accounting for the presence of dust in galaxies","dateModified":"2023-02-13T00:00:00+05:30","datePublished":"2023-02-13T00:00:00+05:30","description":"Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust.","url":"/dust_in_galaxies_sonali","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/cv.png"},"name":"Sonali Sachdeva"},"mainEntityOfPage":{"@type":"WebPage","@id":"/dust_in_galaxies_sonali"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/cv.png" alt="CosmicVarta">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/about">About us</a>
+								</li>
+
+								<li class="nav-item">
+                <a target="_blank" class="nav-link" href="/upcoming"> Upcoming articles</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/writers"> Join us</a>
+								</li>
+
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/career_help">  Career help</a>
+								</li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/links"> Useful Links</a>
+								</li>
+
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="/contact"> Contact Us</a>
+                </li>
+
+
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">CosmicVarta</h1>
+    <p class="lead">
+         Platform for promoting Indian astronomy research to the public.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/dust_in_galaxies_sonali" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/dust_in_galaxies_sonali" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Accounting for the presence of dust in galaxies&url=/dust_in_galaxies_sonali" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+
+        <li class="ml-1 mr-1">
+              <a href="https://api.whatsapp.com/send?text=/dust_in_galaxies_sonali" onClick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </li>
+
+
+
+
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/sonali_sachdeva.jpg" alt="Sonali Sachdeva">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://www.rri.res.in/people/postdoctoral-fellows/sonali-sachdeva">Sonali Sachdeva</a><a target="_blank" href="" class="btn follow">Connect</a>
+                        <span class="author-description">I am a Postdoctoral fellow in the Astronomy and Astrophysics department of the Raman Research Institute, Bengaluru. I work towards resolving the most challenging aspects in the formation and evolution of galaxies. <br><br>
+                          
+
+<b>9 min read</b>
+
+
+                        </span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Accounting for the presence of dust in galaxies</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+
+            
+            <!-- <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/dust_in_galaxies_sonali/image_cover.jpg" alt="Accounting for the presence of dust in galaxies">
+            
+
+             -->
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+
+                <blockquote>
+
+</blockquote>
+<hr color="black" />
+
+<p>Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust.</p>
+<blockquote>
+
+  <hr />
+</blockquote>
+
+<hr color="black" />
+
+<h1 id="less-formal-description">Less Formal Description</h1>
+<p><b><i>Accounting for the presence of dust in galaxies</i></b></p>
+<hr color="black" />
+
+<p>In this work, we have found that the behavior or the effect of dust present inside a galaxybis according to its distribution with respect to various stellar populations. We will try to explain the context and the significance of this finding in this article. We would like to begin by reminding you that dust is as crucial a component of a galaxy and as omnipresent as stars, gas, and dark matter. Dust is mainly composed of carbon and silicates, where the size of a typical dust grain ranges from 0.01 to 1 micron. For comparison, this is about 2 orders of magnitude smaller than the dust we see on our furniture. The importance of dust can very well be gauged from the fact that it reprocesses more than half of the galaxy’s total stellar light. Stars, as we know, emit mainly from UV to near-IR. These photons interact with the dust particles, get scattered and absorbed, and dust then re-emits the light in the middle and far-IR region of the spectrum. For example, our Milky Way would have been doubly bright in the optical if dust was not present.</p>
+
+<p align="center">
+  <img src="../assets/images/dust_in_galaxies_sonali/image1.jpg" />
+</p>
+
+<p align="center">
+    Figure 1: Due to the increased presence of birth clouds and the denser interstellar medium in spiral galaxies, both UV and optical stellar emissions encounter dust on a similar level. Thus, the slope of the attenuation curve is not steep in the UV-optical range for spiral galaxies. In contrast, in the case of elliptical galaxies, only UV emission from newly formed stars encounters dust from the circumambient birth cloud. Optical stellar emissions escape due to a decreased presence of birth clouds and the less dense interstellar medium. Thus, the slope of the attenuation curve is steep in the UV-optical range for elliptical galaxies.
+</p>
+
+<p>It is interesting to note that even though the dust has such a splendid effect on a galaxy’s stellar light, it constitutes a minuscule fraction of the galaxy’s total mass. Baryonic mass (i.e., non-dark matter mass)  is nearly 1/6th of the galaxy’s total mass. Of this baryonic mass, 1/6th is in the interstellar medium. And of the total mass in the interstellar medium, 99% is gas, and 1% is dust. There are various mechanisms through which dust is understood to get formed, transformed, and destroyed inside a galaxy. It is mainly expected to form during the asymptotic giant branch (AGB) phase of the stars. Recent evidence also suggests that it could have formed around supernovae. But the mystery is how dust would have survived the shockwave associated with supernovae. It has also been proposed that dust might get formed around supermassive black holes. It gets destroyed either through UV rays and also gets consumed in the formation of new stars being part of the giant molecular clouds. It plays a critical role in the cooling and coagulation of such clouds. What this conveys is that the cycle of dust is intricately linked with both the star formation history as well as the future star formation rate of a galaxy.</p>
+
+<p>Thus accounting for the effect of dust is a primary requirement for any reasonable estimation of a galaxy’s stellar mass and star formation rate. This effect of dust is accounted for through the dust attenuation curve of a galaxy. It gives the attenuation or optical depth of a galaxy as a function of wavelength. It describes how a galaxy’s light is affected by dust at each wavelength. So a general attenuation curve peaks at far UV and becomes negligible by the time it reaches IR. These curves are used as an input in the computation of a galaxy’s stellar parameters. Their accurate knowledge is crucial for simulations, modeling, and data analysis, basically at all places where the aim is to understand the formation and evolution of galaxies. If we do not know the attenuation curve accurately, there’s no way we can distinguish between a young dusty galaxy and an old non-dusty one. In tracing the evolution of galaxies, one of the most intriguing things is that the star formation rate density of galaxies has fallen by a factor of 5 to 10 since redshift 2. This could have been both due to the decrease in star formation efficiency as well the decrease in gaseous material inside galaxies. To solve this puzzle, accurate attenuation curves have to be known for the observed galaxies over the entire redshift range.</p>
+
+<p>There has been a lot of progress in the estimation of these curves. Improving over the comparison methods, model methods have been successful in deriving these curves individually for each galaxy. Here the basic idea is to obtain the best match spectrum or Spectral Energy Distribution (SED) for a galaxy out of 100 thousand SEDs created with a whole range of model parameters. A major advancement has occurred with the availability of mid and especially far-IR measurements. Thanks to that, total IR luminosity works as a constraint on the dust emission and allows the attenuation parameters to be fitted freely. This has led to more detailed attenuation parameters and, thus, more accurate stellar parameters. The observations in the far-IR for a large number of galaxies have mainly happened over the last decade with space-based telescopes, especially Herschel. This information will allow you to appreciate the sample that we have chosen for our study. Stripe 82 is a 220-square-degree patch in the Northern Hemisphere of the sky. It has been the focus of many deep multi-wavelength photometric and spectroscopic surveys. Thanks to that, it has the range of most accurate dust attenuation and structural and stellar parameters computed through various dedicated efforts.</p>
+
+<p>What we have done is that we have used all this information to probe the dependence of the shape of the dust attenuation curve on all other galaxy properties. This kind of observational undertaking is possible now with the availability of all the defining galaxy parameters for a large sample of local galaxies. Deciphering the dependence of dust on other galaxy properties is fundamental in our pursuit of understanding the processes that have governed the growth of galaxies. There is growing evidence that galaxies with different morphology types have witnessed characteristically different evolutionary paths. For example, ellipticals are understood to form during major mergers, and discs might have formed later through accretion, minor mergers, and secular evolution. If we are able to quantify the difference in their dust content and attenuation properties, we can obtain more insight into the dominant physical processes. So we have a sample of nearly 17000 local galaxies, covering the entire mass range. We divide these galaxies based on their dominant structural component, that is, if majorly the galaxy has a spheroid or elliptical-like structure or if it’s mainly a disc-like structure.</p>
+
+<p>This classification is achieved with the application of multiple stringent criteria that include the placement of galaxies on the projection of the fundamental plane and the value of their global Sersic index. The sersic index defines the shape of a galaxy’s light profile. Galaxies with dominant spheroid components will follow the tight fundamental plane relation observed for local ellipticals, while those with dominant disc components will be outliers to such a relation. Galaxies that didn’t comply with the stringent multiple criteria were kept separately so as not to contaminate the two classifications. We found that the normalized slope of the attenuation curve is markedly different for the two structural types. The curve is twice as shallow for discs as it is for spheroids (see Figure 2). However, for the whole group of a given structural type, the slope values are constrained within a narrow range. Thus the shape of the dust attenuation curve is dependent on the dominant mode of stellar mass distribution inside a galaxy. Similar to structure, the curve is nearly twice as shallow for star-forming galaxies as for passive galaxies. We divide the galaxies into star-forming and passive based on their placement on the main sequence.</p>
+
+<p align="center">
+  <img src="../assets/images/dust_in_galaxies_sonali/image2.png" />
+</p>
+
+<p align="center">
+    Figure 2. The fractional distribution of various structural types of galaxies, i.e., spheroid-dominated (red), disc-dominated (blue), and the rest (green), is shown with respect to the normalized slope of their dust attenuation curves in UV (R FUV ). Discs exhibit shallower slopes than spheroids emphasizing the role of structure in determining dust properties.
+</p>
+
+<p>This dependence of the attenuation curve on star formation rate could be driven by the structure because discs are star-forming and spheroids are passive. But also, star-forming galaxies will have more dust clouds in addition to the diffuse interstellar medium. Either way, this adds to the evidence that the distribution of stars and dust inside a galaxy determines the curve properties. Another interesting thing to note is that the amount of dust is irrelevant to the shape. That’s why we see no correlation between the normalized shape and the total mass of the galaxy or the inclination of its disc component. Although more mass and higher inclination will result in the stellar light encountering more dust before reaching the observer, it doesn’t affect the shape of the curve. So, rather than the amount of dust encountered by the stellar light, it is the placement of the dust vis-a-vis the stars that determine the attenuation properties. Thus, all evidence suggests that it is the distribution of dust vis-a-vis various stellar populations that determines its behavior, i.e., star-dust geometry is the main determinant of the dust attenuation properties.</p>
+
+<hr color="black" />
+
+<h1 id="more-formal-description">More Formal Description</h1>
+<p><b><i>Star-dust geometry: main determinant of dust attenuation in galaxies</i></b></p>
+<hr color="black" />
+
+<p>Dust is as crucial a component of a galaxy and as omnipresent as stars, gas, and dark matter. Its importance can be gauged from the fact that it reprocesses more than half of the galaxy’s stellar light. The dust properties (mainly its amount and constituents) inside a galaxy depend on the star formation history of that galaxy. In addition to that, the dust properties of a galaxy are a critical determinant of its future star formation activity. Unraveling the connection between the properties of dust and its host galaxy is, therefore, a powerful diagnostic for the processes involved in its evolution (Dunne et al. 2011; Santini et al. 2014).</p>
+
+<p>The properties of dust inside a galaxy are deduced by analyzing its effect on the galaxy’s stellar emission over the spectrum (Calzetti 1997; Draine 2003). This effect of dust is accounted for through the dust attenuation curve of a galaxy. The dust attenuation curve gives the optical depth of a galaxy over the spectrum, i.e., it describes how a galaxy’s light is affected by dust at each wavelength. So a general attenuation curve peaks at far UV and becomes negligible by the time it reaches IR. Constant efforts are made to compute attenuation curves for galaxies in a robust manner as it is a prerequisite for estimating galaxies’ stellar mass and star formation rate (Walcher et al. 2011; Conroy 2013).</p>
+
+<p>The method that has lately gained traction for providing the most reliable attenuation curves for galaxies individually is the ‘model method’. This involves the creation of a library of dust-free spectrums or Spectral Energy Distributions (SEDs) spanning a large range of star formation histories and metallicities through the usage of stellar population synthesis models. The dust-free SEDs are then attenuated and compared with observed SEDs to obtain estimates of galaxy parameters and dust content. Recently, Salim et al. (2018) implemented the ‘energy balanced SED fitting’ technique on a quarter million local galaxies with far-UV to far-IR observations resulting in a detailed set of dust attenuation parameters for galaxies individually, covering the whole mass and stellar activity range.</p>
+
+<p>For Stripe 82 - a 270 square degrees area in the sky - spectra as well as deep images are available for tens of thousands of local galaxies (Dawson et al. 2013; Annis et al. 2014). Utilizing that, Bottrell et al. (2019) have computed a detailed set of structural parameters (like size, ellipticity, bulge-to-total ratio, etc.) for all galaxies (∼17000) in this area in optical wavebands. Thus, detailed structural, stellar, and attenuation curve defining parameters - understood to be the most accurate to date - are available for all (∼17000) galaxies in the Stripe 82 region. In our work, we employ this data to perform a detailed investigation of the processes and properties responsible for the observed variation in dust attenuation parameters of galaxies covering the entire mass and stellar activity range.</p>
+
+<p>We probed the cause of variation in the dust attenuation curves of galaxies by studying the trend of the normalized attenuation slope in the ultraviolet with the structure, star formation activity, total stellar mass, inclination, and optical depth of galaxies. The main findings are discussed:</p>
+<ul>
+  <li>The attenuation curve for spheroid-dominated galaxies is twice as steep as that for disc-dominated ones. Both structural types occupy non-overlapping ranges of the attenuation slope value (10-20% overlap). Thus, stellar mass distribution within the galaxy is one of the main determinants of its dust attenuation behavior. More importantly, within a structural group, i.e., that of discs, slope values are constrained to a narrow range, emphasizing the primacy of structure in determining dust properties.</li>
+  <li>The steepness of the attenuation curve for spheroids is driven by minimal attenuation in the optical bands compared to that in the ultraviolet. Thus, only newly formed stars get attenuated in the case of spheroids. In contrast, the shallowness of the curve in the case of discs is driven by near-uniform attenuation in UV and optical bands. Thus, all stars face attenuation in the case of discs, both due to a more dominant presence of ‘birth clouds’ and a denser interstellar medium (Charlot &amp; Fall, 2000).</li>
+  <li>The trends observed in the case of the structure are reflected in the case of star formation activity as well. The slope for passive galaxies is twice as steep as that for star-forming ones. This is expected because most (&gt;85-90%) discs are star-forming, and spheroids are passive. Since star-forming galaxies are more gas-rich, clumpier and have a larger presence of birth clouds compared to passive galaxies, it provides further evidence that the distribution of stellar mass and dust inside a galaxy is the main cause of variation in attenuation curves (Inoue 2005).</li>
+  <li> All our findings add up to the argument that if the extinction curve is assumed to be universal, the distribution of stars and dust, i.e., star-dust geometry, is the primal determinant of the attenuation properties of a galaxy. Recently, under similar assumptions, Narayanan et al. (2018) have shown through simulations that star-dust geometry drives the variation in attenuation curves. Our results confirm that.</li>
+</ul>
+
+<hr color="black" />
+
+<h1 id="references">References:</h1>
+<ul>
+  <li>Dunne L. et al., 2011, MNRAS , 417, 1510</li>
+  <li>Santini P. et al., 2014, A&amp;A , 562, A30</li>
+  <li>Calzetti D., 1997, AJ , 113, 162</li>
+  <li>Draine B. T., 2003, ApJ , 598, 1017</li>
+  <li>Walcher J., Gro v es B., Budav ári T., Dale D., 2011, Ap&amp;SS , 331, 1</li>
+  <li>Conroy C., 2013, ARA&amp;A , 51, 393</li>
+  <li>Salim S., Boquien M., Lee J. C., 2018, ApJ , 859, 11</li>
+  <li>Dawson K. S. et al., 2013, AJ , 145, 10</li>
+  <li>Annis J. et al., 2014, ApJ , 794, 120</li>
+  <li>Bottrell C., Simard L., Mendel J. T., Ellison S. L., 2019, MNRAS , 486, 390</li>
+  <li>Charlot S., Fall S. M., 2000, ApJ , 539, 718</li>
+  <li>Inoue A. K., 2005, MNRAS , 359, 171</li>
+  <li>Narayanan D., Conroy C., Dav é R., Johnson B. D., Popping G., 2018, ApJ, 869, 70</li>
+</ul>
+
+<hr color="black" />
+
+<hr />
+
+<p><strong>Original paper:</strong>
+<a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.513L..63S/abstract" target="_blank">Star-dust geometry main determinant of dust attenuation in galaxies</a></p>
+
+<p><strong>First Author:</strong> Sonali Sachdeva</p>
+
+<p><strong>Co-authors:</strong> Biman B. Nath</p>
+
+<p><strong>First author’s Institution:</strong> Raman Research Institute(RRI), Bengaluru, 560080; India</p>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2023-02-13">13 Feb 2023</time></span>
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#Astrophysics-of-Galaxies">Astrophysics of Galaxies</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+<h2>Related articles</h2>
+
+
+
+
+
+<ul>
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+</ul>
+
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = ''; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+
+<hr><hr>
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span> &nbsp; Never miss an <b>article</b> from us. Subscribe to our website <a href='https://forms.gle/a7iLs1Tc7DCPVhtW7'target=None>here.</a>
+        </form>
+	</div>
+</div>
+
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+
+
+<!-- Begin Footer
+================================================== -->
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+
+
+
+        <footer class="ftco-footer ftco-section" id="contact-section">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+
+
+                  <p>Beauty is that to what the human mind responds at its deepest and most profound.</p> <b><a href="https://quotefancy.com/quote/1645323/Subrahmanyan-Chandrasekhar-Beauty-is-that-to-what-the-human-mind-responds-at-its-deepest#:~:text=Subrahmanyan%20Chandrasekhar%20Quote%3A%20%E2%80%9CBeauty%20is,its%20deepest%20and%20most%20profound.%E2%80%9D"target=None>-Subrahmanyan Chandrasekhar</a></b></p>
+
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                  <h2 class="ftco-heading-2">Links</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="/index.html"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                    <li><a href="/about"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                    <li><a href="/writers"><span class="icon-long-arrow-right mr-2"></span>Join Us</a></li>
+                    <li><a href="/upcoming"><span class="icon-long-arrow-right mr-2"></span>Upcoming articles</a></li>
+                    <li><a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                 <div class="ftco-footer-widget mb-4">
+                  <h2 class="ftco-heading-2">Social media</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="https://facebook.com/cosmicvarta"><span class="icon-long-arrow-right mr-2"></span>Facebook</a></li>
+                    <li><a href="https://twitter.com/cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Twitter</a></li>
+                    <li><a href="https://www.medium.com/@cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Medium</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+                	<h2 class="ftco-heading-2">Enquiry </h2>
+                	<div class="block-23 mb-3">
+    	              <ul  class="list-unstyled">
+    	             <span class="icon icon-map-marker"></span><span class="text">   For any enquiry, you may drop in an email to us at:</span></li>
+
+    	               <a href="mailto:cosmicvarta@gmail.com"><span class="icon icon-envelope"></span><span class="text">cosmicvarta@gmail.com</span></a></li>
+    	              </ul>
+    	            </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 text-center">
+
+                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  <b>  Copyright © 2023 CosmicVarta.  All rights reserved </b> </p>
+
+
+
+              </div>
+            </div>
+          </div>
+        </footer>
+
+
+
+
+</body>
+</html>

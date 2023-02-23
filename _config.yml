@@ -385,6 +385,32 @@ authors:
         twitter: https://mobile.twitter.com/astro_ngupta
         description: "I work at the Inter-University Centre for Astronomy and Astrophysics (IUCAA). My research focuses on interstellar medium of galaxies. I am Principal Investigator of the MeerKAT Absorption Line Survey (MALS; https://mals.iucaa.in/), a large survey of HI 21-cm and OH 18-cm lines at the Square Kilometre Array (SKA) precursor MeerKAT radio telescope in South Africa."
 
+ Sonali Sachdeva:
+        name: Sonali Sachdeva
+        display_name: Sonali Sachdeva
+        avatar: 'assets/images/sonali_sachdeva.jpg'
+        email: sonali@rri.res.in
+        web: https://www.rri.res.in/people/postdoctoral-fellows/sonali-sachdeva
+        twitter: 
+        description: "I am a Postdoctoral fellow in the Astronomy and Astrophysics department of the Raman Research Institute, Bengaluru. I work towards resolving the most challenging aspects in the formation and evolution of galaxies."
+
+ Aadarsh Pathak:
+        name: Aadarsh Pathak
+        display_name: Aadarsh Pathak
+        avatar: 'assets/images/aadarsh_pathak.jpg'
+        email: aadarshbritia@gmail.com
+        web: https://www.researchgate.net/profile/Aadarsh-Pathak
+        twitter: 
+        description: "I am currently a first year PhD student at The University of Melbourne Australia working in galaxy formation and evolution. Before this, I completed my M.Sc from IIT Indore in astronomy."
+
+ Rishabh Singh Teja:
+        name: Rishabh Singh Teja
+        display_name: Rishabh Singh Teja
+        avatar: 'assets/images/rishabh_singh_teja.jpg'
+        email: rishabh.teja@iiap.res.in
+        web: https://astronomoid.github.io
+        twitter: 
+        description: "I am a Senior Research Fellow at the Indian Institute of Astrophysics. I am interested in multiwavelength observations and modeling of the core-collpase supernovae."
 
 plugins:
   - jekyll-paginate

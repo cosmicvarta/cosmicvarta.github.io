@@ -5,9 +5,508 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 07 Feb 2023 18:47:17 +0530</pubDate>
-    <lastBuildDate>Tue, 07 Feb 2023 18:47:17 +0530</lastBuildDate>
+    <pubDate>Thu, 23 Feb 2023 23:27:29 +0530</pubDate>
+    <lastBuildDate>Thu, 23 Feb 2023 23:27:29 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Exploring the topology of hydrogen distribution in the early universe</title>
+        <description>&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;We study how galaxies and other sources in the early universe change the neutral universe or InterGalactic Medium (IGM) into the ionized one. We compare different kinds of source models and how they ionize the neutral universe which mainly consists of neutral hydrogen. We trace the largest ionized region formed by these sources by using a statistic known as the Largest Cluster Statistics (LCS). We found that LCS of different source models evolve differently and hence show different natures of ionizing photons or sources. We also investigate the geometry and topology of these ionized regions and how they are different for each model.&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;The universe on a very large scale seems like a web which we astronomers refer to as the cosmic web. Entities like galaxies and clusters of galaxies are trapped within this giant web (see figure 1). The unknown but the most abundant matter, dark matter, plays a governing role in shaping these giants by capitalizing the full potential of the most dominant force on a cosmic scale, gravitational force. We put our efforts to understand the formation and evolution of the universe including these giants by looking at the driving physics behind these.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+ Figure 1: Image of the cosmic web. Figure shows the dark matter distribution (taken from the Millennium simulation). Here, every bright point represents a galaxy cluster. Image Credit: V.Springel, Max-Planck-Institut für Astrophysics.
+&lt;/p&gt;
+&lt;p&gt;The universe has undergone a significant transition on a regular basis since its birth. Figure 2 shows the evolution of our universe from the Big Bang on the left hand side to the current local universe which we see today  on the right hand side of the plot. One of the major recent and remarkable phase transitions is the Epoch of Reionization (EoR), when the neutral Intergalactic Medium (IGM), mainly composed of neutral hydrogen, gets transformed into an ionized one. The galaxies residing within the dark matter halos (host of galaxies) act as one of the primary sources responsible for the reionization.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image2.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Pictorial representation of the evolution of our Universe according to the standard cosmological model. Image credit: &lt;a href=&quot;https://astrobites.org/&quot; target=&quot;_blank&quot;&gt;astrobites&lt;/a&gt; 
+&lt;/p&gt;
+
+&lt;p&gt;In order to understand this era, we use several techniques and approaches to recreate the environment. We use analytic models (refer to  &lt;a href=&quot;https://arxiv.org/abs/1209.2215&quot; target=&quot;_blank&quot;&gt;  Wyithe and Loeb 2012&lt;/a&gt;), semi-analytic models (refer to &lt;a href=&quot;https://arxiv.org/abs/1512.00562&quot; target=&quot;_blank&quot;&gt;  Mutch et al 2016&lt;/a&gt;), semi-numerical models (refer to &lt;a href=&quot;https://doi.org/10.1093/mnras/stv2812&quot; target=&quot;_blank&quot;&gt;  Majumdar et al. 2016&lt;/a&gt; ), etc., to understand the EoR and to comply with what we observe from large surveys conducted using advanced telescopes that are increasingly more sensitive.&lt;/p&gt;
+
+&lt;p&gt;It is evident that different sources during EoR emit different kinds of ionizing photons, and hence, ionize the IGM in a different way. In our analysis, we investigate this era by focusing on the properties of some of these possible sources which can ionize the IGM. We consider six reionization source models based on the semi-numerical method originally proposed in &lt;a href=&quot;https://doi.org/10.1093/mnras/stv2812&quot; target=&quot;_blank&quot;&gt;  Majumdar et al. 2016&lt;/a&gt;. These source models differ from each other in two main aspects: a) how the number of ionizing photons emitted by the sources are related to their host halo mass i.e. Nphotons ∝ (Mhalo)n and b) how the rest frame energy of the ionizing photons is distributed. The different source models considered in our work are mentioned in the table below. The Uniform Ionizing Background (UIB) dominated source model emits hard X-ray photons having large mean free path and hence creates a uniform ionizing background. The Soft X-Ray (SXR) dominated source model emits soft X-ray photons having limited mean free path. Source models like Fiducial (assumes 100% contribution of UV rays coming out from the galaxies residing inside the dark-matter halos) and Power Law (PL) (n=3) differ from each other in terms of the number of ionizing photons they emit following the relation shown in point (a) above.&lt;/p&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Reionization models&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Ultraviolet photons (UV)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Uniform Ionizing Background (UIB)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Soft X-Ray photons (SXR)&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Power Law (PL), (n)&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Fiducial&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;100 %&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Clumping&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;100 % and Non Uniform Recombination&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;UIB Dominated&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20 %&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;80%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;SXR Dominated&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;20 %&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;80%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;UV + SXR + UIB&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;50%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;10%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;40%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;PL (n=3)&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;100%&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;Reionization scenario like clumping model shows an extreme reionization case considering the clumpiness of the density field and emits ultraviolet (UV) photons. On the other hand, UV + SXR + UIB source model shows a combined contribution of UV photons, hard X-ray photons and soft X-ray photons.&lt;/p&gt;
+
+&lt;p&gt;We investigate how the ionized regions formed by these sources evolve with redshift and what geometrical or topological information we can grab from their evolution by looking at their shape and size. One can use Minkowski functionals (a set of four functionals which gives information about the geometrical and topological distribution of matter in the universe) (for example,  &lt;a href=&quot;https://doi.org/10.1093/mnras/sty714&quot; target=&quot;_blank&quot;&gt;Bag et al. 2018&lt;/a&gt;, &lt;a href=&quot;https://arxiv.org/abs/astro-ph/9312028&quot; target=&quot;_blank&quot;&gt;Mecke et al. 1994&lt;/a&gt;) to define the morphology of an object. In our work, we specifically use this to define the shape and size of our object (ionized region in our case). We use an algorithm called SURFGEN2 which identifies ionized regions from the density field and informs about their shape and size in the form of three Shapefinders (namely, thickness, breadth and length).&lt;/p&gt;
+
+&lt;p&gt;If we look at these ionized regions, with time, different reionization source models forming these ionized regions grow in size as well as in numbers, which then start to overlap. At some point in time, they coalesce together and form a single large connected ionized region as one can notice from the middle and right panels in the figure 3. This transition phase is known as the percolation transition (one can look at the articles &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1993ApJ...413...48K&quot; target=&quot;_blank&quot;&gt;Klypin and Shandarin 1993&lt;/a&gt;, &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1996ApJ...465....2Y&quot; target=&quot;_blank&quot;&gt;Capp Yess and Shandarin 1996&lt;/a&gt;).  In our analysis, out of many ionized regions, we primarily focus on the largest ionized region and its evolution around the percolation. We use the Largest Cluster Statistics (LCS) which is defined as the ratio of the volume of the largest ionized region to that volume of all ionized regions in a simulation volume to trace the largest ionized region.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+
+LCS = Volume of Largest Ionized Region / Volume of all ionized region 
+
+&lt;/p&gt;
+
+&lt;p&gt;Before percolation we have a very small largest ionized region but as we reach percolation and after percolation, the ionized region increases drastically, and at the end of reionization, almost the entire simulation box is filled with the largest ionized region as evident from the figure 3 as we go from left to right.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image3.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Figure shows the transition of the largest ionized region from smaller size before percolation to the size of the entire simulation box after percolation. Middle panel shows the onset of percolation. 
+&lt;/p&gt;
+
+&lt;p&gt;As the reionization progresses, the neutral hydrogen present in the IGM ionizes and eventually the entire IGM converts into an ionized one at the end of the reionization. The neutral fraction (x&lt;sub&gt;HI&lt;/sub&gt;) informs about the amount of neutral hydrogen present in a volume with respect to the entire hydrogen species including both neutral and ionized one at any time. In our analysis, we use this quantity to see the evolution of LCS and shapefinders which we discussed.&lt;/p&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h1 id=&quot;results&quot;&gt;Results&lt;/h1&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h3 id=&quot;evolution-of-largest-cluster-statistics&quot;&gt;Evolution of Largest Cluster Statistics&lt;/h3&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;The largest ionized region evolves differently for different reionization source models. The point of percolation is also different for different models. The inside-out scenarios where the reionization starts from the denser part of the IGM and then proceeds to the less dense part, the percolation occurs at much higher neutral fraction as compared to its counterpart, the outside-in scenario, where reionization starts from less dense regions and then the high-dense region is covered.&lt;/p&gt;
+
+&lt;p&gt;Figure 4 shows the variation of Largest Cluster Statistics (LCS) with the neutral fraction and Filling Factor (FF) for different reionization models. Here, Filling Factor is defined as the ratio of volume of all ionized regions to volume of our simulation box. One can notice from the left panel that the largest ionized region or LCS before percolation (shown by vertical lines) is significantly small for all reionization models but at the onset of percolation and after percolation, an abrupt increment in LCS can be observed. This result is quite obvious because as the reionization progresses, different ionized regions grow and interconnect with each other and hence form a single interconnected ionized region which is true for all reionization models as one can notice from the figure. Hence, before percolation, when we have a very small largest ionized region, it is indistinguishable from other ionized regions but as we reach percolation, they interconnect and become quite distinguishable. It depicts how the neutral IGM slowly transformed into an ionized one when the ionized bubbles got enough time to develop. However, percolation for different models occurs at different neutral fractions. The inside-out reionization models percolate at higher neutral fraction (shown by solid lines) whereas the outside-in reionization models percolate at lower neutral fraction. At the end of reionization, we can observe a single large ionized region occupying the entire simulation volume as is evident from the right panel of figure 4, where LCS is close to unity.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image4.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 4: The percolation transition has been compared for all six reionization models in terms of LCS. The left panel shows the LCS as a function of neutral fraction (x&lt;sub&gt;HI&lt;/sub&gt;) whereas the right panel illustrates how LCS evolves with FF for the different reionization scenarios. In both panels, the vertical lines represent the percolation transitions in the reionization models with corresponding colors. 
+&lt;/p&gt;
+
+&lt;p&gt;Hence, we can say that following the LCS along with the percolation, we can distinguish between the two broad categories of reionization models i.e, inside-out and outside-in reionization models.&lt;/p&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h3 id=&quot;shape-of-largest-ionized-region&quot;&gt;Shape of Largest Ionized Region&lt;/h3&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;The ionized bubbles formed by different sources, in principle, can be of complicated shape or geometry as they grow. For ease of understanding, one can use a simple geometrical or topological approach for the same. The Shapefinder technique uses Minkowski functionals to unveil the shape and size of the ionized region. The four Minkowski functions for a closed 2-D surface are:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Volume enclosed, V:&lt;/strong&gt; Informs about the enclosed volume within the surface of an object or ionized region.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Surface area, S:&lt;/strong&gt;  Informs about the surface area of the object.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Integrated Mean Curvature (C):&lt;/strong&gt; Informs about the concavity or convexity of the surface or in other words principal curvature (or radius of curvature) of the surface.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Gaussian Mean Curvature (Euler Characteristics):&lt;/strong&gt; Informs about the topological properties of an object.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Shapefinders are expressed as the ratio of these Minkowski functionals to assess the shape of an object. In 3-D, the three shapefinders are :&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Thickness: T&lt;/strong&gt;  = 3V/S&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Breadth: B&lt;/strong&gt; = S/C&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Length: L&lt;/strong&gt; = C/4π&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;These three are the good measures of the extension of an object in 3-dimension. We can further use these shapefinders to determine the morphology of an object by means of these two dimensionless quantities:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Planarity: P&lt;/strong&gt; = (B-T) / (B+T)&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Filamentarity: F&lt;/strong&gt; = (L-B) / (L+B)&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;We employ these aforementioned techniques to see how the geometry or topology of the largest ionized region evolves with the redshift. An ionized region can be expressed in terms of its length, breadth and thickness, which are the three Shapefinders mentioned earlier. We show the variation of cross-section and length with the neutral fraction in figure 5. We can observe that the cross-section of the largest ionized region for all reionization scenarios in the left panel remains almost constant with the variation in neutral fraction. Whereas, in the right panel, its length increases several orders of magnitude as the reionization progresses. Hence, one can robustly confirm the fact that as the reionization progresses, the topology of the largest ionized region becomes filamentary, as one can notice in figure 6 where the filamentarity (shown by thick line curves) has a larger value than the planarity (thin line curves) for all reionization scenarios.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image5.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 5: This figure illustrates the evolution of the shape of the largest ionized region (LIR) for the five reionization scenarios (excluding the clumping model since this is the only scenario where extreme reionization is considered and hence it’s shapefinders behave differently) near the respective percolation transitions. The left and right panels show the variation of cross-section (estimated by T x B) and the length (L) of the LIR on the y-axis against the neutral fractions on the x-axis. 
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image6.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 6: Planarity and filamentarity of the largest ionized region in different models have been compared near the respective percolation transitions. The solid and dashed curves represent the reionization models following inside-out and outside-in reionizations respectively. The thick line curves (solid and dashed) represent the filamentarity and thin line curves represent the planarity of the largest ionized region in different models.
+&lt;/p&gt;
+
+&lt;p&gt;We also observe that as the reionization progresses, the largest ionized regions in all the scenarios become more multi-connected as their genus (in simple words, for any surface, it represents the number of holes present in the surface and hence informs about the multi-connected regions) increases. Thus, from our findings, we can conclude that at the later stage of reionization, we observe multi-connected filamentary structures for all reionization models. We found that the reionization model, like the clumping model, which follows extreme reionization, can be distinguished or separated quite easily by the Shapefinder technique. We crudely estimate the uncertainties by dividing each original simulation volume into eight smaller sub-volumes followed by estimating the variance of various quantities from these sub-volumes. Our research group at IIT Indore is currently working on noise which we get from the observations and the impact of primary beams on LCS analysis of the 21-cm signal considering the upcoming low-frequency Square Kilometer Array (SKA1-low) observations using a realistic simulations for such observations.&lt;/p&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;We consider the evolution of the largest ionized region by using a statistic called LCS in order to distinguish between the different reionization models.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We found that LCS for all reionization models before percolation is quite small and hence indistinguishable, but it increases abruptly at the onset of percolation. However, different reionization models percolate at different neutral fractions. Hence, following the evolution of LCS along with the percolation can help to distinguish between different models, and especially the inside-out or out-side- in models.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;We also find that the cross-section of the largest ionized region in all the scenarios (except for the clumping model) remains stable at the percolation transition when the largest ionized region abruptly grows, mostly in terms of its third Shapefinder – ‘length.’ The genus of the largest ionized region also increases as reionization progresses. Hence, multi-connected filamentary structure is observed at a later stage of EoR.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://doi.org/10.1088/1475-7516/2022/11/027&quot; target=&quot;_blank&quot;&gt;Distinguishing reionization models using the largest cluster statistics of the 21-cm maps&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Aadarsh Pathak&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Satadru Bag, Saswata Dasgupta, Suman Majumdar, Rajesh Mondal, Prakash Sarkar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Department of Astronomy, Astrophysics &amp;amp; Space Engineering, Indian Institute of Technology Indore, Indore, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Wed, 15 Feb 2023 00:00:00 +0530</pubDate>
+        <link>/hydrogen_distribution_early_universe_aadarsh</link>
+        <guid isPermaLink="true">/hydrogen_distribution_early_universe_aadarsh</guid>
+        
+        <category>Cosmology</category>
+        
+        <category>Epoch of Reionization</category>
+        
+        <category>Largest Cluster Statistics</category>
+        
+        <category>Percolation</category>
+        
+        
+        <category>Cosmology and Nongalactic Astrophysics</category>
+        
+      </item>
+    
+      <item>
+        <title>Astrophysical autopsy of a cosmic demise</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;As the saying goes, “न कंचित् शाश्वतम्” (lit. Nothing is permanent), and hence the nature of this universe. The ever-evolving twinkles in the starry night are also non-discriminate towards this concept. If a star is born, it ought to die. Supernovae  are cosmic fireworks that do not require any occasion (e.g., New Year or winning a football world cup!) to explode. This explosion is the terminal stage of stellar evolution. Therefore, we can say that supernova is the death of a star that sends a siren to the universe in the form of gravitational waves to radio emissions (one of the best candidates for multi-messenger astronomy).  We study one such demise in detail.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrophysical_autopsy_rishabh/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: OpenAI’s DALL.E 2 rendering of a core-collapse supernova [Generated by author]
+&lt;/p&gt;
+
+&lt;p&gt;Supernovae (SNe) have fascinated humankind since time immemorial with recorded events millennia ago. Many essential elements that are part of us also resulted from such explosions. It is imperative to understand these events in detail and try to ascertain their origins. SNe can be broadly classified as Type I and Type II on the basis of the absence and presence of hydrogen features in their spectra, which is unrelated to their explosion mechanisms (thermonuclear SN and Fe core-collapse SN). Apart from their use as independent distance indicators (Type Ia, Type II-P), they are part of various multi/interdisciplinary studies, viz. galactic chemical evolution, origins of various heavier elements, etc. The key question in supernova studies is ascertaining the progenitor, for which, at times, archival images are available through &lt;a href=&quot;https://archive.stsci.edu/missions-and-data/hst&quot; target=&quot;_blank&quot;&gt;Hubble Space Telescope&lt;/a&gt;, but this is quite rare. There are other analytical solutions based on simplified physics related to the explosion and derived relations to estimate the explosion energy, pre-SN mass, ejecta mass, initial mass of progenitor star that exploded as SN, etc. crudely. But a more sophisticated way is to generate synthetic time evolution of flux ( light curves), and velocity evolution of ejecta, then try to match them with observations. Currently, 3D modeling is challenging and resource-hungry, and we rely on 1D hydrodynamical modeling using tools viz. &lt;a href=&quot;https://docs.mesastar.org&quot; target=&quot;_blank&quot;&gt;Modules for Experiments in Stellar Astrophysics (MESA)&lt;/a&gt;, &lt;a href=&quot;https://ascl.net/1108.013&quot; target=&quot;_blank&quot;&gt;Stella&lt;/a&gt;, and other open-source frameworks.&lt;/p&gt;
+
+&lt;p&gt;One such explosion, SN 2020jfo, happened in the galaxy M61 [Figure 2], a stellar graveyard that has also hosted 8 SNe in the past century. In contrast, our Galaxy is due for even one for centuries! We carried out the observations extensively in the optical regime from the &lt;a href=&quot;https://www.iiap.res.in/?q=telescope_iao&quot; target=&quot;_blank&quot;&gt;Himalayan Chandra Telescope&lt;/a&gt; situated at the Indian Astronomical Observatory, Hanle, UT of Ladakh. More than 25 epochs of multi-band photometry and spectroscopy covered the evolution of SN 2020jfo for about a year [Figure 3]. The observations were supplemented with data from &lt;a href=&quot;https://www.aries.res.in/facilities/astronomical-telescopes/360cm-telescope&quot; target=&quot;_blank&quot;&gt;Devasthal Optical Telescope&lt;/a&gt;, Nainital (Uttarakhand), &lt;a href=&quot;https://www.ztf.caltech.edu/&quot; target=&quot;_blank&quot;&gt;Zwicky Transient Facility (ZTF)&lt;/a&gt; survey, and &lt;a href=&quot;https://swift.gsfc.nasa.gov/about_swift/uvot_desc.html&quot; target=&quot;_blank&quot;&gt;Swift/UVOT&lt;/a&gt; data. SN 2020jfo, although a Type II-P (plateau) SN, did not fit in the classical definition of a plateau which is a constant luminosity phase in light curve evolution and typically lasts for about a hundred days. A deviation from the plateau was seen after 65 days putting it under one of the rare short plateau Type II SN. The SN explosion synthesizes many radioactive elements, primarily Nickel-56, that solely power its light curve in the late phase, estimated to be 0.033(6) solar mass. As the SN ejecta expands with time, we see the constituent inner layers of the progenitor as evident in spectral time evolution [Figure 3].&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrophysical_autopsy_rishabh/image2.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+   Figure 2: The location of SN 2020jfo in the host galaxy M61 is shown. Orange boxes marked are the available SDSS spectra for the host. [Credits: &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ac610b&quot; target=&quot;_blank&quot;&gt;Teja et al. 2022&lt;/a&gt;] 
+&lt;/p&gt;
+
+&lt;p&gt;A plethora of information about ejecta, elements, and the ejecta velocity evolution could be obtained using spectra. Overall evolution is typical of Type II spectra, but we find ionized helium and rare stable nickel. Having these peculiarities, it warranted detailed studies and modeling to look for the origins of this supernova. With all the observational evidence, viz. compact progenitor, presence of stable nickel produced during stellar nucleosynthesis, and strength of nebular oxygen lines pointed towards a small mass progenitor, the present theoretical and modeling works hinted otherwise. Hence to ascertain this progenitor scenario, we employed hydrodynamical modeling of this event from the inception of the star to its death. Eventually, it defied the situation presented in some models regarding the high mass progenitors. It resulted from a lower-mass red supergiant star (RSG) going SN. Still, the mass loss mechanism with which the star lost its significant hydrogen layer is uncertain (the weighing is more towards the presence of a binary counterpart). We present the alternative scenario to the current understanding of short plateau supernova origins. We also obtained the non-detection in the radio light curve. Some of the key results obtained are as follows. &lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrophysical_autopsy_rishabh/image3.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrophysical_autopsy_rishabh/image4.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  Figure 3: Panchromatic photometric (above) and optical spectroscopic (below) observations spanning about a year for SN 2020jfo are shown here. [Source: &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ac610b&quot; target=&quot;_blank&quot;&gt;Teja et al. 2022&lt;/a&gt;] 
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/astrophysical_autopsy_rishabh/image5.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  Figure 4: Model light curves obtained using the MESA+STELLA framework for various evolved progenitors are plotted along with the pseudo-bolometric light curve for SN 2020jfo. The figure in the inset shows the requirement to include CSM interaction to fit the observed light curve. [Adapted from &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ac610b&quot; target=&quot;_blank&quot;&gt;Teja et al. 2022&lt;/a&gt;] 
+&lt;/p&gt;
+
+&lt;p&gt;The SN 2020jfo peaked in the Bessell’s V photometric filter at an absolute magnitude of -17.4(4) mag; for comparison, the Sun has an absolute magnitude of +4.83 in the same filter, implying SN to be millions of times brighter than the Sun. From 1D hydrodynamical modeling, we found that the most plausible progenitor is an RSG with an initial mass about 12 times the mass of the Sun, a radius about 600 times the Sun’s radius, and a final pre-SN mass &amp;lt;6 solar mass. Using the nebular-phase (post plateau decline phase, which is majorly powered by radioactive nickel decay chain) spectrum, we estimated a progenitor of mass ∼12 solar mass in corroboration with modeled mass.&lt;/p&gt;
+
+&lt;p&gt;We concluded that It evolved in a relatively high-metallicity environment and shredded a significant amount of mass during its evolution. The presence of ionized Helium line, HV Hα feature, higher luminosity in contrast to slower velocity evolution, and the steeper decline in luminosity indicated the presence of circumstellar (CSM), which was corroborated in models [Figure 4]. A fraction of the solar mass of CSM spread across 40 AU was deduced for SN 2020jfo’s progenitor, possibly resulting from a high mass loss a few years before the collapse.&lt;/p&gt;
+
+&lt;p&gt;With the advent of various night sky surveys, viz. ZTF , &lt;a href=&quot;https://atlas.fallingstar.com/&quot; target=&quot;_blank&quot;&gt;ATLAS (Asteroid Terrestrial-impact Last Alert System)&lt;/a&gt;, &lt;a href=&quot;https://asas-sn.osu.edu/&quot; target=&quot;_blank&quot;&gt;ASAS-SN (All Sky Automated Survey for SuperNovae)&lt;/a&gt;, and upcoming &lt;a href=&quot;https://www.lsst.org/&quot; target=&quot;_blank&quot;&gt;LSST (Legacy Survey of Space and Time)&lt;/a&gt;, there is a great boom in discovering the exotic transients, which challenge our understanding of these events. It is necessary to study these in detail using observations and modeling and, if possible, weed out any cases which are not deemed worthy as indicators of distance. With the growing sample of these events, it is possible there could be more classes to these SN than the given one, and hence these kinds of studies provide the key.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ac610b/meta&quot; target=&quot;_blank&quot;&gt;SN 2020jfo: A Short-plateau Type II Supernova from a Low-mass Progenitor&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Rishabh Singh Teja&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Avinash Singh, D. K. Sahu, G. C. Anupama, Brajesh Kumar, and Nayana A. J.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Astrophysics, Bengaluru, 560034; India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Wed, 15 Feb 2023 00:00:00 +0530</pubDate>
+        <link>/astrophysical_autopsy_rishabh</link>
+        <guid isPermaLink="true">/astrophysical_autopsy_rishabh</guid>
+        
+        <category>Transients</category>
+        
+        <category>Supernova</category>
+        
+        <category>Observations</category>
+        
+        <category>Hydrodynamic Modelling</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
+    
+      <item>
+        <title>Accounting for the presence of dust in galaxies</title>
+        <description>&lt;blockquote&gt;
+
+&lt;/blockquote&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&amp;lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust.&lt;/p&gt;
+&lt;blockquote&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h1 id=&quot;less-formal-description&quot;&gt;Less Formal Description&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Accounting for the presence of dust in galaxies&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;In this work, we have found that the behavior or the effect of dust present inside a galaxybis according to its distribution with respect to various stellar populations. We will try to explain the context and the significance of this finding in this article. We would like to begin by reminding you that dust is as crucial a component of a galaxy and as omnipresent as stars, gas, and dark matter. Dust is mainly composed of carbon and silicates, where the size of a typical dust grain ranges from 0.01 to 1 micron. For comparison, this is about 2 orders of magnitude smaller than the dust we see on our furniture. The importance of dust can very well be gauged from the fact that it reprocesses more than half of the galaxy’s total stellar light. Stars, as we know, emit mainly from UV to near-IR. These photons interact with the dust particles, get scattered and absorbed, and dust then re-emits the light in the middle and far-IR region of the spectrum. For example, our Milky Way would have been doubly bright in the optical if dust was not present.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/dust_in_galaxies_sonali/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: Due to the increased presence of birth clouds and the denser interstellar medium in spiral galaxies, both UV and optical stellar emissions encounter dust on a similar level. Thus, the slope of the attenuation curve is not steep in the UV-optical range for spiral galaxies. In contrast, in the case of elliptical galaxies, only UV emission from newly formed stars encounters dust from the circumambient birth cloud. Optical stellar emissions escape due to a decreased presence of birth clouds and the less dense interstellar medium. Thus, the slope of the attenuation curve is steep in the UV-optical range for elliptical galaxies.
+&lt;/p&gt;
+
+&lt;p&gt;It is interesting to note that even though the dust has such a splendid effect on a galaxy’s stellar light, it constitutes a minuscule fraction of the galaxy’s total mass. Baryonic mass (i.e., non-dark matter mass)  is nearly 1/6th of the galaxy’s total mass. Of this baryonic mass, 1/6th is in the interstellar medium. And of the total mass in the interstellar medium, 99% is gas, and 1% is dust. There are various mechanisms through which dust is understood to get formed, transformed, and destroyed inside a galaxy. It is mainly expected to form during the asymptotic giant branch (AGB) phase of the stars. Recent evidence also suggests that it could have formed around supernovae. But the mystery is how dust would have survived the shockwave associated with supernovae. It has also been proposed that dust might get formed around supermassive black holes. It gets destroyed either through UV rays and also gets consumed in the formation of new stars being part of the giant molecular clouds. It plays a critical role in the cooling and coagulation of such clouds. What this conveys is that the cycle of dust is intricately linked with both the star formation history as well as the future star formation rate of a galaxy.&lt;/p&gt;
+
+&lt;p&gt;Thus accounting for the effect of dust is a primary requirement for any reasonable estimation of a galaxy’s stellar mass and star formation rate. This effect of dust is accounted for through the dust attenuation curve of a galaxy. It gives the attenuation or optical depth of a galaxy as a function of wavelength. It describes how a galaxy’s light is affected by dust at each wavelength. So a general attenuation curve peaks at far UV and becomes negligible by the time it reaches IR. These curves are used as an input in the computation of a galaxy’s stellar parameters. Their accurate knowledge is crucial for simulations, modeling, and data analysis, basically at all places where the aim is to understand the formation and evolution of galaxies. If we do not know the attenuation curve accurately, there’s no way we can distinguish between a young dusty galaxy and an old non-dusty one. In tracing the evolution of galaxies, one of the most intriguing things is that the star formation rate density of galaxies has fallen by a factor of 5 to 10 since redshift 2. This could have been both due to the decrease in star formation efficiency as well the decrease in gaseous material inside galaxies. To solve this puzzle, accurate attenuation curves have to be known for the observed galaxies over the entire redshift range.&lt;/p&gt;
+
+&lt;p&gt;There has been a lot of progress in the estimation of these curves. Improving over the comparison methods, model methods have been successful in deriving these curves individually for each galaxy. Here the basic idea is to obtain the best match spectrum or Spectral Energy Distribution (SED) for a galaxy out of 100 thousand SEDs created with a whole range of model parameters. A major advancement has occurred with the availability of mid and especially far-IR measurements. Thanks to that, total IR luminosity works as a constraint on the dust emission and allows the attenuation parameters to be fitted freely. This has led to more detailed attenuation parameters and, thus, more accurate stellar parameters. The observations in the far-IR for a large number of galaxies have mainly happened over the last decade with space-based telescopes, especially Herschel. This information will allow you to appreciate the sample that we have chosen for our study. Stripe 82 is a 220-square-degree patch in the Northern Hemisphere of the sky. It has been the focus of many deep multi-wavelength photometric and spectroscopic surveys. Thanks to that, it has the range of most accurate dust attenuation and structural and stellar parameters computed through various dedicated efforts.&lt;/p&gt;
+
+&lt;p&gt;What we have done is that we have used all this information to probe the dependence of the shape of the dust attenuation curve on all other galaxy properties. This kind of observational undertaking is possible now with the availability of all the defining galaxy parameters for a large sample of local galaxies. Deciphering the dependence of dust on other galaxy properties is fundamental in our pursuit of understanding the processes that have governed the growth of galaxies. There is growing evidence that galaxies with different morphology types have witnessed characteristically different evolutionary paths. For example, ellipticals are understood to form during major mergers, and discs might have formed later through accretion, minor mergers, and secular evolution. If we are able to quantify the difference in their dust content and attenuation properties, we can obtain more insight into the dominant physical processes. So we have a sample of nearly 17000 local galaxies, covering the entire mass range. We divide these galaxies based on their dominant structural component, that is, if majorly the galaxy has a spheroid or elliptical-like structure or if it’s mainly a disc-like structure.&lt;/p&gt;
+
+&lt;p&gt;This classification is achieved with the application of multiple stringent criteria that include the placement of galaxies on the projection of the fundamental plane and the value of their global Sersic index. The sersic index defines the shape of a galaxy’s light profile. Galaxies with dominant spheroid components will follow the tight fundamental plane relation observed for local ellipticals, while those with dominant disc components will be outliers to such a relation. Galaxies that didn’t comply with the stringent multiple criteria were kept separately so as not to contaminate the two classifications. We found that the normalized slope of the attenuation curve is markedly different for the two structural types. The curve is twice as shallow for discs as it is for spheroids (see Figure 2). However, for the whole group of a given structural type, the slope values are constrained within a narrow range. Thus the shape of the dust attenuation curve is dependent on the dominant mode of stellar mass distribution inside a galaxy. Similar to structure, the curve is nearly twice as shallow for star-forming galaxies as for passive galaxies. We divide the galaxies into star-forming and passive based on their placement on the main sequence.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/dust_in_galaxies_sonali/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 2. The fractional distribution of various structural types of galaxies, i.e., spheroid-dominated (red), disc-dominated (blue), and the rest (green), is shown with respect to the normalized slope of their dust attenuation curves in UV (R FUV ). Discs exhibit shallower slopes than spheroids emphasizing the role of structure in determining dust properties.
+&lt;/p&gt;
+
+&lt;p&gt;This dependence of the attenuation curve on star formation rate could be driven by the structure because discs are star-forming and spheroids are passive. But also, star-forming galaxies will have more dust clouds in addition to the diffuse interstellar medium. Either way, this adds to the evidence that the distribution of stars and dust inside a galaxy determines the curve properties. Another interesting thing to note is that the amount of dust is irrelevant to the shape. That’s why we see no correlation between the normalized shape and the total mass of the galaxy or the inclination of its disc component. Although more mass and higher inclination will result in the stellar light encountering more dust before reaching the observer, it doesn’t affect the shape of the curve. So, rather than the amount of dust encountered by the stellar light, it is the placement of the dust vis-a-vis the stars that determine the attenuation properties. Thus, all evidence suggests that it is the distribution of dust vis-a-vis various stellar populations that determines its behavior, i.e., star-dust geometry is the main determinant of the dust attenuation properties.&lt;/p&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h1 id=&quot;more-formal-description&quot;&gt;More Formal Description&lt;/h1&gt;
+&lt;p&gt;&lt;b&gt;&lt;i&gt;Star-dust geometry: main determinant of dust attenuation in galaxies&lt;/i&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;p&gt;Dust is as crucial a component of a galaxy and as omnipresent as stars, gas, and dark matter. Its importance can be gauged from the fact that it reprocesses more than half of the galaxy’s stellar light. The dust properties (mainly its amount and constituents) inside a galaxy depend on the star formation history of that galaxy. In addition to that, the dust properties of a galaxy are a critical determinant of its future star formation activity. Unraveling the connection between the properties of dust and its host galaxy is, therefore, a powerful diagnostic for the processes involved in its evolution (Dunne et al. 2011; Santini et al. 2014).&lt;/p&gt;
+
+&lt;p&gt;The properties of dust inside a galaxy are deduced by analyzing its effect on the galaxy’s stellar emission over the spectrum (Calzetti 1997; Draine 2003). This effect of dust is accounted for through the dust attenuation curve of a galaxy. The dust attenuation curve gives the optical depth of a galaxy over the spectrum, i.e., it describes how a galaxy’s light is affected by dust at each wavelength. So a general attenuation curve peaks at far UV and becomes negligible by the time it reaches IR. Constant efforts are made to compute attenuation curves for galaxies in a robust manner as it is a prerequisite for estimating galaxies’ stellar mass and star formation rate (Walcher et al. 2011; Conroy 2013).&lt;/p&gt;
+
+&lt;p&gt;The method that has lately gained traction for providing the most reliable attenuation curves for galaxies individually is the ‘model method’. This involves the creation of a library of dust-free spectrums or Spectral Energy Distributions (SEDs) spanning a large range of star formation histories and metallicities through the usage of stellar population synthesis models. The dust-free SEDs are then attenuated and compared with observed SEDs to obtain estimates of galaxy parameters and dust content. Recently, Salim et al. (2018) implemented the ‘energy balanced SED fitting’ technique on a quarter million local galaxies with far-UV to far-IR observations resulting in a detailed set of dust attenuation parameters for galaxies individually, covering the whole mass and stellar activity range.&lt;/p&gt;
+
+&lt;p&gt;For Stripe 82 - a 270 square degrees area in the sky - spectra as well as deep images are available for tens of thousands of local galaxies (Dawson et al. 2013; Annis et al. 2014). Utilizing that, Bottrell et al. (2019) have computed a detailed set of structural parameters (like size, ellipticity, bulge-to-total ratio, etc.) for all galaxies (∼17000) in this area in optical wavebands. Thus, detailed structural, stellar, and attenuation curve defining parameters - understood to be the most accurate to date - are available for all (∼17000) galaxies in the Stripe 82 region. In our work, we employ this data to perform a detailed investigation of the processes and properties responsible for the observed variation in dust attenuation parameters of galaxies covering the entire mass and stellar activity range.&lt;/p&gt;
+
+&lt;p&gt;We probed the cause of variation in the dust attenuation curves of galaxies by studying the trend of the normalized attenuation slope in the ultraviolet with the structure, star formation activity, total stellar mass, inclination, and optical depth of galaxies. The main findings are discussed:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;The attenuation curve for spheroid-dominated galaxies is twice as steep as that for disc-dominated ones. Both structural types occupy non-overlapping ranges of the attenuation slope value (10-20% overlap). Thus, stellar mass distribution within the galaxy is one of the main determinants of its dust attenuation behavior. More importantly, within a structural group, i.e., that of discs, slope values are constrained to a narrow range, emphasizing the primacy of structure in determining dust properties.&lt;/li&gt;
+  &lt;li&gt;The steepness of the attenuation curve for spheroids is driven by minimal attenuation in the optical bands compared to that in the ultraviolet. Thus, only newly formed stars get attenuated in the case of spheroids. In contrast, the shallowness of the curve in the case of discs is driven by near-uniform attenuation in UV and optical bands. Thus, all stars face attenuation in the case of discs, both due to a more dominant presence of ‘birth clouds’ and a denser interstellar medium (Charlot &amp;amp; Fall, 2000).&lt;/li&gt;
+  &lt;li&gt;The trends observed in the case of the structure are reflected in the case of star formation activity as well. The slope for passive galaxies is twice as steep as that for star-forming ones. This is expected because most (&amp;gt;85-90%) discs are star-forming, and spheroids are passive. Since star-forming galaxies are more gas-rich, clumpier and have a larger presence of birth clouds compared to passive galaxies, it provides further evidence that the distribution of stellar mass and dust inside a galaxy is the main cause of variation in attenuation curves (Inoue 2005).&lt;/li&gt;
+  &lt;li&gt; All our findings add up to the argument that if the extinction curve is assumed to be universal, the distribution of stars and dust, i.e., star-dust geometry, is the primal determinant of the attenuation properties of a galaxy. Recently, under similar assumptions, Narayanan et al. (2018) have shown through simulations that star-dust geometry drives the variation in attenuation curves. Our results confirm that.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References:&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;Dunne L. et al., 2011, MNRAS , 417, 1510&lt;/li&gt;
+  &lt;li&gt;Santini P. et al., 2014, A&amp;amp;A , 562, A30&lt;/li&gt;
+  &lt;li&gt;Calzetti D., 1997, AJ , 113, 162&lt;/li&gt;
+  &lt;li&gt;Draine B. T., 2003, ApJ , 598, 1017&lt;/li&gt;
+  &lt;li&gt;Walcher J., Gro v es B., Budav ári T., Dale D., 2011, Ap&amp;amp;SS , 331, 1&lt;/li&gt;
+  &lt;li&gt;Conroy C., 2013, ARA&amp;amp;A , 51, 393&lt;/li&gt;
+  &lt;li&gt;Salim S., Boquien M., Lee J. C., 2018, ApJ , 859, 11&lt;/li&gt;
+  &lt;li&gt;Dawson K. S. et al., 2013, AJ , 145, 10&lt;/li&gt;
+  &lt;li&gt;Annis J. et al., 2014, ApJ , 794, 120&lt;/li&gt;
+  &lt;li&gt;Bottrell C., Simard L., Mendel J. T., Ellison S. L., 2019, MNRAS , 486, 390&lt;/li&gt;
+  &lt;li&gt;Charlot S., Fall S. M., 2000, ApJ , 539, 718&lt;/li&gt;
+  &lt;li&gt;Inoue A. K., 2005, MNRAS , 359, 171&lt;/li&gt;
+  &lt;li&gt;Narayanan D., Conroy C., Dav é R., Johnson B. D., Popping G., 2018, ApJ, 869, 70&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr color=&quot;black&quot; /&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.513L..63S/abstract&quot; target=&quot;_blank&quot;&gt;Star-dust geometry main determinant of dust attenuation in galaxies&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Sonali Sachdeva&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Biman B. Nath&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Raman Research Institute(RRI), Bengaluru, 560080; India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 13 Feb 2023 00:00:00 +0530</pubDate>
+        <link>/dust_in_galaxies_sonali</link>
+        <guid isPermaLink="true">/dust_in_galaxies_sonali</guid>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>Spreading the joy of science - The science outreach activities during the Young Astronomer’s Meeting, 2022</title>
@@ -850,395 +1349,6 @@ Figure 10: A colorful view of the VBO campus during summer time. VBT is  visible
         
         
         <category>General articles (in any of the above categories)</category>
-        
-      </item>
-    
-      <item>
-        <title>What makes radio-quiet AGN radio-quiet? A polarization perspective</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;There is a lack of consensus on the origin of radio emission in radio-quiet (RQ) and radio-intermediate (RI) AGN. Primary contenders include low-power radio jets, winds, star-formation and coronal emission. Our multi-frequency, multi-scale radio polarization study has revealed a multi-component (jet + ‘wind’), stratified radio outflow in the two intermediate AGN, III Zw 2 and Mrk 231. Each strata of the outflow has a characteristic magnetic field geometry. Our radio polarization study in conjunction with the [O III] emission-line study of five RQ quasars have provided insights into the interplay of jets, winds and emission-line gas. A close interaction between the different emission components themselves as well as with the local host environments is likely responsible for the stunted nature of the radio outflows in RQ and RI AGN. Our findings are also consistent with the idea that radio-loudness of a source is a function of its epoch of observation.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Active Galactic Nuclei (AGN) are among the most energetic and extremely luminous phenomena in the Universe. They emit radiation at all wavelengths of the electromagnetic spectrum. This radiation which is of non-stellar origin is believed to originate from supermassive black holes (BHs; 10&lt;sup&gt;6&lt;/sup&gt; − 10&lt;sup&gt;9&lt;/sup&gt; M⊙, the mass of the sun; see review by &lt;a href=&quot;http://doi.org/10.1146/annurev.aa.22.090184.002351&quot;&gt;Rees, 1984&lt;/a&gt;) as matter accretes onto them through an accretion disk. The different constituents of an AGN, some of which have been inferred indirectly from multi-wavelength continuum and spectroscopic observations, include (see Figure 1):&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;a BH at the centre of the host galaxy,&lt;/li&gt;
-  &lt;li&gt;an accretion disk,&lt;/li&gt;
-  &lt;li&gt;a hot magnetized corona presumably located above the accretion disk,&lt;/li&gt;
-  &lt;li&gt;high velocity and dense gas clouds (known as the broad line region or BLR) which give rise to the broad emission lines in the optical spectra,&lt;/li&gt;
-  &lt;li&gt;low velocity and relatively less dense gas clouds (known as the narrow line region or NLR) which give rise to the narrow emission lines in the optical spectra,&lt;/li&gt;
-  &lt;li&gt;an obscuring torus of gas and dust that hides the BLR clouds from sight for certain viewing angles (&lt;a href=&quot;https://doi.org/10.1017/CBO9781139170901&quot;&gt;Peterson, 1997&lt;/a&gt;; &lt;a href=&quot;https://doi.org/10.1086/133630&quot;&gt;Urry &amp;amp; Padovani, 1995&lt;/a&gt;).&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/radio_quiet_agn_polarization_silpa/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: The standard model of AGN from &lt;a href=&quot;https://doi.org/10.1086/133630&quot;&gt;Urry &amp;amp; Padovani, 1995&lt;/a&gt;
-&lt;/p&gt;
-
-&lt;p&gt;A small fraction (10−20%) of AGN also launch relativistic, powerful and collimated structures called jets at radio frequencies (&lt;a href=&quot;http://doi.org/10.1086/115207&quot;&gt;Kellermann et al., 1989&lt;/a&gt;; &lt;a href=&quot;https://arxiv.org/abs/astro-ph/0301309&quot;&gt;Urry, 2003&lt;/a&gt;). These jets are launched perpendicular to the BH-accretion disk interface and extend over scales ranging from a few hundred kiloparsecs (kpc) to several megaparsecs (Mpc). This class of AGN is called the radio-loud (RL) AGN. On the other hand, the majority of AGN (80−90%) launch weak and small-scale radio jets that typically extend to less than 10 kpc. Alternatively, they may also host broadly collimated wind-like or diffuse radio outflows. These constitute the radio-quiet (RQ) class of AGN. The division between RL and RQ AGN is mathematically shown in terms of the radio-loudness parameter (R) given by &lt;a href=&quot;http://doi.org/10.1086/115207&quot;&gt;Kellermann et al. (1989)&lt;/a&gt;, which is the ratio of radio flux density at 5 GHz to optical flux density in the B-band. According to this definition, RL AGN has R &amp;gt; 10 while RQ AGN has R ≤ 10. &lt;a href=&quot;http://doi.org/10.1086/310386&quot;&gt;Falcke et al. (1996)&lt;/a&gt; proposed another class of AGN with intermediate R values (10 &amp;lt; R &amp;lt; 250), known as the radio-intermediate (RI) AGN.&lt;/p&gt;
-
-&lt;h1 id=&quot;key-concepts&quot;&gt;Key concepts&lt;/h1&gt;
-
-&lt;p&gt;The two widely discussed mechanisms for jet production in the literature include: &lt;a href=&quot;http://doi.org/10.1093/mnras/199.4.883&quot;&gt;Blandford &amp;amp; Znajek (1977)&lt;/a&gt; mechanism, hereafter referred to as BZ77 and &lt;a href=&quot;http://doi.org/10.1093/mnras/199.4.883&quot;&gt;Blandford &amp;amp; Payne (1982)&lt;/a&gt; mechanism, hereafter referred to as BP82. In BZ77, the jets are produced by electromagnetic extraction of energy and angular momentum from a spinning BH, while in BP82, the energy and angular momentum are magnetically extracted from the accretion disk. The origin of radio emission in RL AGN is often attributed to the BZ77 mechanism while the origin of radio emission in RQ and RI AGN is poorly understood. It is not clear if their emission mechanism is that of BZ77 or BP82 or both. The possible scenarios for radio emission in RQ AGN as proposed in the literature include low-power jets, winds, star-formation, coronal emission, and a combination of them (e.g., &lt;a href=&quot;http://doi.org/10.1038/s41550-019-0765-4&quot;&gt;Panessa et al., 2019&lt;/a&gt;).&lt;/p&gt;
-
-&lt;p&gt;Some of the open questions on jet physics that we are trying to address include:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Where are the jets launched from?&lt;/li&gt;
-  &lt;li&gt;What causes the collimation of jets?&lt;/li&gt;
-  &lt;li&gt;What are the jets composed of?&lt;/li&gt;
-  &lt;li&gt;Why are the jets in RQ and RI AGN stunted or small-scale as opposed to the large-scale jets in RL AGN?&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Radio emission from the jets is basically the synchrotron radiation emitted by relativistic electrons spiraling around the magnetic (B) field lines. Synchrotron emission from an individual electron is highly confined to a narrow cone pointing towards the direction of the electron motion (a process known as “beaming”), and radiation from an ensemble of relativistic electrons is intrinsically linearly polarized. Radio polarization observations can provide information about the orderliness and orientation of the B field giving rise to the synchrotron emission. According to the synchrotron theory, the inferred B fields are parallel to the electric polarization vectors for optically thick regions like the core while perpendicular, in the case of optically thin regions like the jets, lobes and hotspots.&lt;/p&gt;
-
-&lt;h1 id=&quot;results&quot;&gt;Results&lt;/h1&gt;
-
-&lt;p&gt;Towards briefly addressing the key questions listed above, we carried out a multi- frequency, multi-scale radio polarization study of the RI Palomar Green quasar, III Zw 2 (&lt;a href=&quot;http://doi.org/10.1093/mnras/stab1870&quot;&gt;Silpa et al., 2021a&lt;/a&gt;) as well as of a quasar that is currently transitioning from the RQ to RL state, viz., Mrk 231 (&lt;a href=&quot;http://doi.org/10.1093/mnras/stab2110&quot;&gt;Silpa et al., 2021b&lt;/a&gt;) with the upgraded Giant Metrewave Radio Telescope (uGMRT) and the Very Large Array (VLA). We find a stratified radio outflow in these sources, which could either be:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;a “spine-sheath” structure in the radio jet, where the ‘spine’ refers to a narrow relativistic jet component and the ‘sheath’ refers to a broader sub-relativistic jet component, enclosing the spine; or&lt;/li&gt;
-  &lt;li&gt;a ‘jet + wind’ composite structure, where the ‘wind’ component could either be a magnetized accretion disk wind or the outer layers of a broadened jet (like a jet sheath) or a combination of both.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;We find that each component of the stratified outflow has a characteristic B field geometry. Theoretical models emphasize on the importance of helical B fields (which comprise of poloidal and toroidal field components) for the production and propagation of jets. From our study we find that the inferred B fields are parallel to the local direction of the radio outflow in case of the jet spine/jet component while they are transverse in the case of the jet sheath/wind component (see Figure 4). The parallel inferred B fields represent the poloidal component of the helical field while the transverse inferred B fields represent the toroidal component (e.g., see Figure 2).&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/radio_quiet_agn_polarization_silpa/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Magnetic field lines of toroidal (left) and poloidal (right) components from &lt;a href=&quot;https://doi.org/10.1093/mnras/stw3098&quot;&gt;Herbrik &amp;amp; Kokkotas (2017)&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;With the uGMRT, we also detect a kpc-scale radio lobe to the south in III Zw 2 (annotated as ML in Figure 3) that is misaligned with the primary lobes (annotated as NEL and SWL in Figure 3). Based on the two-frequency spectral index image and electron lifetimes estimated using the “equipartition” equations (&lt;a href=&quot;http://doi.org/10.1086/165182&quot;&gt;O’Dea &amp;amp; Owen, 1987&lt;/a&gt;), we find that the misaligned lobe emission does not arise from any past activity of AGN. Rather it is being actively fed by the nucleus through intermittent fueling, similar to the large and ‘alive’ radio lobes observed in the radio galaxy M87 at 330 MHz with the VLA (&lt;a href=&quot;http://doi.org/10.1086/317151&quot;&gt;Owen et al., 2000&lt;/a&gt;). The lobe characteristics, such as a mean spectral index between −0.6 and −0.7 and a lack of clear spectral steepening with distance from the core, are also similar to those of the ‘sputtering’ AGN, NGC 3998 (&lt;a href=&quot;http://doi.org/10.1051/0004-6361/201936796&quot;&gt;Sridhar et al., 2020&lt;/a&gt;), suggesting that the AGN in III Zw 2 is similarly ‘sputtering’. We also note that the curved VLA jet in III Zw 2 terminates in ‘bow-shock-like’ radio structures on either side, instead of compact hotspots typically seen in Fanaroff–Riley Class II radio galaxies. A similar feature is seen in the restarted jet simulations of &lt;a href=&quot;http://doi.org/10.1086/169762&quot;&gt;Clarke &amp;amp; Burns (1991)&lt;/a&gt;, suggesting the presence of restarted jet activity in III Zw 2, possibly on very short time scales, ranging in decades.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/radio_quiet_agn_polarization_silpa/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: The uGMRT 685 MHz total intensity contours in green with inferred B- fields as red ticks and EVLA 5 GHz B-array contours in blue with inferred B-fields as black ticks, for III Zw 2 (&lt;a href=&quot;http://doi.org/10.1093/mnras/stab1870&quot;&gt;Silpa et al., 2021a&lt;/a&gt;). The length of these vectors is proportional to polarized intensity and the orientation of the vectors is determined by the polarization angle. The regions with longer ticks are highly polarized regions while the regions with shorter ticks are less polarized regions. NEL refers to the north-eastern lobe, SWL refers to the south-western lobe and ML refers to the misaligned lobe in III Zw 2.
-&lt;/p&gt;
-
-&lt;p&gt;As already mentioned, RQ and RI AGN are known to be powered by multiple radio emission processes. It is a good exercise to estimate the relative contributions of the individual processes towards the overall budget of the radio emission. This exercise can be carried out for sources that have multi-scale, multi-frequency radio data since different emission components will be sampled at different resolutions and frequencies. We carried out a similar study for Mrk 231, and we have been able to obtain first-order estimates of the relative contributions from the weakly collimated jet, AGN-driven wind, and starburst-driven wind to the total radio emission observed. Our results suggest that while the starburst-driven wind accounts for ∼ 10−20% of the total radio emission, both AGN wind and the weakly collimated jet contribute significantly to the rest of the emission in Mrk 231.&lt;/p&gt;
-
-&lt;p&gt;As the radiation propagates through the magneto-ionic medium (i.e. composed of free charges and B fields) between the source and the observer, the two orthogonal components of the electromagnetic wave interact differently with the local free charges. This results in different refractive indices and speeds of propagation for the two components, which in turn induces a delay between them that shows up as a rotation of the plane of polarization. This phenomenon is called Faraday rotation. Owing to the effect of Faraday rotation, the intrinsic polarization angle differs from its observed value by an amount that depends on the square of wavelength. The constant of proportionality is called rotation measure (RM), which physically depends on the line-of-sight component of the B field, and the electron number density and path length of the Faraday-rotating medium. Based on the 3-frequency RM images of Mrk 231, we find that the radio outflow in this source becomes increasingly matter-dominated away from the core, suggesting that the synchrotron plasma mixes with the entrained gas as the radio outflow (jet/lobe and/or wind) propagates through the ambient medium. Thus, the role of the local environments is important to consider while studying AGN outflows.&lt;/p&gt;
-
-&lt;p&gt;In a study carried out on a small sample of RQ quasars with the radio polarization data from the VLA and the [O III] emission-line imaging data from the Hubble Space Telescope (HST), we find that the polarized radio emission is more often spatially anti-correlated with [O III] emission (&lt;a href=&quot;http://doi.org/10.1093/mnras/stac1044&quot;&gt;Silpa et al., 2022&lt;/a&gt;). A similar anti-correlation has been observed in RL AGN in the literature (e.g., &lt;a href=&quot;http://doi.org/10.1086/161594&quot;&gt;van Breugel et al., 1984&lt;/a&gt;) where it has been suggested that the radio emission is depolarized by the emission-line gas. We find evidence for mixing of the entrained thermal gas with the synchrotron plasma in the lobes of these sources, which could be resulting in the internal depolarization of the lobe emission. The anti-correlation between polarization and emission-line gas could be interpreted as a signature of the jet/wind-gas interaction and possibly a source of AGN feedback in these sources. AGN feedback is a process by which the energy and matter are transported from the central engine to the interstellar medium of the host galaxy via AGN outflows like jets and winds, with an effect of either heating and/or expelling the star-forming material or enhancing local star- formation (e.g., &lt;a href=&quot;http://doi.org/10.1016/j.newar.2011.11.003&quot;&gt;Alexander &amp;amp; Hickox, 2012&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.1146/annurev-astro-081811-125521&quot;&gt;Fabian, 2012&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.3389/fspas.2017.00042&quot;&gt;Morganti, 2017&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.1038/s41550-018-0403-6&quot;&gt;Harrison et al., 2018&lt;/a&gt;).&lt;/p&gt;
-
-&lt;h1 id=&quot;discussion&quot;&gt;Discussion&lt;/h1&gt;
-
-&lt;p&gt;Overall, a close interaction between the multiple components of the radio outflow (jet and wind) and the surrounding gaseous environment may be producing stunted jets in RQ and RI AGN. Drawing analogies from X-ray binaries, we propose a model in Figure 4 that demonstrates a possible connection between the spectral state changes (hard/soft) of the accretion disk and the nature of radio outflows in different radio classes of AGN. In this model, the outer regions of the accretion disk are in soft spectral state, and are characterized by the thermal emission from the &lt;a href=&quot;https://doi.org/10.1007/978-94-010-2585-0_13&quot;&gt;Shakura &amp;amp; Sunyaev (1973)&lt;/a&gt; disk, which is an optically thick and a geometrically thin disk. The magnetic flux accumulation close to the BH is not efficient enough for the launching of powerful radio jets in case of the thin accretion disk. Therefore, this state produces suppressed radio jets, and strong winds that could either be driven by the BP82 mechanism or could be a jet sheath (see Figure 4).&lt;/p&gt;
-
-&lt;p&gt;On the other hand, the inner regions of the accretion disk are in hard spectral state, and are characterized by an advection-dominated accretion flow (&lt;a href=&quot;http://doi.org/10.1086/187381&quot;&gt;Narayan &amp;amp; Yi, 1994&lt;/a&gt;), where the energy, instead of being radiated away, is advected into the BH during accretion. This state facilitates the accumulation of magnetic flux close to the BH, and therefore produces a powerful and steady radio jet or the jet spine, driven by the BZ77 mechanism (see Figure 4). Such a co-axial outflow would appear co-spatial in projection, as seen in our sources. It is very likely that the different emission layers like the jet spine/jet and the jet sheath/wind interact with each other (this refers to the region between BZ77- and BP82-driven components in Figure 4). Consequently, this may either disrupt the jet, or most of the mass and energy may be carried away by the wind rather than the jet. This could result in low-powered, small-scaled jets seen in RQ and RI AGN, as opposed to the large-scaled, powerful jets in the RL AGN.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/radio_quiet_agn_polarization_silpa/image4.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 4: A cartoon to illustrate a possible connection between the changing spectral states of the accretion disk and the multi-component radio outflow in AGN, as inferred from our work on RQ and RI AGN (&lt;a href=&quot;http://doi.org/10.1093/mnras/stab1870&quot;&gt;Silpa et al., 2021a&lt;/a&gt;). The white ticks denote the B-field vectors.
-&lt;/p&gt;
-
-&lt;p&gt;Typically, the transition between the hard and soft spectral states in regular RL and RQ AGN occurs on time scales of 106 − 108 yr (&lt;a href=&quot;http://doi.org/10.1093/mnras/225.1.1&quot;&gt;Alexander &amp;amp; Leahy, 1987&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.1051/0004-6361:20000198&quot;&gt;Enßlin &amp;amp; Gopal- Krishna, 2001&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.1111/j.1365-2966.2008.13459.x&quot;&gt;Shabala et al., 2008&lt;/a&gt;). However, this may occur on much shorter time scales, like decades, in intermittent/sputtering AGN sources. Such rapid transitions may explain the co-existence of a jet of moderate radio luminosity with an accretion disk wind in such sources. Furthermore, this model is in support of the idea that radio-loudness is a function of the epoch at which the source is observed (e.g., &lt;a href=&quot;http://doi.org/10.1111/j.1365-2966.2005.09194.x&quot;&gt;Nipoti et al., 2005&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.3847/1538-4357/ab9598&quot;&gt;Kunert-Bajraszewska et al., 2020&lt;/a&gt;; &lt;a href=&quot;https://arxiv.org/abs/2011.08872&quot;&gt;Nyland et al., 2020&lt;/a&gt;). This could imply that the RQ AGN are the sources which are in soft state, launching strong winds and suppressed jets, and RL AGN are the sources which are in hard state, launching powerful jets, at the time of their observations.&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h1&gt;
-
-&lt;p&gt;The key takeaways from this article are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;RQ and RI AGN are likely powered by multi-component radio outflows (jet + ‘wind’). Signatures of possible outflow stratification emerge from the different inferred magnetic field structures in the polarization observations.&lt;/li&gt;
-  &lt;li&gt;A close interaction between the different emission components themselves as well as with the local host environments may be the reason for the stunted nature of the radio outflows in RQ and RI AGN. 
-The radio-loudness of a source may be a function of its epoch of observation.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://astrophysicatauricum.org/index.php/aat/article/view/38&quot; target=&quot;_blank&quot;&gt;Looking at radio-quiet AGN with radio polarimetry&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Silpa Sasikumar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt;  Preeti Kharb&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; National Centre for Radio Astrophysics (NCRA) - Tata Institute of Fundamental Research (TIFR), Pune, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Sun, 11 Dec 2022 00:00:00 +0530</pubDate>
-        <link>/radio_quiet_agn_polarization_silpa</link>
-        <guid isPermaLink="true">/radio_quiet_agn_polarization_silpa</guid>
-        
-        <category>AGNs</category>
-        
-        <category>Blackhole</category>
-        
-        <category>Galaxies</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>Gravitational Waves in an Inhomogeneous Universe</title>
-        <description>&lt;blockquote&gt;
-  &lt;p&gt;Space is quite inhomogeneous at small scales. These inhomogeneities may play a significant role in governing the physical phenomena at this scale. Here we have analysed the impact of these inhomogeneities on the Gravitational Wave (GW) observables. For this analysis we have made use of a toy model of the inhomogeneous spacetime. Our analysis shows that the amplitude of GW gets affected by these inhomogeneities and this effect is governed by our model parameters.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;The Cosmological Principle states that the Universe is homogeneous and isotropic at large scales. Various surveys like &lt;a href=&quot;https://www.sdss.org/&quot;&gt;Sloan Digital Sky Survey&lt;/a&gt; have revealed &lt;a href=&quot;https://academic.oup.com/mnras/article-pdf/443/1/241/4292640/stu1118.pdf&quot;&gt;deviations from homogeneity on samples as large as 500 h&lt;sup&gt;-1&lt;/sup&gt; Mpc&lt;/a&gt;. In comparison, &lt;a href=&quot;https://imagine.gsfc.nasa.gov/features/cosmic/milkyway_info.html&quot;&gt;Milky Way galaxy is about 30 kpc across&lt;/a&gt;. These inhomogeneities play an important role in governing the physical phenomena at this scale. The physical phenomena that we have considered here is the propagation of Gravitational Waves (GWs).&lt;/p&gt;
-
-&lt;p&gt;GWs have been a fascinating feature of Physics ever since &lt;a href=&quot;https://onlinelibrary.wiley.com/doi/pdf/10.1002/3527608958.ch7&quot;&gt;Einstein&lt;/a&gt;
-predicted their existence. &lt;a href=&quot;https://www.ligo.caltech.edu/page/gravitational-waves&quot;&gt;GWs are ripples in spacetime&lt;/a&gt;
-produced when the acceleration of the second mass moment of the associated motion of a system of masses is non-vanishing. This is valid provided higher order moments are neglected. In &lt;a href=&quot;https://ned.ipac.caltech.edu/level5/March01/Carroll3/Carroll6.html&quot;&gt;TT (transverse traceless) gauge&lt;/a&gt; this second mass moment is given by the quadrupole moment. These waves move outwards from their source. Before reaching the observer these waves propagate through the spacetime. In this work, we have analysed how the amplitude of these GWs gets affected by the inhomogeneities present in spacetime.&lt;/p&gt;
-
-&lt;h1 id=&quot;formalism&quot;&gt;Formalism&lt;/h1&gt;
-
-&lt;p&gt;&lt;i&gt;&lt;sub&gt;&lt;/sub&gt;&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;To study an inhomogeneous spacetime, a suitable averaging procedure is required. In this work, we have used &lt;a href=&quot;https://doi.org/10.1023/A:1001800617177&quot;&gt;Buchert’s averaging procedure&lt;/a&gt;
-proposed by Thomas Buchert. Buchert’s approach was to first decompose Einstein’s equation into a set of dynamical equations for scalar quantities using Raychaudhuri equation and then average those scalar quantities. &lt;a href=&quot;https://www.ias.ac.in/article/fulltext/pram/069/01/0049-0076&quot;&gt;Raychaudhuri equation is concerned with the kinematics of flow.&lt;/a&gt;
-Using Einstein’s equation and Raychaudhuri equation ensures that the procedure is GR compliant.&lt;/p&gt;
-
-&lt;p&gt;For our analysis we have used a &lt;a href=&quot;https://doi.org/10.1088/1475-7516/2006/11/003&quot;&gt;toy model&lt;/a&gt;
-based on Buchert’s averaging procedure. This toy model presents a simplified picture of the inhomogeneous spacetime where a domain of space has been divided into two types of regions - one overdense region and one underdense region. Here, overdense region is a closed, dust only &lt;a href=&quot;https://www.physicsforums.com/insights/journey-cosmos-flrw-metric-friedmann-equation/&quot;&gt;Friedmann–Lemaître–Robertson–Walker&lt;/a&gt;
-(FLRW) region while the underdense region is an empty FLRW region. The physical interpretation of this toy model is that the domain of space of our toy model represents the spacetime through which GW is propagating. The overdense region is the matter filled region that the GW encounters in its path while the underdense region is the region of cosmic void.&lt;/p&gt;
-
-&lt;p&gt;There are two parameters governing our model; &lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt;,the volume fraction of the underdense region and &lt;i&gt;&lt;b&gt;β&lt;/b&gt;&lt;/i&gt;, the factor governing the time evolution of the scale factor for the underdense region. For the overdense region, there is also &lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt;, the volume fraction of the overdense region, which is related to &lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt; by the relation: &lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt; + &lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt; = 1. These parameters completely determine our toy model. The intervening region between source and observer through which GWs propagate can have any combination of this (&lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt;,&lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt;). Therefore we have used different combinations of (&lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt;,&lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt;) for our analysis. Using Buchert’s averaging procedure and this toy model, we can calculate various averaged scalar quantities for the domain under analysis, like averaged density, averaged Hubble parameter, etc.&lt;/p&gt;
-
-&lt;p&gt;Our toy model is a theoretical model. In order to check the validity of our analysis, we need to relate the quantities calculated using our toy model with observational quantities. This is where &lt;a href=&quot;https://doi.org/10.1088/1475-7516/2009/02/011&quot;&gt;Covariant Scheme&lt;/a&gt;
-comes to our rescue. It relates the theoretically calculated quantities from our toy model, averaged density of the domain and averaged Hubble parameter of the domain, with angular diameter distance &lt;i&gt;D&lt;sub&gt;A&lt;/sub&gt;&lt;/i&gt;, an observational quantity.&lt;/p&gt;
-
-&lt;h1 id=&quot;results&quot;&gt;Results&lt;/h1&gt;
-
-&lt;html&gt;
-&lt;head&gt;
-  &lt;meta charset=&quot;utf-8&quot; /&gt;
-  &lt;meta name=&quot;viewport&quot; content=&quot;width=device-width&quot; /&gt;
-  &lt;title&gt;MathJax example&lt;/title&gt;
-  &lt;script src=&quot;https://polyfill.io/v3/polyfill.min.js?features=es6&quot;&gt;&lt;/script&gt;
-  &lt;script id=&quot;MathJax-script&quot; async=&quot;&quot; src=&quot;https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js&quot;&gt;
-  &lt;/script&gt;
-&lt;/head&gt;
-&lt;body&gt;
-&lt;p&gt;
-  The redshift-dependent part of GW amplitude is given by,
-
-  \[A = {(1+z)^{5/3} \over D_L},\]
-  
-  where z is the redshift factor and \(D_L\) is the luminosity distance which is related to angular diameter distance by the relation,
-  
-  \(D_L = (1+z)^2 D_A.\)
-  
-&lt;/p&gt;
-&lt;/body&gt;
-&lt;/html&gt;
-
-&lt;p&gt;We have plotted this quantity &lt;i&gt;A&lt;/i&gt; for different combinations of our model parameter in Figure 1 &amp;amp; Figure 2 and we have related these plots with the homogeneous &lt;b&gt;Λ&lt;sub&gt;CDM&lt;/sub&gt;&lt;/b&gt; plot as well. Figure 1 shows that for a certain combination of our model parameters, the plot for our inhomogeneous toy model is very close to the plot of homogeneous &lt;b&gt;Λ&lt;sub&gt;CDM&lt;/sub&gt;&lt;/b&gt; model. As we vary our model parameters from this particular combination, the plot for our toy model starts deviating from the plot of the &lt;b&gt;Λ&lt;sub&gt;CDM&lt;/sub&gt;&lt;/b&gt; model and this deviation increases as we vary our model parameters more and more from that particular combination.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/shashank_pandey_gravitational_waves_inhomogeneous_universe_images/image1_Shashank_Shekhar_Pandey.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: Plot of the redshift dependent part of the gravitational wave amplitude w.r.t. redshift &lt;i&gt;z&lt;/i&gt;, for the &lt;b&gt;&amp;Lambda;&lt;sub&gt;CDM&lt;/sub&gt;&lt;/b&gt; model and for our model for various combinations of the volume fractions &lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt; and &lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt;, with &lt;i&gt;&lt;b&gt;&amp;beta;&lt;/b&gt;&lt;/i&gt; = 1. 
-Credits: &lt;a href=&quot;https://arxiv.org/abs/2201.06489&quot;&gt;Shashank S. Pandey et al., 2022&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;../assets/images/shashank_pandey_gravitational_waves_inhomogeneous_universe_images/image2_Shashank_Shekhar_Pandey.png&quot; alt=&quot;A new image here&quot; /&gt;&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Plot of redshift dependent part of the gravitational wave amplitude  w.r.t. redshift &lt;i&gt;z&lt;/i&gt;, for the &lt;b&gt;&amp;Lambda;&lt;sub&gt;CDM&lt;/sub&gt;&lt;/b&gt; model and for our model for different values of the parameter &lt;i&gt;&lt;b&gt;&amp;beta;&lt;/b&gt;&lt;/i&gt;, for the combination of fractions &lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt; = 0.91 and &lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt; = 0.09. 
-Credits: &lt;a href=&quot;https://arxiv.org/abs/2201.06489&quot;&gt;Shashank S. Pandey et al., 2022&lt;/a&gt;.
-&lt;/p&gt;
-
-&lt;p&gt;Figure 2 shows that for only one particular combination of (&lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt;,&lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt;) and &lt;i&gt;&lt;b&gt;β&lt;/b&gt;&lt;/i&gt;, the plot for our toy model is very close to the homogeneous &lt;b&gt;Λ&lt;sub&gt;CDM&lt;/sub&gt;&lt;/b&gt; plot. For all other combinations of (&lt;i&gt;f&lt;sub&gt;o&lt;/sub&gt;&lt;/i&gt;,&lt;i&gt;f&lt;sub&gt;u&lt;/sub&gt;&lt;/i&gt;) and &lt;i&gt;&lt;b&gt;β&lt;/b&gt;&lt;/i&gt;, there is substantial deviation from the homogeneous &lt;b&gt;Λ&lt;sub&gt;CDM&lt;/sub&gt;&lt;/b&gt; case. This shows that inhomogeneities in spacetime play an important role in the propagation of GWs and therefore should not be ignored.&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusions&quot;&gt;Conclusions&lt;/h1&gt;
-&lt;p&gt;Our study shows that the inhomogeneities present in the spacetime have substantial effect on the observables of GWs traversing through this spacetime. Our present analysis should inspire further studies of the effect of inhomogeneous spacetime on various other physical phenomena.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1475-7516/2022/06/021&quot; target=&quot;_blank&quot;&gt;Effect of inhomogeneities on the propagation of gravitational waves from binaries of compact objects
-&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Shashank Shekhar Pandey&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Arnab Sarkar, Amna Ali and A.S. Majumdar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; 
- Department of Astrophysics and Cosmology, S. N. Bose National Centre for Basic Sciences,JD Block, Sector III, Salt lake city, Kolkata-700106, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Thu, 08 Dec 2022 00:00:00 +0530</pubDate>
-        <link>/shashank_pandey_gravitational_waves_inhomogeneous_universe</link>
-        <guid isPermaLink="true">/shashank_pandey_gravitational_waves_inhomogeneous_universe</guid>
-        
-        <category>Cosmology</category>
-        
-        <category>Inhomogeneous universe</category>
-        
-        <category>Gravitational waves</category>
-        
-        
-        <category>Cosmology and Nongalactic Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>One year of CosmicVarta</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;&lt;strong&gt;CosmicVarta&lt;/strong&gt; celebrates its &lt;strong&gt;first birthday&lt;/strong&gt; today! Hurray!
-It was a wonderful year indeed.
-Today, we take a look back at our journey and briefly talk about our future plans.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h2 id=&quot;our-story&quot;&gt;Our Story&lt;/h2&gt;
-
-&lt;p&gt;&lt;strong&gt;Astronomy and Astrophysics&lt;/strong&gt; as a subject has the potential to remove the barriers between people and unite them in a hope of understanding the cosmos. However, even though cutting-edge research is being carried out across India, a communication gap exists between the researchers and the younger students as well as the general public who may not be familiar with the technical details.&lt;/p&gt;
-
-&lt;p&gt;In the hope of bridging this gap, came together a group of enthusiastic PhD students from various research institutes across India and &lt;strong&gt;CosmicVarta&lt;/strong&gt; was born.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cosmic_varta_one_yr_ann_images/our_story.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Here is an article describing &lt;a href=&quot;https://cosmicvarta.in/welcome-to-cosmicvarta-team/&quot; target=&quot;_blank&quot;&gt;“What is CosmicVarta?”&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;cosmicvarta-in-numbers&quot;&gt;CosmicVarta in numbers…&lt;/h2&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Total number of articles: 46&lt;/li&gt;
-  &lt;li&gt;Total number of featured articles: 5&lt;/li&gt;
-  &lt;li&gt;Number of articles under progress: 10+&lt;/li&gt;
-  &lt;li&gt;Contributions from: Masters’ students, PhD scholars, post docs and scientists&lt;/li&gt;
-  &lt;li&gt;Number of authors: 34&lt;/li&gt;
-  &lt;li&gt;Number of editors: 10+&lt;/li&gt;
-  &lt;li&gt;Contribution from University students: 32.35%&lt;/li&gt;
-  &lt;li&gt;Contribution from Institute students: 67.65%&lt;/li&gt;
-  &lt;li&gt;Readers from &lt;strong&gt;76&lt;/strong&gt; countries with maximum users from India followed by US&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;h2 id=&quot;showcasing-cosmicvarta&quot;&gt;Showcasing CosmicVarta&lt;/h2&gt;
-
-&lt;p&gt;This year, we had several opportunities to showcase CosmicVarta conferences and events. Here is the list of those events.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cosmic_varta_one_yr_ann_images/cv_appearances.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&quot;future-goals&quot;&gt;Future Goals&lt;/h2&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cosmic_varta_one_yr_ann_images/goals_short.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cosmic_varta_one_yr_ann_images/goals_long.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;/p&gt;
-
-&lt;h2 id=&quot;contribute-to-cosmicvarta&quot;&gt;Contribute to CosmicVarta&lt;/h2&gt;
-
-&lt;p&gt;We are always looking for contributors.
-&lt;strong&gt;Here is how you may contribute to our efforts and help us take the research done by the Indian Astronomy and Astrophysics community to wider audiences.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cosmic_varta_one_yr_ann_images/contribute.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;In the end thank everyone who has been part of our journey. We look forward much more eventful and exciting year ahead!&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;thank-you&quot;&gt;Thank you!&lt;/h2&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Sun, 13 Nov 2022 00:00:00 +0530</pubDate>
-        <link>/cosmic_varta_one_yr_ann</link>
-        <guid isPermaLink="true">/cosmic_varta_one_yr_ann</guid>
-        
-        <category>popular</category>
-        
-        
-        <category>General</category>
         
       </item>
     
