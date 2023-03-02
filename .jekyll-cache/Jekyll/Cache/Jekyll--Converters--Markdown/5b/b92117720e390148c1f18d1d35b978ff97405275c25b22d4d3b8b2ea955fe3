@@ -1,10 +1,8 @@
-I"|I<blockquote>
+I"|I<hr color="black" />
 
-</blockquote>
-<hr color="black" />
-
-<p>Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust.</p>
 <blockquote>
+
+  <p>Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust.</p>
 
   <hr />
 </blockquote>
@@ -67,6 +65,8 @@
   <li> All our findings add up to the argument that if the extinction curve is assumed to be universal, the distribution of stars and dust, i.e., star-dust geometry, is the primal determinant of the attenuation properties of a galaxy. Recently, under similar assumptions, Narayanan et al. (2018) have shown through simulations that star-dust geometry drives the variation in attenuation curves. Our results confirm that.</li>
 </ul>
 
+<hr color="black" />
+
 <h1 id="references">References:</h1>
 <ul>
   <li>Dunne L. et al., 2011, MNRAS , 417, 1510</li>
@@ -93,7 +93,7 @@
 
 <p><strong>First Author:</strong> Sonali Sachdeva</p>
 
-<p><strong>Co-authors:</strong> Biman Nath</p>
+<p><strong>Co-authors:</strong> Biman B. Nath</p>
 
 <p><strong>First author’s Institution:</strong> Raman Research Institute(RRI), Bengaluru, 560080; India</p>
 

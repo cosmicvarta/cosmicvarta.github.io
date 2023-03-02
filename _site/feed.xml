@@ -5,19 +5,17 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 23 Feb 2023 23:27:29 +0530</pubDate>
-    <lastBuildDate>Thu, 23 Feb 2023 23:27:29 +0530</lastBuildDate>
+    <pubDate>Thu, 02 Mar 2023 14:52:27 +0530</pubDate>
+    <lastBuildDate>Thu, 02 Mar 2023 14:52:27 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
         <title>Exploring the topology of hydrogen distribution in the early universe</title>
-        <description>&lt;blockquote&gt;
+        <description>&lt;hr color=&quot;black&quot; /&gt;
 
-&lt;/blockquote&gt;
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;p&gt;We study how galaxies and other sources in the early universe change the neutral universe or InterGalactic Medium (IGM) into the ionized one. We compare different kinds of source models and how they ionize the neutral universe which mainly consists of neutral hydrogen. We trace the largest ionized region formed by these sources by using a statistic known as the Largest Cluster Statistics (LCS). We found that LCS of different source models evolve differently and hence show different natures of ionizing photons or sources. We also investigate the geometry and topology of these ionized regions and how they are different for each model.&lt;/p&gt;
 &lt;blockquote&gt;
+
+  &lt;p&gt;We study how galaxies and other sources in the early universe change the neutral universe or InterGalactic Medium (IGM) into the ionized one. We compare different kinds of source models and how they ionize the neutral universe which mainly consists of neutral hydrogen. We trace the largest ionized region formed by these sources by using a statistic known as the Largest Cluster Statistics (LCS). We found that LCS of different source models evolve differently and hence show different natures of ionizing photons or sources. We also investigate the geometry and topology of these ionized regions and how they are different for each model.&lt;/p&gt;
 
   &lt;hr /&gt;
 &lt;/blockquote&gt;
@@ -377,13 +375,11 @@ Figure 6: Planarity and filamentarity of the largest ionized region in different
     
       <item>
         <title>Accounting for the presence of dust in galaxies</title>
-        <description>&lt;blockquote&gt;
+        <description>&lt;hr color=&quot;black&quot; /&gt;
 
-&lt;/blockquote&gt;
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;p&gt;Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&amp;lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust.&lt;/p&gt;
 &lt;blockquote&gt;
+
+  &lt;p&gt;Dust is as ubiquitous in galaxies as are stars, gases and dark matter. Although dust forms less than 1% of the mass of the interstellar medium, its importance can be gauged from the fact that dust reprocesses more than half of a galaxy’s stellar emissions. It absorbs the stellar light emissions (at UV and optical wavelengths) and re-emits in the infrared range of the spectrum. For example, our Milky Way would have been doubly bright in the optical if no dust was present in its interstellar medium. This effect of dust gets best encapsulated by the dust attenuation curve of the galaxy, which gives the optical depth of the galaxy as a function of wavelength. Analyzing data for thousands (~17000) of local galaxies (z&amp;lt;0.3), we find that the dust attenuation properties of a galaxy are dependent on its structure, i.e., its internal distribution of stars and dust.&lt;/p&gt;
 
   &lt;hr /&gt;
 &lt;/blockquote&gt;

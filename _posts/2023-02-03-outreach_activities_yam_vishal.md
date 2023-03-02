@@ -8,7 +8,7 @@ tags: [scicomm,outreach,conference]
 class: [Science Outreach]
 image: assets/images/outreach_activities_yam_vishal/image_cover.jpg
 featured: True
-hidden: True
+hidden: False
 review: False
 ---
 >

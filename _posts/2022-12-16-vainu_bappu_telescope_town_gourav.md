@@ -8,7 +8,7 @@ tags: [ ]
 class: [Popular Science]
 image: assets/images/vainu_bappu_telescope_town_gourav/image_cover.jpg
 featured: False
-hidden: True
+hidden: False
 review: False
 ---
 >

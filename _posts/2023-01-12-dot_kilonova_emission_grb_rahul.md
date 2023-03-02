@@ -8,7 +8,7 @@ tags: [ ]
 class: [Featured]
 image: assets/images/dot_kilonova_emission_grb_rahul/image_cover.jpg
 featured: True
-hidden: True
+hidden: False
 review: False
 ---
 >
