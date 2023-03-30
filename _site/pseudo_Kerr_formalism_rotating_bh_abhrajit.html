@@ -1,0 +1,1063 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVRTXP9407"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-BVRTXP9407');
+	</script>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/thumb.png">
+
+<title>Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes | CosmicVarta</title>
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes | Welcome to CosmicVarta.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes" />
+<meta name="author" content="Abhrajit Bhattacharjee" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Hydrodynamic flows around black holes is a fascinating area of research that provides a window into the processes that power relativistic jets and energetic particle acceleration. However, this is a challenging task when studied using the full general relativistic framework. In our work, we find an exact pseudo-potential formalism that can be used to study hydrodynamics around rotating black holes very accurately. This formalism can be a useful tool in numerical simulation studies and to extract spin parameter of black hole candidates. Accretion is one of the most fundamental physical processes in the universe that describes the inflow of matter towards a central gravitating object or the centre of mass of an extended system and is responsible for the formation and evolution of structures in the universe. However, the most spectacular observational manifestation of accretion occurs when the central objects are the most compact in the cosmos – black holes!" />
+<meta property="og:description" content="Hydrodynamic flows around black holes is a fascinating area of research that provides a window into the processes that power relativistic jets and energetic particle acceleration. However, this is a challenging task when studied using the full general relativistic framework. In our work, we find an exact pseudo-potential formalism that can be used to study hydrodynamics around rotating black holes very accurately. This formalism can be a useful tool in numerical simulation studies and to extract spin parameter of black hole candidates. Accretion is one of the most fundamental physical processes in the universe that describes the inflow of matter towards a central gravitating object or the centre of mass of an extended system and is responsible for the formation and evolution of structures in the universe. However, the most spectacular observational manifestation of accretion occurs when the central objects are the most compact in the cosmos – black holes!" />
+<meta property="og:site_name" content="Welcome to CosmicVarta." />
+<meta property="og:image" content="/assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image_cover.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-03-14T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image_cover.jpg" />
+<meta property="twitter:title" content="Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Abhrajit Bhattacharjee"},"image":"/assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image_cover.jpg","@type":"BlogPosting","headline":"Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes","dateModified":"2023-03-14T00:00:00+05:30","datePublished":"2023-03-14T00:00:00+05:30","description":"Hydrodynamic flows around black holes is a fascinating area of research that provides a window into the processes that power relativistic jets and energetic particle acceleration. However, this is a challenging task when studied using the full general relativistic framework. In our work, we find an exact pseudo-potential formalism that can be used to study hydrodynamics around rotating black holes very accurately. This formalism can be a useful tool in numerical simulation studies and to extract spin parameter of black hole candidates. Accretion is one of the most fundamental physical processes in the universe that describes the inflow of matter towards a central gravitating object or the centre of mass of an extended system and is responsible for the formation and evolution of structures in the universe. However, the most spectacular observational manifestation of accretion occurs when the central objects are the most compact in the cosmos – black holes!","url":"/pseudo_Kerr_formalism_rotating_bh_abhrajit","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/cv.png"},"name":"Abhrajit Bhattacharjee"},"mainEntityOfPage":{"@type":"WebPage","@id":"/pseudo_Kerr_formalism_rotating_bh_abhrajit"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/cv.png" alt="CosmicVarta">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/about">About us</a>
+								</li>
+
+								<li class="nav-item">
+                <a target="_blank" class="nav-link" href="/upcoming"> Upcoming articles</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/writers"> Join us</a>
+								</li>
+
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/career_help">  Career help</a>
+								</li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/links"> Useful Links</a>
+								</li>
+
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="/contact"> Contact Us</a>
+                </li>
+
+
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">CosmicVarta</h1>
+    <p class="lead">
+         Platform for promoting Indian astronomy research to the public.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/pseudo_Kerr_formalism_rotating_bh_abhrajit" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/pseudo_Kerr_formalism_rotating_bh_abhrajit" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes&url=/pseudo_Kerr_formalism_rotating_bh_abhrajit" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+
+        <li class="ml-1 mr-1">
+              <a href="https://api.whatsapp.com/send?text=/pseudo_Kerr_formalism_rotating_bh_abhrajit" onClick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </li>
+
+
+
+
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/avatar.png" alt="Abhrajit Bhattacharjee">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://scholar.google.com/citations?user=-UZ4yTQAAAAJ&hl=en&oi=ao">Abhrajit Bhattacharjee</a><a target="_blank" href="" class="btn follow">Connect</a>
+                        <span class="author-description">I am a final year PhD student at Indian Centre for Space Physics (ICSP), Kolkata. My research interests range from theoretical aspects of accretion flows around black holes to mathematical foundations of general relativity. <br><br>
+                          
+
+<b>6 min read</b>
+
+
+                        </span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+
+            
+            <!-- <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image_cover.jpg" alt="Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes">
+            
+
+             -->
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+
+                <blockquote>
+
+  <p>Hydrodynamic flows around black holes is a fascinating area of research that provides a window into the processes that power relativistic jets and energetic particle acceleration. However, this is a challenging task when studied using the full general relativistic framework. In our work, we find an exact pseudo-potential formalism that can be used to study hydrodynamics around rotating black holes very accurately. This formalism can be a useful tool in numerical simulation studies and to extract spin parameter of black hole candidates.</p>
+
+  <hr />
+  <p>Accretion is one of the most fundamental physical processes in the universe that describes the inflow of matter towards a central gravitating object or the centre of mass of an extended system and is responsible for the formation and evolution of structures in the universe. However, the most spectacular observational manifestation of accretion occurs when the central objects are the most compact in the cosmos – black holes!</p>
+</blockquote>
+
+<p>The existence of black holes (BHs) is a remarkable prediction of Einstein’s theory of General Relativity (GR). According to GR, gravity is a geometric phenomenon that arises from the curvature of space-time instead of being an invisible force that attracts objects towards each other. The more massive an object, the more it curves space-time. BHs are regions in space bounded by a surface called the event horizon from which nothing, not even light, can escape. In this sense, they are perfect space-time traps, and the event horizon marks the boundary of no return. This means that a BH itself is invisible. However, astronomers can still observe them indirectly through the way it affects the motion of nearby stars and pulls matter into orbit around them. As matter accretes around a BH, it heats up. It releases vast amounts of energy in the form of radiation. In this way, the accretion of matter onto BHs powers some of the most luminous sources in the universe.</p>
+
+<p>According to GR, a BH is characterized by just three observable properties – mass M, angular momentum J and electric charge Q. In any realistic setting, however, a BH is unlikely to have any electric charge because it will typically be rapidly neutralized by the plasma surrounding it. Therefore, astrophysically relevant BHs can be fully described by only their mass and angular momentum. It is helpful to define the dimensionless spin parameter of a BH as $a=J/M$, i.e., the angular momentum per unit mass of the BH, that can take any values within the range 0&lt;|a|&lt;1. The BH is non-rotating when a=0 and a=1 correspond to the maximum value of the angular momentum a BH can attain. To determine the mass of a BH, astronomers can observe how groups of stars and gas move around the BH, which is a relatively easy task. However, the spin is rather subtle because it requires probing the strong gravity region close to the BH, where relativistic effects are prominent. So, the measurement of BH spin requires a model that can accurately describe the relativistic effects close to the event horizon of the BH. In general, most of the astrophysical BHs are expected to be rotating. They are defined by the <a href="https://en.wikipedia.org/wiki/Kerr_metric" target="_blank">Kerr metric</a>, which is an exact solution of the Einstein field equations of GR. The geometry of the space-time described by the Kerr metric is shown in Figure 1, where all the important surfaces are marked. The outer event horizon is essentially the surface from which nothing can return. The shaded region called the ergoregion is another essential region where everything is forced to rotate with the BH and has exciting observational consequences.</p>
+
+<p align="center">
+  <img src="../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image1.jpg" />
+</p>
+<p align="center">
+ Figure 1: The geometry of the space-time described by the Kerr metric (Credit: <a href="https://arxiv.org/pdf/0706.0622.pdf" target="_blank">Matt Visser</a>)
+</p>
+
+<p>To study accretion flows around a BH, one must solve the relativistic hydrodynamics equations. Since this task is very challenging when studied using GR, it is often useful to use the pseudo-potential approach. The advantage of the pseudo-potential approach is that one can use the equations of Newtonian hydrodynamics but with the Newtonian potential replaced by a pseudo-potential that mimics the relativistic effects around BHs. One can use this approach to easily study complex processes around BHs as if the central object is a Newtonian object. This approach is also helpful in easily handling radiative transfer problems in time-dependent numerical simulations just by replacing a few lines in numerical codes written for a Newtonian object. However, the pseudo-potential must be accurate enough so that the errors crept in for not using GR equations are within the observational errors. For non-rotating BHs, a pseudo-potential was introduced by <a href="https://articles.adsabs.harvard.edu/pdf/1980A%26A....88...23P" target="_blank">Paczynski &amp; Wiita</a> (1980, hereafter PW80) that captures the relativistic features of the non-rotating BHs quite accurately and has been extensively used to investigate the physical properties of accretion flows around non-rotating BHs.</p>
+
+<p>Our <a href="https://iopscience.iop.org/article/10.1088/1674-4527/ac4889" target="_blank">recent publication</a> derives the exact form of the effective potential for hydrodynamic flows around a rotating BH from the Kerr metric. We assume that the accretion flow is confined near the equatorial plane of the BH, and we find that this potential accurately reproduces the relativistic features of particle orbits for the entire range of the spin parameter. One can treat this effective potential as a pseudo-potential used in a Newtonian set of equations to describe accretion flows around rotating BHs. We call this the pseudo-Kerr formalism because this uses a Newtonian approach to study hydrodynamics around rotating (Kerr) BHs which are relativistic objects. So, knowledge of Newtonian hydrodynamics is sufficient. One needn’t have to bother about GR when applying this potential to study accretion flows around BHs. This is because all the relativistic effects are already incorporated into the potential. Moreover, a Taylor series expansion of our potential reveals that the leading order term is the PW80 potential. So our potential includes all the higher-order corrections to the PW80 potential for non-rotating BHs.</p>
+
+<p>We use the pseudo-potential in a Newtonian approach to study accretion and wind flows around rotating BHs.</p>
+
+<p align="center">
+  <img src="../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image2.png" />
+</p>
+<p align="center">
+Figure 2: The variation of (a) shock location, (b) shock strength and (c) compression ratio with the specific energy of the flow for a=0.5 and different values of angular momentum l=2.8, 2.9, 3.0. The stable (and unstable) shock locations are shown by solid (and dashed) curves. The left (and right) segments of each set of curves for a particular value of angular momentum corresponds to accretion (and winds). The GR curves are shown in red color. 
+</p>
+
+<p align="center">
+  <img src="../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image3.png" />
+</p>
+<p align="center">
+Figure 3: An example of shock solution in (a) accretion (a=0.5, l=3.0, E=1.003) and (b) wind (a=0.5, l=3.0, E=1.007) . The dashed vertical arrows indicate the stable shock transitions and the GR solutions are shown in red color. 
+</p>
+
+<p>The wind flows are outflowing matter from the region close to a BH and is an opposite process to accretion. For simplicity, we assume that the flow has no dissipation, i.e., the fluid is chosen to be inviscid (having zero viscosity). This means that the specific angular momentum of the flow remains constant. We then solve the equations of Newtonian hydrodynamics and show that the accretion process is necessarily transonic in nature. Transonic flows in this context mean that the radial velocity of the matter is subsonic (velocity less than sound speed) far away from the BH, and it gradually increases to become supersonic (velocity greater than sound speed) and finally enters the event horizon of the BH with the speed of light. Transonic flows are essential because they provide evidence for the formation of shock waves which are abrupt and strong discontinuities in the properties (pressure, temperature and density) of the accreting matter usually associated with violent phenomena in BH environments. Shock waves play a critical role in the dynamics of accretion flows. They can have important effects on the structure and evolution of accretion flows. In studies of transonic flows, it is useful to define a quantity called Mach number M=v/a<sub>s</sub>, which is the ratio of the velocity of matter $v$ and the speed of sound $a_s$. Then,  M&lt;1 for subsonic flow and M&gt;1 for supersonic flow. Two crucial parameters useful in studying shock waves are the shock strength S=M<sub>-</sub>/M<sub>+</sub> and the shock compression ratio R=ρ<sub>+</sub>/ρ<sub>-</sub>, where $M$ is the Mach number, and ρ is the flow density. Both the quantities are calculated at the location of the shock, and the +/- signs correspond to quantities just after/before the shock. These quantities measure the discontinuities in the Mach number (or velocity) and density of the accreting matter.</p>
+
+<p>We investigate the shock solutions in accretion and winds in detail. Comparing our results with the GR solutions reveals that our approach reproduces the GR values accurately. In Figure 2, we show the variation of the shock location, shock strength and shock compression ratio as a function of the specific energy for different values of the angular momentum of the flow for both accretion and wind. One can observe that the values are very close to the GR values (the red curves). In Figure 3, we show an example of a shock solution (the variation of the Mach number with the radial coordinate) for both accretion and wind and compare it with the GR solution (the red curves). The shock location in both cases is shown with dashed vertical arrows.</p>
+
+<p>We find that our approach reproduces the GR results with high accuracy, and the errors, if any, are all within observational limits. This is true even when one chooses a highly spinning BH with a~1. This formalism can be a useful tool to study various aspects of accretion processes around BHs and to carry out numerical simulations that could provide new insights into problems that are usually tedious when studied using the GR approach.</p>
+
+<hr />
+
+<p><strong>Original paper:</strong>
+<a href="https://iopscience.iop.org/article/10.1088/1674-4527/ac4889" target="_blank">Transonic Accretion and Winds Around Pseudo-Kerr Black Holes And Comparison with General Relativistic Solutions</a></p>
+
+<p><strong>First Author:</strong> Abhrajit Bhattacharjee</p>
+
+<p><strong>Co-authors:</strong> Sandip K. Chakrabarti, Dipak Debnath</p>
+
+<p><strong>First author’s Institution:</strong> Indian Centre for Space Physics, Kolkata , India</p>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2023-03-14">14 Mar 2023</time></span>
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#High-Energy-Astrophysical-Phenomena">High Energy Astrophysical Phenomena</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Accretion">#Accretion</a>
+                    </li>
+                    
+                    <li>
+                        <a class="smoothscroll" href="/tags#Black-Hole-Physics">#Black Hole Physics</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+<h2>Related articles</h2>
+
+
+
+
+
+<ul>
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+    		<li><a href="/blackhole_emission_yashb">Understanding the emissions in Black hole binaries</a></li>
+            
+
+            
+		
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+</ul>
+
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = ''; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+
+<hr><hr>
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span> &nbsp; Never miss an <b>article</b> from us. Subscribe to our website <a href='https://forms.gle/a7iLs1Tc7DCPVhtW7'target=None>here.</a>
+        </form>
+	</div>
+</div>
+
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+
+
+<!-- Begin Footer
+================================================== -->
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+
+
+
+        <footer class="ftco-footer ftco-section" id="contact-section">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+
+
+                  <p>Beauty is that to what the human mind responds at its deepest and most profound.</p> <b><a href="https://quotefancy.com/quote/1645323/Subrahmanyan-Chandrasekhar-Beauty-is-that-to-what-the-human-mind-responds-at-its-deepest#:~:text=Subrahmanyan%20Chandrasekhar%20Quote%3A%20%E2%80%9CBeauty%20is,its%20deepest%20and%20most%20profound.%E2%80%9D"target=None>-Subrahmanyan Chandrasekhar</a></b></p>
+
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                  <h2 class="ftco-heading-2">Links</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="/index.html"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                    <li><a href="/about"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                    <li><a href="/writers"><span class="icon-long-arrow-right mr-2"></span>Join Us</a></li>
+                    <li><a href="/upcoming"><span class="icon-long-arrow-right mr-2"></span>Upcoming articles</a></li>
+                    <li><a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                 <div class="ftco-footer-widget mb-4">
+                  <h2 class="ftco-heading-2">Social media</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="https://facebook.com/cosmicvarta"><span class="icon-long-arrow-right mr-2"></span>Facebook</a></li>
+                    <li><a href="https://twitter.com/cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Twitter</a></li>
+                    <li><a href="https://www.medium.com/@cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Medium</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+                	<h2 class="ftco-heading-2">Enquiry </h2>
+                	<div class="block-23 mb-3">
+    	              <ul  class="list-unstyled">
+    	             <span class="icon icon-map-marker"></span><span class="text">   For any enquiry, you may drop in an email to us at:</span></li>
+
+    	               <a href="mailto:cosmicvarta@gmail.com"><span class="icon icon-envelope"></span><span class="text">cosmicvarta@gmail.com</span></a></li>
+    	              </ul>
+    	            </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 text-center">
+
+                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  <b>  Copyright © 2023 CosmicVarta.  All rights reserved </b> </p>
+
+
+
+              </div>
+            </div>
+          </div>
+        </footer>
+
+
+
+
+</body>
+</html>

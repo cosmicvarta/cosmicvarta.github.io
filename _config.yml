@@ -412,6 +412,24 @@ authors:
         twitter: 
         description: "I am a Senior Research Fellow at the Indian Institute of Astrophysics. I am interested in multiwavelength observations and modeling of the core-collpase supernovae."
 
+ Abhrajit Bhattacharjee:
+        name: Abhrajit Bhattacharjee
+        display_name: Abhrajit Bhattacharjee
+        avatar: 'assets/images/avatar.png'
+        email: abhrajitb12@gmail.com
+        web: https://scholar.google.com/citations?user=-UZ4yTQAAAAJ&hl=en&oi=ao
+        twitter: 
+        description: "I am a final year PhD student at Indian Centre for Space Physics (ICSP), Kolkata. My research interests range from theoretical aspects of accretion flows around black holes to mathematical foundations of general relativity."
+
+ Pankaj Saini:
+        name: Pankaj Saini
+        display_name: Pankaj Saini
+        avatar: 'assets/images/pankaj_saini.jpeg'
+        email: pankajsaini481@gmail.com
+        web: 
+        twitter: 
+        description: "I am a physics PhD student at Chennai Mathematical Institute. My research focuses on gravitational wave astrophysics, testing general theory of relativity using gravitational waves, and cosmology. I am also a member of LIGO scientific collaboration."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

@@ -5,9 +5,192 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 02 Mar 2023 14:52:27 +0530</pubDate>
-    <lastBuildDate>Thu, 02 Mar 2023 14:52:27 +0530</lastBuildDate>
+    <pubDate>Thu, 30 Mar 2023 21:49:11 +0530</pubDate>
+    <lastBuildDate>Thu, 30 Mar 2023 21:49:11 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Can missing physics in gravitational waveforms mimic false violations of general relativity?</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;General theory of relativity proposed by Albert Einstein in 1915 has passed all the experimental and observational tests with flying colors. Gravitational waves from the merger of compact binaries such as black holes and neutron stars provide a unique opportunity to test general relativity in the strong-field regime of gravity. Missing physics in the modeling of gravitational waves can appear as a false violation of general relativity.&lt;/p&gt;
+
+  &lt;hr /&gt;
+  &lt;p&gt;General theory of relativity predicts that if two black holes are orbiting around each other, the orbit of the binary will shrink due to the emission of gravitational waves. As black holes come closer and closer, their orbital speed increases. The black holes move close to the speed of light in their final orbits, dragging spacetime around them. Finally, two black holes collide and merge, releasing an enormous amount of energy in the form of gravitational waves and leaving behind a more massive spinning black hole. The emitted gravitational waves from these mergers carry information about the nature of gravity in these extreme regions of spacetime.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;In 1974, Hulse and Taylor discovered a pulsar orbiting around a neutron star. According to general relativity, the binary system must be losing energy due to the emission of gravitational waves. By observing the orbital period of the binary, they found that the orbit of the binary was shrinking and the rate of shrinking was in excellent agreement with the predictions of general relativity. This observation proved the existence of gravitational waves and tested general relativity in strong gravitational fields where the theory had never been tested before. This discovery of gravitational waves earned the Nobel Prize in physics in 1993.&lt;/p&gt;
+
+&lt;p&gt;On September 14, 2015, gravitational waves from the merger of two black holes were detected by Laser Interferometer Gravitational-wave Observatory (LIGO), nearly 100 years after Einstein’s discovery of general relativity. This first direct observation of gravitational waves opened a new window to the unexplored dark universe. The observation won the Nobel Prize in 2017. Till now, nearly 90 gravitational wave signals from merging black holes have been detected. Each new gravitational wave observation helps physicists test general relativity. No evidence of physics beyond general relativity has been found in any of these observations. However, it is possible that beyond general relativity effects are minuscule and not visible in current-generation gravitational wave detectors.&lt;/p&gt;
+
+&lt;p&gt;General relativity is currently our best understanding of gravity. However, there are unsolved problems in cosmology such as the nature of dark matter and dark energy, that cannot be explained by general relativity alone. Many {&lt;em&gt;modified theories of gravity&lt;/em&gt;} have been proposed as an alternative to general relativity to address these unsolved problems. The ideal way to test the true theory of gravity would be to match the observed gravitational wave signals against the predictions of various theories of gravity and see which theory is best supported by the data. However, waveform modeling in modified theories of gravity is still in the infant stage. Hence we use our best understanding of general relativity and look for deviations away from general relativity.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/gravitational_waveforms_pankaj/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    (a) LIGO
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/gravitational_waveforms_pankaj/image2.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    (b) Cosmic Explorer
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: Systematic and statistical errors on the leading order deviation parameter as a function of orbital eccentricity e0. Systematic errors are represented by solid lines and statistical errors are denoted by dashed lines. These errors are shown for four representative binaries with different total masses. The orbital eccentricity e0 on the x-axis is defined at a gravitational wave frequency of 10 Hz.
+&lt;/p&gt;
+
+&lt;p&gt;
+    If a black hole binary with total mass 15M&lt;sub&gt;&amp;amp;#9737&lt;/sub&gt; (solar mass) and orbital eccentricity 0.04 is observed by LIGO, the eccentricity-induced systematic bias on the leading-order deviation parameter becomes comparable to the statistical errors as illustrated in the adjacent figure (taken from Saini et al. (2022)). These biases will shift the deformation parameters away from their true value, which is zero in general relativity, indicating a false deviation from general relativity. This value of eccentricity is even lower (0.005) for the more sensitive future third-generation gravitational wave detector (Cosmic Explorer).
+&lt;/p&gt;
+
+&lt;p&gt;It is very likely that in the near future, we detect gravitational waves from the mergers of black holes in eccentric orbits. There are already signatures of a few eccentric mergers in the detected gravitational wave signals. To avoid the risk of falsely claiming a breakdown of general relativity, controlling waveform systematics is of immediate need for the gravitational wave community.&lt;/p&gt;
+
+&lt;h1 id=&quot;references&quot;&gt;References:&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;[Saini et al.(2022) Saini, Favata, and Arun] P. Saini, M. Favata, and K. G. Arun, Phys. Rev. D 106, 084031 (2022), arXiv:2203.04634[gr-qc].&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/link_gateway/2022PhRvD.106h4031S/arxiv:2203.04634&quot; target=&quot;_blank&quot;&gt;Testing general relativity using gravitational waves&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Pankaj Saini&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Marc Favata, K. G. Arun&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Chennai Mathematical Institute, Chennai, 603103; India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Thu, 16 Mar 2023 00:00:00 +0530</pubDate>
+        <link>/gravitational_waveforms_pankaj</link>
+        <guid isPermaLink="true">/gravitational_waveforms_pankaj</guid>
+        
+        <category>Testing general relativity using gravitational waves</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
+    
+      <item>
+        <title>Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Hydrodynamic flows around black holes is a fascinating area of research that provides a window into the processes that power relativistic jets and energetic particle acceleration. However, this is a challenging task when studied using the full general relativistic framework. In our work, we find an exact pseudo-potential formalism that can be used to study hydrodynamics around rotating black holes very accurately. This formalism can be a useful tool in numerical simulation studies and to extract spin parameter of black hole candidates.&lt;/p&gt;
+
+  &lt;hr /&gt;
+  &lt;p&gt;Accretion is one of the most fundamental physical processes in the universe that describes the inflow of matter towards a central gravitating object or the centre of mass of an extended system and is responsible for the formation and evolution of structures in the universe. However, the most spectacular observational manifestation of accretion occurs when the central objects are the most compact in the cosmos – black holes!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The existence of black holes (BHs) is a remarkable prediction of Einstein’s theory of General Relativity (GR). According to GR, gravity is a geometric phenomenon that arises from the curvature of space-time instead of being an invisible force that attracts objects towards each other. The more massive an object, the more it curves space-time. BHs are regions in space bounded by a surface called the event horizon from which nothing, not even light, can escape. In this sense, they are perfect space-time traps, and the event horizon marks the boundary of no return. This means that a BH itself is invisible. However, astronomers can still observe them indirectly through the way it affects the motion of nearby stars and pulls matter into orbit around them. As matter accretes around a BH, it heats up. It releases vast amounts of energy in the form of radiation. In this way, the accretion of matter onto BHs powers some of the most luminous sources in the universe.&lt;/p&gt;
+
+&lt;p&gt;According to GR, a BH is characterized by just three observable properties – mass M, angular momentum J and electric charge Q. In any realistic setting, however, a BH is unlikely to have any electric charge because it will typically be rapidly neutralized by the plasma surrounding it. Therefore, astrophysically relevant BHs can be fully described by only their mass and angular momentum. It is helpful to define the dimensionless spin parameter of a BH as $a=J/M$, i.e., the angular momentum per unit mass of the BH, that can take any values within the range 0&amp;lt;|a|&amp;lt;1. The BH is non-rotating when a=0 and a=1 correspond to the maximum value of the angular momentum a BH can attain. To determine the mass of a BH, astronomers can observe how groups of stars and gas move around the BH, which is a relatively easy task. However, the spin is rather subtle because it requires probing the strong gravity region close to the BH, where relativistic effects are prominent. So, the measurement of BH spin requires a model that can accurately describe the relativistic effects close to the event horizon of the BH. In general, most of the astrophysical BHs are expected to be rotating. They are defined by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Kerr_metric&quot; target=&quot;_blank&quot;&gt;Kerr metric&lt;/a&gt;, which is an exact solution of the Einstein field equations of GR. The geometry of the space-time described by the Kerr metric is shown in Figure 1, where all the important surfaces are marked. The outer event horizon is essentially the surface from which nothing can return. The shaded region called the ergoregion is another essential region where everything is forced to rotate with the BH and has exciting observational consequences.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+ Figure 1: The geometry of the space-time described by the Kerr metric (Credit: &lt;a href=&quot;https://arxiv.org/pdf/0706.0622.pdf&quot; target=&quot;_blank&quot;&gt;Matt Visser&lt;/a&gt;)
+&lt;/p&gt;
+
+&lt;p&gt;To study accretion flows around a BH, one must solve the relativistic hydrodynamics equations. Since this task is very challenging when studied using GR, it is often useful to use the pseudo-potential approach. The advantage of the pseudo-potential approach is that one can use the equations of Newtonian hydrodynamics but with the Newtonian potential replaced by a pseudo-potential that mimics the relativistic effects around BHs. One can use this approach to easily study complex processes around BHs as if the central object is a Newtonian object. This approach is also helpful in easily handling radiative transfer problems in time-dependent numerical simulations just by replacing a few lines in numerical codes written for a Newtonian object. However, the pseudo-potential must be accurate enough so that the errors crept in for not using GR equations are within the observational errors. For non-rotating BHs, a pseudo-potential was introduced by &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1980A%26A....88...23P&quot; target=&quot;_blank&quot;&gt;Paczynski &amp;amp; Wiita&lt;/a&gt; (1980, hereafter PW80) that captures the relativistic features of the non-rotating BHs quite accurately and has been extensively used to investigate the physical properties of accretion flows around non-rotating BHs.&lt;/p&gt;
+
+&lt;p&gt;Our &lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1674-4527/ac4889&quot; target=&quot;_blank&quot;&gt;recent publication&lt;/a&gt; derives the exact form of the effective potential for hydrodynamic flows around a rotating BH from the Kerr metric. We assume that the accretion flow is confined near the equatorial plane of the BH, and we find that this potential accurately reproduces the relativistic features of particle orbits for the entire range of the spin parameter. One can treat this effective potential as a pseudo-potential used in a Newtonian set of equations to describe accretion flows around rotating BHs. We call this the pseudo-Kerr formalism because this uses a Newtonian approach to study hydrodynamics around rotating (Kerr) BHs which are relativistic objects. So, knowledge of Newtonian hydrodynamics is sufficient. One needn’t have to bother about GR when applying this potential to study accretion flows around BHs. This is because all the relativistic effects are already incorporated into the potential. Moreover, a Taylor series expansion of our potential reveals that the leading order term is the PW80 potential. So our potential includes all the higher-order corrections to the PW80 potential for non-rotating BHs.&lt;/p&gt;
+
+&lt;p&gt;We use the pseudo-potential in a Newtonian approach to study accretion and wind flows around rotating BHs.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image2.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: The variation of (a) shock location, (b) shock strength and (c) compression ratio with the specific energy of the flow for a=0.5 and different values of angular momentum l=2.8, 2.9, 3.0. The stable (and unstable) shock locations are shown by solid (and dashed) curves. The left (and right) segments of each set of curves for a particular value of angular momentum corresponds to accretion (and winds). The GR curves are shown in red color. 
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image3.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: An example of shock solution in (a) accretion (a=0.5, l=3.0, E=1.003) and (b) wind (a=0.5, l=3.0, E=1.007) . The dashed vertical arrows indicate the stable shock transitions and the GR solutions are shown in red color. 
+&lt;/p&gt;
+
+&lt;p&gt;The wind flows are outflowing matter from the region close to a BH and is an opposite process to accretion. For simplicity, we assume that the flow has no dissipation, i.e., the fluid is chosen to be inviscid (having zero viscosity). This means that the specific angular momentum of the flow remains constant. We then solve the equations of Newtonian hydrodynamics and show that the accretion process is necessarily transonic in nature. Transonic flows in this context mean that the radial velocity of the matter is subsonic (velocity less than sound speed) far away from the BH, and it gradually increases to become supersonic (velocity greater than sound speed) and finally enters the event horizon of the BH with the speed of light. Transonic flows are essential because they provide evidence for the formation of shock waves which are abrupt and strong discontinuities in the properties (pressure, temperature and density) of the accreting matter usually associated with violent phenomena in BH environments. Shock waves play a critical role in the dynamics of accretion flows. They can have important effects on the structure and evolution of accretion flows. In studies of transonic flows, it is useful to define a quantity called Mach number M=v/a&lt;sub&gt;s&lt;/sub&gt;, which is the ratio of the velocity of matter $v$ and the speed of sound $a_s$. Then,  M&amp;lt;1 for subsonic flow and M&amp;gt;1 for supersonic flow. Two crucial parameters useful in studying shock waves are the shock strength S=M&lt;sub&gt;-&lt;/sub&gt;/M&lt;sub&gt;+&lt;/sub&gt; and the shock compression ratio R=ρ&lt;sub&gt;+&lt;/sub&gt;/ρ&lt;sub&gt;-&lt;/sub&gt;, where $M$ is the Mach number, and ρ is the flow density. Both the quantities are calculated at the location of the shock, and the +/- signs correspond to quantities just after/before the shock. These quantities measure the discontinuities in the Mach number (or velocity) and density of the accreting matter.&lt;/p&gt;
+
+&lt;p&gt;We investigate the shock solutions in accretion and winds in detail. Comparing our results with the GR solutions reveals that our approach reproduces the GR values accurately. In Figure 2, we show the variation of the shock location, shock strength and shock compression ratio as a function of the specific energy for different values of the angular momentum of the flow for both accretion and wind. One can observe that the values are very close to the GR values (the red curves). In Figure 3, we show an example of a shock solution (the variation of the Mach number with the radial coordinate) for both accretion and wind and compare it with the GR solution (the red curves). The shock location in both cases is shown with dashed vertical arrows.&lt;/p&gt;
+
+&lt;p&gt;We find that our approach reproduces the GR results with high accuracy, and the errors, if any, are all within observational limits. This is true even when one chooses a highly spinning BH with a~1. This formalism can be a useful tool to study various aspects of accretion processes around BHs and to carry out numerical simulations that could provide new insights into problems that are usually tedious when studied using the GR approach.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1674-4527/ac4889&quot; target=&quot;_blank&quot;&gt;Transonic Accretion and Winds Around Pseudo-Kerr Black Holes And Comparison with General Relativistic Solutions&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Abhrajit Bhattacharjee&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Sandip K. Chakrabarti, Dipak Debnath&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Centre for Space Physics, Kolkata , India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Tue, 14 Mar 2023 00:00:00 +0530</pubDate>
+        <link>/pseudo_Kerr_formalism_rotating_bh_abhrajit</link>
+        <guid isPermaLink="true">/pseudo_Kerr_formalism_rotating_bh_abhrajit</guid>
+        
+        <category>Black Hole Physics</category>
+        
+        <category>Accretion</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Exploring the topology of hydrogen distribution in the early universe</title>
@@ -1035,316 +1218,6 @@ Fig. 1 : Visualisation of the BH+O star binary VFTS 243, a 10.4 d-period binary 
         <category>High Energy Astrophysical Phenomena</category>
         
         <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Precise Measurement of Flux Density of Radio Emissions from the Sun using Day-time Celestial Radio Sources</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;During astronomical observation, astronomers measure the amount of energy emitted by astronomical objects. This energy is generally measured in terms of the flux density of the source. At radio frequencies, these measurements are calibrated using calibrator sources, which have known constant flux densities. Since the Sun is about 1000 times brighter at radio frequencies than the calibrator sources, estimating the flux density of the solar radio emission is challenging. With the new generation radio telescope, the Murchison Widefield Array, it is now possible to observe the faint background radio sources simultaneously with the Sun. This is the first such an observation has been made, which seems like “observing stars in the day”. Using these background radio sources it is now possible to estimate the flux density of the solar radio emission with much better accuracy, which is important to understand the emission mechanisms of solar radio emissions.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;In most physics experiments, researchers measure various quantities in different units, like the mass of a body measured in grams, the length of an object measured in centimeters, and so on. Similarly, Astronomers also measure different quantities during astronomy observations, which can be used to understand the physical properties of that astronomical object. In astronomy, measurements are done in some well-defined units, like any other area of physics. One such important quantity in astronomy is the &lt;em&gt;flux density&lt;/em&gt;, which defines the amount of energy received per unit of time from astronomical sources if collected over a unit area and unit solid angle for a monochromatic emission. At radio wavelengths, the unit of this flux density is &lt;em&gt;Jansky (Jy)&lt;/em&gt;, named after the pioneer of radio
-astronomy, Karl. J. Jansky.&lt;/p&gt;
-
-&lt;p&gt;When an astronomer observes the radio emission from a celestial object using a radio telescope, the tiny amount of incident radio emission is converted into electronic voltages by the very sensitive electronic instruments of the radio telescope. The corresponding power generated by these very tiny voltages is recorded in some arbitrary units. But, to understand the physical processes happening on that celestial object, astronomers need to convert this measured power into the units of &lt;em&gt;Jy&lt;/em&gt;. The process to convert this is known as flux density calibration. Precise measurement of the flux density in units of &lt;em&gt;Jy&lt;/em&gt; is essential to properly measure other physical properties, like distance, size, temperature, and so on, of that astronomical source.&lt;/p&gt;
-
-&lt;p&gt;This process is routinely done using a bright radio source with a well-pre-defined flux density. These are called calibrator sources. While observing the Sun at radio wavelengths, this standard approach does not work. The flux density of the Sun is about 1000 times more than the brightest celestial radio source in the sky. Like at the optical wavelengths, it is tough to observe the background sources in the sky at radio wavelengths when the Sun is in the sky. Hence, to obtain the flux density of the Sun at radio wavelengths, solar physicists have used different laboratory measurements of the properties of the instrument to estimate the flux density of solar radio emission. But those estimations had comparatively large errors in the flux density.&lt;/p&gt;
-
-&lt;h1 id=&quot;observing-stars-in-the-day&quot;&gt;Observing Stars in the Day&lt;/h1&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/flux_density_radio_emission_devojyoti/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 1 : An image of the daytime sky at radio frequency (80 MHz). The image is made from the observations taken with the instrument called the Murchison Widefield Array, which can observe a large, about 2500 square degrees of the sky at a time. The red circle in the image marks the Sun. All small white dots in the image are background sources
-emitting radio frequencies, including stars, galaxies, quasars, pulsars, and others.
-&lt;/p&gt;
-
-&lt;p&gt;For precise flux density calibration of solar observation, several background radio sources with well-known flux densities must be observed during the daytime. This is extremely challenging.&lt;/p&gt;
-
-&lt;p&gt;Despite great challenges, a team of solar physicists from NCRA, led by Devojyoti Kansabanik, have successfully observed more than 80 background radio sources with the Sun in the field of view (FOV) of the telescope using images having a dynamic range of 1000. The dynamic range is the ratio between the brightest and faintest emission detected in the image. They used one of the most advanced telescopes in the world, the Murchison Widefield Array (MWA), situated in the western Australian desert, to make this high dynamic range image. This image is shown in Figure 1. A red circle marks the Sun, and all other small white dots are the radio emissions from background stars, galaxies, and other celestial bodies. They detected more than 80 sources with the Sun in the sky. This is the first time such an image of a daytime sky is made, which seems like &lt;em&gt;observing stars in the day&lt;/em&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;precise-measurement-of-flux-density-of-the-radio-sun&quot;&gt;Precise Measurement of Flux Density of the Radio Sun&lt;/h1&gt;
-
-&lt;p&gt;Kansabanik et al. use these background radio sources to estimate the flux density of the radio Sun. The known flux density of these sources is obtained from the GLEAM survey and determines a scalar number for each source to match their flux density obtained from the image with the previously known values. They have found that these scalar numbers are constant for the full image. Hence, the same scalar number can be used to obtain the true flux density of the Sun in units of &lt;em&gt;Jy&lt;/em&gt;. This method allows them to measure solar flux density with a precision of 10 %, which is about 3 to 6 times more precise than the previous method developed by Oberoi et al. 2017. They also found that the 10% error is mostly coming from the error on the known flux densities from GLEAM of these radio sources.&lt;/p&gt;
-
-&lt;p&gt;Kansabanik et al. also devise a method exploiting the extreme stability of the MWA. They demonstrated that a very precise solar flux density could be obtained only using an analytical function of frequency without using any dedicated observation of flux density calibrator.&lt;/p&gt;
-
-&lt;h1 id=&quot;importance-for-future-observations-of-the-sun-and-heliosphere&quot;&gt;Importance for Future Observations of the Sun and Heliosphere&lt;/h1&gt;
-
-&lt;p&gt;As said earlier, astronomers use precise flux density measurements to estimate several physical parameters of the celestial source. The radio emission from quiet solar corona or coronal mass ejections can be used to measure those media’s temperature, magnetic field, and electron properties. The estimated values of these plasma parameters strongly depend on the precision of the flux density measurements.&lt;/p&gt;
-
-&lt;p&gt;Besides achieving precise flux density measurement, the first-ever successful detection of a large number of faint background radio sources makes it possible to observe the heliosphere close to the Sun using a wide FOV instrument, which is otherwise impossible. These sources and their polarized emission can be used in the future to measure the magnetic field in interplanetary space. When a large amount of plasma is erupted from theSun in the form of a CME and crosses the background sources, its polarization properties get changed by the magnetic field of the CME plasma. A similar phenomenon can be observed when magnetized solar wind passes through the line of sight of these background sources. The changes in polarization properties of them can be an efficient method to measure the magnetic field in the heliosphere over a larger region, which is rather challenging and only limited to some vantage point measurements directly from a handful of spacecraft. Work is currently underway to use the polarization properties of these sources to achieve this objective.&lt;/p&gt;
-
-&lt;h1 id=&quot;references&quot;&gt;References:&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;Oberoi, D., Sharma, R. &amp;amp; Rogers, A.E.E. Estimating Solar Flux Density at Low Radio Frequencies Using a Sky Brightness Model. Sol Phys 292, 75 (2017). https://doi.org/10.1007/s11207-017-1096-1&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/ac4bba&quot; target=&quot;_blank&quot;&gt;Robust Absolute Solar Flux Density Calibration for the Murchison Widefield Array&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Devojyoti Kansabanik&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Surajit Mondal, Divya Oberoi, Shilpi Bhunia, Ayan Biswas&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; National Centre for Radio Astrophysics, Tata Institute of Fundamental Research, Pune,
-India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Tue, 03 Jan 2023 00:00:00 +0530</pubDate>
-        <link>/flux_density_radio_emission_devojyoti</link>
-        <guid isPermaLink="true">/flux_density_radio_emission_devojyoti</guid>
-        
-        <category>Solar Physics</category>
-        
-        <category>Solar Radio Physics</category>
-        
-        <category>MWA</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Vainu Bappu Observatory: the telescope town of India</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;A popular article describing the history and contributions of the Vainu Bappu Observatory: the telescope town of India.&lt;br /&gt;
-My affair with the observatory is also highlighted in brief.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Development of astronomy in ancient civilizations like during the times of Babylonians, Greeks, Egyptians, etc. took place due to some fundamental needs. Some of these needs were predicting seasons precisely which helped the ancient people in agriculture, using the night sky for proper navigation while travelling in uncharted areas without having any compass or clock, fixing the time for religious rites, etc. The earliest recorded astronomical observations date back to around 1600 BCE by Babylonians, much before the beginning of the Christian era. As time progressed, advancement in astronomy took place gradually. And in parallel to this, an overall progress in science and technology also occurred. History shows that studying astronomy has generated fundamental knowledge which has benefited every human being through ages. For example, the discovery of gravitation by Newton led to the understanding of planetary motion, which further laid the foundation of space technology – a boon of science which has benefited almost every human being. STD phone, mobile, internet, etc. are some of the results of the development of space technology.&lt;/p&gt;
-
-&lt;p&gt;However, invention of telescope and then studying the sky with bigger and better telescopes stationed in different astronomical observatories has greatly helped in this progress of astronomy since the past few hundred years. Encyclopedia Britannica defines an ‘astronomical observatory’ as “any structure containing telescopes and auxiliary instruments with which to observe celestial objects”. Like different other countries, India also possesses a long tradition of astronomy since ancient times [1].&lt;/p&gt;
-
-&lt;p&gt;Standing in the present day twenty-first century, India possesses several world-class research institutes and observatories carrying high-class researches in astronomy. One such important astronomical observatory situated in Indian soil is the Vainu Bappu Observatory, a place which one can truly be considered as the ‘Telescope City of India’.&lt;/p&gt;
-
-&lt;h1 id=&quot;vainu-bappu-observatory-vbo-telescope-city-of-india&quot;&gt;Vainu Bappu Observatory (VBO): Telescope city of India&lt;/h1&gt;
-
-&lt;p&gt;Around 200 km south-west of Chennai and 175 km south-east of Bangalore, in the Tirupathur district of the Indian state of Tamil Nadu lies the picturesque Javadi hills. Amidst this forested vegetation, near the neighborhoods of the village known as Kavalur and at an altitude of around 750 m (longitude 78° 49.6’ E; latitude 12° 34.6’ N) is located the Vainu Bappu Observatory (VBO) – one of the most important and active astronomical observatories in India and also in Asia. Situated away from light pollution and hustles-bustles of any big city, VBO is operated by the Indian Institute of Astrophysics (IIA), Bangalore.&lt;/p&gt;
-
-&lt;p&gt;Spread over an area of 40-hectare, this place attracts astronomers and researchers from across the country who are involved in studying celestial objects like stars, exoplanets, galaxies, etc. and also engineers, operators and other staff members who look after the proper functioning of the observatory. Apart from these busy and always cheerful people, VBO is filled with a variety of greenery of tropical region besides a number of medicinal plants. This is because the area is inside a protected forest. Monkeys are regular visitors among animals. And occasionally, appearance of some wildlife like deer, snakes and scorpions also greet the people working inside the campus.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: Arial view of the Vainu Bappu Observatory located at Kavalur, Tamil Nadu (credit: P. Deshmukh, IIA, Bangalore)
-&lt;/p&gt;
-
-&lt;p&gt;However, the location of VBO provides advantages for night sky observation for astronomers. Apart from being reasonably away from city lights and industrial areas, this particular location was chosen in order to be closer to the Earth’s equator. Thus, coverage of both northern and southern hemispheres with equal ease becomes possible. Moreover, the longitudinal position of VBO is such that it is the only major astronomical facility between Australia and South Africa for observing the southern celestial objects [2].&lt;/p&gt;
-
-&lt;h1 id=&quot;establishment-of-vbo&quot;&gt;Establishment of VBO&lt;/h1&gt;
-
-&lt;p&gt;VBO traces its root far back in history. I shall discuss here in brief about how it was established. The first astronomical observatory in India was established at Madras (now Chennai) in 1786 by the East India Company “for promoting the knowledge of astronomy, geography and navigation in India.” It became the premier institute in India for works on the fundamental positions of stars during the 19th century.  A catalogue of 11, 015 southern hemisphere stars was produced by the Madras observatory in 1843 under the guidance of T.G. Taylor, the then Director of the observatory. This is the famous Madras Catalogue.&lt;/p&gt;
-
-&lt;p&gt;Research in planetary science and stellar astronomy at the Madras Observatory reached its peak during the latter half of the 19th century, under the leadership of Norman Pogson, the Director of the observatory during 1861-1891. With his Indian assistants Pogson measured accurately the positions of around 50, 000 stars, discovered six variable stars and six asteroids during this period. In 1867, an Indian astronomer, Chintamani Ragoonathacharry (1838-1932), an assistant of Pogon, discovered a variable star– R Reticuli. This is probably the first recorded astronomical discovery by an Indian in the era of telescopes.  Then, during the Total Solar Eclipse on August 18, 1868, the first spectroscopes were used to observe an eclipse event. So this eclipse became an important landmark which signaled the birth of solar physics in India.&lt;/p&gt;
-
-&lt;p&gt;After Pogson’s death (June 23, 1891), initiatives were taken to establish a separate solar physics observatory. Following the decision, Kodaikanal Solar Observatory was established at Kodaikanal, Tamilnadu within few years. It started working officially on April 1, 1899. However, due to the climate it was understood that Kodaikanal can provide very few nights available for observation. In 1945, the Government of India appointed a committee, chaired by the eminent physicist Meghnad Saha which started planning the post-war development of astronomy in India. Manali Kallat Vainu Bappu, a great visionary who took over as the director of the Kodaikanal Observatory in 1960 knew that Kodaikanal is not a suitable place for stellar research. However, establishing an observatory for stellar studies and optical astronomy was the dream of M.K. Vainu Bappu. So he led a search since 1962 for finding a suitable site in southern India for establishing an optical observatory. He succeeded in finding a sleepy little hamlet i.e. Kavalur in the Javadi Hills as a suitable site for establishing optical telescopes for observing celestial objects.&lt;/p&gt;
-
-&lt;p&gt;Observations began in 1968 with a 38 cm telescope made in the backyard of the Kodaikanal Observatory [3]. Then in 1971, a fully autonomous research institute was formed under complete funding from the Government of India, which came to be known as the Indian Institute of Astrophysics (IIA) [4]. Located in Bangalore, IIA took over the VBO facility henceforth.&lt;/p&gt;
-
-&lt;h1 id=&quot;facilities-at-vbo-2-5-6&quot;&gt;Facilities at VBO &lt;i&gt;&lt;sub&gt;[2, 5, 6]&lt;/sub&gt;&lt;/i&gt;&lt;/h1&gt;
-
-&lt;p&gt;Presently, VBO boosts of a number of sophisticated telescopes and asoociated instruments for looking at the heavens. The historical 1-m Carl Zeiss reflecting telescope, the 2.34-m Vainu Bappu Telescope, the recently installed 1.3-m J.C. Bhattacharya Telescope forms the major facilities. The first telescope was of 38 cm (15-inch) aperture, with which astronomical observations were started in 1968 at VBO. Later, a 75 cm (30-inch) telescope was completely designed and fabricated at the workshops of the IIA. It is still used for observations at VBO. Another 45-cm aperture joined the arsenal within few years. In recent years, one more telescope, known as the ‘DIMM Telescope’ also stands tall in the campus.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image2.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: The DIMM Telescope at the VBO site (&lt;a href=&quot;https://en.wikipedia.org/wiki/Vainu_Bappu_Observatory#/media/File:15-inch_telescope_seen_from_the_40-inch_telescope_at_Vainu_Bappu_Observatory.JPG&quot; target=&quot;_blank&quot;&gt;credit&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;Then in 1972, a 1.02-m (primary mirror diameter) class reflecting telescope made by Carl Zeiss Jena was installed at VBO. Having the Ritchey-Chretien F/13 optical configuration, this remained as one of the primary facility for observing celestial objects for over a decade. It is working fully till now and is attached with two instruments for observations, a stellar optical polarimeter and the Universal Astronomical Grating Spectrograph (UAGS). Anyone of them can be used at a time attaching with the telescope.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image3.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: The historic 1-m (40-inch) telescope at VBO (credit: author)
-&lt;/p&gt;
-
-&lt;p&gt;Later on January 6, 1986, another 2.34-m (93 inch) diameter reflecting telescope was inaugurated in the observatory. Completely designed and built in India, this telescope project was started by Vainu Bappu. However, he passed away in 1982 and could not see the successful installation and working of this dream telescope. On January 6, 1986, the observatory was renamed as the Vainu Bappu Observatory and the 2.3-m telescope as ‘Vainu Bappu Telescope’ (VBT) [6]. It remained as the largest telescope in Asia until a 3.6-meter telescope was set up at Devasthal, near Nainital, by ARIES. It is majorly used for deep sky observations including stars and galaxies currently using two instruments at prime focus. It is operated as a national facility and attracts proposals from all over the country and occasionally from abroad.&lt;/p&gt;
-
-&lt;p&gt;Later on January 6, 1986, another 2.34-m (93 inch) diameter reflecting telescope was inaugurated in the observatory. Completely designed and built in India, this telescope project was started by Vainu Bappu. However, he passed away in 1982 and could not see the successful installation and working of this dream telescope. On January 6, 1986, the observatory was renamed as the Vainu Bappu Observatory and the 2.3-m telescope as ‘Vainu Bappu Telescope’ (VBT) [6]. It remained as the largest telescope in Asia until a 3.6-meter telescope was set up at Devasthal, near Nainital, by ARIES. It is majorly used for deep sky observations including stars and galaxies currently using two instruments at prime focus. It is operated as a national facility and attracts proposals from all over the country and occasionally from abroad.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image4.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 4: The 2.34-m Vainu Bappu Telescope (VBT) at VBO (credit: author)
-&lt;/p&gt;
-
-&lt;p&gt;Another recent addition to these existing facilities is the 1.3-m aperture J.C. Bhattacharya Telescope, popularly known as the JCBT. It was installed in April 2014 and was named after the ex-Director of VBO, Dr. Jagadish Chandra Bhattacharya. Possessing a Ritchey-Chretien F/8 optical configuration, JCBT has three instrument ports. The main port consists a 2k x 4k CCD system for direct imaging purpose.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image5.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 5: The 1.3-m JCBT at the VBO campus (credit: https://www.iiap.res.in/vbo.htm)
-&lt;/p&gt;
-
-&lt;h1 id=&quot;major-discoveries-and-research-highlights&quot;&gt;Major discoveries and research highlights&lt;/h1&gt;
-&lt;p&gt;Contributions of VBO in astronomy are immense. This included some major discoveries which are discussed below:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;The 1-m telescope started producing fruitful results just within few months after it began operation in January, 1972. In June, 1972, it discovered the presence of a thin atmosphere around Ganymede, the largest satellite of Jupiter [7].&lt;/li&gt;
-  &lt;li&gt;In March, 1977, rings of Uranus were discovered by J. C. Bhattacharya (Director of VBO after M. K. Vainu Bappu) and his colleagues while observing through the same telescope [8].&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image6.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 6: News on confirmation of the rings of Uranus published in Deccan Herald newspaper on April 28, 1981 (credit:http://prints.iiap.res.in/bitstream/handle/2248/1059/E7.2.pdf;jsessionid=F7FDBA92400FD589617ED58C49E0ED30?sequence=1)
-&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Then in 1984, the discovery of a thin outer ring around Saturn was reported by VBO using the same telescope [9].&lt;/li&gt;
-  &lt;li&gt;Another important discovery was made using the 45 cm Schmidt telescope. On February 17, 1988, a new minor planet was discovered by a team of six astronomers led by R. Rajamohan [10]. It was a part of a special search program for asteroids called ‘Project Kalki’. Later, this asteroid was named ‘4130 Ramanujan’ after the legendary Indian mathematician Srinivasa Ramanujan. This became the first discovery of an asteroid from the Indian soil in the 20th century.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image7.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 7: Discovery of the asteroid Ramanujan published in Current Science journal in 1989 
-(credit:http://prints.iiap.res.in/bitstream/handle/2248/3975/Discovery%20of%20asteroid%20number%204130?sequence=3&amp;amp;isAllowed=y)
-&lt;/p&gt;
-
-&lt;p&gt;Another notable work performed from VBO was to survey the stars of the Large Magellanic Cloud (LMC) galaxy using ultraflow dispersion spectroscopy. Moreover, astronomers of IIA started observing the famous supernova of 1987, i.e. SN1987A in LMC within 48 hours of the discovery. Observing this supernova in details using both 1-m and the 75 cm telescopes, despite its low elevation in the southern sky, proved the importance of the geographic location of Kavalur. Apart from these major achievements, front-line research is carried out at VBO in present days also, using different focal plane instrument facilities. Research at VBO focuses in observing and studying most of the areas of optical astronomy viz. solar system objects, stars, star clusters, galaxies, stellar explosions, blazars, optical imaging of gamma-ray burst fields, etc. Communication facilities via the VSAT satellite connection are available for every user for the telescopes.&lt;/p&gt;
-
-&lt;h1 id=&quot;vbo-and-me-a-personal-account&quot;&gt;VBO and me: a personal account&lt;/h1&gt;
-
-&lt;p&gt;A large number of Indian observational astronomers owe a lot to VBO. Many of the major projects leading to PhD by observational Indian astronomers have been carried out using data obtained from the VBT, or at least any one telescope facility from VBO. I am also one among those numerous researchers.&lt;/p&gt;
-
-&lt;p&gt;My official tie-up with VBO started since October, 2017. Being an MPhil scholar of astrophysics at the CHRIST (Deemed to be University), I started observing a carefully selected sample of classical Be (Be hereafter) stars using the historical 1-m telescope at VBO. It was a study where I, my supervisor and co-supervisor collaborated with IIA. Continuous monitoring of these stars was necessary for few years to study the disc formation and dissipation timescales in Be stars. I fell in love with the serene beauty, wonderful co-operative staff members of the campus from the very first days. And then started a never forgettable journey of my life. The same project became a part of my PhD thesis which I led as the Principal Investigator since February 2019.&lt;/p&gt;
-
-&lt;p&gt;Since 2017, we received over 150 nights of observation to obtain the spectra for our selected stars. A total of 61 nights I myself have stayed at VBO doing the observations, which would have definitely increased if COVID19 did not hit the world. I can truly say that these 61 nights of my life were among the best ones I have experienced. It was during my stay at Kavalur I was able to work for over 12 hours a day, in a calm and quiet place without any man-made disturbances. This was the place where I was able to complete a major portion of my analysis works related to MPhil.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image8.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 8: The 1-m telescope visible from the balcony of VBT at Kavalur observatory (credit: author)
-&lt;/p&gt;
-
-&lt;p&gt;Whole night of observations was a routine schedule when the only sound was originated from the chirpings of monkeys, and the murmurs of insects mixed with an un-describable drizzling sound of leaves of trees due to mild breeze. Morning arrived with excellent views of sunrise and amazing roars of innumerable birds. The days passed by mostly sleeping and taking care of my belongings from the anytime invaders – the monkeys. Occasional appearance of scorpions and snakes was also not something unusual.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image9.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 9: Morning arrives after a night’s observations using the 1-m telescope. The moon is still visible in the sky
-(credit: author)
-&lt;/p&gt;
-
-&lt;p&gt;However, the most beautiful periods of spending at VBO, I presume, is during the summers, especially April. Apart from clear skies, almost the entire campus becomes colorful with the arrival of flowers in the treetops. For me, working in such an environment was like a childhood dream come true, a dream which turned to love and then into passion ultimately setting my aim – to become an observational astronomer studying the stars. I do cherish these wonderful days spent in the midst of telescopes, jungles, warm people and serene nature while working for my MPhil and then PhD. As an astronomer in near future, I would definitely love to maintain my attachment with VBO, forever.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/vainu_bappu_telescope_town_gourav/image10.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 10: A colorful view of the VBO campus during summer time. VBT is  visible from the balcony of the 1-m telescope (credit: author)
-&lt;/p&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-
-&lt;p&gt;With the rapid development of technology, presently we are actually standing in a golden era of astronomy. Apart from the VBO, India currently possesses several world-class research institutes and observatories carrying high-classresearches in astronomy. One such observatory is the Indian astronomical Observatory (IAO) located in the remote village of Hanle, Ladakh in the Jammu &amp;amp; Kashmir district. Situated at a height of 4, 517 meters from the sea level, this place was found to be a world-class astronomical site for establishing a large optical telescope. IAO was started in 2001 and contains the 2-m (200-cm) aperture Himalayan Chandra Telescope (HCT), which was dedicated to the nation in August 2001. Like the VBO, IAO is also operated by IIA, Bangalore. The HCT facility can be operated from a remote control centre at Hoskote, around 35 km from Bangalore, making it one of the most powerful remote controlled telescope facility of the world. The HCT is being used to study several types of celestial objects and phenomenon including stellar spectroscopy, galactic and extra-galactic star forming regions, young stellar objects, star clusters, supernova, gamma-ray bursts, etc. During the past decade, different other facilities such as the 0.7-m wide field robotic telescope (under the GROWTH project), Himalayan Gamma Ray Array (HAGAR), imaging Cherenkov telescope (MACE) have come up due to the infrastructure developed by IIA at the IAO site. The site is also being characterized for another 10-m class telescope which is a future project.&lt;/p&gt;
-
-&lt;p&gt;Participation in international projects was also envisaged in the Astronomy and Astrophysics “Decadal Vision Document 2004” sponsored by the Indian Academy of Sciences and the Astronomical Society of India. Development and successful operation of ASTROSAT - India’s first astronomy satellite was a major achievement in the past decade. Moreover, India is now playing an active role in participating in different future world class megaprojects related to astronomy. India-TMT, LIGO-India, SKA (Square Kilometer Array) are some such highly ambitious projects, whereas Aditya L1, NLST, INSIST, Gaganyaan are some of the future space missions to study various objects and phenomenon of the universe. Plans to send future missions to the Moon and Mars are also under consideration. Hence, one can understand that India’s future in astronomy seems truly promising. Now, it is up to the intellect of motivated young Indians whether we will be able to exploit these facilities fully and hence, will be able to carry forward the astronomy tradition of India or not.&lt;/p&gt;
-
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;Becoming an Astronomer; Gourav Banerjee; Palmview Publishing; 2018&lt;/li&gt;
-  &lt;li&gt;Telescopes in India; Mohan Sundara Rajan; National Book Trust; 2009&lt;/li&gt;
-  &lt;li&gt;https://www.iiap.res.in/?q=history.htm&lt;/li&gt;
-  &lt;li&gt;“Kavalur comes of age”; The Times of India; January 20, 1986; Retrieved August 28, 2014.&lt;/li&gt;
-  &lt;li&gt;https://www.iiap.res.in/vbo.htm&lt;/li&gt;
-  &lt;li&gt;“Vainu Bappu Observatory”; Vellore District Website; Vellore District Administration; Government of Tamil Nadu; Archived from the original on February 22, 2015; Retrieved August 28, 2014.&lt;/li&gt;
-  &lt;li&gt;Carlson, R. W. et al., 1973; Science; 182: 53&lt;/li&gt;
-  &lt;li&gt;Bhattacharyya, J. C., Kuppuswamy, K., 1977, Nature, 267, 331&lt;/li&gt;
-  &lt;li&gt;Vasundhara, R. et al., “Possible Detection of a Ring System in Saturn’s Magnetosphere”. Nature; 1984; 312; 5995; pp. 621–623&lt;/li&gt;
-  &lt;li&gt;Rajamohan, R. et al.; “Discovery of asteroid number 4130”; Current Science; 1989; 58; 18; pg. 998&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Author’s Institution:&lt;/strong&gt; CHRIST (Deemed to be University), Bangalore&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Fri, 16 Dec 2022 00:00:00 +0530</pubDate>
-        <link>/vainu_bappu_telescope_town_gourav</link>
-        <guid isPermaLink="true">/vainu_bappu_telescope_town_gourav</guid>
-        
-        
-        <category>General articles (in any of the above categories)</category>
         
       </item>
     
