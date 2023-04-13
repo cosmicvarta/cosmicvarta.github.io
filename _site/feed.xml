@@ -5,9 +5,454 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Apr 2023 21:37:07 +0530</pubDate>
-    <lastBuildDate>Mon, 03 Apr 2023 21:37:07 +0530</lastBuildDate>
+    <pubDate>Thu, 13 Apr 2023 20:02:19 +0530</pubDate>
+    <lastBuildDate>Thu, 13 Apr 2023 20:02:19 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Why do some Active Galactic Nuclei Change their Look?</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;An active galactic nucleus (AGN) is powered by the matter accreting onto the central supermassive black hole (SMBH) at the centre of a galaxy. Changing look (CL) AGNs are those sources that show rapid change in the column density of the X-ray absorber. CLAGNs show a complex shape in their X-ray spectra. The physical mechanisms responsible for these variations are unclear to date. In this article, we took an attempt to explain the CL phenomena on AGN and their possible origin. For that, we studied the spectral properties of NGC 1365 using joint XMM-Newton and NuSTAR observations. We used JeTCAF model to fit the X-ray spectra of the source. We found that the variable absorption column density correlates with the mass accretion rate and the geometry of the corona. The derived wind velocity was sufficiently low compared to the escape velocity to drive the wind away from the disk for the epochs during which column densities were high. This suggests that the high and variable absorption can be due to failed winds from the disk. Our study construed that the changing accretion rate, which is a fundamental physical quantity and the geometry of the corona are driving the CL phenomena in NGC 1365. The physical picture of this work connects both variable continuum and variable absorbing medium scenarios. Moreover, from the spectral fitting of the joint data, we found the mass of the central black hole to be constant 4.38 ± 0.34−4.51 ± 0.29 × 10&lt;sup&gt;6&lt;/sup&gt; M&lt;sub&gt;sun&lt;/sub&gt; , in accord with the optical observations.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Beyond the visible stars that we see in the night sky, there is a hidden zoo of strange astronomical objects that are only visible as signals through high-tech telescopes in multiwavelengths from radio to gamma rays. Some are even Black Holes They are extremely dense, with such a strong gravitational attraction that not even light can escape their grasp. Therefore, black holes seem black! But the light which is coming from the accretion disk  makes them visible through different telescopes. Small black holes populate the universe, but their cousins, supermassive black holes, dominate. These enormous black holes are millions or maybe even billions of times as massive as the sun. Scientists aren’t certain how such large black holes spawn. Once these giants have formed, they gather mass from the dust and gas around them, material that is plentiful in the center of galaxies, allowing them to grow to even more enormous sizes. When such an active supermassive black hole is sitting at the center of a galaxy and illuminating the whole galaxy is called an active galactic nucleus or an AGN. They can launch energetic jets and winds and emit radiation in different wavelengths.  AGNs have an endless supply of fuel, allowing them to power the jets. The accretion of hot gas and dust from the host galaxy is one of the sources of such a seemingly unlimited fuel supply.&lt;/p&gt;
+
+&lt;p&gt;Not all AGNs appear similar to each other. They are classified depending on the presence or absence of jets, jet morphology, width of emission lines, luminosity, and the orientation in which these AGNs are viewed from the Earth. Depending on either the viewing angle or some intrinsic difference in structure, they can be classified into different spectral types. AGNs not only differ from one another but also change their flux and spectral type drastically in a timescale of hours to decades in both X-ray and optical/UV energy bands, which is why they are often called Changing Look AGNs. What makes them change their appearance has been the subject of much debate recently; however, two main processes are hypothesized to bring about this change: Changing Look due to obscuration and Changing Look due to change in state.&lt;/p&gt;
+
+&lt;p&gt;We often see stars twinkling on a moderately cloudy night. This twinkling behavior is observed due to the irregular movements of clouds in the atmosphere, which changes the amount of brightness seen in stars from time to time through time-dependent obscuration along the line of human sight. Changing obscuration AGNs also have a similar reason for changing their appearance. They show intense time-dependent variability of the line-of-sight intervening gas density/column density, primarily associated with clouds or outflows eclipsing the AGN. Change in the appearance of AGNs due to obscuration is observed mainly in the X-ray wavelength regime. Obscuration by neutral intervening gas can leave a clear imprint on the X-ray emission observed in AGN. At a high column density, obscuration becomes significant enough to suppress the primary continuum of X-rays and produce a secondary continuum through reflections within the gas. Such variations are typically observed in X-Rays as the region which makes these X-rays are small enough to be concealed by the neighboring gases.  Changes in gas densities that cause obscuration are driven by intrinsic AGN luminosity variations, which have an impact on the chemical state of the material. A higher AGN luminosity chemically modifies the obscuring material to become more transparent to X-rays and thereby allows a decrease in line-of-sight column density. Apart from neutral gas obscuration, absorbing gas usually associated with outflows can also strongly affect the X-ray spectrum and is routinely recorded by the detector.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/active_galactic_nuclei_change_look_santanu/image1.jpg&quot; width=&quot;500&quot; /&gt;
+  &lt;img src=&quot;../assets/images/active_galactic_nuclei_change_look_santanu/image2.jpg&quot; width=&quot;500&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: (upper panel) &lt;em&gt;Credit:&lt;/em&gt; Robert Gendler and The Hubble Legacy Archive, KPNO/NOIRLab/NSF/AURA-Total view of NGC 1365, (lower panel) Cartoon diagram of the model (JeTCAF; jet in two component advective flow model) used to fit the X-ray data. &lt;em&gt;Credit:&lt;/em&gt; arXiv:2107.13808. 
+&lt;/p&gt;
+
+&lt;p&gt;Changing look due to change in state in AGN may arise due to several processes. They are usually observed in the UV/Optical regime due to variability in the accretion phenomenon. In many cases, they can be separated from Changing Obscuration AGN, when a Change in the look of AGN happens in close succession to a change in some intrinsic property of black hole accretion. One such case is a failed wind scenario. Instabilities like thermal or magnetic instabilities can heat up the disk and cause variations in the disk surface temperature and density and thereby making chemical changes in the disk, which directly affects the X-ray radiation. Other events include tidal disruption events, where a star gets close to a black hole and gets torn apart by it. In the process, the debris of the dead star disrupts the gas in the accretion disk of the black hole, which in turn changes the accretion rate and significantly affects the disk along with the X-ray corona, which disappears after a point. Observations do see such effects in different wavebands.&lt;/p&gt;
+
+&lt;p&gt;In our study, we attempted to make a bridge between two main mechanisms, the intrinsic variability in the spectrum and the obscuration along the line of sight. For that purpose, we have analyzed a joint XMM-Newton and NuSTAR satellites’ data of the source NGC 1365 (shown in the left panel of Fig. 1). Here, we briefly explain the data analysis procedures and spectral fitting techniques.&lt;/p&gt;
+
+&lt;h1 id=&quot;data-analysis&quot;&gt;Data Analysis&lt;/h1&gt;
+
+&lt;p&gt;We used joint &lt;em&gt;XMM-Newton&lt;/em&gt; and &lt;em&gt;NuSTAR&lt;/em&gt; observations of NGC 1365 during 2012 and 2013.  To analyze the XMM-Newton data, we used the Science Analysis System (SAS) version 19.1.0 and followed the standard procedures given in the SAS data analysis threads. We first reprocessed the Observation Data Files (ODF) using the epproc routine to generate the calibrated and concatenated event lists. We filtered the concatenated event lists to remove the periods of high background activity. Furthermore, we extracted the source and background spectra using the evselect routine. We used a circular region with a radius of 32′′ for both the source and the background. We used rmfgen and arfgen tasks to generate the redistribution matrices (.rmf) and the ancillary (.arf) files. Finally, we rebinned the spectra using the task specgroup in order to have at least 25 counts in each bin.&lt;/p&gt;
+
+&lt;p&gt;The NuSTAR data were extracted using the standard NUSTARDAS version 1.3.12 software. We ran a nupipeline  task to produce cleaned event lists and nuproducts to generate the spectra. We used a region of 80′′ for the source and 100′′ for the background using ds9. The data were grouped by &lt;em&gt;grppha&lt;/em&gt; command, with a minimum of 30 counts in each bin. For the analysis of each epoch of observation, we used the data of both XMM-Newton and NuSTAR in the energy range of 0.5−75 keV. We used XSPEC version 12.11.0 for spectral analysis.&lt;/p&gt;
+
+&lt;h1 id=&quot;model-fitting&quot;&gt;Model Fitting&lt;/h1&gt;
+
+&lt;p&gt;Each epoch of observation was fitted using an accretion-ejection-based JeTCAF model (see Right panel of Fig. 1). This model requires six parameters (if the mass is considered as a free parameter), which are (i) the mass of the BH, (ii) the disc accretion rate, (iii) the halo accretion rate, (iv) the size of the dynamic corona or the location of the shock, (v) the shock compression ratio, and (vi) the ratio of the solid angle subtended by the outflow to the inflow. We directly run this model in NASA’s XSPEC software using &lt;em&gt;initpackage&lt;/em&gt; command. Initially, we need to give some guess values of the parameters, then the fitting using the iterative method tries to find the best-fit values by minimizing the chi-square. Along with JeTCAF, we used the two-component absorption model (z)TBABS (Wilms et al. 2000) for both host galaxy and our Galaxy contributions, keeping the Galactic hydrogen column density (NH) fixed to 1.3 × 10&lt;sup&gt;22&lt;/sup&gt; cm&lt;sup&gt;-2&lt;/sup&gt; . We used chi-square statistics for the goodness of the fitting. A representative fit using JeTCAF is shown in Figure 2. The model-fitted parameters show that NH along the line of sight decreases with mass accretion rate. Using this dependence and considering that the central radiation is illuminating the disk, therefore, the outflow is launching, we have estimated the mass outflow velocity, which is less than the escape velocity of the outflows. This suggests that the winds or outflows that cannot go away from the gravitational well of the BH are blocking the central radiation and may cause the changing look phenomena.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/active_galactic_nuclei_change_look_santanu/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: A representative best fit JeTCAF model spectrum of NGC 1365 in the 0.5-75 keV energy band. Different emission and absorption lines are clearly visible. A strong excess below 2 keV energy is also evidenced.
+&lt;/p&gt;
+
+&lt;p&gt;As an additional test, we used photoionization simulation using CLOUDY to predict absorption and emission line spectra for the modeled intrinsic spectral energy distribution in JeTCAF. The gas properties used in CLOUDY are taken from JeTCAF model fitting. The simulated spectra for all epochs are shown in Figure 3. The red and blue lines correspond to the ionization parameter (ξ) = 100 and 1000 erg cms&lt;sup&gt;-1&lt;/sup&gt;, respectively. The micro-turbulence of v&lt;sub&gt;turb&lt;/sub&gt;= 1000 km s&lt;sup&gt;-1&lt;/sup&gt; is used in the simulations for all epochs. The CLOUDY simulations show that absorption features are stronger for the low mass accretion state, where N&lt;sub&gt;H&lt;/sub&gt; is high.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/active_galactic_nuclei_change_look_santanu/image4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: CLOUDY simulation of all epochs depicting the emission and absorption features. For the simulation, we used an ionization parameter of 100 (red) and 1000 (blue) erg cm s&lt;sup&gt;-1&lt;/sup&gt;, motivated by the observational results. 
+&lt;/p&gt;
+
+&lt;h1 id=&quot;our-key-findings-are-as-follows&quot;&gt;Our key findings are as follows:&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;The accretion rates and the geometry of the dynamic corona changed significantly during the observation period.&lt;/li&gt;
+  &lt;li&gt;The maximum outflow rate estimated is ~12% of the inflow rate and confirmed the previous findings that the outflows are present in the system.&lt;/li&gt;
+  &lt;li&gt;The accretion-ejection model-fitted mass is placed within a range between 4.38 ± 0.34−4.51 ± 0.29 × 10&lt;sup&gt;6&lt;/sup&gt; M&lt;sub&gt;sun&lt;/sub&gt; and, remarkably, matches the optical observation.&lt;/li&gt;
+  &lt;li&gt;The outflow velocity is less than the escape velocity infers that the outflowing material could not go farther away from the gravitational potential of the black hole, which is called ‘failed wind’, that blocked the central radiation and caused the changing look phenomena.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In the future, the study of a sample of Changing Look AGN using high-resolution spectroscopy can provide a clearer picture of how this phenomenon is achieved.&lt;/p&gt;
+
+&lt;h1 id=&quot;acknowledgement&quot;&gt;Acknowledgement:&lt;/h1&gt;
+
+&lt;p&gt;I thank Ms. M. Mukherjee for helping with the write-up.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022A%26A...662A..77M/abstract&quot; target=&quot;_blank&quot;&gt; Variable mass accretion and failed wind explain changing look phenomena in active galactic nucleus NGC 1365&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Santanu Mondal&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Tek P. Adhikari, K. Hryniewicz, C. S. Stalin, A. Pandey&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; : Indian Institute of Astrophysics, Bangalore&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Thu, 13 Apr 2023 00:00:00 +0530</pubDate>
+        <link>/active_galactic_nuclei_change_look_santanu</link>
+        <guid isPermaLink="true">/active_galactic_nuclei_change_look_santanu</guid>
+        
+        <category>clagn</category>
+        
+        <category>blackholes</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
+    
+      <item>
+        <title>Solar cycle 25 is going to be a bit stronger than cycle 24!</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Forecasting the strength of the solar cycle is of the utmost importance because it affects space weather and our technology-based society. By a riveting feature of the solar cycles, i.e. Waldmeier effect (WE2), we find a linear relationship between the solar cycle rise rate and cycle amplitude. Also, the previous cycle’s poloidal field (PF) rise rate is physically related to the next cycle’s rise rate and amplitude. Using this physical connection, we predicted the strength of Solar Cycle 25 to be 137+/-23, which extends the temporal range of the solar cycle prediction to much earlier than what previous studies were able to do. Also, this prediction is very close to what we got by direct application of the Waldmeier effect (WE2). Currently, solar cycle 25 is in progress, which is following our forecast quite well.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;The Sun is our nearest star, which generates an incredible amount of energy in different forms like light and heat, charged particles, magnetic fields, gamma, and X- rays. The Sun’s dynamic magnetic field is responsible for energetic events like solar flares and coronal mass ejections (CMEs). The sunspots (Fig. 1), regions of strong magnetic fields on the solar surface, are also the result of the Sun’s dynamic magnetic field. The number of sunspots varies periodically in about a 11-year cycle. This cycle is popularly known as the solar cycle or the sunspot cycle. The strength of the solar magnetic field is strongly coupled with the activity level of the solar cycle. These events concertedly create weather in space (“space weather”), which affects the interplanetary medium and planetary atmosphere. Sometimes this space weather has hazardous impacts on our technology-dependent society. In a strong solar cycle, many more such energetic events are observed and thus have huge effects on the space weather. Space weather interferes with the Earth’s atmosphere and disrupts radio communications, power grids, and satellites. Thus, space weather is currently a vital issue and a novel field of exploration. The scientific community is actively trying to understand space weather phenomena and its impact on us. Therefore, the prediction of the dynamic solar cycle strength is of the utmost importance.&lt;/p&gt;
+
+&lt;p&gt;Most of us have seen the bulb turning on in the headlight of the bicycle at night. This bulb used to give more light when the paddles of the bicycle went fast and when the paddles stopped the bulb was extinguished, right? There was a small dynamo in the bicycle which used to produce current when the bicycle was moving. Inside the dynamo, a permanent magnet is rotated in the middle of some coils of wire. The rotating magnet produces a changing magnetic field and thus magnetic flux. By Faraday’s law, it gives an e.m.f. and generates current in the coils of wire. The top of the dynamo is touched against the rim of the bicycle which rotates when the bicycle is moving. Similarly, the solar dynamo is the action of different flows inside the sun and produces currents, and these currents give the dynamic magnetic field. The Sun has two types of magnetic fields, one is a toroidal field, and the other is a poloidal field (see Fig. 2). In 1955, Parker suggested that the sunspot cycle is produced by an oscillation between the poloidal and the toroidal magnetic fields, resulting in a 11-year periodic magnetic cycle. In this theory, the poloidal field gives a toroidal field and vice versa by the dynamo process.&lt;/p&gt;
+
+&lt;p&gt;Interestingly, this magnetic cycle follows a specific property i.e. the Waldmeier effect (WE). In 1935, Waldmeier showed that the rise time of the solar cycles is inversely proportional to the cycle’s amplitudes.&lt;/p&gt;
+
+&lt;p&gt;This effect is known as the Waldmeier effect (WE1). Also, a strong correlation was found between the rise rate and the amplitude of the cycle, and this is known as the Waldmeier effect (WE2). Further, the feature of the Waldmeier effect (WE2) enables us to establish a linear relationship between the rise rate of the cycle and the amplitude of the cycle. Motivated by this relationship, we analyzed the observational data of Sunspot number (SSN) and sunspot area (SSA) for the solar cycles.&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/solar_cycle25_stronger_cyle24_pawan/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1. Sunspots ( black dots ) on the surface of the sun. (Image credit: NASA/SDO) 
+&lt;/p&gt;
+
+&lt;p&gt;Using the data from the past 13 solar cycles, we found a strong linear correlation between the rise rate and the strength of the solar cycles. Thus, we can predict the solar Cycle 25’s amplitude by applying the linear fit between these two parameters. Using this method, we predicted the solar Cycle 25’s peak amplitude to be 138 +/- 26, even though it started just two years ago. We also expect this cycle to attain its peak around mid-2024. For checking the robustness and reliability of this method, we also predicted the amplitudes of a few past cycles, which agree quite well with the corresponding observations, as shown in Fig. 3.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/solar_cycle25_stronger_cyle24_pawan/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2. Sketches of the poloidal and toroidal field of the sun
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/solar_cycle25_stronger_cyle24_pawan/image3.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3. The plot shows the comparison of predicted amplitudes (using WE2) with observed solar cycle amplitudes. The blue curve shows the temporal variation of the observed sunspot number (SSN). Squares show the predicted amplitudes based on the WE2, and vertical lines their errors. The vertical dotted line and the horizontal arrow show the time of the predicted peak of Cycle 25 and the error in that time’s prediction respectively. Prediction of Cycle 25&apos;s amplitude using the rise rate of the previous cycle&apos;s poloidal field is shown by a &lt;i&gt;dark red-filled circle&lt;/i&gt;. 
+&lt;/p&gt;
+
+&lt;p&gt;Generally, the scientific community uses a highly robust physics-based method to predict the upcoming solar cycle strength at solar cycle minimum, called the polar precursor method. In this method, the amplitude of the poloidal field at the solar cycle minimum is taken as the seed to predict the amplitude of the next solar cycle. Motivated by this, we analyzed the poloidal field at cycle minima and the rise rate of the next cycle, and obtained a high linear correlation between them for both observational and model data. This strong correlation indicates that a strong poloidal field at cycle minima certainly makes the following cycle rise faster and it also becomes stronger complying with the Waldmeier effect (WE2).&lt;/p&gt;
+
+&lt;p&gt;Now, since we found that the polar field at cycle minima is strongly correlated with the rise rate of the cycle, therefore going one step backward in their evolution, we find a fascinating feature. This feature reveals that the rise rate of the poloidal field after polarity reversal (north pole to south pole or vice versa) is strongly correlated to the rise rate and amplitude of the next cycle (see Fig. 4). Moreover, we also found a strong correlation between the poloidal field build-up rate and the peak poloidal field. These features can be explained with the help of the solar dynamo process. Thus, these results suggest a physical link between the poloidal field build-up rate and the rise rate of the next cycle. Therefore, WE2 enables us to predict the amplitude of the next cycle from the rise rate of the poloidal field calculated from the data a few years after the polarity reversal of the previous cycle. By applying a linear fit between the poloidal field rise rate and amplitude of the next cycle for the data of previous cycles, we predicted the peak of cycle 25 will be around 137 +/- 23 This value is very close to the value we got directly from WE2.&lt;/p&gt;
+
+&lt;p&gt;Our work shows a strong physical connection between the polar field build-up rate and the amplitude of the next solar cycle. Further, it also shows the crucial physical link between the polar field rise rate and the Waldmeier effect (WE2), since our prediction of the peak amplitude of the current solar cycle based on WE2 (138 +/- 26) is very close to that based on the polar field rise rate (137 +/- 23). Thus, using our novel method allows us to make a reliable prediction of the amplitude of a solar cycle as early as about 9 years before it actually reaches its peak !&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/solar_cycle25_stronger_cyle24_pawan/image4.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 4. Scatter plots between the rise rate of the polar field with the rise rate of the next cycle and cycle amplitude. (a) and (b) are obtained from observational data (black and red colors are for the northern and southern hemispheres of the sun respectively), while (c) and (d) are for the dynamo model. ‘r’ denotes the extent of correlation between the values on the y-axis and values on the x-axis. 
+&lt;/p&gt;
+
+&lt;p&gt;Recently, solar Cycle 25 activity was in the news, and it has been observed that its activity has quickly ramped up. Even though the sun has not yet reached its peak activity level, it has already exceeded many predictions. Until now, the sun is following the same pattern we predicted based on the polar field rise rate. Thus, our technique will further increase the temporal range of prediction of the solar cycle strength and will also help to understand the dynamo process more physically.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://doi.org/10.1093/mnrasl/slac043&quot; target=&quot;_blank&quot;&gt; Physical link of the polar field buildup with the Waldmeier effect broadens the scope of early solar cycle prediction: Cycle 25 is likely to be slightly stronger than Cycle 24&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Pawan Kumar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Akash Biswas, Bidya Binay Karak&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Department of Physics, Indian Institute of Technology (Banaras Hindu University), Varanasi 221005, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+</description>
+        <pubDate>Wed, 12 Apr 2023 00:00:00 +0530</pubDate>
+        <link>/solar_cycle25_stronger_cyle24_pawan</link>
+        <guid isPermaLink="true">/solar_cycle25_stronger_cyle24_pawan</guid>
+        
+        <category>Solar cycle</category>
+        
+        <category>Sunspot</category>
+        
+        <category>Space weather</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
+    
+      <item>
+        <title>Nuclear Pasta in the crust of neutron star</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;The article discusses the structure of the neutron star crust. In the neutron star’s crust, exotic structures commonly known as “nuclear pasta” are believed to exist. The pasta structure impacts various structural, thermal and transport properties of the crust and therefore needs to be investigated. Using a simple nuclear model, the present article estimates the content of pasta structures in the crust and its implication on the neutron star properties.&lt;/p&gt;
+
+&lt;/blockquote&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Pictorial representation of the Crab Pulsar (PSR B0531+21) in the centre of the Crab Nebula (a remnant of the supernova SN 1054), which was discovered in 1968. Pulsars are rapidly spinning neutron stars with very strong magnetic fields which funnel jets of particles out along the two magnetic poles. The image combines optical data from Hubble (in red) and X-ray images from Chandra (in blue). Adopted from &lt;a href=&quot;https://science.nasa.gov/spinning-pulsar-crab-nebula&quot;&gt;NASA&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;In 1934, a few years after the discovery of the neutron,  astronomers Baade and Zwicky, in their pioneering work, coined the term “supernova” and hypothesised the existence of neutron stars. It took another 30 years for astronomers to discover the first neutron star in 1968. The discovery of the neutron star unfolded a new era of science with nuclear astrophysics as its main focus. A neutron star is formed from the collapsed core of a massive star that has undergone a supernova explosion. The massive stars, during their lifetime, ignite their core elements up to the Iron (Fe), after which fusion stops as it is the most stable element in the periodic table. This results in the gravitational collapse of the star due to the unavailability of the fuel to counter gravity, giving rise to the supernova explosion. During the supernova, the outer layers of the star are blown away while the core collapses in on itself, causing the protons and electrons in the core to combine and form neutrons. This creates a dense, compact object consisting almost entirely of neutrons compressed into a radius of only about 10 km.  The density of a typical neutron star material is 10&lt;sup&gt;14&lt;/sup&gt; times that of water.&lt;/p&gt;
+
+&lt;p&gt;In recent years, the origin, structure and dynamics of neutron stars have played a central role in multi-messenger and gravitational-wave astronomy. It has provided us with the opportunity to understand the behaviour of fundamental forces, especially strong and weak nuclear forces, in extreme environmental situations. In the last few decades, enormous efforts have been applied to understand the structure of the neutron star, which is limited by our understating of nuclear many-body force. However, with the available variety of data from various astrophysical observations, we can now better constrain the neutron star observables such as mass, radius, tidal deformity (how deformable neutron star is) etc., and the behaviour of the equation of state (EoS) over a wide density range.&lt;/p&gt;
+
+&lt;h1 id=&quot;structure-of-neutron-star&quot;&gt;Structure of Neutron Star&lt;/h1&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: Schematic diagram of a neutron star with its interior and surface. &lt;em&gt;Adopted from &lt;a href=&quot;https://www.nature.com/articles/nphys2663&quot;&gt;( Nature Physics  9, 396–397 (2013))&lt;/a&gt;&lt;/em&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The structure of a typical neutron star can be divided into three distinct parts below its thin atmosphere:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1. Outer crust:-&lt;/strong&gt; The ground state of the outer crust of a neutron star  can be described by  a body-centred cubic (BCC) lattice of atomic nuclei embedded in the sea of electrons, making it globally charge neutral. With increasing star depth, more and more neutron-rich nuclei appear until the onset of the inner crust, where neutrons start dripping (i.e. nuclei are unbounded with respect to the neutron emission). The BCC structure is preferred due to its smallest lattice energy as compared to the face-centred cubic (FCC) and simple cubic (SC) lattices.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;2. Inner Crust:-&lt;/strong&gt; The inner crust is marked by the assembly of the clusters formed by neutrons and protons along with the unbound dripped neutrons making the neutron gas. The dripped neutrons stay confined in the unit cell due to the large gravitational pressure. Such a system is so extreme that it is not possible to mimic it in any laboratory on earth. The system is made neutral by the electron gas, which is distributed uniformly over the cluster and neutron gas. At high densities, i.e., near the crust-core transition density, the system becomes “frustrated” as a result of competition between the nuclear and Coulomb interactions. The frustration leads to the system arranging itself into various exotic geometries (spheres/gnocchi, rods/spaghetti, slabs/lasagna, cylindrical voids/anti-spaghetti and spherical voids/anti-gnocchi) commonly known as “nuclear pasta.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;3. Core:-&lt;/strong&gt; As the density increases, the size of the cluster in the inner crust increases, and at a density called transition density, the inhomogeneities disappear, and we enter the liquid core of the star. The core is further divided into the outer and inner cores. While the outer core consists of an admixture of neutrons and protons along with the leptons ensuring charge neutrality and β–equilibrium (the chemical potential of neutron equals the chemical potential of proton and electron), the exact composition of the inner core is not yet fully understood. Various estimations in the form of Quark plasma, Kaon condensate, etc., have been formulated for the inner core in the past.&lt;/p&gt;
+
+&lt;p&gt;While the core of the neutron star predominantly determines the global properties of a neutron star, it is hidden behind a thin shell in the form of the crust. Therefore, to accurately determine the core structure and dynamics, it is crucial to understand the physics of the crust. It is not only relevant in the context of neutron star physics but acts as a highly sophisticated  laboratory to test nuclear theories and models.&lt;/p&gt;
+
+&lt;p&gt;Out of various structural aspects of the crust, the presence of pasta in the denser region of the inner crust has long been debated. Although there exists no direct and robust observational evidence of nuclear pasta, various tantalising observations indicate its existence. These observations include the information of magnetic field decay of neutron stars, corresponding spin evolution, quasi-periodic oscillations (QPOs) in soft gamma repeaters (SGRs) (astronomical object which emits large bursts of gamma-rays and X-rays at irregular intervals), quasi-periodic oscillations in giant flares etc. The amount of these pasta structures in the inner crust plays a pivotal role in the explanation of various neutron star properties.&lt;/p&gt;
+
+&lt;h1 id=&quot;results-and-discussions&quot;&gt;Results and Discussions&lt;/h1&gt;
+&lt;p&gt;To investigate the possible presence of the pasta structures in the inner crust of a neutron star, we use the &lt;em&gt;Compressible Liquid Drop Model(CLDM)&lt;/em&gt; in association with the &lt;em&gt;Effective Relativistic Mean Field(E-RMF)&lt;/em&gt; theory. CLDM is a modified version of the conventional liquid drop model, which is one of the oldest, most groundbreaking and simplistic formalisms to explain the binding energy of an atomic nucleus. It takes the motivation from molecular physics, where the behaviour of a classical liquid drop is found to be analogous with the behaviour of an atomic nucleus. This is due to the fact that the forces binding both a liquid drop (Van-der Waals force)  and a nucleus (residual strong force) are qualitatively similar. Therefore assuming the nucleus to be incompressible, the energy of a nucleus can be simply written in the form of its volume, surface and Coulomb energy. The CLDM modifies it for the case of neutron star crust and  takes into account the compressibility of nuclear matter, negative lattice Coulomb energy, and the suppression of surface tension by the surrounding neutron gas. Using the Wigner-Seitz(WS) approximation, the energy of the system in the inner crust of a neutron star can simply be written as&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure4.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p&gt;In the above equation, the surface, curvature and the coulomb energy correspond to the finite size correction to the bulk energy, i.e. the volume energy in case of liquid drop model. The bulk energy of nuclear matter and energy of the neutron gas is extracted from E-RMF formalism which is a state-of-the-art framework based on quantum chromodynamics (QCD), which is the fundamental theory of strong nuclear interaction. The QCD itself cannot be applied to explain the nuclear matter at low-density, which is one of its unresolved limitations.&lt;/p&gt;
+
+&lt;p&gt;The parameter sets of E-RMF theory are designed to satisfy various ground state properties of atomic nuclei, such as binding energy, charge, radius, as well as constraints derived from astrophysical and laboratory observations  of mass and radius of  neutron stars, and flow data from &lt;em&gt;Heavy-Ion Collisions(HIC)&lt;/em&gt;.&lt;/p&gt;
+
+&lt;p&gt;In our calculations, we use thirteen E-RMF sets, which satisfy the recent observational constraints on the maximum mass and radius of the neutron star. These sets differ in the bulk nuclear matter properties such as symmetry energy (characterises the variation of the binding energy as the neutron to proton ratio of a nuclear system is varied), incompressibility, the binding energy of infinite nuclear matter etc. These properties characterise a particular parameter set, and a large amount of research is undergoing to put stringent constraints on them. However, there are still uncertainties on their exact values, and therefore, the nuclear matter properties become model dependent. In this study, utilising various parameter sets gives us the flexibility to investigate these model dependencies on the existence of pasta structure in the inner crust of the neutron star.&lt;/p&gt;
+
+&lt;p&gt;Using the experience from molecular dynamics simulation, we consider five shapes of pasta structures, namely: spheres, rods, slabs, tubes and bubbles. At a given baryon density, energy minimization leads to the identification of the most favourable pasta structure. We see that the spheres occupy the shallower region of the inner crust and are subsequently accompanied by rods, slabs, tubes and bubbles. The number of unique pasta structures occurring in the inner crust of the neutron star depends essentially on the equation of state or the nuclear model considered. Out of various bulk matter properties, the symmetry energy governs the pasta content in the crust. An equation of state with larger symmetry energy in the subsaturation density  regions (⍴&amp;lt; 0.1 fm&lt;sup&gt;-3&lt;/sup&gt;) estimate a thicker crust with more unique pasta layers. The transition (transition from heterogeneous crust to the homogenous core) pressure and density also depend on the symmetry energy. These parameters are crucial inputs to calculate the crust profile of the neutron star. Accurate knowledge of these parameters, in association with the determination of symmetry energy from various Heavy Ion Collision  experiments, can give us the opportunity to understand nuclear interaction in more detail.&lt;/p&gt;
+
+&lt;p&gt;The typical thickness of the inner crust of a neutron star is approximately 1 km. We see that pasta layers constitute almost 50% of the crust mass and account for 20% of its thickness. These results are important as the pasta structure impacts various phenomena in the neutron star crust, such as its cooling, rotation, Quasiperiodic Oscillations (QPOs) etc. QPOs (related to the vibrations of the neutron star crust) provide us with much-needed information on the neutron star crust structure.  In our calculations, we found that the pasta structure significantly impacts the fundamental frequency mode of these oscillations. In addition, they also alter the shear response of the crust. The pasta structure does not affect the global properties of the neutron star, yet it profoundly impacts the microphysics of the crust.&lt;/p&gt;
+
+&lt;p&gt;The results of the present work need to be confirmed by future measurements of neutron star observables. Moreover, modern theoretical Bayesian analysis methods also serve as an aid in determining these results, and our results are in agreement with them.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://doi.org/10.1103/PhysRevD.106.023031&quot; target=&quot;_blank&quot;&gt; Pasta properties of the neutron star within effective relativistic mean-field model&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vishal Parmar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; H. C. Das, Ankit Kumar, Ankit Kumar, M. K. Sharma, P. Arumugam, and S. K. Patra&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Thapar Institute of Engineering and Technology, Patiala 147004, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Wed, 12 Apr 2023 00:00:00 +0530</pubDate>
+        <link>/nuclear_pasta_vishal</link>
+        <guid isPermaLink="true">/nuclear_pasta_vishal</guid>
+        
+        <category>Neutron star crust</category>
+        
+        <category>Pasta Structure</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
+    
+      <item>
+        <title>Imploding Cometary Clouds: An Astronomer&apos;s Perspective</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;The interstellar molecular clouds are the high-density regions between the stars having elements in the molecular phase. These clouds usually come up with different structures based on the influence of nearby massive ionizing stars. Also, these stars can either hinder or trigger the star formation in the molecular clouds. The ambient magnetic field towards these clouds also found to regulate the star formation and structural evolution. In our work we study the magnetic field structure (projected on the plane -of-sky) of a molecular cloud shaped as a comet in the Orion region of the sky. We found the evidence that the magnetic field is dragged away by the pressure of the nearby massive ionizing source and shaping the curvy structure of the cloud.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;The region in between the stars is called the interstellar medium which is mainly composed of clouds of gas and dust. In interstellar clouds, starlight cannot pass through the highly dense area, which is why hydrogen can preserve its molecular state (H&lt;sub&gt;2&lt;/sub&gt;). Also, other chemical elements, for example, carbon monoxide (CO), ammonia (NH&lt;sub&gt;3&lt;/sub&gt;), water (H&lt;sub&gt;2&lt;/sub&gt;O), etc. exist in the form of molecules. Therefore, high-density interstellar clouds are called molecular clouds. Typically, the molecular clouds have an average density of 100-300 molecules cm&lt;sup&gt;-3&lt;/sup&gt;. These molecular clouds are considered to be the potential sites of birth of young stellar objects (YSOs), through collapse under the influence of gravitational force, which tends to drive the cloud material inward towards the center of gravity.&lt;/p&gt;
+
+&lt;p&gt;Massive OB stars (Mass &amp;gt;= 8M&lt;sub&gt;sun&lt;/sub&gt;, with spectral types O and B) are considered to affect their surrounding molecular clouds significantly. The energetic photons emitted from these massive stars promptly ionize the immediate vicinities, resulting in a shock which eventually results in non-uniform cloud structures, such as Bright-Rimmed Clouds (BRCs), Cometary Globules (CGs), the Elephant’s Trunk Nebula, etc (examples are shown in Figure 1) based on their appearances. BRCs consist of a compact, dusty edge similar to a narrow, bright-rimmed head along with a faint elongated tail-like structure extending from the head, which is towards the side of the nearby massive OB stars. Many of the BRCs display more collimated structure, looking like a comet, which are named as CGs. Also, we can see elongated structures resembling an elephant’s head and trunk, which are designated as Elephant’s Trunk Nebula. Despite their structures, these clouds are invariably aligned with their long axes almost parallel to the direction of the ionizing sources, for example, nearby OB stars.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure1.png&quot; alt=&quot;figure1&quot; height=&quot;200&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure2.png&quot; alt=&quot;figure2&quot; height=&quot;200&quot; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;column&quot;&gt;
+    &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure3.jpg&quot; alt=&quot;figure3&quot; height=&quot;200&quot; /&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: (Left) Bright-rimmed cloud named SFO 18, &lt;em&gt;Credit: Jim Thommes&lt;/em&gt;, (Middle) Cometary globule named CG 12, &lt;em&gt;Credit: Sebastian Volmer&lt;/em&gt;, (Right) Elephant’s Trunck nebula named IC 1396A, &lt;em&gt;Credit: Spitzer space telescope&lt;/em&gt;. 
+&lt;/p&gt;
+
+&lt;p&gt;The shocks taking place in these cloud structures can trigger the star formation, by possibly compressing the inner dense cores and eventually tend to gravitational collapse. The evolution of these elongated molecular clouds and the star formation in them are found to be regulated by the orientation and strength of the ambient magnetic fields. An initially perpendicular magnetic field of weak and medium strengths is dragged and made to orient following the cloud structure during the dynamical evolution of the globule by the photoionizing radiation from the nearby ionizing source (see Figure 2). However, a strong perpendicular field remains in its initial alignment. Therefore, an investigation of the magnetic field geometry surrounding the molecular clouds is important to study the structures and the dynamics of the globules. Polarimetry (a tool to measure the polarization of the electromagnetic wave, e.g., starlight) is a great tool that is widely used to investigate the magnetic field structure projected on the plane-of-sky (B&lt;sub&gt;POS&lt;/sub&gt;) around the molecular clouds.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 2: Illustration of a photoevaporating magnetized molecular cloud. The purple lines are the magnetic field lines (with an orientation of ∼80&lt;sup&gt;◦&lt;/sup&gt; to the direction of ionizing photons). The molecular cloud is shown in green. The ionized gas is also presented in red. &lt;em&gt;Credit: &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2009MNRAS.398..157H/abstract&quot;&gt;Henney et al. (2009)&lt;/a&gt;&lt;/em&gt;. 
+&lt;/p&gt;
+
+&lt;h1 id=&quot;the-source-studied-in-this-work&quot;&gt;The source studied in this work&lt;/h1&gt;
+
+&lt;p&gt;We focused on a CG named L1616, that resides at an angular distance of about 8&lt;sup&gt;◦&lt;/sup&gt; west of the Orion OB1 associations, which is a group of massive OB stars at the Orion constellation. It shows evidence of ongoing star formation activity. An older population towards the north–eastern edge of the cloud (directed towards the Ori OB1 association) and a younger population towards the head region has been noticed, which means a trend of small-scale sequential star formation is present towards L1616. In Figure 3, we show the locations of L1616 and the nearby massive OB stars.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure5.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 3: Positions of the bright Orion stars near L1616 plotted over the Planck 10&lt;sup&gt;◦&lt;/sup&gt; × 12&lt;sup&gt;◦&lt;/sup&gt; 857 GHz image. Area of our study of L1616 is indicated by a red colored box of size 1.5&lt;sup&gt;◦&lt;/sup&gt; × 1.5&lt;sup&gt;◦&lt;/sup&gt;. The x and y axes show the right ascension (RA) and declination (Dec) of this region, respectively, which are used to mark the position of any object in the equitorial coordinate system. Details can be found &lt;a href=&quot;https://astronomy.swin.edu.au/cosmos/e/equatorial+coordinate+system&quot;&gt;here&lt;/a&gt;. &lt;em&gt;Image credit:&lt;a href=&quot;https://academic.oup.com/mnras/article/513/2/2039/6580586&quot;&gt; Saha et al. (2022)&lt;/a&gt;&lt;/em&gt;. 
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure6.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 4: The optical polarization vectors (yellow lines) plotted over the color-composite image using the Wide-field Infrared Survey Explorer (WISE) 3.5 (blue), 4.6 (green), and 12 (red) micron images of 1.5&lt;sup&gt;◦&lt;/sup&gt; × 1.5&lt;sup&gt;◦&lt;/sup&gt; size. The reference vector with 2% polarization is also shown. The x and y axes show the right ascension (RA) and declination (Dec) of this region, respectively. &lt;em&gt;Image credit: &lt;a href=&quot;https://academic.oup.com/mnras/article/513/2/2039/6580586&quot;&gt; Saha et al. (2022)&lt;/a&gt;&lt;/em&gt;. 
+&lt;/p&gt;
+
+&lt;h1 id=&quot;results-and-discussion&quot;&gt;Results and Discussion&lt;/h1&gt;
+&lt;p&gt;In order to study the B&lt;sub&gt;POS&lt;/sub&gt; towards L1616, we carried out optical polarimetric observations of this cloud using ARIES IMaging POLarimeter (AIMPOL) attached with 104 cm Sampurnanand Telescope, located at Aryabhatta Research Institute of observational sciencES (ARIES), India &lt;a href=&quot;https://www.aries.res.in/jeewan/Reprints/RautelaBS_2004_BASI_32_159.pdf&quot;&gt;(see this link for details)&lt;/a&gt;. In Figure 4, we show our optical polarimetric results. The orientation of the yellow polarization vectors indicates the angle of B&lt;sub&gt;POS&lt;/sub&gt; from the celestial north (the point about which all the stars in the northern hemisphere are seen to revolve). A curvature in the B&lt;sub&gt;POS&lt;/sub&gt; can be noticed in the head region of L1616. Also, the polarization vectors are found to show the trend of being twisted along the curvy tail. Overall, the B&lt;sub&gt;POS&lt;/sub&gt; is found to be more chaotic in the head region, which might be a result of the disintegration of cloud material by the energy input from the associated young stars. The presence of the massive OB stars can also impact the B&lt;sub&gt;POS&lt;/sub&gt;. From our results we conclude that possibly the ambient B&lt;sub&gt;POS&lt;/sub&gt; had an initial alignment perpendicular to the major axis of L1616. This alignment might be dragged away from the source of ionization following the structure of the globule, resulting in the twist of B&lt;sub&gt;POS&lt;/sub&gt; in the head area of the globule.&lt;/p&gt;
+
+&lt;p&gt;We have also made an attempt to investigate the pressure and the extent of the impact of the massive stars on L1616. The pressure exerted by epsilon Ori (the most massive star among the others in the Orion OB1 association) is estimated to be the highest, therefore epsilon Ori seems to be the main source to influence L1616. Also, the proper motion (motion of the objects projected on the sky plane) of the associated YSOs with respect to epsilon Ori shows evidence that most of them are moving away from the direction of epsilon Ori (main ionizing source). Based on the assumption that the motion of the YSOs follow the motion of the parental cloud, we can say that the cloud L1616 is currently being pushed away by the impact of epsilon Ori.&lt;/p&gt;
+
+&lt;p&gt;This work has been published in the Monthly Notices of the Royal Astronomical Society.&lt;/p&gt;
+
+&lt;h1 id=&quot;acknowledgments&quot;&gt;Acknowledgments&lt;/h1&gt;
+&lt;p&gt;The authors sincerely thank the reviewer, Dr. Davide Gandolfi, for his constructive remarks which significantly improved the manuscript. The authors acknowledge all the supporting staff at ARIES, Nainital, who made the polarimetric observations possible. The authors also thank the CosmicVarta team for showing interest in this work and invitation to write about it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://academic.oup.com/mnras/article/513/2/2039/6580586&quot; target=&quot;_blank&quot;&gt; Magnetic fields and young stellar objects in cometary cloud L1616&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Piyali Saha&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Archana Soam, Tapas Baug, Maheswar Gopinathan, Soumen Mondal and Tuhin Ghosh&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Satyendra Nath Bose National Centre for Basic Sciences (SNBNCBS), Salt Lake, Kolkata 700 106, India (former)
+National Astronomical Observatory of Japan (NAOJ), Mitaka, Tokyo 181 8588, Japan (current)&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Wed, 12 Apr 2023 00:00:00 +0530</pubDate>
+        <link>/imploding_cometary_clouds_piyali</link>
+        <guid isPermaLink="true">/imploding_cometary_clouds_piyali</guid>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>Can missing physics in gravitational waveforms mimic false violations of general relativity?</title>
@@ -849,391 +1294,6 @@ Outreach session and demonstrations at Longview school
         
         
         <category>Science Outreach</category>
-        
-      </item>
-    
-      <item>
-        <title>Astronomers find cold atomic gas playing peek-a-boo around a powerful quasar</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;The interaction of radio jets with gas associated with the host galaxy could play an important role in determining their morphology.  Such interactions may be more prevalent at high redshifts, when these powerful AGN are still the assembly sites of giant galaxies.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image1.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Fig. 1 The canonical model of AGN (&lt;a href=&quot;https://imagine.gsfc.nasa.gov/science/objects/active_galaxies1.html&quot; target=&quot;_blank&quot;&gt;Credit: Aurore Simonnet, Sonoma State University&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;The active galactic nuclei (AGN) are among the most luminous sources in the Universe. Their energy output is fuelled by the supply of gas to the central engine, i.e., a supermassive black hole (SMBH) through an accretion disk (see Fig. 1).  The detection of Lyman-alpha emission from neutral hydrogen (HI) has established that the powerful AGN at high redshift are embedded in huge (10 - 100 kpc) gaseous halos of diffuse atomic gas.  The observations of absorption lines detected in the spectra of AGN can provide crucial insights into the processes through which gas at large scales can be transported to the circumnuclear disk to fuel the central engine.&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://ui.adsabs.harvard.edu/link_gateway/2022ApJ...927L..24G/doi:10.3847/2041-8213/ac589f&quot; target=&quot;_blank&quot;&gt;Gupta et al.(2022, ApJL, 927, L24)&lt;/a&gt; recently used the Robert Stobie Spectrograph (RSS) on &lt;a href=&quot;https://www.salt.ac.za/&quot; target=&quot;_blank&quot;&gt;the Southern African Large Telescope (SALT)&lt;/a&gt; in South Africa and &lt;a href=&quot;https://science.nrao.edu/facilities/vlba/introduction-to-vlba&quot; target=&quot;_blank&quot;&gt;the Very Long Baseline Array (VLBA)&lt;/a&gt;  in the USA to discover a curious case of high HI column density absorber that exhibits strong HI 21-cm absorption at radio wavelengths but is absent at optical wavelength! SALT is the largest single optical telescope in the southern hemisphere whereas VLBA is a radio interferometer  consisting of 10 identical antennas, separated by distances from 200 km to transcontinental 8600 km.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image2.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Fig. 2 HI 21-cm absorption line associated with the powerful AGN M1540-1453.  Note that the HI 21-cm line (rest frequency of 1420.405752 MHz) is redshifted to ~456.2 MHz.
-&lt;/p&gt;
-
-&lt;p&gt;The large reservoir of cold HI gas associated with the quasar M1540-1453 at the redshift of z = 2.104 was discovered using &lt;a href=&quot;http://www.gmrt.ncra.tifr.res.in/&quot; target=&quot;_blank&quot;&gt;the upgraded Giant Metrewave Radio Telescope (uGMRT)&lt;/a&gt;  in India.  The corresponding HI 21-cm absorption profile is shown in Fig. 2.  It doesn’t exhibit any unusual features except that such absorbers have been difficult to find at high redshifts and only four are known at z &amp;gt; 2.  To understand the origin of detected cold gas, Gupta et al. observed M1540-1453 with SALT to detect the strong Lyman-alpha (Lyα) absorption corresponding to the gas detected with uGMRT.  But to their surprise, no such absorption was detected in the optical spectrum (see Fig. 3).   Also, in comparison to typical quasars, the Lyα emission line associated with the AGN is much narrower.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image3.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Fig. 3 SALT spectrum of M1540-1453.  Note the absence of strong HI Lyman alpha absorption.  The blue curve represents the absorption profile expected on the basis of absorption detected in the uGMRT spectrum at radio wavelengths.
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image4.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Fig. 4 VLBA image revealing the diffuse radio morphology of M1540-1453.
-&lt;/p&gt;
-
-&lt;p&gt;In comparison to optical, in general the radio emission associated with AGN is much more spatially extended. This difference can be used to explain such ambiguities in the radio and optical spectra. To dissect this further and understand the &lt;em&gt;ghostly&lt;/em&gt; nature of this HI absorber, Gupta et al. observed M1540-1453 with VLBA.  Usually, one expects radio emission associated with such powerful AGN to exhibit well collimated radio jets and lobes (see Fig. 1). However, the milliarcsecond-scale resolution observation of M1540-1453 shows a diffuse morphology (Fig. 4), which implies that the gas in front of it, which is producing absorption, is also not a few localized gas clumps, but rather forms a clumpy shell or halo which could be as large as 10 kpc (see Fig. 5). It is conjectured that this HI shell represents infalling gas clouds that may have been blown by the interaction between radio jets and the host galaxy medium.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/cold_atomic_gas_powerful_quasar_neeraj/image5.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Fig. 5: Cartoon depicting a quadrant of M1540–1453 embedded in a clumpy ISM. The quasar’s optical sight line (dashed line) may not intercept infalling HI clouds. In comparison, extended radio emission (&amp;gt; 425 pc) from the lobes will be intercepted by several such clouds, producing the broad redshifted HI 21 cm absorption line. The extent of the HI halo and radio emission could be as large as 10 kpc.  
-&lt;/p&gt;
-
-&lt;p&gt;The quasar M1540-1453 was discovered through an ambitious spectroscopic survey using SALT (180 hrs) and the Nordic Optical Telescopes (6 nights) to build a purely infrared-selected sample of radio-loud quasars (RLQs) at z &amp;gt; 1.5 and define the footprint of &lt;a href=&quot;https://mals.iucaa.in/&quot; target=&quot;_blank&quot;&gt;the MeerKAT Absorption Line Survey&lt;/a&gt;  (MALS; PI: N. Gupta).  MALS is one of &lt;a href=&quot;https://www.ska.ac.za/science-engineering/meerkat/observers/observing-programme/large-survey-projects/&quot; target=&quot;_blank&quot;&gt;the ten large surveys&lt;/a&gt; being carried out with &lt;a href=&quot;https://www.ska.ac.za/science-engineering/meerkat/&quot; target=&quot;_blank&quot;&gt; the MeerKAT radio telescope&lt;/a&gt; in South Africa. In the coming years, MALS is expected to detect several such absorbers that may have escaped detection at other wavelengths, and address various fundamental issues related to AGN.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://doi.org/10.3847/2041-8213/ac589f&quot; target=&quot;_blank&quot;&gt; H I Gas Playing Hide-and-seek around a Powerful FRI-type Quasar at z ∼ 2.1&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Neeraj Gupta&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; R. Srianand, E. Momjian, G. Shukla, F. Combes, J.-K. Krogager, P. Noterdaeme, and P. Petitjean&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Inter-University Centre for Astronomy and Astrophysics (IUCAA), Pune, India.&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Tue, 24 Jan 2023 00:00:00 +0530</pubDate>
-        <link>/cold_atomic_gas_powerful_quasar_neeraj</link>
-        <guid isPermaLink="true">/cold_atomic_gas_powerful_quasar_neeraj</guid>
-        
-        <category>Active galactic nuclei; Radio loud quasars; Radio jets; Quasar absorption line spectroscopy</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>A comparison of the properties of Narrow Line and the Broad Line Seyfert galaxies</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;AGNs are very luminous objects at the centre of active galaxies. The inner regions of these galaxies can not be resolved directly, yet the understanding of these regions can be achieved by employing indirect methods. In this study, we employed a statistical approach to understand a very peculiar class of AGN with respect to the general AGN population- the Narrow Line Seyfert galaxies, and have found out that emission line region outflows exist in the innermost regions of these AGN which adds another peculiarity to their behaviour.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Recent discoveries have pointed out that a supermassive black hole (SMBH) exists in the centre of the galaxies, with mass ranging from a million to a billion solar masses. This central black hole accretes matter at a very high rate. In turn, an accretion disk is formed and it radiates a luminosity ranging from a billion to a trillion times the luminosity of the Sun!&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FPF1X13wbDI&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-This animation is an artistic impression of the inner regions of an active galaxy. The animation starts with the optical image of 3C273, a very well-known quasar, and zooms in up to the sub-parsec scale, where the clumps of gas known as the Broad Line Region (BLR) clouds exist embedded beneath a torus of dust. (Video Courtesy: ESO YouTube channel)
-&lt;/p&gt;
-
-&lt;p&gt;These kinds of galaxies are called active galaxies, or more popularly these objects are called Quasars. Quasars were discovered to be very luminous extragalactic objects only in 1963, through the work of Martin Schmidt. In research, various names: Active galactic Nuclei (AGN), Quasars, Blazar, Seyferts, etc. are known (see this for detailed information about the Quasars). Commonly, people use AGN as a generic term, while Quasar is used for AGNs having higher luminosities (&amp;gt; 1e44 ergs/sec). Seyferts are the AGN that are a little less luminous than Quasars. Type-1 AGN are the ones where the observer is able to view the innermost regions comprising the accretion disk and the BLR without any obscuration, while in the Type-2 AGN, the dusty torus obscures the innermost regions. 
-Among the type 1 Seyferts, a peculiar class of galaxies known as the Narrow line Seyfert 1 galaxies is known to exist. These are young AGN, with very high accretion rates. The study of these objects provides clues to the understanding of the formation and growth of AGNs.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image1.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-The Unified Model for AGN accounts for various properties observed in AGN. This simple model differentiates between the various classes based on the orientation with respect to the observer. (&lt;a href=&quot;https://fermi.gsfc.nasa.gov/science/eteu/agn/&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;In this work, we have studied the properties of these NLSy1 galaxies as compared to the general type-1 AGN which we term Broad-line Seyfert galaxies (BLSy1) galaxies. We achieved this by collecting optical spectra for a sample of about 260 galaxies. We searched for the spectra in the publicly available SDSS database. SDSS provides information for hundreds and thousands of such objects on their server. We assembled a set of 144 NLSy1 and 117 BLSy1 galaxies which are in a similar luminosity and redshift range.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image2.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-The multiple-component spectral decomposition was applied to fit one of the sources in this study.(&lt;a href=&quot;https://arxiv.org/abs/2112.09150&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;After fitting the spectra by employing a multi-component spectral decomposition technique, we studied a set of 11 physical parameters to compare these two populations. It is very important to know that the exact relation of the NLSy1 galaxies with the BLSy1 galaxies remains unknown for the general AGN population.&lt;/p&gt;
-
-&lt;p&gt;We characterized the population of these galaxies based on the asymmetry observed in a very prominent emission line: the H-beta emission line. In our sample, we found out the NLSy1 galaxies are 3 times more likely to show emission line asymmetries as compared to the BLSy1 galaxies population. This result is very important in our understanding of the difference between these two populations. Note that the emission lines are generated in the Broad-line Region (BLR) of these AGNs, and this region cannot be resolved by any observation technique at present. Thus, we are reliant on indirect tools to infer the dynamics of matter in these regions. In this regard, emission line asymmetries encode information about the dynamics of matter at the location from where they are emitted and thus it becomes necessary to characterize. The outflows may also be due to the winds arising from the accretion disk in these AGNs, which influences our understanding and further modelling of the AGN accretion disks.&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image3.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-A cluster map showing the correlations between 11 parameters.  (&lt;a href=&quot;https://arxiv.org/abs/2112.09150&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;) 
-&lt;/p&gt;
-&lt;p&gt;We calculated the Spearman rank correlation coefficients among the parameters. We found that the accretion rate characterized by the Eddington Ratio is anti-correlated with the FWHM of the H-beta emission line which means the AGNs which are accreting at a faster rate, will have narrower emission profiles.&lt;/p&gt;
-
-&lt;p&gt;Further, we ran a Principal component analysis (PCA) on the data to understand the parameters deriving the correlations and anti-correlations. Basically, PCA reduces the dimensions of the dataset in the sense that what we were able to derive based on 11 physical parameters, we could do with fewer principal components. This helps us understand the underlying correlations among the fewer parameters. Based on the results from the PCA, we find out that the Eigenvectors 1 and 2 of the PCA are a bit different for both populations. What can be the possible reason behind this?&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/narrow_broad_seyfert_galaxies_vivek/image4.jpg&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-The main sequence of quasars obtained from the recent studies. (&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fspas.2018.00006/full&quot; target=&quot;_blank&quot;&gt;Image courtesy&lt;/a&gt;) 
-&lt;/p&gt;
-
-&lt;p&gt;Importantly, based on an ensemble study of around 500,000 AGN, &lt;a href=&quot;https://www.nature.com/articles/nature13712&quot; target=&quot;_blank&quot;&gt;Shen et al. 2014&lt;/a&gt;  reported the same Eigenvector correlation as has been observed in this study. This is significant because it points out that AGN located in different redshifts and luminosity bins show similar properties which can be arranged to form a sort of main sequence. The main sequence is a very neat way to arrange the population of stars based on the luminosities and their age. A similar main sequence for the AGN has been proposed based on this correlation.
-Are the Eigenvectors telling a different story? We don’t know yet. However, we can safely say that the NLSy1 galaxies form the extreme end of the AGN population with very high accretion rates and low SMBH masses. The discovery of significant emission line asymmetries in the NLSy1 galaxies means that outflowing gas is indeed present in the line emitting regions. Similar studies covering a larger population will be very helpful in our understanding of the peculiarity of these AGNs.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.510.4379J/abstract&quot; target=&quot;_blank&quot;&gt;A comparative study of the physical properties for a representative sample of Narrow and Broad-line Seyfert galaxies&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vivek Kumar Jha&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Hum Chand, Vineet Ojha, Amitesh Omar, Shantanu Rastogi&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Aryabhatta Research Institute of observational sciencES (ARIES), Nainital, 263002; India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Fri, 13 Jan 2023 00:00:00 +0530</pubDate>
-        <link>/narrow_broad_seyfert_galaxies_vivek</link>
-        <guid isPermaLink="true">/narrow_broad_seyfert_galaxies_vivek</guid>
-        
-        <category>AGNs</category>
-        
-        <category>Blackhole</category>
-        
-        <category>Galaxies</category>
-        
-        
-        <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>3.6m DOT discovered unexpected kilonova emission from a long-duration gamma-ray burst</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;Gamma-ray bursts (GRBs) are flashes of high-energy radiation arising from energetic cosmic explosions. Bursts of long (greater than two seconds) duration are produced by the core-collapse of massive stars, and those of short (less than two seconds) duration by the merger of compact objects, such as two neutron stars. A third class of events with hybrid high-energy properties was identified, but never conclusively linked to a stellar progenitor. The lack of bright supernovae rules out typical core-collapse explosions, but their distance scales prevent sensitive searches for direct signatures of a progenitor system. Only tentative evidence for a kilonova has been presented. Here we report observations of the exceptionally bright GRB 211211A, which classify it as a hybrid event and constrain its distance scale to only 346 megaparsecs. Our measurements indicate that its lower-energy (from ultraviolet to near-infrared) counterpart is powered by a luminous kilonova possibly formed in the ejecta of a compact object merger. To study the aftermath of this long GRB, we used several telescopes in space and on Earth, in which the 3.6 m Devasthal Optical Telescope of the Aryabhatta Research Institute of Observational Sciences (ARIES) played a significant role.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Some massive stars die as the brightest and most explosive astrophysical sources in the universe, known as gamma-ray bursts (GRBs). GRBs are powerful astronomical bursts of high-energy gamma-ray radiation and are one of the most interesting and scientifically fulfilling phenomena studied in modern astronomy. GRB events have two distinct emission phases: one is the short-lived prompt emission (the initial burst phase, that emits gamma-rays), followed by a long-lived multiwavelength afterglow phase.&lt;/p&gt;
-
-&lt;p&gt;For the past few decades, based on the observed time scale of prompt emission, astronomers have generally divided GRBs into two categories: long and short-duration GRBs, respectively. Long GRBs typically emit gamma rays for two seconds or more. They are associated with the death of very massive stars and are sometimes associated with supernovae. On the other hand, Short GRBs emit gamma rays for short periods of less than two seconds. This class of GRBs is formed when pairs of very dense celestial bodies (compact) - such as neutron stars or black holes - merge with each other, rotating in a spiral form over a period of billions of years. They also generate gravitational waves. In recent years, scientists have discovered a special phenomenon called a kilonova of visible and infrared light with short-period GRBs. According to a possible scientific hypothesis, the heat produced by the radioactive decay of heavier elements may emit kilonova. This process, known in physics as the r and s process, also produces heavier elements such as gold and platinum. However, observing kilonovas at near-infrared wavelengths is technically challenging, and only a few telescopes on Earth have been useful. The 3.6-meter Devasthal Optical Telescope (see Figure 1) of the Aryabhatta Research Institute of Observational Sciences (ARIES), is one such telescope that is  sensitive enough to detect kilonova and optical/near-IR counterparts of gravitational wave objects at these wavelengths up to faint limits.&lt;/p&gt;
-
-&lt;p&gt;On December 11, 2021, NASA’s Neil Gehrels Swift Observatory and the Fermi Gamma-ray Space Telescope detected a burst of high-energy light (GRB 211211A) from the outskirts of the Milky Way located approximately 1 billion light-years away. To study the aftermath of this long GRB, astronomers used several telescopes in space and on Earth, in which the 3.6 m Devasthal Optical Telescope of the Aryabhatta Research Institute of Observational Sciences (ARIES) played a very important role (see Figure 2). The spectral energy distribution of GRB afterglow is usually explained in terms of non-thermal emission (due to synchrotron radiation). However, in this event, both thermal and non-thermal emissions are included in the spectral energy distribution of the afterglow, modeled using the magnificent and dim observations of the 3.6 m Devasthal Optical Telescope. After subtracting the afterglow contribution from the collected data taken using the 3.6 m telescope and 4Kx4K CCD IMAGER, the scientists found that the multiwavelength data could be well explained by additional thermal spectra and that this thermal emission could be explained in terms of kilonova emission. &lt;strong&gt;This is the first astronomical event in which a long GRB has been accompanied by the unexpected discovery of a kilonova emission&lt;/strong&gt;, and  has shaken the understanding of scientists. In this event, the high-energy outburst lasted about a minute, and follow-up observations taken from the 3.6-meter Devasthal Optical Telescope identified a kilonova. Observations by the 3.6 m Devasthal Optical Telescope have provided information on the earliest phase of a kilonova ever detected. In addition to the first data taken by the 3.6-meter telescope, this scientific discovery, published in the journal &lt;strong&gt;Nature&lt;/strong&gt;, also used Hubble Space Telescope, Multicolor Imaging Telescopes for Survey and Monstrous Explosions, Calar Alto Observatory, Devasthal Fast Optical Telescope, and many other space and ground-based telescopes. This discovery will help in understanding the process of the formation of heavy elements in the universe.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/dot_kilonova_emission_grb_rahul/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: 3.6m Devasthal Optical Telescope installed at Devasthal Observatory of  Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital. 
-&lt;/p&gt;
-
-&lt;p&gt;“Several years ago, Neil Gehrels, an astrophysicist, and namesake of Swift suggested that some long-duration GRBs may be produced by merging neutron stars,” said Eleonora Troja, an astrophysicist at the University of Rome who led the team on the study. By GRB standards, this event was relatively nearby, allowing space and ground-based telescopes to capture the dim light of the kilonova. Kilonovae may also arise from more distant long GRBs, but we have not yet been able to see them through observations. PI of the 4Kx4K CCD IMAGER mounted on ARIES’ 3.6-meter telescope, senior Scientist Dr. Shashi Bhushan Pandey, along with research students Rahul Gupta, Amar Aryan, Amit Kumar, and Senior Scientist Kuntal Mishra, contributed significantly to the discovery of this milestone event published in the journal Nature on 07-12-2022 at 16:00 (London time). Dr. Shashi Bhushan Pandey and the team of Indian scientists involved in this work said that this discovery challenges our current understanding of the origin of GRBs and gives rise to new possibilities in this thrust area of research. Professor Dipankar Banerjee, director of ARIES, pointed out that future time-domain astronomy has a unique potential to make a lot of such discoveries using the 3.6m Devasthal optical telescope.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/dot_kilonova_emission_grb_rahul/image2.gif&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: The temporal evolution of optical emission (in R band) from GRB 211211A based on DOT data. The scientists from the ARIES, an autonomous institute of DST, used data from 3.6m DOT, in studying the aftermath of the long GRB (GRB 211211A), detected by NASA&apos;s Neil Gehrels Swift Observatory and the Fermi Gamma-ray Space Telescope on December 11, 2021. The high-energy outburst lasted about a minute, and follow-up observations taken from the 3.6-meter Devasthal Optical Telescope identified a kilonova. 
-&lt;/p&gt;
-
-&lt;p&gt;This discovery opens new questions regarding the origin and classification of GRBs. These sources’ unique gravitational wave signatures could be the key to unraveling the mystery. The gravitational wave detectors such as LIGO, Virgo, and KAGRA did not detect GRB 211211A, as these detectors were offline for advancements. Suppose  gravitational wave detectors can see a long-duration GRB after they begin operating again in 2023. In that case, the combination of gravitational wave and electromagnetic data may solve the mystery of this newly discovered event.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://www.nature.com/articles/s41586-022-05327-3&quot; target=&quot;_blank&quot;&gt;A nearby long gamma-ray burst from a merger of compact objects&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; E. Troja&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; C. L. Fryer, B. O’Connor, G. Ryan, S. Dichiara, A. Kumar, N. Ito, R. Gupta, R. Wollaeger, J. P. Norris, N. Kawai, N. Butler, A. Aryan, K. Misra, R. Hosokawa, K. L. Murata, M. Niwano, S. B. Pandey, A. Kutyrev, H. J. van Eerten, E. A. Chase, Y.-D. Hu, M. D. Caballero-Garcia, A. J. Castro-Tirado&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt;&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Department of Physics, University of Rome “Tor Vergata”, Rome, Italy&lt;/li&gt;
-  &lt;li&gt;School of Earth and Space Exploration, Arizona State University, Tempe, AZ, USA&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Thu, 12 Jan 2023 00:00:00 +0530</pubDate>
-        <link>/dot_kilonova_emission_grb_rahul</link>
-        <guid isPermaLink="true">/dot_kilonova_emission_grb_rahul</guid>
-        
-        
-        <category>High Energy Astrophysical Phenomena</category>
-        
-      </item>
-    
-      <item>
-        <title>Fantastic beasts and where to find them: the elusive nature of X-ray quiet black holes</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;With the gravitational wave observations capturing the coalescence of compact objects, hunting for black holes has taken quite a front-row seat in astronomical observations. Here, we discuss two such detection of black holes in orbit with a main sequence companion, and why it is very difficult to find them in the forest of massive stars.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;Massive stars are objects that are more massive than eight times the mass of our Sun (M⊙). They play an essential role in the evolution of our Universe. They enrich the void between stars with matter via strong winds and provide mechanical feedback. However, many aspects of massive star evolution are still unconstrained, such as their wind mass-loss rates, the mixing efficiency inside their surface, and their death.&lt;/p&gt;
-
-&lt;p&gt;Massive stars that are heavier than ~20 M⊙ are thought to collapse directly to form black holes. Expectantly, there are many uncertainties such as the mass range for black hole formation, the natal kick imparted during the black hole formation due to asymmetric collapse,
-and the spin of the resultant black hole. The gravitational wave detectors have already observed ~90 compact object merger events involving black holes and neutron stars. However, more than a million black holes are predicted to be present in our Galaxy itself, waiting to be discovered. So, observationally detecting a large sample of black holes can shed necessary light on their formation properties and their subsequent evolution.&lt;/p&gt;
-
-&lt;p&gt;Empirically, massive stars have been observed to exist in binaries and higher order multiples, with about three out of every 100 massive star binary above 10M⊙ expected to harbour a black hole as its companion. However, a large fraction of these binaries that will eventually form double compact object binaries will not merge within the current age of our Universe. Hence, they will remain unobservable in the current gravitational wave surveys. Nevertheless, progress can be made to discover these black holes while they are in orbit with a massive star companion, where they are detectable via alternative methods. This is possible, for example, by measuring the X-ray emission from the accretion disk of the black hole, the radial velocity variations in the spectral lines&lt;sup id=&quot;fnref:1&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; of the massive main sequence companion, and through periodic astrometric variations&lt;sup id=&quot;fnref:2&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:2&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; or photometric variability&lt;sup id=&quot;fnref:3&quot; role=&quot;doc-noteref&quot;&gt;&lt;a href=&quot;#fn:3&quot; class=&quot;footnote&quot; rel=&quot;footnote&quot;&gt;3&lt;/a&gt;&lt;/sup&gt; of the massive star companion induced by the black hole.&lt;/p&gt;
-
-&lt;h1 id=&quot;results&quot;&gt;Results&lt;/h1&gt;
-
-&lt;p&gt;Black holes in binaries are thought to form from the collapse of massive Wolf-Rayet stars, which are very hot and bright stars that show emission lines in their spectrum. Now, there are many observed Wolf-Rayet+O star binaries in our Galaxy (~80) compared to observed black hole+O star binaries (only one, Cyg X-1). To resolve this disparity, it was recently suggested that black holes receive a significant natal kick when the Wolf-Rayet stars collapse to form a black hole, disrupting the binary.&lt;/p&gt;
-
-&lt;p&gt;Since black holes do not emit any light of their own, we need to rely on the indirect ways discussed above to observe a black hole. The most common method has been to detect X-rays from the accretion disk around the black hole in a binary with the O star companion. Some of the wind matter from the companion gets attracted by the gravity of the black hole, and if that matter falling into it has enough angular momentum, it can form a disk before being engulfed by the black hole. The matter then swirls around the black hole multiple times, gets heated up to millions of degrees, and gets hot enough to emit X-rays. Bondi, Hoyle and Lyttleton did pioneering work in this field in the 1940s.&lt;/p&gt;
-
-&lt;p&gt;However, we find that such wind accretion in our black hole+O star binary models is not expected to lead to observable X-ray emission. Only in exceptionally favourable cases, such as high angular momentum accretion efficiency and low wind velocities, can an accretion disk form, leading to observable X-ray emission. Moreover, the formation of an accretion disk is also biased towards binaries containing rapidly spinning black holes.&lt;/p&gt;
-
-&lt;p&gt;The first-born black hole in a massive binary is expected to be slowly spinning due to efficient angular momentum transport inside a star. The wind velocity of O stars is very high (~2000 km/s), empirically verified through observations. Detailed hydrodynamic calculations predict only one-third of the angular momentum available is accreted by the black hole. Hence, most black holes in orbit with an O star are not expected to form an accretion disk and remain unobservant via X-ray telescopes. So, the discrepancy in the number of observed Wolf-Rayet+O star binaries in comparison to black hole+O star binaries may be due to the lack of observability of the black hole binaries in X-rays. We conclude that high black hole natal kicks are not necessary to explain the scarcity of observed high-mass X-ray binaries. Instead, searching for black holes via alternative methods may be more fruitful.&lt;/p&gt;
-
-&lt;p&gt;One alternative would be to search for black holes in our Milky Way via astrometric variations in visible stars - that is, variations in the precise measurements of the position of stars in the sky. This method has been shown to be very promising as our Milky Way is expected to harbour millions of black holes in orbit with main sequence companions whose astrometry can be carried out in principle by the GAIA telescope. Unfortunately, the GAIA Data Release 3 did not have the relevant data for stars massive enough to host black holes, and hence this method could not be pursued.&lt;/p&gt;
-
-&lt;p&gt;Thus in this work, we look at radial velocity variations of observed massive stars. We have a nearly complete census of the massive star content in the Tarantula nebula of Large Magellanic Cloud, which enables us to also carry out precise number statistics for the massive stars in this region. In fact, it is the most active star-forming region known in the Local Group of galaxies containing very massive stars with a metallicity resembling the peak of star formation in our Universe. The radial velocity of stars is measured by observing the Doppler shift in a prominent spectral line of the star. As the star moves around in one full orbit, the spectral lines are blue-shifted for half of the orbit and red-shifted for the remaining orbit.&lt;/p&gt;
-
-&lt;p&gt;When we see a Doppler shift in a spectral line of a stellar object both towards the bluer and redder wavelengths simultaneously, we identify the object as a double-lined spectroscopic binary. This is because both the components of the binary are responsible for creating the Doppler shifts in opposite directions, one moving towards us in orbit and the other away from us. When we see a Doppler shift in only one direction, we identify the object as a single-lined spectroscopic binary. This is because the companion star is usually too faint for its spectral line to be detected. Or, in the most interesting case, the companion is a compact object which does not emit any light of its own.&lt;/p&gt;
-
-&lt;p&gt;We identify the single-lined spectroscopic binaries in the sample of massive stars observed in the Tarantula region. The VLT Flames Tarantula Survey observed approximately 800 massive stars, out of which 300 were O-type stars. From these, around 100 targets that showed radial velocity variations were followed up in the Tarantula Massive Binary Monitoring Survey. Of these, 51 of them were categorised as single-lined spectroscopic binaries. Through follow-up spectral disentangling, we retrieved hidden spectra in 43 of these targets. For the remaining targets where we were not able to find a non-degenerate companion, three of them had an estimated minimum mass of the unseen companion above 4M⊙.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/xray_quiet_blackholes_koushik/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Fig. 1 : Visualisation of the BH+O star binary VFTS 243, a 10.4 d-period binary with a (near-)circular orbit situated in the Tarantula nebula in the Large Magellanic Cloud (credit: Isca Mayo / Sara Pinilla). The sizes of the star, black hole, and orbits are not to scale.
-&lt;/p&gt;
-
-&lt;p&gt;Of the above, we were able to find unambiguous evidence for the presence of a 9.1M⊙ object in the system named VFTS 243. The orbital period of this system is 10.4  days and the orbit is also circular. Through follow-up rigorous analysis, we arrive at the conclusion that the object is a black hole, the first one detected in the Large Magellanic Cloud. The system is also X-ray quiet, in agreement with our earlier study on the X-ray emission from black hole + main sequence systems. The above number statistics show how big an observing program needs to be undertaken to unambiguously find black holes via radial velocity monitoring of observed massive stars. In the Milky Way, we have found another system, HD 130298, that could be another candidate to host a stellar-mass black hole. Our journey towards identifying a population of X-ray quiet black holes has only started, and we aim to slowly but surely hunt them down, through future observational surveys, one black hole at a time.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-&lt;hr /&gt;
-
-&lt;div class=&quot;footnotes&quot; role=&quot;doc-endnotes&quot;&gt;
-  &lt;ol&gt;
-    &lt;li id=&quot;fn:1&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;i.e. the spectral lines oscillate about the mean wavelength due to doppler effect. &lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:2&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;i.e. change in absolute position on the sky. &lt;a href=&quot;#fnref:2&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-    &lt;li id=&quot;fn:3&quot; role=&quot;doc-endnote&quot;&gt;
-      &lt;p&gt;change in luminosity or flux. &lt;a href=&quot;#fnref:3&quot; class=&quot;reversefootnote&quot; role=&quot;doc-backlink&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
-    &lt;/li&gt;
-  &lt;/ol&gt;
-&lt;/div&gt;
-</description>
-        <pubDate>Tue, 03 Jan 2023 00:00:00 +0530</pubDate>
-        <link>/xray_quiet_blackholes_koushik</link>
-        <guid isPermaLink="true">/xray_quiet_blackholes_koushik</guid>
-        
-        <category>stars</category>
-        
-        <category>massive black holes</category>
-        
-        <category>binaries</category>
-        
-        
-        <category>High Energy Astrophysical Phenomena</category>
-        
-        <category>Solar and Stellar Astrophysics</category>
         
       </item>
     

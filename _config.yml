@@ -430,6 +430,42 @@ authors:
         twitter: 
         description: "I am a physics PhD student at Chennai Mathematical Institute. My research focuses on gravitational wave astrophysics, testing general theory of relativity using gravitational waves, and cosmology. I am also a member of LIGO scientific collaboration."
 
+ Vishal Parmar:
+        name: Vishal Parmar
+        display_name: Vishal Parmar
+        avatar: 'assets/images/Vishal_Parmar.jpg'
+        email: physics.vishal01@gmail.com
+        web: https://sites.google.com/view/vishal-parmar
+        twitter: 
+        description: "I am a PhD student working in the field of nuclear astrophysics. My primary research is based on the properties of nuclear matter, its thermodynamics and the study of neutron star properties. I have  special interest in  the crust structure of the neutron star and associated astrophysical observations."
+
+ Piyali Saha:
+        name: Piyali Saha
+        display_name: Piyali Saha
+        avatar: 'assets/images/Piyali_Saha.jpeg'
+        email: s.piyali16@gmail.com
+        web: 
+        twitter: 
+        description: "I am currently working as a postdoc at the National Astronomical Observatory of Japan (NAOJ). I completed my Ph.D. from Indian Institute of Astrophysics (IIA), India. During PhD, my main research area was focused on star formation, especially identification and characterization of young stars. After exploring various star-forming regions and the associated young stars in optical and near-infrared wavelengths, I am currently working on the same field in radio wavelength, using the Atacama Large Millimeter/submillimeter Array (ALMA)."
+
+ Pawan Kumar:
+        name: Pawan Kumar
+        display_name: Pawan Kumar
+        avatar: 'assets/images/Pawan_Kumar.jpg'
+        email: pawan.kumar.rs.phy18@itbhu.ac.in
+        web: https://scholar.google.com/citations?hl=en&view_op=list_works&gmla=ABEO0YpRuFqyXvvQc8_Af0CnNmYnmGeMD9Oli7IEwu4Qz-xzVNMzRYlXLVusJP6_ZtATPDDSyCHnjF7vYdT98GSM02L2&user=_fIZ01gAAAAJ
+        twitter: 
+        description: "Myself Pawan Kumar, Graduate student at the Indian Institute of Technology (BHU) Varanasi. My research interest is in solar and stellar astrophysics. Currently, I am working on solar dynamo models and studying solar magnetism evolution in detail and its impact on space weather."
+
+ Santanu Mondal:
+        name: Santanu Mondal
+        display_name: Santanu Mondal
+        avatar: 'assets/images/Santanu_Mondal.jpeg'
+        email: santanuicsp@gmail.com
+        web: https://santanumondal.wixsite.com/horizon
+        twitter: 
+        description: "I am Santanu Mondal, working as a Ramanujan Fellow at the Indian Institute of Astrophysics, Bangalore. I did my PhD from  Calcutta University/Indian Centre for Space Physics and moved to Chile as a FONDECYT Fellow and then Israel as a Kreitman Fellow. My research interest includes, accretion-ejection processes around black holes, numerical simulation of the Fermi Bubbles and the X-ray imaging of galaxy clusters."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
