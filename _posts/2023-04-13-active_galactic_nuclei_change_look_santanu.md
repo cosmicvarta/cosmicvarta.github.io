@@ -87,7 +87,9 @@ I thank Ms. M. Mukherjee for helping with the write-up.
 
 **Co-authors:** Tek P. Adhikari, K. Hryniewicz, C. S. Stalin, A. Pandey
 
-**First author’s Institution:** : Indian Institute of Astrophysics, Bangalore
+**First author’s Institution:** Indian Institute of Astrophysics, Bangalore
+
+**Other Reference:** <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221105132R/abstract" target="_blank"> Changing-look Active Galactic Nuclei</a> for a review
 
 <div id="disqus_thread"></div>
 <script>

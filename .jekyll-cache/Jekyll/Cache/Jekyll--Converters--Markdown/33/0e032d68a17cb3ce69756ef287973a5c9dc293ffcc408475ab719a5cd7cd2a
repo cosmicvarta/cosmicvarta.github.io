@@ -1,4 +1,4 @@
-I"�8<blockquote>
+I"�9<blockquote>
 
   <p>An active galactic nucleus (AGN) is powered by the matter accreting onto the central supermassive black hole (SMBH) at the centre of a galaxy. Changing look (CL) AGNs are those sources that show rapid change in the column density of the X-ray absorber. CLAGNs show a complex shape in their X-ray spectra. The physical mechanisms responsible for these variations are unclear to date. In this article, we took an attempt to explain the CL phenomena on AGN and their possible origin. For that, we studied the spectral properties of NGC 1365 using joint XMM-Newton and NuSTAR observations. We used JeTCAF model to fit the X-ray spectra of the source. We found that the variable absorption column density correlates with the mass accretion rate and the geometry of the corona. The derived wind velocity was sufficiently low compared to the escape velocity to drive the wind away from the disk for the epochs during which column densities were high. This suggests that the high and variable absorption can be due to failed winds from the disk. Our study construed that the changing accretion rate, which is a fundamental physical quantity and the geometry of the corona are driving the CL phenomena in NGC 1365. The physical picture of this work connects both variable continuum and variable absorbing medium scenarios. Moreover, from the spectral fitting of the joint data, we found the mass of the central black hole to be constant 4.38 ± 0.34−4.51 ± 0.29 × 10<sup>6</sup> M<sub>sun</sub> , in accord with the optical observations.</p>
 
@@ -12,8 +12,8 @@
 <p>We often see stars twinkling on a moderately cloudy night. This twinkling behavior is observed due to the irregular movements of clouds in the atmosphere, which changes the amount of brightness seen in stars from time to time through time-dependent obscuration along the line of human sight. Changing obscuration AGNs also have a similar reason for changing their appearance. They show intense time-dependent variability of the line-of-sight intervening gas density/column density, primarily associated with clouds or outflows eclipsing the AGN. Change in the appearance of AGNs due to obscuration is observed mainly in the X-ray wavelength regime. Obscuration by neutral intervening gas can leave a clear imprint on the X-ray emission observed in AGN. At a high column density, obscuration becomes significant enough to suppress the primary continuum of X-rays and produce a secondary continuum through reflections within the gas. Such variations are typically observed in X-Rays as the region which makes these X-rays are small enough to be concealed by the neighboring gases.  Changes in gas densities that cause obscuration are driven by intrinsic AGN luminosity variations, which have an impact on the chemical state of the material. A higher AGN luminosity chemically modifies the obscuring material to become more transparent to X-rays and thereby allows a decrease in line-of-sight column density. Apart from neutral gas obscuration, absorbing gas usually associated with outflows can also strongly affect the X-ray spectrum and is routinely recorded by the detector.</p>
 
 <p align="center">
-  <img src="../assets/images/active_galactic_nuclei_change_look_santanu/image1.jpg" />
-  <img src="../assets/images/active_galactic_nuclei_change_look_santanu/image2.jpg" />
+  <img src="../assets/images/active_galactic_nuclei_change_look_santanu/image1.jpg" width="500" />
+  <img src="../assets/images/active_galactic_nuclei_change_look_santanu/image2.jpg" width="500" />
 </p>
 
 <p align="center">
@@ -76,7 +76,9 @@ Figure 3: CLOUDY simulation of all epochs depicting the emission and absorption 
 
 <p><strong>Co-authors:</strong> Tek P. Adhikari, K. Hryniewicz, C. S. Stalin, A. Pandey</p>
 
-<p><strong>First author’s Institution:</strong> : Indian Institute of Astrophysics, Bangalore</p>
+<p><strong>First author’s Institution:</strong> Indian Institute of Astrophysics, Bangalore</p>
+
+<p><strong>Other Reference:</strong> <a href="https://ui.adsabs.harvard.edu/abs/2022arXiv221105132R/abstract" target="_blank"> Changing-look Active Galactic Nuclei</a> for a review</p>
 
 <div id="disqus_thread"></div>
 <script>
