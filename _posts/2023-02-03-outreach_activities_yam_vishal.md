@@ -7,9 +7,9 @@ categories: [Science Outreach]
 tags: [scicomm,outreach,conference]
 class: [Science Outreach]
 image: assets/images/outreach_activities_yam_vishal/image_cover.jpg
-featured: True
+featured: False
 hidden: False
-review: False
+review: true
 ---
 >
 A summary of science outreach performed during the Young Astronomer's Meeting, 2022.
