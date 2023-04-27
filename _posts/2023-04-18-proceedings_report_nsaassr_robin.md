@@ -68,7 +68,7 @@ The seminar concluded with the valedictory ceremony, where the best presentation
 ---
 
 
-You may find copies of the abstract books and the posters presented at the NSAASSR on the <a href="https://indico.cern.ch/event/1245645/" target="_blank"> seminar website.</a>. 
+You may find copies of the abstract books and the posters presented at the NSAASSR on the <a href="https://indico.cern.ch/event/1245645/" target="_blank"> seminar website.</a>
 
 ---
 

@@ -466,6 +466,15 @@ authors:
         twitter: 
         description: "I am Santanu Mondal, working as a Ramanujan Fellow at the Indian Institute of Astrophysics, Bangalore. I did my PhD from  Calcutta University/Indian Centre for Space Physics and moved to Chile as a FONDECYT Fellow and then Israel as a Kreitman Fellow. My research interest includes, accretion-ejection processes around black holes, numerical simulation of the Fermi Bubbles and the X-ray imaging of galaxy clusters."
 
+ Anjali Marar:
+        name: Anjali Marar
+        display_name: Anjali Marar
+        avatar: 
+        email: anjalim@rri.res.in
+        web: https://indianexpress.com/profile/author/anjali-marar/
+        twitter: https://twitter.com/littlemurthy
+        description: "Anjali is presently the Science Communication Officer with Raman Research Institute, Bangalore. She has been a Science and Climate journalist for over nine years now, and writes for The Indian Express. Her interests range from science, travel, food and reading."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
