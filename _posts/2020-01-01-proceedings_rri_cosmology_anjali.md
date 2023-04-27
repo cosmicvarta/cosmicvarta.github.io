@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "India’s expanding Astronomy community"
+title:  "India’s expanding Cosmology community"
 author: Anjali Marar
 permalink: proceedings_rri_cosmology_anjali
 categories: [General]
@@ -45,6 +45,14 @@ Josh Dillon’s address on ‘Recent progress in 21cm Cosmology with the hydroge
 Introducing the SARAS experiment setup ‘Constraining high redshift astrophysics with SARAS’, by Saurabh Singh enlisted the multiple challenges, especially the bright foregrounds, and the shrinking radio-quiet zones in India for conducting continued observations.
 
 Introducing capabilities of CHIME, HIRAX and CHORD facilities, Shiv Sethi’s talk ‘Detecting HI in the post-reionizaiton’ suggested two potentially strong methods – stacking and cross-correction -- that can produce good observations within the redshift 0.3 – 1.4 range. Hamsa Padmanabhan’s talk ‘A multi-messenger view of the baryonic Universe out to the Epoch Reionization’ underlined the requirement for strengthening the cross-co-relations for improving the 21cm HI intensity mapping in future.
+
+<p align="center">
+  <img src="../assets/images/proceedings_rri_cosmology_anjali/image2.JPG">
+</p>
+
+<p align = "center">
+Bringing together brilliant minds. Group photo of the conference attendees. <em>Credits:</em> Ritik Shah
+</p> 
 
 At a time when the country is sealing its position in Astronomy, senior scientists used this stage to inform the young attendees about the many next generation astronomy facilities, where India has major stakes. Yashwant Gupta spoke about the upgraded Giant Metrewave Radio Telescope (uGMRT) and presented an insight into the world’s largest radio telescope, the Square Kilometre Array (SKA). Another mega-science project participated by India, the Thirty Metre Telescope (TMT) -- the proposed largest optical telescope – was spoken during a session by GC Anupama. She narrated the the numerous hardships faced in erecting the telescope at the designated Mauna Kea in Hawaii and years of continued efforts to locate a search alternate site, all for science!
 
