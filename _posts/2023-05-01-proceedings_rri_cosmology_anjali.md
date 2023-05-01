@@ -7,7 +7,7 @@ categories: [General]
 tags: [Proceedings, International, Conference, Cosmology]
 class: [Proceedings]
 image: assets/images/proceedings_rri_cosmology_anjali/image_cover.jpg
-featured: False
+featured: True
 hidden: True
 review: False
 ---

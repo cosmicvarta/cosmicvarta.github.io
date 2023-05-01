@@ -7,8 +7,8 @@ categories: [High Energy Astrophysical Phenomena]
 tags: [ ]
 class: [Featured]
 image: assets/images/dot_kilonova_emission_grb_rahul/image_cover.jpg
-featured: True
-hidden: False
+featured: False
+hidden: True
 review: False
 ---
 >
