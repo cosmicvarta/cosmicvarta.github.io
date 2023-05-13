@@ -475,6 +475,15 @@ authors:
         twitter: https://twitter.com/littlemurthy
         description: "Anjali is presently the Science Communication Officer with Raman Research Institute, Bangalore. She has been a Science and Climate journalist for over nine years now, and writes for The Indian Express. Her interests range from science, travel, food and reading."
 
+ Amoghavarsha. N:
+        name: Amoghavarsha. N
+        display_name: Amoghavarsha. N
+        avatar: 'assets/images/amoghavarsha_n.jpg'
+        email: cosmos.epoc@iiap.res.in
+        web: 
+        twitter: https://twitter.com/amoghavarsha_n
+        description: "Astrophysics and Science-Education enthusiast holding a post-graduate degree in Physics (with Astrophysics) from St. Joseph’s University, Bengaluru. Currently working as the Project Associate for the Cosmology Education and Research Training Centre (COSMOS), Mysuru, coordinating all the Outreach activities of COSMOS in and around the region"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
