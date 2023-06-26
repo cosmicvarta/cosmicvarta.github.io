@@ -141,6 +141,20 @@ I am a researcher at the Indian Institute of Astrophysics (IIA), Bengaluru. I am
 ---
 ---
 
+<p align="center">
+  <img src="assets/images/sadaf_ansari_about_us.jpg" height="300" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Sadaf Iqbal Ansari</span></h2>
+
+
+Hello! My name is Sadaf Iqbal Ansari. Currently, I am a research assistant, working on a project to study storm time radiation belt dynamics using multi-point observation for solar cycle 24, at the University of Nizwa, Oman. When I am not working, I challenge my existential ennui by reading Kurt Vonnegut and Ayn Rand, to name a few. I also like to photograph nature. 
+
+---
+---
+
+
 <!---
 
 <p align="center">

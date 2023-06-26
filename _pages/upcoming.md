@@ -12,9 +12,13 @@ comments: False
 
 Articles based on the following list of papers have been received by **CosmicVarta**  and are under the process of editing by our team members. Usually the articles stay with our editors for a period of 2-3 weeks, after which you may expect the article to be published on the main webpage.
 
-- [Proceedings from the "Frontiers in Cosmology" conference held at the Raman Research Institute (RRI) by Anjali Marar]()
+- [Review of "The long-active afterglow of GRB 210204A: Detection of the most delayed flares in a Gamma-Ray Burst" by Harsh Kumar.](https://academic.oup.com/mnras/article-abstract/513/2/2777/6569719?redirectedFrom=fulltext)
 
-- [Proceedings from the National Seminar on Advances in Astrophysics and Space Science Research by Robin Thomas]()
+- [Review of "Spectral lines in FUV and EUV for diagnosing coronal magnetic field" by Raveena Khan.](https://ui.adsabs.harvard.edu/abs/2022SoPh..297...96K/abstract)
+
+- [Review of "Detection of X-Ray Polarized Emission and Accretion-disk Winds with IXPE and NICER in the Black Hole X-Ray Binary 4U 1630−47" by Divya Rawat.](https://iopscience.iop.org/article/10.3847/2041-8213/acd77b)
+
+- [Review of "On modeling ICME cross-sections as static MHD columns" by Debesh Bhattacharjee.](https://ui.adsabs.harvard.edu/abs/2022cosp...44.1376B/abstract)
 
 - [*Measurement of accretion disc sizes for quasars from the ZTF survey* by Vivek Kumar Jha](https://ui.adsabs.harvard.edu/abs/2022MNRAS.511.3005J/abstract)
 
