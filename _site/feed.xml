@@ -5,9 +5,175 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 26 Jun 2023 16:02:57 +0530</pubDate>
-    <lastBuildDate>Mon, 26 Jun 2023 16:02:57 +0530</lastBuildDate>
+    <pubDate>Mon, 03 Jul 2023 18:34:39 +0530</pubDate>
+    <lastBuildDate>Mon, 03 Jul 2023 18:34:39 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;This article is about investigating the characteristics of Interplanetary Coronal Mass Ejections using in-situ observation. ICMEs are well-known to expand as they propagate through the heliosphere. Despite this, their cross-sections are usually modeled as static plasma columns within the magnetohydrodynamics (MHD) framework. We test the validity of this approach using in-situ plasma data from 151 magnetic clouds (MCs) observed by the WIND spacecraft and 45 observed by the Helios spacecraft. We find that the most probable cross-section expansion speeds for the WIND events are only ≈ 0.06 times the Alfvén speed inside the MCs, while the most probable cross-section expansion speeds for the Helios events is ≈ 0.03. MC cross-sections can thus be considered to be nearly static over an Alfvén crossing timescale. Using estimates of electrical conductivity arising from Coulomb collisions, we find that the Lundquist number inside MCs is high (≈ 10&lt;sup&gt;13&lt;/sup&gt; to 10&lt;sup&gt;14&lt;/sup&gt;), suggesting that the MHD description is well justified. The Joule heating rates using our conductivity estimates are several orders of magnitude lower than the requirement for plasma heating inside MCs near the Earth. While the (low) heating rates we compute are consistent with the MHD description, the discrepancy with the heating requirement points to possible departures from MHD and the need for a better understanding of plasma heating in MCs.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;You might wonder what is &lt;em&gt;in-situ&lt;/em&gt; and what are &lt;em&gt;ICMEs&lt;/em&gt;. Don’t worry, I am here to guide you
+through this article. ‘CMEs’ or Coronal Mass Ejections are massive blobs of plasma along with
+strong magnetic fields that erupt from the solar corona. Corona is the Latin word for ‘crown’ and
+it is the outermost layer of our Sun. It has nothing to do with the awful COVID pandemic. Due to
+the presence of the bright photosphere (the bright yellow disk we see during daytime), we cannot
+see the corona with our naked eyes. However, during a total solar eclipse, we can have a glimpse
+of it. Remember that beautiful aura encircled the sun during a total solar eclipse? Yes, that is
+solar corona (see Figure 1). It is extremely hot (temperature around a few million Kelvin (K)),
+much hotter than the photosphere (temperature ~ 6000 K). Why the corona is so hot, remains a
+mystery to the solar astrophysicists. Throughout this article, you will encounter the word,
+‘plasma’. A plasma is a medium filled with charged particles and due to its higher conductivity,
+the charged particles often gyrate closely to the magnetic field lines present in that medium.
+Hence, the charged particles can follow the motion of the magnetic field. Although made of
+charged particles, the plasma can be overall neutral.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+(&lt;em&gt;Figure 1: Total solar eclipse during April 1999. Picture courtesy: &lt;a href=&quot;https://lucnix.be/&quot;&gt;Luc Viatour &lt;/a&gt;&lt;/em&gt;)
+&lt;/p&gt;
+
+&lt;p&gt;One of the most spectacular events that come out from this ever-changing dancing dynamics of corona is the CME. CMEs are the largest-scale eruptive phenomena in the solar system. The huge lump of plasma of mass 10&lt;sup&gt;13&lt;/sup&gt;-10&lt;sup&gt;15&lt;/sup&gt; kg, accompanied with strong magnetic fields, is hauled up out of the corona all the way into the interplanetary space with a typical velocity ranging from several hundred to more than 1000 km per second. Due to their high velocities, CMEs are often accompanied by shocks in front of them. A typical CME has a kinetic energy of around 10&lt;sup&gt;22&lt;/sup&gt;-10&lt;sup&gt;25&lt;/sup&gt; Joules. Broadly, CME observation methods can be divided into two categories: 1) remote observations and 2) in-situ observations. The first kind, as the name suggests, observes the CMEs from far away, usually when they come out of the Sun. We need to rely on the CME images as none of the spacecraft can go that much close to the Sun. This is because, as of now, we do not have the technology which can survive the extreme environment (the million K coronal temperature, the strong electromagnetic fields, the bombardment of highly accelerated charged particles, strong radiation hazards, etc.) in the proximity of the Sun. One of the key techniques used in this method is the use of ‘coronagraphs’. A coronagraph acts like an artificial total solar eclipse by blocking the bright solar disk so that we can observe the dynamics of the CME while it is getting ejected out into the interplanetary space. Figure 2 shows two coronagraph images of a CME on February 27, 2000, observed by the Large Angle and Spectrometric COronagraph (LASCO) instrument on board the SOlar and Heliospheric Observatory  &lt;a href=&quot;https://www.nasa.gov/mission_pages/soho/index.html&quot;&gt;(SOHO) &lt;/a&gt;, a joint mission by NASA and ESA. The left panel is an image from the C2 coronagraph with a field of view (FOV) of 2.2 - 6.0 R&lt;sub&gt;⊙&lt;/sub&gt; (R&lt;sub&gt;⊙&lt;/sub&gt; is the radius of the Sun) and the right panel is from the C3 coronagraph with FOV from 3.7 to 30 R&lt;sub&gt;⊙&lt;/sub&gt;. In both images, the inner circle represents the Sun while the outer circle signifies the occulter of the coronagraph.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image2.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: The coronagraph image of a CME eruption. Image courtesy: LASCO instrument
+aboard SOHO
+&lt;/p&gt;
+
+&lt;p&gt;When the CME travels through the interplanetary space, it expands and interacts with the solar wind. In the propagation phase, CMEs are often called ‘Interplanetary CMEs’ or ICMEs. Due to its humongous size and low plasma density during this phase, it becomes almost impossible to capture the entire ICME using any imaging technique. Here the second method, the in-situ observation, becomes useful. In this method, the spacecraft passes through the ICME cross-section and directly measures the important parameters of a propagating ICME. During its propagation, the plasma entangled with the smooth and twisted magnetic field lines (which resemble the telephone cord) forms a huge cloud-like structure known as the Magnetic Cloud or MC. Figure 3 shows a cartoon describing an MC associated with an ICME as it travels through interplanetary space. An example of the in-situ data measured close to 1 astronomical unit (The distance between the Sun and the Earth is called 1 astronomical unit or AU. It is approximately 15 crore km) by the &lt;a href=&quot;https://wind.nasa.gov/&quot;&gt;WIND &lt;/a&gt; spacecraft as shown in Figure 4.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image3.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: A cartoon diagram of a magnetic cloud associated with an ICME.
+&lt;/p&gt;
+&lt;p&gt;This article aims at understanding the ICME expansion and heating (using in-situ observation) during their propagation through the interplanetary space by asking three questions:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;em&gt;How Good Is the Static Assumption for ICMEs?&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;How Good is the Ideal MHD Assumption for ICMEs?&lt;/em&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Can Joule Heating Meet the Heating Budget of ICME plasma?&lt;/em&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;All three questions are addressed in detail in their respective paragraphs.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image4.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 4: An example of the in-situ data from the WIND spacecraft. 
+&lt;/p&gt;
+
+&lt;p&gt;The spacecraft measures the parameters (total magnetic field (B), magnetic field components (B&lt;sub&gt;x&lt;/sub&gt;,B&lt;sub&gt;y&lt;/sub&gt;,B&lt;sub&gt;z&lt;/sub&gt;), proton number density (N&lt;sub&gt;p&lt;/sub&gt;), plasma beta (β), etc.). The plasma beta is the ratio between gas pressure (P&lt;sub&gt;gas&lt;/sub&gt;,) and magnetic pressure (P&lt;sub&gt;mag&lt;/sub&gt;,). The vertical lines depict the width of the MC.&lt;/p&gt;
+
+&lt;p&gt;Though it is evident from the observations that ICMEs do expand (i.e., their cross-sections
+increase with time) as they propagate through the heliosphere, a lot of studies (Lundquist(1951),
+Burlaga (1988), Möstl et al., 2009; Isavnin, Kilpua, and Koskinen, 2011) assumed the ICME
+cross-sections to be ‘&lt;strong&gt;static plasma columns&lt;/strong&gt;’! (In simpler words, it means the plasma inside the
+ICMEs are at rest.) This is because this assumption leads to the magnetohydrostatic (it is similar
+to hydrostatic equilibrium which is a certain type of equilibrium used for fluids when they are at
+rest, the only difference is, it is used for a plasma, not for a regular fluid) equilibrium. We know
+that physicists love equilibrium as it makes mathematical computations a lot easier. So, though
+we all know that the ICME cross-sectional expansion speed is never strictly zero, it is assumed to
+be zero (the scientists assumed that the expansion speed is very small) and hence we get the
+equilibrium. But no one to date has ever investigated the validity of this approximation. And so,
+in the first part of this study, we are aiming at the question: &lt;em&gt;How Good Is the Static Assumption for ICMEs?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;For that, we compare the cross-sectional expansion speed (v&lt;sub&gt;exp&lt;/sub&gt;) of MCs with the Alfven speed (v&lt;sub&gt;A&lt;/sub&gt;)
+inside them. Alfven speed is the measure of the propagation of the magnetic perturbations
+perpendicular to the magnetic field. We know that the sound speed of a medium is the
+characteristic speed of that particular medium. Similarly, is one of the characteristic speeds of
+the plasma. If v&lt;sub&gt;exp&lt;/sub&gt; is sufficiently smaller than v&lt;sub&gt;A&lt;/sub&gt;, or in other words, if the Alfven crossing timescale is much smaller than the cross-sectional expansion timescale, the magnetostatic assumption can be
+considered to be approximately valid inside the propagating ICMEs. We have taken a large
+sample of well-observed ICMEs: 151 events close to the Earth (using the data from the WIND
+spacecraft close to 1 AU) and 45 events in the interplanetary space between the Sun and the
+Earth (using the Helios data from 0.29 AU to close to 1 AU). We estimate R&lt;sub&gt;A&lt;/sub&gt;, the ratio between v&lt;sub&gt;exp&lt;/sub&gt;
+and v&lt;sub&gt;A&lt;/sub&gt; and found that the most probable values of are of R&lt;sub&gt;A&lt;/sub&gt; the order of 0.01. The statistical results
+are described in Figure 5. Our findings show that the ICME cross-sections can be assumed to be
+static (to a fairly good extent) over an Alfven crossing timescale.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image5a.jpg&quot; /&gt;
+    &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image5b.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 5: Histograms of &lt;em&gt;R&lt;sub&gt;A&lt;/sub&gt;&lt;/em&gt;: the top panel shows the results for the WIND events while the bottom panel shows the results for the Helios events.
+&lt;/p&gt;
+
+&lt;p&gt;Solar astrophysicists use a fluid-like prescription for plasma dynamics; it is known as magnetohydrodynamics (MHD). The conventional treatment assumes that the CME plasma obeys the ideal MHD, i.e., the magnetic field never diffuses and remains attached with the plasma particles. However, this assumption, too, had not been verified earlier. In the second part of our study, we ask: &lt;em&gt;How Good is the Ideal MHD Assumption for ICMEs?&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;The estimation of the Lundquist number (S&lt;sub&gt;0&lt;/sub&gt;) is one way to do this. S&lt;sub&gt;0&lt;/sub&gt; is the ratio between the magnetic diffusion timescale (t&lt;sub&gt;𝜂&lt;/sub&gt;) and the Alfven crossing timescale (𝑡&lt;sub&gt;𝐴&lt;/sub&gt;). For the ideal MHD condition, t&lt;sub&gt;𝜂&lt;/sub&gt; (which means that the magnetic fields take infinite time to diffuse, in other words, they never diffuse), implying 𝑆0. So, the larger the magnitude of S&lt;sub&gt;0&lt;/sub&gt;, the more the plasma will follow the assumptions of the ideal MHD. We have found that S&lt;sub&gt;0&lt;/sub&gt; is significantly large inside the ICME plasma (≅10&lt;sup&gt;13&lt;/sup&gt; ), suggesting a good justification for the use of the ideal MHD approximations (see Figure 6) to describe the motion of the ICMEs.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image6a.jpg&quot; /&gt;
+    &lt;img src=&quot;../assets/images/massive_plasma_blob_sun_debesh/image6b.jpg&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 6: Histograms of &lt;em&gt;S&lt;sub&gt;0&lt;/sub&gt;&lt;/em&gt;: the top panel shows the results for the WIND events while the bottom panel shows the results for the Helios events.
+
+&lt;/p&gt;
+
+&lt;p&gt;So far, we have seen that the ICME plasma fairly obeys the assumptions of the ideal MHD. However, there is a cache! The ideal MHD assumes zero heating of the plasma. But numerous observations confirm that the temperature of the near-Earth ICME can reach as high as ≅10&lt;sup&gt;5&lt;/sup&gt;
+K! Hence, the ideal MHD framework cannot explain the heating of CME plasma. Joule heating is the simplest type of heating mechanism we can investigate. In the last part of this study, we ask: &lt;em&gt;Can Joule Heating Meet the Heating Budget of ICME plasma?&lt;/em&gt;
+To answer this question, we have evaluated the Joule heating (which is like the 𝐼&lt;sup&gt;2&lt;/sup&gt;𝑅 heating inside an electrical wire, where I is the current and R is the resistance of the wire) rate inside all the ICMEs in our sample. We have found that the Joule heating rate (which we have found to be ≅10&lt;sup&gt;-6&lt;/sup&gt;𝐽𝑘𝑔&lt;sup&gt;-1&lt;/sup&gt;𝑠&lt;sup&gt;-1&lt;/sup&gt;) is significantly smaller than the required heating budget (≅10&lt;sup&gt;3&lt;/sup&gt;𝐽𝑘𝑔&lt;sup&gt;-1&lt;/sup&gt;𝑠&lt;sup&gt;-1&lt;/sup&gt;) of the CME plasma. It proves that the Joule heating is not the right candidate for CME heating! One needs to look for another heating mechanism. CME thermodynamics is one of the most exciting topics under solar astrophysics and to date, no one knows the exact mechanism of CME heating. There are important approaches like, whether the CMEs are expanding adiabatically or getting heated isothermally via the thermal conduction from the solar corona, or whether turbulence plays a role in the local heating of CME plasma. But overall, this remains an unsolved mystery.&lt;/p&gt;
+
+&lt;p&gt;You might wonder why we are so bothered about these giant plasma blobs. The reason is, Earth-directed ICMEs are the primary drivers of strong geomagnetic storms leading to space weather disturbances.  Such disturbances affect a wide range of technologies and communication systems we rely on. Starting from the damage to satellites, telecommunication systems, GPS, and electrical power supply to the radiation hazards on the human body. These disturbances can also cause red alerts for the astronaut’s safety. In order to mitigate these effects, we need to predict the arrival times and other important information (such as the strength and rotation of the magnetic field, ICME speed, their energy, etc.) of these ICMEs as realistically as possible. To do that, a good understanding of the CMEs is crucial. With the launch of the Aditya L1 mission, which is India’s first mission dedicated to solar astronomy, we hope to have a new milestone in the advancement of CME research.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://link.springer.com/article/10.1007/s11207-022-01982-x&quot; target=&quot;_blank&quot;&gt;On Modeling ICME Cross-Sections as Static MHD Columns&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  Debesh Bhattacharjee&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt;  Prasad Subramanian, Volker Bothmer, Teresa Nieves-Chinchilla &amp;amp; Angelos Vourlidas&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Science Education and Research, Pune; Dr. Homi Bhabha Road, Pashan, Pune
+411008, India.&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 03 Jul 2023 00:00:00 +0530</pubDate>
+        <link>/massive_plasma_blob_sun_debesh</link>
+        <guid isPermaLink="true">/massive_plasma_blob_sun_debesh</guid>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
     
       <item>
         <title>&apos;Where’s the Shadow?&apos; - A workshop in preparation for Zero Shadow Day</title>
@@ -976,262 +1142,6 @@ Figure 3: An example of shock solution in (a) accretion (a=0.5, l=3.0, E=1.003) 
         
         
         <category>High Energy Astrophysical Phenomena</category>
-        
-      </item>
-    
-      <item>
-        <title>Exploring the topology of hydrogen distribution in the early universe</title>
-        <description>&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;blockquote&gt;
-
-  &lt;p&gt;We study how galaxies and other sources in the early universe change the neutral universe or InterGalactic Medium (IGM) into the ionized one. We compare different kinds of source models and how they ionize the neutral universe which mainly consists of neutral hydrogen. We trace the largest ionized region formed by these sources by using a statistic known as the Largest Cluster Statistics (LCS). We found that LCS of different source models evolve differently and hence show different natures of ionizing photons or sources. We also investigate the geometry and topology of these ionized regions and how they are different for each model.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;p&gt;The universe on a very large scale seems like a web which we astronomers refer to as the cosmic web. Entities like galaxies and clusters of galaxies are trapped within this giant web (see figure 1). The unknown but the most abundant matter, dark matter, plays a governing role in shaping these giants by capitalizing the full potential of the most dominant force on a cosmic scale, gravitational force. We put our efforts to understand the formation and evolution of the universe including these giants by looking at the driving physics behind these.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
- Figure 1: Image of the cosmic web. Figure shows the dark matter distribution (taken from the Millennium simulation). Here, every bright point represents a galaxy cluster. Image Credit: V.Springel, Max-Planck-Institut für Astrophysics.
-&lt;/p&gt;
-&lt;p&gt;The universe has undergone a significant transition on a regular basis since its birth. Figure 2 shows the evolution of our universe from the Big Bang on the left hand side to the current local universe which we see today  on the right hand side of the plot. One of the major recent and remarkable phase transitions is the Epoch of Reionization (EoR), when the neutral Intergalactic Medium (IGM), mainly composed of neutral hydrogen, gets transformed into an ionized one. The galaxies residing within the dark matter halos (host of galaxies) act as one of the primary sources responsible for the reionization.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image2.jpg&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: Pictorial representation of the evolution of our Universe according to the standard cosmological model. Image credit: &lt;a href=&quot;https://astrobites.org/&quot; target=&quot;_blank&quot;&gt;astrobites&lt;/a&gt; 
-&lt;/p&gt;
-
-&lt;p&gt;In order to understand this era, we use several techniques and approaches to recreate the environment. We use analytic models (refer to  &lt;a href=&quot;https://arxiv.org/abs/1209.2215&quot; target=&quot;_blank&quot;&gt;  Wyithe and Loeb 2012&lt;/a&gt;), semi-analytic models (refer to &lt;a href=&quot;https://arxiv.org/abs/1512.00562&quot; target=&quot;_blank&quot;&gt;  Mutch et al 2016&lt;/a&gt;), semi-numerical models (refer to &lt;a href=&quot;https://doi.org/10.1093/mnras/stv2812&quot; target=&quot;_blank&quot;&gt;  Majumdar et al. 2016&lt;/a&gt; ), etc., to understand the EoR and to comply with what we observe from large surveys conducted using advanced telescopes that are increasingly more sensitive.&lt;/p&gt;
-
-&lt;p&gt;It is evident that different sources during EoR emit different kinds of ionizing photons, and hence, ionize the IGM in a different way. In our analysis, we investigate this era by focusing on the properties of some of these possible sources which can ionize the IGM. We consider six reionization source models based on the semi-numerical method originally proposed in &lt;a href=&quot;https://doi.org/10.1093/mnras/stv2812&quot; target=&quot;_blank&quot;&gt;  Majumdar et al. 2016&lt;/a&gt;. These source models differ from each other in two main aspects: a) how the number of ionizing photons emitted by the sources are related to their host halo mass i.e. Nphotons ∝ (Mhalo)n and b) how the rest frame energy of the ionizing photons is distributed. The different source models considered in our work are mentioned in the table below. The Uniform Ionizing Background (UIB) dominated source model emits hard X-ray photons having large mean free path and hence creates a uniform ionizing background. The Soft X-Ray (SXR) dominated source model emits soft X-ray photons having limited mean free path. Source models like Fiducial (assumes 100% contribution of UV rays coming out from the galaxies residing inside the dark-matter halos) and Power Law (PL) (n=3) differ from each other in terms of the number of ionizing photons they emit following the relation shown in point (a) above.&lt;/p&gt;
-
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Reionization models&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Ultraviolet photons (UV)&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Uniform Ionizing Background (UIB)&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Soft X-Ray photons (SXR)&lt;/th&gt;
-      &lt;th style=&quot;text-align: center&quot;&gt;Power Law (PL), (n)&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Fiducial&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;100 %&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;Clumping&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;100 % and Non Uniform Recombination&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;UIB Dominated&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20 %&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;80%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;SXR Dominated&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;20 %&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;80%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;UV + SXR + UIB&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;50%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;10%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;40%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;1&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;PL (n=3)&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;100%&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;-&lt;/td&gt;
-      &lt;td style=&quot;text-align: center&quot;&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;p&gt;Reionization scenario like clumping model shows an extreme reionization case considering the clumpiness of the density field and emits ultraviolet (UV) photons. On the other hand, UV + SXR + UIB source model shows a combined contribution of UV photons, hard X-ray photons and soft X-ray photons.&lt;/p&gt;
-
-&lt;p&gt;We investigate how the ionized regions formed by these sources evolve with redshift and what geometrical or topological information we can grab from their evolution by looking at their shape and size. One can use Minkowski functionals (a set of four functionals which gives information about the geometrical and topological distribution of matter in the universe) (for example,  &lt;a href=&quot;https://doi.org/10.1093/mnras/sty714&quot; target=&quot;_blank&quot;&gt;Bag et al. 2018&lt;/a&gt;, &lt;a href=&quot;https://arxiv.org/abs/astro-ph/9312028&quot; target=&quot;_blank&quot;&gt;Mecke et al. 1994&lt;/a&gt;) to define the morphology of an object. In our work, we specifically use this to define the shape and size of our object (ionized region in our case). We use an algorithm called SURFGEN2 which identifies ionized regions from the density field and informs about their shape and size in the form of three Shapefinders (namely, thickness, breadth and length).&lt;/p&gt;
-
-&lt;p&gt;If we look at these ionized regions, with time, different reionization source models forming these ionized regions grow in size as well as in numbers, which then start to overlap. At some point in time, they coalesce together and form a single large connected ionized region as one can notice from the middle and right panels in the figure 3. This transition phase is known as the percolation transition (one can look at the articles &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1993ApJ...413...48K&quot; target=&quot;_blank&quot;&gt;Klypin and Shandarin 1993&lt;/a&gt;, &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1996ApJ...465....2Y&quot; target=&quot;_blank&quot;&gt;Capp Yess and Shandarin 1996&lt;/a&gt;).  In our analysis, out of many ionized regions, we primarily focus on the largest ionized region and its evolution around the percolation. We use the Largest Cluster Statistics (LCS) which is defined as the ratio of the volume of the largest ionized region to that volume of all ionized regions in a simulation volume to trace the largest ionized region.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-
-LCS = Volume of Largest Ionized Region / Volume of all ionized region 
-
-&lt;/p&gt;
-
-&lt;p&gt;Before percolation we have a very small largest ionized region but as we reach percolation and after percolation, the ionized region increases drastically, and at the end of reionization, almost the entire simulation box is filled with the largest ionized region as evident from the figure 3 as we go from left to right.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image3.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: Figure shows the transition of the largest ionized region from smaller size before percolation to the size of the entire simulation box after percolation. Middle panel shows the onset of percolation. 
-&lt;/p&gt;
-
-&lt;p&gt;As the reionization progresses, the neutral hydrogen present in the IGM ionizes and eventually the entire IGM converts into an ionized one at the end of the reionization. The neutral fraction (x&lt;sub&gt;HI&lt;/sub&gt;) informs about the amount of neutral hydrogen present in a volume with respect to the entire hydrogen species including both neutral and ionized one at any time. In our analysis, we use this quantity to see the evolution of LCS and shapefinders which we discussed.&lt;/p&gt;
-
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;h1 id=&quot;results&quot;&gt;Results&lt;/h1&gt;
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;h3 id=&quot;evolution-of-largest-cluster-statistics&quot;&gt;Evolution of Largest Cluster Statistics&lt;/h3&gt;
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;p&gt;The largest ionized region evolves differently for different reionization source models. The point of percolation is also different for different models. The inside-out scenarios where the reionization starts from the denser part of the IGM and then proceeds to the less dense part, the percolation occurs at much higher neutral fraction as compared to its counterpart, the outside-in scenario, where reionization starts from less dense regions and then the high-dense region is covered.&lt;/p&gt;
-
-&lt;p&gt;Figure 4 shows the variation of Largest Cluster Statistics (LCS) with the neutral fraction and Filling Factor (FF) for different reionization models. Here, Filling Factor is defined as the ratio of volume of all ionized regions to volume of our simulation box. One can notice from the left panel that the largest ionized region or LCS before percolation (shown by vertical lines) is significantly small for all reionization models but at the onset of percolation and after percolation, an abrupt increment in LCS can be observed. This result is quite obvious because as the reionization progresses, different ionized regions grow and interconnect with each other and hence form a single interconnected ionized region which is true for all reionization models as one can notice from the figure. Hence, before percolation, when we have a very small largest ionized region, it is indistinguishable from other ionized regions but as we reach percolation, they interconnect and become quite distinguishable. It depicts how the neutral IGM slowly transformed into an ionized one when the ionized bubbles got enough time to develop. However, percolation for different models occurs at different neutral fractions. The inside-out reionization models percolate at higher neutral fraction (shown by solid lines) whereas the outside-in reionization models percolate at lower neutral fraction. At the end of reionization, we can observe a single large ionized region occupying the entire simulation volume as is evident from the right panel of figure 4, where LCS is close to unity.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image4.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 4: The percolation transition has been compared for all six reionization models in terms of LCS. The left panel shows the LCS as a function of neutral fraction (x&lt;sub&gt;HI&lt;/sub&gt;) whereas the right panel illustrates how LCS evolves with FF for the different reionization scenarios. In both panels, the vertical lines represent the percolation transitions in the reionization models with corresponding colors. 
-&lt;/p&gt;
-
-&lt;p&gt;Hence, we can say that following the LCS along with the percolation, we can distinguish between the two broad categories of reionization models i.e, inside-out and outside-in reionization models.&lt;/p&gt;
-
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;h3 id=&quot;shape-of-largest-ionized-region&quot;&gt;Shape of Largest Ionized Region&lt;/h3&gt;
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;p&gt;The ionized bubbles formed by different sources, in principle, can be of complicated shape or geometry as they grow. For ease of understanding, one can use a simple geometrical or topological approach for the same. The Shapefinder technique uses Minkowski functionals to unveil the shape and size of the ionized region. The four Minkowski functions for a closed 2-D surface are:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Volume enclosed, V:&lt;/strong&gt; Informs about the enclosed volume within the surface of an object or ionized region.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Surface area, S:&lt;/strong&gt;  Informs about the surface area of the object.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Integrated Mean Curvature (C):&lt;/strong&gt; Informs about the concavity or convexity of the surface or in other words principal curvature (or radius of curvature) of the surface.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Gaussian Mean Curvature (Euler Characteristics):&lt;/strong&gt; Informs about the topological properties of an object.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The Shapefinders are expressed as the ratio of these Minkowski functionals to assess the shape of an object. In 3-D, the three shapefinders are :&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Thickness: T&lt;/strong&gt;  = 3V/S&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Breadth: B&lt;/strong&gt; = S/C&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Length: L&lt;/strong&gt; = C/4π&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;These three are the good measures of the extension of an object in 3-dimension. We can further use these shapefinders to determine the morphology of an object by means of these two dimensionless quantities:&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;strong&gt;Planarity: P&lt;/strong&gt; = (B-T) / (B+T)&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Filamentarity: F&lt;/strong&gt; = (L-B) / (L+B)&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;We employ these aforementioned techniques to see how the geometry or topology of the largest ionized region evolves with the redshift. An ionized region can be expressed in terms of its length, breadth and thickness, which are the three Shapefinders mentioned earlier. We show the variation of cross-section and length with the neutral fraction in figure 5. We can observe that the cross-section of the largest ionized region for all reionization scenarios in the left panel remains almost constant with the variation in neutral fraction. Whereas, in the right panel, its length increases several orders of magnitude as the reionization progresses. Hence, one can robustly confirm the fact that as the reionization progresses, the topology of the largest ionized region becomes filamentary, as one can notice in figure 6 where the filamentarity (shown by thick line curves) has a larger value than the planarity (thin line curves) for all reionization scenarios.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image5.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 5: This figure illustrates the evolution of the shape of the largest ionized region (LIR) for the five reionization scenarios (excluding the clumping model since this is the only scenario where extreme reionization is considered and hence it’s shapefinders behave differently) near the respective percolation transitions. The left and right panels show the variation of cross-section (estimated by T x B) and the length (L) of the LIR on the y-axis against the neutral fractions on the x-axis. 
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/hydrogen_distribution_early_universe_aadarsh/image6.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 6: Planarity and filamentarity of the largest ionized region in different models have been compared near the respective percolation transitions. The solid and dashed curves represent the reionization models following inside-out and outside-in reionizations respectively. The thick line curves (solid and dashed) represent the filamentarity and thin line curves represent the planarity of the largest ionized region in different models.
-&lt;/p&gt;
-
-&lt;p&gt;We also observe that as the reionization progresses, the largest ionized regions in all the scenarios become more multi-connected as their genus (in simple words, for any surface, it represents the number of holes present in the surface and hence informs about the multi-connected regions) increases. Thus, from our findings, we can conclude that at the later stage of reionization, we observe multi-connected filamentary structures for all reionization models. We found that the reionization model, like the clumping model, which follows extreme reionization, can be distinguished or separated quite easily by the Shapefinder technique. We crudely estimate the uncertainties by dividing each original simulation volume into eight smaller sub-volumes followed by estimating the variance of various quantities from these sub-volumes. Our research group at IIT Indore is currently working on noise which we get from the observations and the impact of primary beams on LCS analysis of the 21-cm signal considering the upcoming low-frequency Square Kilometer Array (SKA1-low) observations using a realistic simulations for such observations.&lt;/p&gt;
-
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;p&gt;We consider the evolution of the largest ionized region by using a statistic called LCS in order to distinguish between the different reionization models.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;We found that LCS for all reionization models before percolation is quite small and hence indistinguishable, but it increases abruptly at the onset of percolation. However, different reionization models percolate at different neutral fractions. Hence, following the evolution of LCS along with the percolation can help to distinguish between different models, and especially the inside-out or out-side- in models.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;We also find that the cross-section of the largest ionized region in all the scenarios (except for the clumping model) remains stable at the percolation transition when the largest ionized region abruptly grows, mostly in terms of its third Shapefinder – ‘length.’ The genus of the largest ionized region also increases as reionization progresses. Hence, multi-connected filamentary structure is observed at a later stage of EoR.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr color=&quot;black&quot; /&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://doi.org/10.1088/1475-7516/2022/11/027&quot; target=&quot;_blank&quot;&gt;Distinguishing reionization models using the largest cluster statistics of the 21-cm maps&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Aadarsh Pathak&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Satadru Bag, Saswata Dasgupta, Suman Majumdar, Rajesh Mondal, Prakash Sarkar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Department of Astronomy, Astrophysics &amp;amp; Space Engineering, Indian Institute of Technology Indore, Indore, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Wed, 15 Feb 2023 00:00:00 +0530</pubDate>
-        <link>/hydrogen_distribution_early_universe_aadarsh</link>
-        <guid isPermaLink="true">/hydrogen_distribution_early_universe_aadarsh</guid>
-        
-        <category>Cosmology</category>
-        
-        <category>Epoch of Reionization</category>
-        
-        <category>Largest Cluster Statistics</category>
-        
-        <category>Percolation</category>
-        
-        
-        <category>Cosmology and Nongalactic Astrophysics</category>
         
       </item>
     

@@ -484,6 +484,15 @@ authors:
         twitter: https://twitter.com/amoghavarsha_n
         description: "Astrophysics and Science-Education enthusiast holding a post-graduate degree in Physics (with Astrophysics) from St. Joseph’s University, Bengaluru. Currently working as the Project Associate for the Cosmology Education and Research Training Centre (COSMOS), Mysuru, coordinating all the Outreach activities of COSMOS in and around the region"
 
+ Debesh Bhattacharjee:
+        name: Debesh Bhattacharjee
+        display_name: Debesh Bhattacharjee
+        avatar: 'assets/images/debesh_bhattacharjee.jpg'
+        email: debesh.bhattacharjee@students.iiserpune.ac.in
+        web: https://www.researchgate.net/profile/Debesh-Bhattacharjee
+        twitter: 
+        description: "I just finished my PhD under the supervision of Prof. Prasad Subramanian from IISER Pune. Currently, I am joing for a post-doctoral position at the University of Glasgow, UK. I work on the dynamics and turbulent properties of ICMEs."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

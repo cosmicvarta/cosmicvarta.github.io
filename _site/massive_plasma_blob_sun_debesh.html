@@ -1,0 +1,1192 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-BVRTXP9407"></script>
+	<script>
+	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+	  gtag('js', new Date());
+
+	  gtag('config', 'G-BVRTXP9407');
+	</script>
+
+
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+<link rel="icon" href="/assets/images/thumb.png">
+
+<title>Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye | CosmicVarta</title>
+
+<!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye | Welcome to CosmicVarta.</title>
+<meta name="generator" content="Jekyll v4.2.0" />
+<meta property="og:title" content="Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye" />
+<meta name="author" content="Debesh Bhattacharjee" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="This article is about investigating the characteristics of Interplanetary Coronal Mass Ejections using in-situ observation. ICMEs are well-known to expand as they propagate through the heliosphere. Despite this, their cross-sections are usually modeled as static plasma columns within the magnetohydrodynamics (MHD) framework. We test the validity of this approach using in-situ plasma data from 151 magnetic clouds (MCs) observed by the WIND spacecraft and 45 observed by the Helios spacecraft. We find that the most probable cross-section expansion speeds for the WIND events are only ≈ 0.06 times the Alfvén speed inside the MCs, while the most probable cross-section expansion speeds for the Helios events is ≈ 0.03. MC cross-sections can thus be considered to be nearly static over an Alfvén crossing timescale. Using estimates of electrical conductivity arising from Coulomb collisions, we find that the Lundquist number inside MCs is high (≈ 1013 to 1014), suggesting that the MHD description is well justified. The Joule heating rates using our conductivity estimates are several orders of magnitude lower than the requirement for plasma heating inside MCs near the Earth. While the (low) heating rates we compute are consistent with the MHD description, the discrepancy with the heating requirement points to possible departures from MHD and the need for a better understanding of plasma heating in MCs." />
+<meta property="og:description" content="This article is about investigating the characteristics of Interplanetary Coronal Mass Ejections using in-situ observation. ICMEs are well-known to expand as they propagate through the heliosphere. Despite this, their cross-sections are usually modeled as static plasma columns within the magnetohydrodynamics (MHD) framework. We test the validity of this approach using in-situ plasma data from 151 magnetic clouds (MCs) observed by the WIND spacecraft and 45 observed by the Helios spacecraft. We find that the most probable cross-section expansion speeds for the WIND events are only ≈ 0.06 times the Alfvén speed inside the MCs, while the most probable cross-section expansion speeds for the Helios events is ≈ 0.03. MC cross-sections can thus be considered to be nearly static over an Alfvén crossing timescale. Using estimates of electrical conductivity arising from Coulomb collisions, we find that the Lundquist number inside MCs is high (≈ 1013 to 1014), suggesting that the MHD description is well justified. The Joule heating rates using our conductivity estimates are several orders of magnitude lower than the requirement for plasma heating inside MCs near the Earth. While the (low) heating rates we compute are consistent with the MHD description, the discrepancy with the heating requirement points to possible departures from MHD and the need for a better understanding of plasma heating in MCs." />
+<meta property="og:site_name" content="Welcome to CosmicVarta." />
+<meta property="og:image" content="/assets/images/massive_plasma_blob_sun_debesh/image_cover.jpg" />
+<meta property="og:type" content="article" />
+<meta property="article:published_time" content="2023-07-03T00:00:00+05:30" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta property="twitter:image" content="/assets/images/massive_plasma_blob_sun_debesh/image_cover.jpg" />
+<meta property="twitter:title" content="Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"Debesh Bhattacharjee"},"image":"/assets/images/massive_plasma_blob_sun_debesh/image_cover.jpg","@type":"BlogPosting","headline":"Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye","dateModified":"2023-07-03T00:00:00+05:30","datePublished":"2023-07-03T00:00:00+05:30","description":"This article is about investigating the characteristics of Interplanetary Coronal Mass Ejections using in-situ observation. ICMEs are well-known to expand as they propagate through the heliosphere. Despite this, their cross-sections are usually modeled as static plasma columns within the magnetohydrodynamics (MHD) framework. We test the validity of this approach using in-situ plasma data from 151 magnetic clouds (MCs) observed by the WIND spacecraft and 45 observed by the Helios spacecraft. We find that the most probable cross-section expansion speeds for the WIND events are only ≈ 0.06 times the Alfvén speed inside the MCs, while the most probable cross-section expansion speeds for the Helios events is ≈ 0.03. MC cross-sections can thus be considered to be nearly static over an Alfvén crossing timescale. Using estimates of electrical conductivity arising from Coulomb collisions, we find that the Lundquist number inside MCs is high (≈ 1013 to 1014), suggesting that the MHD description is well justified. The Joule heating rates using our conductivity estimates are several orders of magnitude lower than the requirement for plasma heating inside MCs near the Earth. While the (low) heating rates we compute are consistent with the MHD description, the discrepancy with the heating requirement points to possible departures from MHD and the need for a better understanding of plasma heating in MCs.","url":"/massive_plasma_blob_sun_debesh","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"/assets/images/cv.png"},"name":"Debesh Bhattacharjee"},"mainEntityOfPage":{"@type":"WebPage","@id":"/massive_plasma_blob_sun_debesh"},"@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+<link href="/assets/css/screen.css" rel="stylesheet">
+
+<link href="/assets/css/main.css" rel="stylesheet">
+
+<script src="/assets/js/jquery.min.js"></script>
+
+</head>
+
+
+
+
+<body class="layout-post">
+	<!-- defer loading of font and font awesome -->
+	<noscript id="deferred-styles">
+		<link href="https://fonts.googleapis.com/css?family=Righteous%7CMerriweather:300,300i,400,400i,700,700i" rel="stylesheet">
+		<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
+	</noscript>
+
+
+<!-- Begin Menu Navigation
+================================================== -->
+<nav class="navbar navbar-expand-lg navbar-light bg-white fixed-top mediumnavigation nav-down">
+
+    <div class="container pr-0">
+
+    <!-- Begin Logo -->
+    <a class="navbar-brand" href="/">
+    <img src="/assets/images/cv.png" alt="CosmicVarta">
+    </a>
+    <!-- End Logo -->
+
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarMediumish" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarMediumish">
+
+        <!-- Begin Menu -->
+
+            <ul class="navbar-nav ml-auto">
+
+                
+                <li class="nav-item">
+                
+                <a class="nav-link" href="/index.html">Home</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/about">About us</a>
+								</li>
+
+								<li class="nav-item">
+                <a target="_blank" class="nav-link" href="/upcoming"> Upcoming articles</a>
+                </li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/writers"> Join us</a>
+								</li>
+
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/career_help">  Career help</a>
+								</li>
+
+								<li class="nav-item">
+								<a target="_blank" class="nav-link" href="/links"> Useful Links</a>
+								</li>
+
+
+                <li class="nav-item">
+                <a target="_blank" class="nav-link" href="/contact"> Contact Us</a>
+                </li>
+
+
+
+                <script src="/assets/js/lunr.js"></script>
+
+
+<style>
+    .lunrsearchresult .title {color: #d9230f;}
+    .lunrsearchresult .url {color: silver;}
+    .lunrsearchresult a {display: block; color: #777;}
+    .lunrsearchresult a:hover, .lunrsearchresult a:focus {text-decoration: none;}
+    .lunrsearchresult a:hover .title {text-decoration: underline;}
+</style>
+
+
+<form class="bd-search" onSubmit="return lunr_search(document.getElementById('lunrsearch').value);">
+    <input type="text" class="form-control text-small launch-modal-search" id="lunrsearch" name="q" maxlength="255" value="" placeholder="Type and enter..."/>
+</form>
+
+<div id="lunrsearchresults">
+    <ul></ul>
+</div>
+
+<script src="/assets/js/lunrsearchengine.js"></script>
+
+            </ul>
+
+        <!-- End Menu -->
+
+    </div>
+
+    </div>
+</nav>
+<!-- End Navigation
+================================================== -->
+
+<div class="site-content">
+
+<div class="container">
+
+<!-- Site Title
+================================================== -->
+<div class="mainheading">
+    <h1 class="sitetitle">CosmicVarta</h1>
+    <p class="lead">
+         Platform for promoting Indian astronomy research to the public.
+    </p>
+</div>
+
+<!-- Content
+================================================== -->
+<div class="main-content">
+    <!-- Begin Article
+================================================== -->
+<div class="container">
+    <div class="row">
+
+        <!-- Post Share -->
+        <div class="col-md-2 pl-0">
+            <div class="share sticky-top sticky-top-offset">
+    <p>
+        Share
+    </p>
+    <ul>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://facebook.com/sharer.php?u=/massive_plasma_blob_sun_debesh" onclick="window.open(this.href, 'facebook-share', 'width=550,height=435');return false;">
+                <i class="fab fa-facebook-f"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url=/massive_plasma_blob_sun_debesh" onclick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+        </li>
+
+        <li class="ml-1 mr-1">
+            <a target="_blank" href="https://twitter.com/intent/tweet?text=Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye&url=/massive_plasma_blob_sun_debesh" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
+                <i class="fab fa-twitter"></i>
+            </a>
+        </li>
+
+
+        <li class="ml-1 mr-1">
+              <a href="https://api.whatsapp.com/send?text=/massive_plasma_blob_sun_debesh" onClick="window.open(this.href, 'width=550,height=435');return false;">
+                <i class="fab fa-whatsapp"></i>
+            </a>
+        </li>
+
+
+
+
+
+    </ul>
+    
+    <div class="sep">
+    </div>
+    <ul>
+        <li>
+        <a class="small smoothscroll" href="#disqus_thread"></a>
+        </li>
+    </ul>
+    
+</div>
+
+        </div>
+
+        <!-- Post -->
+        
+
+        <div class="col-md-9 flex-first flex-md-unordered">
+            <div class="mainheading">
+
+                <!-- Author Box -->
+                
+                <div class="row post-top-meta">
+                    <div class="col-xs-12 col-md-3 col-lg-2 text-center text-md-left mb-4 mb-md-0">
+                        
+                        <img class="author-thumb" src="/assets/images/debesh_bhattacharjee.jpg" alt="Debesh Bhattacharjee">
+                        
+                    </div>
+                    <div class="col-xs-12 col-md-9 col-lg-10 text-center text-md-left">
+                        <a target="_blank" class="link-dark" href="https://www.researchgate.net/profile/Debesh-Bhattacharjee">Debesh Bhattacharjee</a><a target="_blank" href="" class="btn follow">Connect</a>
+                        <span class="author-description">I just finished my PhD under the supervision of Prof. Prasad Subramanian from IISER Pune. Currently, I am joing for a post-doctoral position at the University of Glasgow, UK. I work on the dynamics and turbulent properties of ICMEs. <br><br>
+                          
+
+<b>8 min read</b>
+
+
+                        </span>
+                    </div>
+                </div>
+                
+
+                <!-- Post Title -->
+                <h1 class="posttitle">Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye</h1>
+
+            </div>
+
+            <!-- Adsense if enabled from _config.yml (change your pub id and slot) -->
+            
+            <!-- End Adsense -->
+
+            <!-- Post Featured Image -->
+            
+
+            
+            <!-- <img class="featured-image img-fluid lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="/assets/images/massive_plasma_blob_sun_debesh/image_cover.jpg" alt="Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye">
+            
+
+             -->
+            <!-- End Featured Image -->
+
+            <!-- Post Content -->
+            <div class="article-post">
+                <!-- Toc if any -->
+                
+                <!-- End Toc -->
+
+                <blockquote>
+
+  <p>This article is about investigating the characteristics of Interplanetary Coronal Mass Ejections using in-situ observation. ICMEs are well-known to expand as they propagate through the heliosphere. Despite this, their cross-sections are usually modeled as static plasma columns within the magnetohydrodynamics (MHD) framework. We test the validity of this approach using in-situ plasma data from 151 magnetic clouds (MCs) observed by the WIND spacecraft and 45 observed by the Helios spacecraft. We find that the most probable cross-section expansion speeds for the WIND events are only ≈ 0.06 times the Alfvén speed inside the MCs, while the most probable cross-section expansion speeds for the Helios events is ≈ 0.03. MC cross-sections can thus be considered to be nearly static over an Alfvén crossing timescale. Using estimates of electrical conductivity arising from Coulomb collisions, we find that the Lundquist number inside MCs is high (≈ 10<sup>13</sup> to 10<sup>14</sup>), suggesting that the MHD description is well justified. The Joule heating rates using our conductivity estimates are several orders of magnitude lower than the requirement for plasma heating inside MCs near the Earth. While the (low) heating rates we compute are consistent with the MHD description, the discrepancy with the heating requirement points to possible departures from MHD and the need for a better understanding of plasma heating in MCs.</p>
+
+  <hr />
+</blockquote>
+
+<p>You might wonder what is <em>in-situ</em> and what are <em>ICMEs</em>. Don’t worry, I am here to guide you
+through this article. ‘CMEs’ or Coronal Mass Ejections are massive blobs of plasma along with
+strong magnetic fields that erupt from the solar corona. Corona is the Latin word for ‘crown’ and
+it is the outermost layer of our Sun. It has nothing to do with the awful COVID pandemic. Due to
+the presence of the bright photosphere (the bright yellow disk we see during daytime), we cannot
+see the corona with our naked eyes. However, during a total solar eclipse, we can have a glimpse
+of it. Remember that beautiful aura encircled the sun during a total solar eclipse? Yes, that is
+solar corona (see Figure 1). It is extremely hot (temperature around a few million Kelvin (K)),
+much hotter than the photosphere (temperature ~ 6000 K). Why the corona is so hot, remains a
+mystery to the solar astrophysicists. Throughout this article, you will encounter the word,
+‘plasma’. A plasma is a medium filled with charged particles and due to its higher conductivity,
+the charged particles often gyrate closely to the magnetic field lines present in that medium.
+Hence, the charged particles can follow the motion of the magnetic field. Although made of
+charged particles, the plasma can be overall neutral.</p>
+
+<p align="center">
+  <img src="../assets/images/massive_plasma_blob_sun_debesh/image1.jpg" />
+</p>
+
+<p align="center">
+(<em>Figure 1: Total solar eclipse during April 1999. Picture courtesy: <a href="https://lucnix.be/">Luc Viatour </a></em>)
+</p>
+
+<p>One of the most spectacular events that come out from this ever-changing dancing dynamics of corona is the CME. CMEs are the largest-scale eruptive phenomena in the solar system. The huge lump of plasma of mass 10<sup>13</sup>-10<sup>15</sup> kg, accompanied with strong magnetic fields, is hauled up out of the corona all the way into the interplanetary space with a typical velocity ranging from several hundred to more than 1000 km per second. Due to their high velocities, CMEs are often accompanied by shocks in front of them. A typical CME has a kinetic energy of around 10<sup>22</sup>-10<sup>25</sup> Joules. Broadly, CME observation methods can be divided into two categories: 1) remote observations and 2) in-situ observations. The first kind, as the name suggests, observes the CMEs from far away, usually when they come out of the Sun. We need to rely on the CME images as none of the spacecraft can go that much close to the Sun. This is because, as of now, we do not have the technology which can survive the extreme environment (the million K coronal temperature, the strong electromagnetic fields, the bombardment of highly accelerated charged particles, strong radiation hazards, etc.) in the proximity of the Sun. One of the key techniques used in this method is the use of ‘coronagraphs’. A coronagraph acts like an artificial total solar eclipse by blocking the bright solar disk so that we can observe the dynamics of the CME while it is getting ejected out into the interplanetary space. Figure 2 shows two coronagraph images of a CME on February 27, 2000, observed by the Large Angle and Spectrometric COronagraph (LASCO) instrument on board the SOlar and Heliospheric Observatory  <a href="https://www.nasa.gov/mission_pages/soho/index.html">(SOHO) </a>, a joint mission by NASA and ESA. The left panel is an image from the C2 coronagraph with a field of view (FOV) of 2.2 - 6.0 R<sub>⊙</sub> (R<sub>⊙</sub> is the radius of the Sun) and the right panel is from the C3 coronagraph with FOV from 3.7 to 30 R<sub>⊙</sub>. In both images, the inner circle represents the Sun while the outer circle signifies the occulter of the coronagraph.</p>
+
+<p align="center">
+  <img src="../assets/images/massive_plasma_blob_sun_debesh/image2.jpg" />
+</p>
+
+<p align="center">
+Figure 2: The coronagraph image of a CME eruption. Image courtesy: LASCO instrument
+aboard SOHO
+</p>
+
+<p>When the CME travels through the interplanetary space, it expands and interacts with the solar wind. In the propagation phase, CMEs are often called ‘Interplanetary CMEs’ or ICMEs. Due to its humongous size and low plasma density during this phase, it becomes almost impossible to capture the entire ICME using any imaging technique. Here the second method, the in-situ observation, becomes useful. In this method, the spacecraft passes through the ICME cross-section and directly measures the important parameters of a propagating ICME. During its propagation, the plasma entangled with the smooth and twisted magnetic field lines (which resemble the telephone cord) forms a huge cloud-like structure known as the Magnetic Cloud or MC. Figure 3 shows a cartoon describing an MC associated with an ICME as it travels through interplanetary space. An example of the in-situ data measured close to 1 astronomical unit (The distance between the Sun and the Earth is called 1 astronomical unit or AU. It is approximately 15 crore km) by the <a href="https://wind.nasa.gov/">WIND </a> spacecraft as shown in Figure 4.</p>
+
+<p align="center">
+  <img src="../assets/images/massive_plasma_blob_sun_debesh/image3.jpg" />
+</p>
+
+<p align="center">
+Figure 3: A cartoon diagram of a magnetic cloud associated with an ICME.
+</p>
+<p>This article aims at understanding the ICME expansion and heating (using in-situ observation) during their propagation through the interplanetary space by asking three questions:</p>
+
+<ol>
+  <li><em>How Good Is the Static Assumption for ICMEs?</em></li>
+  <li><em>How Good is the Ideal MHD Assumption for ICMEs?</em></li>
+  <li><em>Can Joule Heating Meet the Heating Budget of ICME plasma?</em></li>
+</ol>
+
+<p>All three questions are addressed in detail in their respective paragraphs.</p>
+
+<p align="center">
+  <img src="../assets/images/massive_plasma_blob_sun_debesh/image4.jpg" />
+</p>
+<p align="center">
+Figure 4: An example of the in-situ data from the WIND spacecraft. 
+</p>
+
+<p>The spacecraft measures the parameters (total magnetic field (B), magnetic field components (B<sub>x</sub>,B<sub>y</sub>,B<sub>z</sub>), proton number density (N<sub>p</sub>), plasma beta (β), etc.). The plasma beta is the ratio between gas pressure (P<sub>gas</sub>,) and magnetic pressure (P<sub>mag</sub>,). The vertical lines depict the width of the MC.</p>
+
+<p>Though it is evident from the observations that ICMEs do expand (i.e., their cross-sections
+increase with time) as they propagate through the heliosphere, a lot of studies (Lundquist(1951),
+Burlaga (1988), Möstl et al., 2009; Isavnin, Kilpua, and Koskinen, 2011) assumed the ICME
+cross-sections to be ‘<strong>static plasma columns</strong>’! (In simpler words, it means the plasma inside the
+ICMEs are at rest.) This is because this assumption leads to the magnetohydrostatic (it is similar
+to hydrostatic equilibrium which is a certain type of equilibrium used for fluids when they are at
+rest, the only difference is, it is used for a plasma, not for a regular fluid) equilibrium. We know
+that physicists love equilibrium as it makes mathematical computations a lot easier. So, though
+we all know that the ICME cross-sectional expansion speed is never strictly zero, it is assumed to
+be zero (the scientists assumed that the expansion speed is very small) and hence we get the
+equilibrium. But no one to date has ever investigated the validity of this approximation. And so,
+in the first part of this study, we are aiming at the question: <em>How Good Is the Static Assumption for ICMEs?</em></p>
+
+<p>For that, we compare the cross-sectional expansion speed (v<sub>exp</sub>) of MCs with the Alfven speed (v<sub>A</sub>)
+inside them. Alfven speed is the measure of the propagation of the magnetic perturbations
+perpendicular to the magnetic field. We know that the sound speed of a medium is the
+characteristic speed of that particular medium. Similarly, is one of the characteristic speeds of
+the plasma. If v<sub>exp</sub> is sufficiently smaller than v<sub>A</sub>, or in other words, if the Alfven crossing timescale is much smaller than the cross-sectional expansion timescale, the magnetostatic assumption can be
+considered to be approximately valid inside the propagating ICMEs. We have taken a large
+sample of well-observed ICMEs: 151 events close to the Earth (using the data from the WIND
+spacecraft close to 1 AU) and 45 events in the interplanetary space between the Sun and the
+Earth (using the Helios data from 0.29 AU to close to 1 AU). We estimate R<sub>A</sub>, the ratio between v<sub>exp</sub>
+and v<sub>A</sub> and found that the most probable values of are of R<sub>A</sub> the order of 0.01. The statistical results
+are described in Figure 5. Our findings show that the ICME cross-sections can be assumed to be
+static (to a fairly good extent) over an Alfven crossing timescale.</p>
+
+<p align="center">
+  <img src="../assets/images/massive_plasma_blob_sun_debesh/image5a.jpg" />
+    <img src="../assets/images/massive_plasma_blob_sun_debesh/image5b.jpg" />
+</p>
+<p align="center">
+Figure 5: Histograms of <em>R<sub>A</sub></em>: the top panel shows the results for the WIND events while the bottom panel shows the results for the Helios events.
+</p>
+
+<p>Solar astrophysicists use a fluid-like prescription for plasma dynamics; it is known as magnetohydrodynamics (MHD). The conventional treatment assumes that the CME plasma obeys the ideal MHD, i.e., the magnetic field never diffuses and remains attached with the plasma particles. However, this assumption, too, had not been verified earlier. In the second part of our study, we ask: <em>How Good is the Ideal MHD Assumption for ICMEs?</em></p>
+
+<p>The estimation of the Lundquist number (S<sub>0</sub>) is one way to do this. S<sub>0</sub> is the ratio between the magnetic diffusion timescale (t<sub>𝜂</sub>) and the Alfven crossing timescale (𝑡<sub>𝐴</sub>). For the ideal MHD condition, t<sub>𝜂</sub> (which means that the magnetic fields take infinite time to diffuse, in other words, they never diffuse), implying 𝑆0. So, the larger the magnitude of S<sub>0</sub>, the more the plasma will follow the assumptions of the ideal MHD. We have found that S<sub>0</sub> is significantly large inside the ICME plasma (≅10<sup>13</sup> ), suggesting a good justification for the use of the ideal MHD approximations (see Figure 6) to describe the motion of the ICMEs.</p>
+
+<p align="center">
+  <img src="../assets/images/massive_plasma_blob_sun_debesh/image6a.jpg" />
+    <img src="../assets/images/massive_plasma_blob_sun_debesh/image6b.jpg" />
+</p>
+<p align="center">
+Figure 6: Histograms of <em>S<sub>0</sub></em>: the top panel shows the results for the WIND events while the bottom panel shows the results for the Helios events.
+
+</p>
+
+<p>So far, we have seen that the ICME plasma fairly obeys the assumptions of the ideal MHD. However, there is a cache! The ideal MHD assumes zero heating of the plasma. But numerous observations confirm that the temperature of the near-Earth ICME can reach as high as ≅10<sup>5</sup>
+K! Hence, the ideal MHD framework cannot explain the heating of CME plasma. Joule heating is the simplest type of heating mechanism we can investigate. In the last part of this study, we ask: <em>Can Joule Heating Meet the Heating Budget of ICME plasma?</em>
+To answer this question, we have evaluated the Joule heating (which is like the 𝐼<sup>2</sup>𝑅 heating inside an electrical wire, where I is the current and R is the resistance of the wire) rate inside all the ICMEs in our sample. We have found that the Joule heating rate (which we have found to be ≅10<sup>-6</sup>𝐽𝑘𝑔<sup>-1</sup>𝑠<sup>-1</sup>) is significantly smaller than the required heating budget (≅10<sup>3</sup>𝐽𝑘𝑔<sup>-1</sup>𝑠<sup>-1</sup>) of the CME plasma. It proves that the Joule heating is not the right candidate for CME heating! One needs to look for another heating mechanism. CME thermodynamics is one of the most exciting topics under solar astrophysics and to date, no one knows the exact mechanism of CME heating. There are important approaches like, whether the CMEs are expanding adiabatically or getting heated isothermally via the thermal conduction from the solar corona, or whether turbulence plays a role in the local heating of CME plasma. But overall, this remains an unsolved mystery.</p>
+
+<p>You might wonder why we are so bothered about these giant plasma blobs. The reason is, Earth-directed ICMEs are the primary drivers of strong geomagnetic storms leading to space weather disturbances.  Such disturbances affect a wide range of technologies and communication systems we rely on. Starting from the damage to satellites, telecommunication systems, GPS, and electrical power supply to the radiation hazards on the human body. These disturbances can also cause red alerts for the astronaut’s safety. In order to mitigate these effects, we need to predict the arrival times and other important information (such as the strength and rotation of the magnetic field, ICME speed, their energy, etc.) of these ICMEs as realistically as possible. To do that, a good understanding of the CMEs is crucial. With the launch of the Aditya L1 mission, which is India’s first mission dedicated to solar astronomy, we hope to have a new milestone in the advancement of CME research.</p>
+
+<hr />
+
+<p><strong>Original paper:</strong>
+<a href="https://link.springer.com/article/10.1007/s11207-022-01982-x" target="_blank">On Modeling ICME Cross-Sections as Static MHD Columns</a></p>
+
+<p><strong>First Author:</strong>  Debesh Bhattacharjee</p>
+
+<p><strong>Co-authors:</strong>  Prasad Subramanian, Volker Bothmer, Teresa Nieves-Chinchilla &amp; Angelos Vourlidas</p>
+
+<p><strong>First author’s Institution:</strong> Indian Institute of Science Education and Research, Pune; Dr. Homi Bhabha Road, Pashan, Pune
+411008, India.</p>
+
+<div id="disqus_thread"></div>
+<script>
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+    };
+    */
+    (function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = 'https://cosmicvarta-in.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+            </div>
+
+            <!-- Rating -->
+            
+
+            <!-- Post Date -->
+            <p>
+            <small>
+                <span class="post-date"><time class="post-date" datetime="2023-07-03">03 Jul 2023</time></span>
+                
+                </small>
+            </p>
+
+            <!-- Post Categories -->
+            <div class="after-post-cats">
+                <ul class="tags mb-4">
+                    
+                    
+                    <li>
+                        <a class="smoothscroll" href="/categories#Solar-and-Stellar-Astrophysics">Solar and Stellar Astrophysics</a>
+                    </li>
+                    
+                </ul>
+            </div>
+            <!-- End Categories -->
+
+            <!-- Post Tags -->
+            <div class="after-post-tags">
+                <ul class="tags">
+                    
+                    
+                </ul>
+            </div>
+            <!-- End Tags -->
+
+            <!-- Prev/Next -->
+
+        <!-- End Post -->
+
+    </div>
+</div>
+<!-- End Article
+================================================== -->
+
+<!-- Begin Comments
+================================================== -->
+
+<h2>Related articles</h2>
+
+
+
+
+
+<ul>
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+
+    	
+        
+
+		
+
+        
+	
+</ul>
+
+
+    <div class="container">
+        <div id="comments" class="row justify-content-center mb-5">
+            <div class="col-md-8">
+                <section class="disqus">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
+        var disqus_shortname = ''; 
+        var disqus_developer = 0;
+        (function() {
+            var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+            dsq.src = window.location.protocol + '//' + disqus_shortname + '.disqus.com/embed.js';
+            (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+        })();
+    </script>
+    <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+    <a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
+</section>
+
+            </div>
+        </div>
+    </div>
+
+
+<hr><hr>
+<!--End Comments
+================================================== -->
+
+<!-- Review with LD-JSON, adapt it for your needs if you like, but make sure you test the generated HTML source code first:
+https://search.google.com/structured-data/testing-tool/u/0/
+================================================== -->
+
+
+</div>
+
+
+<!-- Bottom Alert Bar
+================================================== -->
+<div class="alertbar">
+	<div class="container text-center">
+		<span> &nbsp; Never miss an <b>article</b> from us. Subscribe to our website <a href='https://forms.gle/a7iLs1Tc7DCPVhtW7'target=None>here.</a>
+        </form>
+	</div>
+</div>
+
+
+</div>
+
+<!-- Categories Jumbotron
+================================================== -->
+
+
+<!-- Begin Footer
+================================================== -->
+<!-- End Footer
+================================================== -->
+
+</div> <!-- /.site-content -->
+
+<!-- Scripts
+================================================== -->
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.6/umd/popper.min.js" integrity="sha384-wHAiFfRlMFy6i5SRaxvfOCifBUQy1xHdJ/yoi7FRNXMRBu5WHdZYu1hA6ZOblgut" crossorigin="anonymous"></script>
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
+
+<script src="/assets/js/mediumish.js"></script>
+
+
+<script src="/assets/js/lazyload.js"></script>
+
+
+<script src="/assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+<script id="dsq-count-scr" src="//.disqus.com/count.js"></script>
+
+
+
+
+        <footer class="ftco-footer ftco-section" id="contact-section">
+          <div class="container">
+            <div class="row mb-5">
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+
+
+                  <p>Beauty is that to what the human mind responds at its deepest and most profound.</p> <b><a href="https://quotefancy.com/quote/1645323/Subrahmanyan-Chandrasekhar-Beauty-is-that-to-what-the-human-mind-responds-at-its-deepest#:~:text=Subrahmanyan%20Chandrasekhar%20Quote%3A%20%E2%80%9CBeauty%20is,its%20deepest%20and%20most%20profound.%E2%80%9D"target=None>-Subrahmanyan Chandrasekhar</a></b></p>
+
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4 ml-md-4">
+                  <h2 class="ftco-heading-2">Links</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="/index.html"><span class="icon-long-arrow-right mr-2"></span>Home</a></li>
+                    <li><a href="/about"><span class="icon-long-arrow-right mr-2"></span>About</a></li>
+                    <li><a href="/writers"><span class="icon-long-arrow-right mr-2"></span>Join Us</a></li>
+                    <li><a href="/upcoming"><span class="icon-long-arrow-right mr-2"></span>Upcoming articles</a></li>
+                    <li><a href="/contact"><span class="icon-long-arrow-right mr-2"></span>Contact</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                 <div class="ftco-footer-widget mb-4">
+                  <h2 class="ftco-heading-2">Social media</h2>
+                  <ul class="list-unstyled">
+                    <li><a href="https://facebook.com/cosmicvarta"><span class="icon-long-arrow-right mr-2"></span>Facebook</a></li>
+                    <li><a href="https://twitter.com/cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Twitter</a></li>
+                    <li><a href="https://www.medium.com/@cosmicvarta"target=None><span class="icon-long-arrow-right mr-2"></span>Medium</a></li>
+                  </ul>
+                </div>
+              </div>
+              <div class="col-md">
+                <div class="ftco-footer-widget mb-4">
+                	<h2 class="ftco-heading-2">Enquiry </h2>
+                	<div class="block-23 mb-3">
+    	              <ul  class="list-unstyled">
+    	             <span class="icon icon-map-marker"></span><span class="text">   For any enquiry, you may drop in an email to us at:</span></li>
+
+    	               <a href="mailto:cosmicvarta@gmail.com"><span class="icon icon-envelope"></span><span class="text">cosmicvarta@gmail.com</span></a></li>
+    	              </ul>
+    	            </div>
+                </div>
+              </div>
+            </div>
+            <div class="row">
+              <div class="col-md-12 text-center">
+
+                <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+  <b>  Copyright © 2023 CosmicVarta.  All rights reserved </b> </p>
+
+
+
+              </div>
+            </div>
+          </div>
+        </footer>
+
+
+
+
+</body>
+</html>
