@@ -5,9 +5,112 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 03 Jul 2023 18:34:39 +0530</pubDate>
-    <lastBuildDate>Mon, 03 Jul 2023 18:34:39 +0530</lastBuildDate>
+    <pubDate>Thu, 13 Jul 2023 20:27:16 +0530</pubDate>
+    <lastBuildDate>Thu, 13 Jul 2023 20:27:16 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Chandrayaan-3 : A 14 day lunar cruise</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;India’s ambitious space program reaches new heights as Chandrayaan-3, the eagerly anticipated lunar exploration mission, prepares for launch. Get ready to witness history in the making as India embarks again on an extraordinary journey towards the Moon, marking a remarkable milestone for the nation and igniting a wave of excitement across the country.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;b&gt;Chandrayaan-3&lt;/b&gt; is the planned 3rd lunar exploration mission by the Indian Space Research Organisation (ISRO), with the aim of demonstrating the end-to-end capability in safe landing and roving on the lunar surface along with the development and demonstration of new technologies intended towards inter-planetary missions. The developed system for the mission consists of an indigenous Lander module (Vikram), a Rover (Pragyan) and a Propulsion module.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/chandrayaan_3_cysil/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: A schematic illustration of the Integrated Module. &lt;em&gt;Credits:&lt;/em&gt; ISRO
+&lt;/p&gt;
+
+&lt;p&gt;The launcher identified for Chandrayaan-3 is LVM3-M4 (Launch Mark 3 - Mission 4), which will place the integrated module in an Elliptic Parking Orbit (EPO). The pri- mary function of the Propulsion module is to transport the Lander from the launch vehicle injection till its entry into the lunar polar orbit at an altitude of 100 kms from the lunar surface, after which the Lander separates from the Propulsion module and begins its descent. The Lander is equipped with the capability to perform a soft land at a specified lunar site (69.367621 S, 32.348126 E) and deploy the Rover which will then carry out in-situ chemical analysis of the lunar surface during the course of its planned lifetime of 14 Earth days (1 Lunar Day). The Propulsion Module also has one scientific payload as a secondary function which will be operated post separation of Lander module.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/chandrayaan_3_cysil/image2a.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/chandrayaan_3_cysil/image2a.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: A schematic illustration of the Chandrayaan-3 Lander (Top) and Rover (Bottom). &lt;em&gt;Credits:&lt;/em&gt; ISRO
+&lt;/p&gt;
+
+&lt;p&gt;The mission objectives of Chandrayaan-3 are:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;To demonstrate Safe and Soft Landing on Lunar Surface&lt;/li&gt;
+  &lt;li&gt;To demonstrate Rover roving on the moon&lt;/li&gt;
+  &lt;li&gt;To conduct in-situ scientific experiments&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The Propulsion module, the Lander and the Rover hosts a total of 7 scientific payloads
+in order to carry out experiments on the lunar surface and atmosphere. They are listed
+below.&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;b&gt;Radio Anatomy of Moon Bound Hypersensitive ionosphere and Atmosphere
+(RAMBHA)&lt;/b&gt; - [Lander] - This experiment makes use of a Langmuir Probe in order to measure the near surface plasma density and its changes with time.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Chandra’s Surface Thermo physical Experiment (ChaSTE)&lt;/b&gt; - [Lander] - To measure the thermal conductivity and temperature of the lunar surface.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Instrument for Lunar Seismic Activity (ILSA)&lt;/b&gt; - [Lander] - An experiment to measure the seismicity of the lunar surface and delineating the structure of the lunar crust and mantle.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Laser Retroreflector Array (LRA)&lt;/b&gt; - [Lander] - A passive experiment to understand the dynamics of Moon system.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Alpha Particle X-Ray Spectrometer (APXS)&lt;/b&gt; - [Rover] - To determine the elemental composition of the surface in the immediate vicinity of the landing site.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Laser Induced Breakdown Spectroscope (LIBS)&lt;/b&gt; - [Rover] - To infer the mineralogical composition of the lunar surface through elemental analysis.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;Spectro-polarimetry of HAbitable Planet Earth (SHAPE)&lt;/b&gt; - [Propulsion module] - To observe the Earth in reflected light in an attempt to decipher future discoveries of Exo-planets which would qualify for habitability.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Within the predecessors to the Chandrayaan-3, Chandrayaan-2 boasted a ‘significant technological leap’ compared to the Chandrayaan-1. The Vikram Lander onboard the Chandrayaan-2 accomplished its intended descent trajectory, smoothly transitioning from an orbit of 35 km to a position slightly below 2 km above the lunar surface. During this phase, all systems and sensors of the Lander operated flawlessly, demonstrating the successful utilization of groundbreaking technologies, such as the innovative variable thrust propulsion system. Unfortunately, communication with the Lander was lost during the final descent phase. Subsequent investigations confirmed that the lander experienced a hard landing on the lunar surface, resulting in the loss of the lander itself. Chandrayaan-3 aims to address the challenges of its predecessors and enhance the current understanding of the Moon. On successful landing at the specified site, India will immortalise herself as the fourth country to land its spacecraft on the surface of the Moon and the first country to land near the South Pole of the Moon.&lt;/p&gt;
+
+&lt;p&gt;The launch of Chandrayaan-3 has been scheduled for &lt;b&gt;July 14, 2023, at 2:35 pm IST&lt;/b&gt; from the &lt;b&gt;Satish Dhawan Space Centre, Sriharikota&lt;/b&gt;. The spacecraft is expected to reach the moon by the 23rd − 24th August.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Thu, 13 Jul 2023 00:00:00 +0530</pubDate>
+        <link>/chandrayaan_3_cysil</link>
+        <guid isPermaLink="true">/chandrayaan_3_cysil</guid>
+        
+        <category>International</category>
+        
+        <category>India</category>
+        
+        <category>ISRO</category>
+        
+        <category>Chandrayaan</category>
+        
+        <category>moon</category>
+        
+        <category>lunar exploration</category>
+        
+        
+        <category>General</category>
+        
+      </item>
     
       <item>
         <title>Investigating the massive plasma blobs from the Sun using an ‘in-situ’ eye</title>
@@ -1046,99 +1149,6 @@ Figure 1: The SXS simulation of colliding black holes distorting spacetime aroun
         <guid isPermaLink="true">/gravitational_waveforms_pankaj</guid>
         
         <category>Testing general relativity using gravitational waves</category>
-        
-        
-        <category>High Energy Astrophysical Phenomena</category>
-        
-      </item>
-    
-      <item>
-        <title>Using a pseudo-Kerr formalism to study accretion and wind flows around rotating black holes</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;Hydrodynamic flows around black holes is a fascinating area of research that provides a window into the processes that power relativistic jets and energetic particle acceleration. However, this is a challenging task when studied using the full general relativistic framework. In our work, we find an exact pseudo-potential formalism that can be used to study hydrodynamics around rotating black holes very accurately. This formalism can be a useful tool in numerical simulation studies and to extract spin parameter of black hole candidates.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Accretion is one of the most fundamental physical processes in the universe that describes the inflow of matter towards a central gravitating object or the centre of mass of an extended system and is responsible for the formation and evolution of structures in the universe. However, the most spectacular observational manifestation of accretion occurs when the central objects are the most compact in the cosmos – black holes!&lt;/p&gt;
-
-&lt;p&gt;The existence of black holes (BHs) is a remarkable prediction of Einstein’s theory of General Relativity (GR). According to GR, gravity is a geometric phenomenon that arises from the curvature of space-time instead of being an invisible force that attracts objects towards each other. The more massive an object, the more it curves space-time. BHs are regions in space bounded by a surface called the event horizon from which nothing, not even light, can escape. In this sense, they are perfect space-time traps, and the event horizon marks the boundary of no return. This means that a BH itself is invisible. However, astronomers can still observe them indirectly through the way it affects the motion of nearby stars and pulls matter into orbit around them. As matter accretes around a BH, it heats up. It releases vast amounts of energy in the form of radiation. In this way, the accretion of matter onto BHs powers some of the most luminous sources in the universe.&lt;/p&gt;
-
-&lt;p&gt;According to GR, a BH is characterized by just three observable properties – mass M, angular momentum J and electric charge Q. In any realistic setting, however, a BH is unlikely to have any electric charge because it will typically be rapidly neutralized by the plasma surrounding it. Therefore, astrophysically relevant BHs can be fully described by only their mass and angular momentum. It is helpful to define the dimensionless spin parameter of a BH as a=J/M, i.e., the angular momentum per unit mass of the BH, that can take any values within the range 0&amp;lt;|a|&amp;lt;1. The BH is non-rotating when a=0 and a=1 correspond to the maximum value of the angular momentum a BH can attain. To determine the mass of a BH, astronomers can observe how groups of stars and gas move around the BH, which is a relatively easy task. However, the spin is rather subtle because it requires probing the strong gravity region close to the BH, where relativistic effects are prominent. So, the measurement of BH spin requires a model that can accurately describe the relativistic effects close to the event horizon of the BH. In general, most of the astrophysical BHs are expected to be rotating. They are defined by the &lt;a href=&quot;https://en.wikipedia.org/wiki/Kerr_metric&quot; target=&quot;_blank&quot;&gt;Kerr metric&lt;/a&gt;, which is an exact solution of the Einstein field equations of GR. The geometry of the space-time described by the Kerr metric is shown in Figure 1, where all the important surfaces are marked. The outer event horizon is essentially the surface from which nothing can return. The shaded region called the ergoregion is another essential region where everything is forced to rotate with the BH and has exciting observational consequences.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
- Figure 1: The geometry of the space-time described by the Kerr metric (Credit: &lt;a href=&quot;https://arxiv.org/pdf/0706.0622.pdf&quot; target=&quot;_blank&quot;&gt;Matt Visser&lt;/a&gt;)
-&lt;/p&gt;
-
-&lt;p&gt;To study accretion flows around a BH, one must solve the relativistic hydrodynamics equations. Since this task is very challenging when studied using GR, it is often useful to use the pseudo-potential approach. The advantage of the pseudo-potential approach is that one can use the equations of Newtonian hydrodynamics but with the Newtonian potential replaced by a pseudo-potential that mimics the relativistic effects around BHs. One can use this approach to easily study complex processes around BHs as if the central object is a Newtonian object. This approach is also helpful in easily handling radiative transfer problems in time-dependent numerical simulations just by replacing a few lines in numerical codes written for a Newtonian object. However, the pseudo-potential must be accurate enough so that the errors crept in for not using GR equations are within the observational errors. For non-rotating BHs, a pseudo-potential was introduced by &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1980A%26A....88...23P&quot; target=&quot;_blank&quot;&gt;Paczynski &amp;amp; Wiita&lt;/a&gt; (1980, hereafter PW80) that captures the relativistic features of the non-rotating BHs quite accurately and has been extensively used to investigate the physical properties of accretion flows around non-rotating BHs.&lt;/p&gt;
-
-&lt;p&gt;Our &lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1674-4527/ac4889&quot; target=&quot;_blank&quot;&gt;recent publication&lt;/a&gt; derives the exact form of the effective potential for hydrodynamic flows around a rotating BH from the Kerr metric. We assume that the accretion flow is confined near the equatorial plane of the BH, and we find that this potential accurately reproduces the relativistic features of particle orbits for the entire range of the spin parameter. One can treat this effective potential as a pseudo-potential used in a Newtonian set of equations to describe accretion flows around rotating BHs. We call this the pseudo-Kerr formalism because this uses a Newtonian approach to study hydrodynamics around rotating (Kerr) BHs which are relativistic objects. So, knowledge of Newtonian hydrodynamics is sufficient. One needn’t have to bother about GR when applying this potential to study accretion flows around BHs. This is because all the relativistic effects are already incorporated into the potential. Moreover, a Taylor series expansion of our potential reveals that the leading order term is the PW80 potential. So our potential includes all the higher-order corrections to the PW80 potential for non-rotating BHs.&lt;/p&gt;
-
-&lt;p&gt;We use the pseudo-potential in a Newtonian approach to study accretion and wind flows around rotating BHs.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image2.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: The variation of (a) shock location, (b) shock strength and (c) compression ratio with the specific energy of the flow for a=0.5 and different values of angular momentum l=2.8, 2.9, 3.0. The stable (and unstable) shock locations are shown by solid (and dashed) curves. The left (and right) segments of each set of curves for a particular value of angular momentum corresponds to accretion (and winds). The GR curves are shown in red color. 
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/pseudo_Kerr_formalism_rotating_bh_abhrajit/image3.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-Figure 3: An example of shock solution in (a) accretion (a=0.5, l=3.0, E=1.003) and (b) wind (a=0.5, l=3.0, E=1.007) . The dashed vertical arrows indicate the stable shock transitions and the GR solutions are shown in red color. 
-&lt;/p&gt;
-
-&lt;p&gt;The wind flows are outflowing matter from the region close to a BH and is an opposite process to accretion. For simplicity, we assume that the flow has no dissipation, i.e., the fluid is chosen to be inviscid (having zero viscosity). This means that the specific angular momentum of the flow remains constant. We then solve the equations of Newtonian hydrodynamics and show that the accretion process is necessarily transonic in nature. Transonic flows in this context mean that the radial velocity of the matter is subsonic (velocity less than sound speed) far away from the BH, and it gradually increases to become supersonic (velocity greater than sound speed) and finally enters the event horizon of the BH with the speed of light. Transonic flows are essential because they provide evidence for the formation of shock waves which are abrupt and strong discontinuities in the properties (pressure, temperature and density) of the accreting matter usually associated with violent phenomena in BH environments. Shock waves play a critical role in the dynamics of accretion flows. They can have important effects on the structure and evolution of accretion flows. In studies of transonic flows, it is useful to define a quantity called Mach number M=v/a&lt;sub&gt;s&lt;/sub&gt;, which is the ratio of the velocity of matter v and the speed of sound a&lt;sub&gt;s&lt;/sub&gt;. Then,  M&amp;lt;1 for subsonic flow and M&amp;gt;1 for supersonic flow. Two crucial parameters useful in studying shock waves are the shock strength S=M&lt;sub&gt;-&lt;/sub&gt;/M&lt;sub&gt;+&lt;/sub&gt; and the shock compression ratio R=ρ&lt;sub&gt;+&lt;/sub&gt;/ρ&lt;sub&gt;-&lt;/sub&gt;, where M is the Mach number, and ρ is the flow density. Both the quantities are calculated at the location of the shock, and the +/- signs correspond to quantities just after/before the shock. These quantities measure the discontinuities in the Mach number (or velocity) and density of the accreting matter.&lt;/p&gt;
-
-&lt;p&gt;We investigate the shock solutions in accretion and winds in detail. Comparing our results with the GR solutions reveals that our approach reproduces the GR values accurately. In Figure 2, we show the variation of the shock location, shock strength and shock compression ratio as a function of the specific energy for different values of the angular momentum of the flow for both accretion and wind. One can observe that the values are very close to the GR values (the red curves). In Figure 3, we show an example of a shock solution (the variation of the Mach number with the radial coordinate) for both accretion and wind and compare it with the GR solution (the red curves). The shock location in both cases is shown with dashed vertical arrows.&lt;/p&gt;
-
-&lt;p&gt;We find that our approach reproduces the GR results with high accuracy, and the errors, if any, are all within observational limits. This is true even when one chooses a highly spinning BH with a~1. This formalism can be a useful tool to study various aspects of accretion processes around BHs and to carry out numerical simulations that could provide new insights into problems that are usually tedious when studied using the GR approach.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1674-4527/ac4889&quot; target=&quot;_blank&quot;&gt;Transonic Accretion and Winds Around Pseudo-Kerr Black Holes And Comparison with General Relativistic Solutions&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Abhrajit Bhattacharjee&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Sandip K. Chakrabarti, Dipak Debnath&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Centre for Space Physics, Kolkata , India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Tue, 14 Mar 2023 00:00:00 +0530</pubDate>
-        <link>/pseudo_Kerr_formalism_rotating_bh_abhrajit</link>
-        <guid isPermaLink="true">/pseudo_Kerr_formalism_rotating_bh_abhrajit</guid>
-        
-        <category>Black Hole Physics</category>
-        
-        <category>Accretion</category>
         
         
         <category>High Energy Astrophysical Phenomena</category>

@@ -493,6 +493,15 @@ authors:
         twitter: 
         description: "I just finished my PhD under the supervision of Prof. Prasad Subramanian from IISER Pune. Currently, I am joing for a post-doctoral position at the University of Glasgow, UK. I work on the dynamics and turbulent properties of ICMEs."
 
+ Cysil Tom Baby:
+        name: Cysil Tom Baby
+        display_name: Cysil Tom Baby
+        avatar: 'assets/images/cysil_tom_baby.jpg'
+        email: 
+        web: 
+        twitter: 
+        description: "I am a Masters graduate from CHRIST (Deemed to be University). I am interning as a Project Intern in an ISRO funded project to study the elemental abundance of the surface of the moon using Chandrayaan-2. I have prior research experience in machine learning and stellar astrophysics"
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
