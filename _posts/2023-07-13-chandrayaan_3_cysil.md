@@ -63,6 +63,8 @@ Within the predecessors to the Chandrayaan-3, Chandrayaan-2 boasted a 'significa
 
 The launch of Chandrayaan-3 has been scheduled for <b>July 14, 2023, at 2:35 pm IST</b> from the <b>Satish Dhawan Space Centre, Sriharikota</b>. The spacecraft is expected to reach the moon by the 23rd − 24th August.
 
+Live telecast of the launch can be viewed on the <a href="https://www.youtube.com/live/q2ueCg9bvvQ?feature=share" target="_blank"> official ISRO YouTube channel.</a>
+
 ---
 
 <div id="disqus_thread"></div>
