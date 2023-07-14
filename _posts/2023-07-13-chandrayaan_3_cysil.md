@@ -33,7 +33,7 @@ The launcher identified for Chandrayaan-3 is LVM3-M4 (Launch Mark 3 - Mission 4)
 </p>
 
 <p align="center">
-  <img src="../assets/images/chandrayaan_3_cysil/image2a.png">
+  <img src="../assets/images/chandrayaan_3_cysil/image2b.png">
 </p>
 
 <p align = "center">
