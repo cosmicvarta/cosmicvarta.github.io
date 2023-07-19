@@ -5,9 +5,188 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 14 Jul 2023 11:10:38 +0530</pubDate>
-    <lastBuildDate>Fri, 14 Jul 2023 11:10:38 +0530</lastBuildDate>
+    <pubDate>Wed, 19 Jul 2023 18:26:52 +0530</pubDate>
+    <lastBuildDate>Wed, 19 Jul 2023 18:26:52 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Looking at five radio-quiet AGN through the polarization lens</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;This article discusses the results from our combined radio polarization and emission line study of five type-2 radio-quiet quasars. We investigate the origin of radio emission in these sources and understand what impact the local gaseous environments have on the nature of radio outflows in them. Our work further sheds light on the potential of using radio polarization as an efficient tool to look for signatures of AGN feedback in the relatively understudied class of radio-quiet AGN.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+
+&lt;p&gt;AGN are amongst the most energetic and extraordinarily radiant phenomena in the Universe. They are powered by supermassive black holes (SMBHs; with masses ranging between 106 − 1010 solar masses (M⊙)) that are actively accreting matter through an accretion disk and releasing tremendous amounts of energy in the form of radiation and outflows. While AGN exhibits a variety of classes, such as quasars, Seyfert galaxies, radio galaxies, blazars, etc., they all share some fundamental constituents, which include (see Figure 1): a SMBH at the center, an accretion disk, an X-ray emitting corona presumably located above the accretion disk, fast moving, dense gas clouds giving rise to the broad optical emission lines (broad line region or BLR), slow moving, relatively less dense gas clouds giving rise to the narrow optical emission lines, (narrow line region or NLR) and a doughnut-shaped torus of gas and dust (&lt;a href=&quot;https://doi.org/10.1017/CBO9781139170901&quot;&gt;Peterson, 1997&lt;/a&gt;; &lt;a href=&quot;https://doi.org/10.1086/133630&quot;&gt;Urry &amp;amp; Padovani, 1995&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/five_agn_polarization_silpa/image1.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: The standard model of AGN by &lt;a href=&quot;https://doi.org/10.1086/133630&quot;&gt;Urry &amp;amp; Padovani, 1995&lt;/a&gt;. Figure taken from &lt;a href=&quot;https://arxiv.org/abs/1010.6281&quot;&gt;Khassen (2010)&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;AGN are classified as type-1 and -2 based on their optical spectra: type-1 AGN exhibit both broad and narrow emission lines while type-2 AGN exhibit only narrow emission lines. These differences have been suggested to arise as a result of the different viewing angles of the central engine (see Figure 1). The torus is believed to surround the central engine and obscure the BLR clouds from certain lines of sight (&lt;a href=&quot;http://doi.org/10.1146/annurev.aa.31.090193.002353&quot;&gt;Antonucci, 1993&lt;/a&gt;; &lt;a href=&quot;https://doi.org/10.1086/133630&quot;&gt;Urry &amp;amp; Padovani, 1995&lt;/a&gt;). The sources viewed edge-on (i.e, when the observer’s line of sight intersects the torus) are recognized as type-2 AGN while the sources viewed face-on are recognized as type-1 AGN. Quasars, which are known to be an extremely luminous and highly accreting class of AGN, have been traditionally associated with type-1 class. However, recent studies have identified a few type-2 quasars as well based on their optical spectra (for e.g., &lt;a href=&quot;https://doi.org/10.1086/133630&quot;&gt;Reyes et al., 2008&lt;/a&gt;; &lt;a href=&quot;https://doi.org/10.1086/133630&quot;&gt;Mullaney et al., 2013&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;In addition, powerful and collimated structures of relativistic plasma, known as jets, are launched perpendicular to the black hole-accretion disk interface. In 10-20% of the AGN population, these jets extend over scales ranging from a few hundred kiloparsecs (kpc) to several megaparsecs (Mpc); this class is called radio-loud (RL) AGN. On the other hand, a vast majority of the AGN population (80−90%) launch weak and small-scale radio jets of typically less than 10 kpc in extent. They may, alternatively, host poorly collimated wind-like or bubble-like, diffuse radio outflows. These constitute the radio-quiet (RQ) class of AGN.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/five_agn_polarization_silpa/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2. Diagram of synchrotron emission (https://emmaalexander.github.io/resources.html) by Emma Alexander/ CC BY 4.0 
+&lt;/p&gt;
+
+&lt;p&gt;AGN jets emit synchrotron radiation at radio frequencies. Synchrotron radiation is produced by relativistic charged particles spiraling around magnetic field lines, and is concentrated within a narrow cone pointing in the direction of the particle motion (see Figure 2). Synchrotron radiation is intrinsically linearly polarized in the plane perpendicular to the magnetic fields. Radio polarization observations can, therefore, provide information about the orderliness and orientation of the magnetic fields giving rise to the synchrotron emission. According to the synchrotron theory, the magnetic fields are inferred to be parallel to the electric polarization vectors for optically thick regions like the core, and perpendicular for optically thin regions like jets, lobes and hotspots. For ordered magnetic fields and optically thin regions, the maximum theoretical fractional polarization of synchrotron emission is expected to be 75%. However, in reality, since the magnetic fields also consist of a random component, the fractional polarization is observed to be typically lower than this intrinsic value.&lt;/p&gt;
+
+&lt;p&gt;In addition, as the electromagnetic radiation passes through the region between the source and the observer, it interacts with the intervening magneto-ionic medium that consists of free charges and magnetic fields, resulting in the rotation of the plane of polarization of the electromagnetic wave. This effect is known as Faraday rotation (see Figure 3), which when coupled with other factors such as observing bandwidth and telescope beam could cause a further drop in the fractional polarization. The mechanisms causing depolarization (i.e., drop in the fractional polarization) of the radio emission can be broadly categorized as external and internal. The former (latter) refers to the case where the Faraday rotating medium is extrinsic (intrinsic) to the synchrotron emitting plasma (&lt;a href=&quot;http://doi.org/10.1093/mnras/133.1.67&quot;&gt;Burn 1966&lt;/a&gt;; &lt;a href=&quot;https://doi.org/10.1046/j.1365-8711.1998.01782.x&quot;&gt;Sokoloff et al. 1998&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/five_agn_polarization_silpa/image3.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Faraday rotation of a polarized electromagnetic wave as it propagates through the magneto-ionic medium. Figure taken from &lt;a href=&quot;https://doi.org/10.1093/mnras/stab1641&quot;&gt;Ferri`ere et al. (2021)&lt;/a&gt;.			 				 		
+&lt;/p&gt;
+
+&lt;p&gt;‘AGN feedback’ is a process by which AGN impact and regulate the growth and evolution of their host galaxies (see &lt;a href=&quot;http://doi.org/10.1146/annurev-astro-081811-125521&quot;&gt;Fabian, 2012&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.1146/annurev-astro-082214-122316&quot;&gt;King &amp;amp; Pounds, 2015&lt;/a&gt; for details). AGN feedback is believed to shape the black hole-bulge mass relation, which is the correlation between the black hole mass and the luminosity (and mass) of the bulge component of the host galaxies. AGN feedback can have both positive and negative impacts on galaxy evolution. AGN feedback could either suppress star formation and thereby prevent inordinate growth of massive galaxies (called ‘negative feedback’) or could enhance star formation locally (called ‘positive feedback’). Traditionally, AGN feedback is known to come in two modes: (i) quasar-mode, which is typically associated with quasars that drive high-velocity winds capable of removing the star-forming fuel from host galaxies, and ultimately resulting in the shut-down of star-formation, and (ii) jet-mode, which is associated with low accretion rate AGN that launch large-scale jets capable of transferring the power mechanically and regulating star-formation. In order to develop a comprehensive picture of galaxy formation and evolution in the Universe, an in-depth understanding of AGN feedback is indispensable.&lt;/p&gt;
+
+&lt;h1 id=&quot;motivation&quot;&gt;Motivation&lt;/h1&gt;
+
+&lt;p&gt;AGN feedback has become an important constituent in the cosmological simulations of galaxy formation and evolution. However, finding observational signatures of this phenomenon is a challenging task and an active area of ongoing research. One way AGN can influence the gas in the host galaxies is through galactic-scale outflows that can transport matter and energy from the central engine to the host environments. It is widely believed that these outflows are driven by large-scale, powerful jets in RL AGN. However, whether these outflows are prevalent in RQ AGN, and if so, what drives them is still an unsettled question. Over these years, a lot of progress has been made in understanding how AGN feedback operates in RL AGN, but not so much in case of RQ AGN, with only a handful of them having been looked at so far. Yet, what is exciting even from these minimal studies is that despite lacking large-scale, powerful radio outflows, RQ AGN could be efficient agents of AGN feedback.&lt;/p&gt;
+
+&lt;p&gt;The limited AGN feedback studies in RQ AGN is a major setback in our attempts towards understanding how the Universe is working, since the majority of the AGN in the Universe are RQ. Probing AGN feedback in RQ AGN has been difficult because the radio emission in these sources can arise from a wide range of mechanisms like star formation, low-powered small-scaled jets, AGN/starburst winds, coronal emission, or even a combination of them with each of them being able to impact the interstellar medium (ISM) differently (see &lt;a href=&quot;http://doi.org/10.1038/s41550-019-0765-4&quot;&gt;Panessa et al. 2019&lt;/a&gt;, for details). Therefore, AGN feedback in RQ AGN becomes a two-fold problem: first probing the relative radio contributions from different emitters, and then determining their relative roles in driving galaxy-wide outflows.&lt;/p&gt;
+
+&lt;p&gt;In this paper, we have presented results from our 5 GHz B-array (resolution∼1 arcsec) Karl Jansky Very large Array (VLA) polarimetric observations in conjunction with the archival [O iii] images from the Hubble Space Telescope (HST) of five type-2 RQ quasars selected from the Quasar Feedback Survey sample (QFeedS; find out more about this survey at  &lt;a href=&quot;https://blogs.ncl.ac.uk/quasarfeedbacksurvey/&quot;&gt;the project website&lt;/a&gt;; &lt;a href=&quot;http://doi.org/10.1093/mnras/stab549&quot;&gt;Jarvis et al. 2021&lt;/a&gt;). This paper aims to establish the origin of radio emission (jet or wind) in these sources and the impact of the local gaseous environments on the nature of the radio outflows in them. This paper also explores the potential of using radio polarization as a tool to look for signatures of AGN feedback in these sources.&lt;/p&gt;
+
+&lt;p&gt;The 5 sources that constitute our sample are: J0945+1737, J1000+1242, J1010+1413, J1356+1026, J1430+1339. These sources, from their previous studies of spatially resolved radio and [O iii] observations, are known to exhibit powerful and galactic-scale [O iii] outflows, prominent kpc-scale radio structures that are likely to be dominated by jet emission and a close association between radio emission and [O iii] emission. These sources, therefore, can serve as potential candidates to study the interplay of jets, winds and emission-line gas in the poorly studied class of RQ AGN. We used the Astronomical Image Processing System (&lt;a href=&quot;http://doi.org/10.1146/annurev-astro-081811-125521&quot;&gt;AIPS&lt;/a&gt; ) and Common Astronomy Software Applications (&lt;a href=&quot;https://casaguides.nrao.edu/index.php/VLA_Continuum_Tutorial_3C391-CASA4.6&quot;&gt;CASA&lt;/a&gt; ) software to reduce and analyze the VLA data of our sources (see for details of the analysis &lt;a href=&quot;http://doi.org/10.1093/mnras/stac1044&quot;&gt;Silpa et al. 2022 &lt;/a&gt;).&lt;/p&gt;
+
+&lt;h1 id=&quot;results-and-discussion&quot;&gt;Results and Discussion&lt;/h1&gt;
+
+&lt;p&gt;We detect polarization in 4 sources, viz. J0945+1737, J1000+1242, J1356+1026 and J1430+1339. This is a good detection fraction given that the sample is RQ. J1010+1413 is the only unpolarized source in our sample. The lack of polarization in this source could either be due to limited sensitivity of our observations or due to strong depolarization effects. In Figures 4 and 5, we present the VLA images of J0945+1737 and J1430+1339 (popularly known as “Teacup” quasar) respectively, at 5 GHz in the B-array configuration. The black contours represent VLA 5 GHz B-array total intensity image (with ~1 arcsec resolution), the red ticks represent the  polarization electric vectors (whose lengths are proportional to the linear polarized intensity), the gray-scale background represents HST [O iii] image and the cyan contours represent higher resolution (~0.25 arcsec) VLA 6 GHz A-array total intensity image (taken from &lt;a href=&quot;http://doi.org/10.1093/mnras/stz556&quot;&gt;Jarvis et al. 2019 &lt;/a&gt;). Please refer to the original paper (&lt;a href=&quot;http://doi.org/10.1093/mnras/stac1044&quot;&gt;Silpa et al. 2022 &lt;/a&gt;) for similar images of other sources. Polarization is detected as discrete knots in these sources. The polarization vectors have the same orientation within each knot while they are different between the knots (see Figures 4 and 5). The polarized emission seems to be arising from compact regions with ordered B-fields. The radio cores exhibit about 0.5 − 1% fractional polarization, which is also typically expected for RL AGN, while the lobes reveal higher fractional polarization (10 − 30%).&lt;/p&gt;
+
+&lt;p&gt;The higher resolution (i.e., ~0.25 arcsec) images of J0945+1737, J1000+1242, J1010+1413 and J1430+1339 show radio structures that resemble jets and hotspots. However, in the case of J1356+1026, the higher resolution imaging has only revealed a radio core. In addition, all 5 sources possess radio cores and lobes with steep to ultra-steep radio spectrum. The 4 sources that show polarization display complexities in their polarization structures as well as in the orientation of their inferred magnetic fields. Based on these results, we can deduce that the radio emission in J0945+1737, J1000+1242, J1010+1413 and J1430+1339 is likely to be originating from low power jets. These jets possess kinetic powers in the range of 10&lt;sup&gt;43&lt;/sup&gt; − 10&lt;sup&gt;44&lt;/sup&gt;  erg s&lt;sup&gt;−1&lt;/sup&gt; . However, we cannot fully discern the origin of radio emission (among jet or wind) in J1356+1026 with the current data. Please see Table 1 where we summarize the results for our individual sources.&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Source name&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Possible origin of radio emission&lt;/th&gt;
+      &lt;th style=&quot;text-align: center&quot;&gt;Polarization detected?&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;J0945+1737&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Jet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;J1000+1242&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Jet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;J1010+1413&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Jet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;No&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;J1356+1026&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Uncertain&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;J1430+1339&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Jet&lt;/td&gt;
+      &lt;td style=&quot;text-align: center&quot;&gt;Yes&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p align=&quot;left&quot;&gt;
+Table 1: Summary of the results for individual sources.			 				 		
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/five_agn_polarization_silpa/image4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 4: VLA 5 GHz B-array (resolution∼ 1 arcsec) total intensity contours in black for J0945+1737 superimposed with polarization electric vectors (whose lengths are proportional to linear polarized intensity) in red, HST [O iii] image in gray-scale and VLA 6 GHz A-array (resolution∼ 0.25 arcsec) total intensity contours in cyan. 			 				 		
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/five_agn_polarization_silpa/image5.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 5: Same as Figure 4, but for J1430+1339. 			 				 		
+&lt;/p&gt;
+
+&lt;p&gt;Previous studies of these sources have shown that the radio emission spatially overlaps with [O iii] emission in them (&lt;a href=&quot;http://doi.org/10.1093/mnras/stz556&quot;&gt;Jarvis et al. 2019 &lt;/a&gt;). Our study suggests that the polarized knots more often do not spatially overlap with the [O iii] emission. Polarization is predominantly seen in regions of jets and lobes that have a dearth of [O iii] emission while it is mostly absent in regions dominated by [O iii] emission. Such a spatial anti-correlation between polarized radio emission and [O iii] emission has been observed in some of the RL AGN in the literature, and is often explained as a result of the depolarization of radio emission by the emission line gas. As already mentioned in the Introduction, this can happen in two ways:&lt;/p&gt;
+
+&lt;p&gt;(i) external depolarization, where the radio lobes of the source are surrounded by emission line gas clumps/clouds, with the typical sizes of these clumps being smaller than the telescope beam, (ii) internal depolarization, where the emission line gas entrained inside the radio lobes mixes with the synchrotron lobe plasma and depolarizes the lobe emission. In order to study the depolarization effects in greater detail, we modeled different depolarization mechanisms acting in the lobe of one of the sources: J0945+1737. This was done by fitting the sub-band polarization data for this source with the equations given in &lt;a href=&quot;http://doi.org/10.1093/mnras/133.1.67&quot;&gt;Burn 1966&lt;/a&gt; (see &lt;a href=&quot;http://doi.org/10.1093/mnras/stac1044&quot;&gt;Silpa et al. 2022 &lt;/a&gt;, for details on fitting and analysis). This source was chosen since it was the only one (out of 4) that showed significant polarization in individual sub-band images.&lt;/p&gt;
+
+&lt;p&gt;By modeling external depolarization of the lobe emission in J0945+1737, we obtained the size of the emission line gas clumps/clouds to be of the order of 10&lt;sup&gt;-5&lt;/sup&gt; pc. Interestingly, we also found that the range of the cloud sizes obtained for RQ AGN from our work (10&lt;sup&gt;-5&lt;/sup&gt; pc - 1300 pc) broadly spans the range derived for the lobes of the radio galaxies (which are RL AGN) in the literature (10&lt;sup&gt;-5&lt;/sup&gt; pc - 300 pc). By modeling internal depolarization of the lobe emission in J0945+1737, we estimated the amount of the thermal gas mixed with the synchrotron plasma in its lobe to be of the order of 106 M⊙. Similar studies have not been extensively carried out for RQ AGN in general, and this sample, in particular. However, our result agrees with the estimates of the ionized gas masses (∼ 10&lt;sup&gt;5&lt;/sup&gt; − 10&lt;sup&gt;7&lt;/sup&gt; M⊙) obtained for some of the Seyfert galaxies (which are RQ AGN) in the literature from optical spectroscopic and imaging studies. For comparison, in the lobes of the radio galaxies, much higher estimates of the mixed thermal gas masses (∼ 10&lt;sup&gt;9&lt;/sup&gt;− 10&lt;sup&gt;10&lt;/sup&gt; M⊙) have been derived using X-ray and CO observations as well as radio polarization studies. We note that although there may be other reasons contributing to the spatial anti-correlation observed between the polarized radio emission and [O iii] emission, such as lack of telescope sensitivity and beam depolarization effects, the broad consistency found between the values derived from our work and the values reported in the literature gives us confidence in our argument regarding the role of the emission line gas in depolarizing the lobe emission.&lt;/p&gt;
+
+&lt;p&gt;One caveat in this study is that while we find a clear spatial anti-correlation between polarized radio emission and [O iii] emission in most regions, we also find regions showing a correlation between them. Nevertheless, the number of polarized knots that spatially anti-correlate with [O iii] emission (8/12) is more than the number of knots that correlate (4/12). In Figures 4 and 5, we have only annotated the polarized knots that show an anti-correlation (i.e., J1 and J2 in J0945+1737 and J3, CJ1 and CJ2 in J1430+1339). The correlation could be explained as a result of the clump sizes of the depolarizing media being larger than the telescope beam or there not being enough mixing between the emission line gas and the synchrotron lobe plasma. It is also important to note that deeper multi-frequency and multi-resolution observations are needed to distinguish between internal and external depolarization effects more rigorously. Therefore, the current work using ∼ 2 GHz bandwidth data has limited implications. Yet, this study is promising in that it provides a first-order treatment of the depolarization mechanisms at play in the poorly studied class of RQ AGN and provides lower limits on the derived parameters, such as the cloud sizes and the mixed gas masses. We emphasize that the system is much more complex than the models used here, and more rigorous methods must be used instead.&lt;/p&gt;
+
+&lt;h1 id=&quot;summary&quot;&gt;Summary&lt;/h1&gt;
+
+&lt;p&gt;In this work, we have presented the results from our joint radio polarization and emission line study of 5 type-2 radio-quiet quasars. We find that the radio emission in J0945+1737, J1000+1242, J1010+1413 and J1430+1339 is likely to be jet-based depending on their morphological, spectral and polarization properties. However, the origin of radio emission (among jet or wind) in J1356+1026 cannot be ascertained with the current data. Polarization is detected in 4 out of 5 sources (J1010+1413 is unpolarized) as discrete knots with ordered magnetic fields. From previous studies, our sources are known to show a spatial coincidence between radio emission and [O iii] emission. Our study suggests that the polarized knots more often do not spatially coincide with [O iii] emission, similar to that seen in some of the radio-loud AGN in the literature. This suggests that the radio emission is likely to be depolarized by the emission line gas clouds surrounding the radio lobes, or by the emission line gas that has entrained inside the radio lobes and mixed with the synchrotron lobe plasma. For the case of J0945+1737, the size of the emission line gas clouds is found to be of the order of 10−5 pc, and the amount of the mixed thermal gas in its lobe is found to be of the order of 106 M⊙. An important insight from this study is the signature of the jet/wind-gas interaction, suggested by the spatial anti-correlation observed between the polarized radio emission and the emission line gas. This in turn could be interpreted as tentative evidence for AGN feedback. Our work also demonstrates that the interplay of jets, winds and emission line gas might have a significant impact on the nature of the radio outflows in radio-quiet AGN. In addition, all sources in our sample show evidence for ongoing galactic mergers, such as the presence of double optical nuclei, or morphological distortions in the host galaxy. We, therefore, note that the merger scenario may also influence the overall interpretation of AGN feedback in these sources.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://doi.org/10.1093/mnras/stac1044&quot; target=&quot;_blank&quot;&gt;The Quasar Feedback Survey: revealing the interplay of jets, winds, and emission-line gas in type 2 quasars with radio polarization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Silpa Sasikumar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt;   P Kharb, C M Harrison, A Girdhar, D Mukherjee, V Mainieri, M E Jarvis&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; National Centre for Radio Astrophysics (NCRA) - Tata Institute of Fundamental Research (TIFR), Pune, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Mon, 17 Jul 2023 00:00:00 +0530</pubDate>
+        <link>/five_agn_polarization_silpa</link>
+        <guid isPermaLink="true">/five_agn_polarization_silpa</guid>
+        
+        <category>AGNs</category>
+        
+        <category>Blackhole</category>
+        
+        <category>Galaxies</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>Chandrayaan-3 : A 14 day lunar cruise</title>
@@ -1048,112 +1227,6 @@ National Astronomical Observatory of Japan (NAOJ), Mitaka, Tokyo 181 8588, Japan
         
         
         <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>Can missing physics in gravitational waveforms mimic false violations of general relativity?</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;General theory of relativity proposed by Albert Einstein in 1915 has passed all the experimental and observational tests with flying colors. Gravitational waves from the merger of compact binaries such as black holes and neutron stars provide a unique opportunity to test general relativity in the strong-field regime of gravity. Missing physics in the modeling of gravitational waves can appear as a false violation of general relativity.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/gravitational_waveforms_pankaj/image_cover.jpeg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: The SXS simulation of colliding black holes distorting spacetime around them. &lt;i&gt; Image Credit: The SXS project.&lt;/i&gt;
-&lt;/p&gt;
-
-&lt;p&gt;General theory of relativity predicts that if two black holes are orbiting around each other, the orbit of the binary will shrink due to the emission of gravitational waves. As black holes come closer and closer, their orbital speed increases. The black holes move close to the speed of light in their final orbits, dragging spacetime around them. Finally, two black holes collide and merge, releasing an enormous amount of energy in the form of gravitational waves and leaving behind a more massive spinning black hole. The emitted gravitational waves from these mergers carry information about the nature of gravity in these extreme regions of spacetime.&lt;/p&gt;
-
-&lt;p&gt;In 1974, Hulse and Taylor discovered a pulsar orbiting around a neutron star. According to general relativity, the binary system must be losing energy due to the emission of gravitational waves. By observing the orbital period of the binary, they found that the orbit of the binary was shrinking and the rate of shrinking was in excellent agreement with the predictions of general relativity. This observation proved the existence of gravitational waves and tested general relativity in strong gravitational fields where the theory had never been tested before. This discovery of gravitational waves earned the Nobel Prize in physics in 1993.&lt;/p&gt;
-
-&lt;p&gt;On September 14, 2015, gravitational waves from the merger of two black holes were detected by Laser Interferometer Gravitational-wave Observatory (LIGO), nearly 100 years after Einstein’s discovery of general relativity. This first direct observation of gravitational waves opened a new window to the unexplored dark universe. The observation won the Nobel Prize in 2017. Till now, nearly 90 gravitational wave signals from merging black holes have been detected. Each new gravitational wave observation helps physicists test general relativity. No evidence of physics beyond general relativity has been found in any of these observations. However, it is possible that beyond general relativity effects are minuscule and not visible in current-generation gravitational wave detectors.&lt;/p&gt;
-
-&lt;p&gt;General relativity is currently our best understanding of gravity. However, there are unsolved problems in cosmology such as the nature of dark matter and dark energy, that cannot be explained by general relativity alone. Many &lt;em&gt;modified theories of gravity&lt;/em&gt; have been proposed as an alternative to general relativity to address these unsolved problems. The ideal way to test the true theory of gravity would be to match the observed gravitational wave signals against the predictions of various theories of gravity and see which theory is best supported by the data. However, waveform modeling in modified theories of gravity is still in the infant stage. Hence we use our best understanding of general relativity and look for deviations away from general relativity.&lt;/p&gt;
-
-&lt;p&gt;Among the numerous tests of general relativity, &lt;em&gt;parametrized tests&lt;/em&gt; are one of the unique ways to test general relativity. In parametrized tests, the gravitational wave signal in general relativity is modified by adding extra phenomenological deviation parameters that attempt to capture a particular class of deviation from general relativity. The value of these deviation parameters is zero in general relativity. Precise measurement of deviation parameters reveals the nature of the gravitational wave signal. If the gravitational wave signal is consistent with general relativity, the values of these deviations should be consistent with zero.&lt;/p&gt;
-
-&lt;p&gt;The accuracy of these tests relies on the accuracy of gravitational waveforms which describe the dynamics of binary. The task of developing waveform models is a complex one that involves making approximations, assumptions, and the possibility of modeling errors due to missing physics. This means that our waveform models are not able to perfectly capture the behavior of gravitational waves. The inherent imperfections in waveform models can introduce systematic bias into estimated parameters such as black hole’s masses, spins, and deviation parameters. These systematic biases on deviation parameters if become greater than the statistical uncertainty, may appear as a false violation of general relativity. The interpretation of the measured signal may show a contradiction from general relativity leading us to believe that there is something wrong with the theory, but we have to be very careful before making such extraordinary claims.&lt;/p&gt;
-
-&lt;p&gt;In a recent study, conducted in collaboration with Prof. Marc Favata (Montclair state university, USA) and Prof. K.  G. Arun (Chennai Mathematical Institute, India), we focused on the systematic bias due to neglect of orbital eccentricity in the waveform model and demonstrated how eccentricity-induced systematic bias can mimic a false violation of general relativity. As two black holes in an elliptic orbit revolve around each other, due to the emission of gravitational waves, the orbit of the binary tends to become circular. Gravitational wave detectors are presently capable of detecting the gravitational waves from the last few orbits of the binary before its merger. Therefore, it is expected that the binary’s orbit has likely already been circularized by the time it is detected. LIGO and Virgo currently use quasi-circular waveforms for testing general relativity.&lt;/p&gt;
-
-&lt;p&gt;The ellipticity of a binary’s orbit depends on its formation history. Black hole binaries formed in the galactic fields are expected to be in quasi-circular orbits due to various mass transfer episodes between the binary’s constituent. However, for black holes that are formed inside dense star clusters, it is possible to remain in highly eccentric orbits due to dynamical interactions and exchanges with other stellar objects in the cluster. The orbit of these binaries may not be fully circularized due to the emission of gravitational waves, but still possess small amount of eccentricity when the detector observes the binary. For eccentric binaries, the neglect of eccentricity in waveform models may cause the deviation parameters to be biased and exhibit inconsistency with general relativity.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/gravitational_waveforms_pankaj/image1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    (a) LIGO
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/gravitational_waveforms_pankaj/image2.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    (b) Cosmic Explorer
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Figure 2: Systematic and statistical errors on the leading order deviation parameter as a function of orbital eccentricity e0. Systematic errors are represented by solid lines and statistical errors are denoted by dashed lines. These errors are shown for four representative binaries with different total masses. The orbital eccentricity e0 on the x-axis is defined at a gravitational wave frequency of 10 Hz.
-&lt;/p&gt;
-
-&lt;p&gt;If a black hole binary with total mass 15M&lt;sub&gt;⊙&lt;/sub&gt; (solar mass) and orbital eccentricity 0.04 is observed by LIGO, the eccentricity-induced systematic bias on the leading-order deviation parameter becomes comparable to the statistical errors as illustrated in the adjacent figure (taken from Saini et al. (2022)). These biases will shift the deformation parameters away from their true value, which is zero in general relativity, indicating a false deviation from general relativity. This value of eccentricity is even lower (0.005) for the more sensitive future third-generation gravitational wave detector (Cosmic Explorer).&lt;/p&gt;
-
-&lt;p&gt;It is very likely that in the near future, we detect gravitational waves from the mergers of black holes in eccentric orbits. There are already signatures of a few eccentric mergers in the detected gravitational wave signals. To avoid the risk of falsely claiming a breakdown of general relativity, controlling waveform systematics is of immediate need for the gravitational wave community.&lt;/p&gt;
-
-&lt;h1 id=&quot;references&quot;&gt;References:&lt;/h1&gt;
-&lt;ul&gt;
-  &lt;li&gt;[Saini et al.(2022) Saini, Favata, and Arun] P. Saini, M. Favata, and K. G. Arun, Phys. Rev. D 106, 084031 (2022), arXiv:2203.04634[gr-qc].&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://ui.adsabs.harvard.edu/link_gateway/2022PhRvD.106h4031S/arxiv:2203.04634&quot; target=&quot;_blank&quot;&gt;Testing general relativity using gravitational waves&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Pankaj Saini&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Marc Favata, K. G. Arun&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Chennai Mathematical Institute, Chennai, 603103; India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-
-</description>
-        <pubDate>Thu, 16 Mar 2023 00:00:00 +0530</pubDate>
-        <link>/gravitational_waveforms_pankaj</link>
-        <guid isPermaLink="true">/gravitational_waveforms_pankaj</guid>
-        
-        <category>Testing general relativity using gravitational waves</category>
-        
-        
-        <category>High Energy Astrophysical Phenomena</category>
         
       </item>
     
