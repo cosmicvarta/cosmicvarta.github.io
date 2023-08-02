@@ -5,9 +5,253 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 19 Jul 2023 18:26:52 +0530</pubDate>
-    <lastBuildDate>Wed, 19 Jul 2023 18:26:52 +0530</lastBuildDate>
+    <pubDate>Wed, 02 Aug 2023 12:53:27 +0530</pubDate>
+    <lastBuildDate>Wed, 02 Aug 2023 12:53:27 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Origin of ultra-bright blazar emissions: An astronomer’s glimpse into cosmic volcanoes</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Blazars are a rare class of active galactic nuclei (AGN), in which the jets are pointed directly toward our line of sight, making them one of the brightest yet extremely compact sources. Relativistic effects such as beaming makes the jet emission the dominant component. Blazars exhibit multiwavelength variability across several timescales (varying from hours to years). However, the location of the emission region with respect to the central engine is an open question. &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1655B/abstract&quot; target=&quot;_blank&quot;&gt;Barat et. al (2022)&lt;/a&gt; try to address this question by combining information from multiwavelength variability of a sample of 11 blazars. Comparing the energy of the detected flares in multiple wavelength bands to state-of-the-art numerical models we put constraints on the location of the emission region.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;what-are-blazars&quot;&gt;What are blazars?&lt;/h1&gt;
+
+&lt;p&gt;Blazars are the most luminous non-transient objects known in the universe; they often emit across all electromagnetic bands from radio all the way to gamma-rays, which is unlike any other astrophysical source studied till date. Blazars also exhibit multiwavelength variability over timescales of a few hours to months and years.&lt;/p&gt;
+
+&lt;p&gt;Every galaxy is known to host a super massive black hole (SMBH, weighing a million to billion times more than our Sun) at its center. Sometimes, these giant monsters can feed off gas in the interstellar medium by forming large accretion disks. These accretion disks convert the gravitational potential energy of the infalling material to electromagnetic radiation, making them extremely bright, outshining the entire galaxy consisting of billions of stars. The inner compact region of a galaxy hosting a supermassive black hole is only a few astronomical units (AU) in size (roughly the scale of the solar system), which is negligible compared to the rest of the galaxy, which can be tens of thousands of light years across (1 ly = 63421 AU). Thus, a compact yet extremely luminous inner region of a galaxy, powered by the accretion of the SMBH at its heart is called an Active Galactic Nucleus (AGN). It has been observed that in roughly 10% of the cases, these AGNs are accompanied by large scale jets or outflows, orthogonal to the accretion disk which can extend as far out as thousands of light years.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ultra-bright_blazar_emissions_suagata/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Artists’ impression of accretion black hole. &lt;em&gt;Credits: European Space Agency (ESA)&lt;/em&gt; 
+&lt;/p&gt;
+
+&lt;p&gt;According to the unification model proposed by &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1995PASP..107..803U/abstract&quot; target=&quot;_blank&quot;&gt;Urry and Padovani (1995)&lt;/a&gt;, blazars are a sub-class of AGNs, where the jets are pointed towards our line of sight (see Figure 1). The jets are composed of ultra-relativistic plasma powered by the accretion energy and are launched very close to the SMBH. The situation is comparable to staring down the vent of an active volcano; because of relativistic effects, the radiation from the jet is beamed towards us making it extremely bright and outshining the contribution from any other region of the SMBH. Infact, most of the extragalactic high energy (gamma-ray) radiation we detect can be attributed to blazars. Till date, we have detected over 2000 blazars.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ultra-bright_blazar_emissions_suagata/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: A schematic diagram showing the AGN unification model &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1995PASP..107..803U/abstract&quot; target=&quot;_blank&quot;&gt;Urry and Padovani (1995)&lt;/a&gt;. The central Super Massive Black Hole (SMBH) is powered by the infalling material through the accretion disk. The AGN is also accompanied by fast and slow moving gas clouds in its vicinity (Broad-Line and Narrow-Line regions respectively) and a relativistic plasma jet launched close to the SMBH. The existence of a distant gas-dust envelope, called the torus is also known for such objects. Depending on the orientation of the SMBH with respect to our line of sight, we perceive it as a different object. In blazars, the jet is oriented along our line of sight, the entire emission is dominated by the beamed radiation from the jet, making them the brightest non-transient objects in the universe. &lt;em&gt;Image: &lt;a href=&quot;https://arxiv.org/abs/1412.1177&quot; target=&quot;_blank&quot;&gt;Reynolds et. al (2014)&lt;/a&gt;&lt;/em&gt; 
+&lt;/p&gt;
+
+&lt;h1 id=&quot;characterizing-a-blazar&quot;&gt;Characterizing a blazar&lt;/h1&gt;
+
+&lt;p&gt;There are two generic characteristics of blazar emissions:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Blazars are known to be highly variable sources, exhibiting variability across all wavelengths and a wide array of timescales starting from hours to months and years. A typical time-series of blazars (see Figure 2) shows `flares’ or sporadic outbursts of varying amplitudes.&lt;/li&gt;
+&lt;li&gt;Blazars have a characteristic double-peaked spectral energy distribution (SED), with a lower energy peak around optical-UV frequencies and a higher energy peak around X-rays and gamma rays (see Figure 3).&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;The variability seen in blazar light curves is explained by the rapid energization of the underlying plasma. The reason for such rapid acceleration is an active area of research. However, the rapid acceleration and subsequent cooling of the plasma can explain the ‘outbursts’ we observe in the blazar lightcurves. The shape of the SED points towards non-thermal modes of emission (i.e., not like a blackbody spectrum which results from a thermalized object like a star).&lt;/p&gt;
+
+&lt;p&gt;The lower energy peak in the SED can be explained by synchrotron emission by the relativistic plasma particles (electrons, positrons or possibly even protons).  In the presence of a magnetic field, charged particles are known to ‘gyrate’ due to Lorentz force, and as a result emit electromagnetic radiation (Maxwell’s laws predict that charged particles produce electromagnetic radiation). In the relativistic limit, this radiation due to charged particles is called &lt;a href=&quot;https://www.exul.ru/education/1/Note3f.pdf&quot; target=&quot;_blank&quot;&gt;synchrotron emission&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The higher energy peak is produced due to inverse-Compton scattering of low energy photons by the same ultra-relativistic particles in the plasma which produce the synchrotron emission. As photons interact with charged particles, there is an exchange of energy and momentum between them. In the low energy regime, the photon imparts energy to the charged particle (Compton scattering), however if the charged particle is ultra-relativistic, it can upscatter the low energy photon to very high energies &lt;a href=&quot;https://www.exul.ru/education/1/Note3f.pdf&quot; target=&quot;_blank&quot;&gt;(Inverse Compton scattering)&lt;/a&gt;. In this process, low energy optical photons can be energized to X-rays/gamma-rays producing the second peak in blazar SEDs.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ultra-bright_blazar_emissions_suagata/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 2: Gamma-ray time-series observations of well known blazars 3C-279 (upper panel), PKS-1510-089 (middle panel) and PKS 2155-304 (bottom panel) taken using the &lt;a href=&quot;https://fermi.gsfc.nasa.gov/&quot; target=&quot;_blank&quot;&gt;Fermi telescope&lt;/a&gt;. The red circles represent the observed flux. The time series is characterized by multiple sporadic outbursts or flares of varying sizes and durations. The entire lightcurve can be decomposed into a cumulative effect of a number of such flares (green spikes) and each flaring activity could be connected to an energy injection event within the jet. Blazars exhibit such variability across a wide range of electromagnetic frequencies (radio, IR, optical and X-rays) and often such multiwavelength variability is found to be correlated. &lt;em&gt;Image: &lt;a href=&quot;https://academic.oup.com/mnras/article/482/1/743/5126366&quot; target=&quot;_blank&quot;&gt;Roy et. al (2019)&lt;/a&gt;&lt;/em&gt; 
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ultra-bright_blazar_emissions_suagata/image4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 3: The observed spectral energy distribution (SED) of the blazar Mrk 421 &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2011ApJ...736..131A/abstract&quot; target=&quot;_blank&quot;&gt;(Abdo et. al 2011)&lt;/a&gt;. The lower energy peak around the optical-UV wavelengths is attributed to synchrotron emission and the higher energy peak (X-ray/𝝲-ray) can be explained using the inverse-Compton mechanism (See text for detailed explanation).  This double humped SED is a universal characteristic of all blazars. &lt;em&gt;Image: &lt;a href=&quot;https://arxiv.org/abs/2105.08401&quot; target=&quot;_blank&quot;&gt;Tavecchio 2021&lt;/a&gt;&lt;/em&gt; 
+&lt;/p&gt;
+
+&lt;h1 id=&quot;where-does-the-blazar-emission-originate&quot;&gt;Where does the blazar emission originate?&lt;/h1&gt;
+
+&lt;p&gt;The location of the emission site within a blazar jet is an open question; several astronomers have suggested that the emission region is located near the Broad Line Region (BLR) within ~1 parsec (3.26 lightyears) of the central SMBH. However, there is also strong evidence suggesting that the emission site could be located further downstream (1-10 parsec), for e.g., the detection of extremely high energy gamma-rays from these sources which would have been absorbed within the BLR and never made it to our telescopes. Therefore, a constraint on the location of the emission zone within a jet would be extremely important for refining our theoretical understanding of blazars and their emission mechanisms.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1655B/abstract&quot; target=&quot;_blank&quot;&gt;Barat et. al (2022)&lt;/a&gt; proposed a new and complimentary prescription to constrain the location of the emission region within the blazar’s jet. The same population of ultra-relativistic particles is responsible for both the synchrotron (low energy) and inverse-Compton (high energy) emission. Therefore, any outburst in high energy gamma-rays can be accompanied by a similar outburst in lower energies such as optical and such events can be considered to have originated at the same location. Such simulatemous outburst events are termed ‘flare pairs’ (see Figure 4). In this paper, we analyzed simultaneous gamma-ray light curves from the &lt;a href=&quot;https://fermi.gsfc.nasa.gov/&quot; target=&quot;_blank&quot;&gt;Fermi space telescope&lt;/a&gt; and optical light curves from the &lt;a href=&quot;http://www.astro.yale.edu/smarts/&quot; target=&quot;_blank&quot;&gt;Yale-SMARTS program&lt;/a&gt; for 11 blazars and identified 25 flare pairs. We found that the ratio of the energy dissipated in the optical to gamma-ray flares roughly varies between 1-10% (Figure 4).&lt;/p&gt;
+
+&lt;p&gt;The high energy emission, coming from Inverse Compton scattering, requires a supply of low energy photons. This seed photon field could either be provided by the synchrotron photons produced within the jet itself, or could be externally supplied from the Broad-Line Region (BLR) and/or the molecular torus (See Figure 1). For lower energy blazars, up-scattering of the external seed field dominates the gamma-ray emission. The density and energy of the seed photon field is strongly distance dependent, therefore the location of the emission region with respect to the BLR and molecular torus determines the total energy output in the gamma-rays compared to optical frequencies.  We developed detailed numerical models to simulate blazar outbursts from optical to gamma-ray energies. The ratio of the optical to gamma-ray flare energies were estimated from the simulated light curves for a range of distances from near the BLR up to 10 parsecs (Figure 5). From this, we were able to conclude that for most of the flare pairs identified, the emission region was likely to be located farther away compared to the BLR.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+
+&lt;p&gt;Constraining the emission site of blazars has important implications for the underlying physics of these extreme objects. In this paper, we develop an idea to constrain the location of emission by comparing the energy dissipated in gamma-rays and optical frequencies for outburst events where we have simultaneous optical and gamma-ray flare detections. Our numerical models suggest that most of the events we detected are likely to have originated beyond the BLR region, close to the molecular torus. This approach is a novel and complementary approach to determine the emission location and application to a broader sample of blazar flare pairs is necessary to validate this approach.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ultra-bright_blazar_emissions_suagata/image5.png&quot; /&gt;
+  &lt;img src=&quot;../assets/images/ultra-bright_blazar_emissions_suagata/image6.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 4: Top: Simultaneous gamma-ray (upper panel) and optical (lower panel) light curves of the blazar PKS 2326-502 observed using the Fermi space telescope and in the Yale-SMARTS program, respectively (orange points). The decomposed flares in both the light curves are shown with red lines and the identified flare pairs are numbered. Bottom: Raxtio of observed energy ratio of optical and gamma-ray flares identified as ‘flare pairs’ for the sample of 11 blazars analyzed in this study. The ratio varies between 1-10% approximately. &lt;em&gt;Image:&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1655B/abstract&quot; target=&quot;_blank&quot;&gt; Barat et. al (2022)&lt;/a&gt;&lt;/em&gt; 
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ultra-bright_blazar_emissions_suagata/image7.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 5:  Dependence of optical to gamma-ray outburst energy ratio for ‘flare pairs’ simulated for the blazar PKS 2326-502. The position of the BLR and the molecular torus have been shown with blue dashed lines. The green dotted line shows the median value of the energy ratio observed for this blazar (Figure 4, right panel). The simulated light curves were generated using detailed numerical models of dominant emission mechanisms like synchrotron and inverse-Compton scattering. The simulations show that the observed energy ratio of the flare pairs is more consistent with an emission region located farther downstream of the jet from the BLR. &lt;em&gt;Image:&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1655B/abstract&quot; target=&quot;_blank&quot;&gt; Barat et. al (2022)&lt;/a&gt;&lt;/em&gt;
+&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Further resources&lt;/strong&gt;
+&lt;a href=&quot;https://www.frontiersin.org/articles/10.3389/fspas.2017.00006/full&quot; target=&quot;_blank&quot;&gt;https://www.frontiersin.org/articles/10.3389/fspas.2017.00006/full&lt;/a&gt;
+, &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1986rpa..book.....R/abstract&quot; target=&quot;_blank&quot;&gt;Rybycki Lightman (1986)&lt;/a&gt;
+, &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2020mbhe.confE..35C/abstract&quot; target=&quot;_blank&quot;&gt;Costamate 2020&lt;/a&gt;
+, &lt;a href=&quot;https://www.mdpi.com/2075-4434/10/1/35&quot; target=&quot;_blank&quot;&gt;Prandini 2022&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt; &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022MNRAS.515.1655B/abstract&quot; target=&quot;_blank&quot;&gt;Locating the GeV emission region in the jets of blazars from months time-scale multiwavelength outbursts&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Saugata Barat&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Ritaban Chatterjee, Kaustav Mitra&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; 
+Anton Pannekoek Institute for Astronomy, University of Amsterdam, Netherlands
+Presidency University, Kolkata, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Thu, 27 Jul 2023 00:00:00 +0530</pubDate>
+        <link>/ultra-bright_blazar_emissions_suagata</link>
+        <guid isPermaLink="true">/ultra-bright_blazar_emissions_suagata</guid>
+        
+        <category>Active galactic nuclei</category>
+        
+        <category>jets</category>
+        
+        <category>blazars</category>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
+    
+      <item>
+        <title>The Ghost of a Star Screams 6 Days After Its Death</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Dying heavy stars forms black holes and sometimes emit jets, producing very narrow-angle flashes of gamma rays known as Gamma-Ray Bursts (GRBs). This article summarises the findings from the follow-up of such a GRB 210204A. The GRB showed typical afterglow decaying behaviour while seen in optical bands for up to a week. However, about a week later, we detected some unusual brightening in the emission from this GRB. We investigate possible causes for this flaring and conclude that the most likely cause is a refreshed shock in the jet. The high energy properties suggest that GRB 210204A might not have any special properties that caused late-time flaring. Our analysis of the GRB 210204A shows that the late time bump in the light curve is likely due to the late time flaring activity. The flare of GRB 210204A is the latest flare detected to date.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;A certain class of massive stars end their life in a violent explosion. As these massive stars end their life, they sometimes launch powerful jets during this process (~1.3 out of every 100) as if they are screaming as they take their last breath. These jets are very narrow-angle flashes of gamma rays known as &lt;a href=&quot;https://en.wikipedia.org/wiki/Gamma-ray_burstGamma-Ray&quot; target=&quot;_blank&quot;&gt;Gamma-Ray Bursts (GRBs)&lt;/a&gt;. GRBs were discovered accidentally in 1967 while Vela satellites were looking for traces of nuclear tests on Earth and rather detected a very short duration burst (~10 sec) of gamma rays coming from space. Within a few years, astronomers were able to conclude that these events do not belong to our neighbourhood, nor to our solar system, nor to our Galaxy. GRBs are extragalactic and are detected from all directions in the universe. These jets are extremely powerful and emit as much energy as the Sun would emit in its entire lifetime.&lt;/p&gt;
+
+&lt;p&gt;Over the last 20 years, various gamma-ray satellites have baeen launched to study these events. To date, we have detected over five thousand GRB events. The study of the full sample suggests that there exist two types of these GRBs: 1) Short Gamma-ray Bursts and 2) Long Gamma-ray bursts. 
+As the name suggests, Short GRBs are very short in duration  (less than 2 seconds). Compact object merger events are mainly responsible for the majority of these bursts. These are mainly found in the outskirts of elliptical galaxies, where there is a high population of compact binary objects. On the other hand, Long Gamma-ray bursts originate from the death of massive stars. Arms of spiral galaxies where new stars are formed are the common sites of Long GRBs. In such regions, new stars are born and die (usually as a supernova) very quickly and thus have higher chances of being a promising site of Long GRBs.&lt;/p&gt;
+
+&lt;p&gt;On 4th Feb 2021, one such event, ‘GRB 210204A’, was detected by various gamma-ray satellites, including the first Indian multi-wavelength astronomy satellite ‘AstroSat’. A team of Indian astronomers studied this unusual event to explain its behaviour.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ghost_of_a_star_harsh/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 1: An artistic impression of Gamma-ray burst. &lt;em&gt;Credits: Anna Serena Esposito&lt;/em&gt; 
+&lt;/p&gt;
+
+&lt;p&gt;GRBs are among the brightest electromagnetic events in the Universe since the Big Bang. These bursts are highly energetic flashes of gamma rays and radiate ~10&lt;sup&gt;51-53&lt;/sup&gt; erg of energy within a few seconds. Interaction of these jets with the nearby interstellar medium (ISM) creates an afterglow that shines in all electromagnetic bands. As an analogy, you can think of the main GRB jet as burning coal with flames and the remaining embers as the afterglow, which shines for a longer time. The afterglow usually becomes fainter with time as the central engine stops. However, in some cases, a re-brightening in the afterglow is seen due to chaotic central engines. Such events are typically seen between seconds to hours after the main burst.&lt;/p&gt;
+
+&lt;p&gt;GRB 210204A started looking like an ordinary GRB - steadily fading for a few days. But, after ~7 days, it showed rebrightening by a magnitude, not once but twice. This is very unusual for GRBs as there is no way a central engine could be active at this time. It is like a Diwali firecracker that goes boom and shows flashes again after an hour when no one is expecting it to do so.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ghost_of_a_star_harsh/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 2 shows the luminosity decline (light curve) of GRB 210204A based on data from various Indian facilities. The re-brightening at ~12 days after the event is clear in the inset image when it deviates significantly from the expected power-law behaviour (red-dashed line).
+&lt;/p&gt;
+
+&lt;p&gt;A team of astronomers from the &lt;a href=&quot;https://www.iitb.ac.in/&quot; target=&quot;_blank&quot;&gt;Indian Institute of Technology Bombay (IITB)&lt;/a&gt;, &lt;a href=&quot;https://www.iiap.res.in/&quot; target=&quot;_blank&quot;&gt;Indian Institute of Astrophysics Bengaluru (IIA)&lt;/a&gt;, &lt;a href=&quot;https://www.aries.res.in/aries-0&quot; target=&quot;_blank&quot;&gt;Aryabhatta Research Institute of Observational Sciences (ARIES)&lt;/a&gt; and National Centre for Radio Astrophysics (NCRA), led by Harsh Kumar, PhD student at the Department of Physics of IITB, came together, with other international collaborators, to study GRB 210204A. They used various Indian facilities like the &lt;a href=&quot;https://sites.google.com/view/growthindia/&quot; target=&quot;_blank&quot;&gt;GROWTH-India Telescope (GIT)&lt;/a&gt;, &lt;a href=&quot;https://www.iiap.res.in/?q=telescope_iao&quot; target=&quot;_blank&quot;&gt;Himalayan Chandra Telescope (HCT)&lt;/a&gt;, &lt;a href=&quot;https://www.aries.res.in/facilities/astronomical-telescopes/360cm-telescope/telescope&quot; target=&quot;_blank&quot;&gt;Devasthal Optical Telescope (DOT)&lt;/a&gt; and &lt;a href=&quot;https://www.aries.res.in/facilities/astronomical-telescopes/130cm-telescope&quot; target=&quot;_blank&quot;&gt;Devasthal Fast Optical Telescope (DFOT)&lt;/a&gt; for optical data, AstroSat for gamma-ray data and &lt;a href=&quot;http://www.gmrt.ncra.tifr.res.in/&quot; target=&quot;_blank&quot;&gt;Giant Metrewave Radio Telescope (GMRT)&lt;/a&gt; for radio data to find plausible reasons behind the re-brightening of the afterglow.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/ghost_of_a_star_harsh/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+    Figure 3 shows a comparison of the re-brightening time (along the y-axis) and relative flux of re-brightening in GRB 210204A, marked in red, with previously known GRB re-brightening events. It clearly indicates that GRB 210204A is the most delayed flaring detected so far.
+&lt;/p&gt;
+
+&lt;p&gt;The authors detected the most delayed flaring ever from a GRB event, explained as being caused by “Refreshed Shock”, where two shells with different speeds that were emitted almost simultaneously collided at later times. The findings are highly significant as they highlight complex behaviour in GRB events. This research, published in the Monthly Notices of the Royal Astronomical Society (MNRAS) journal, emphasised late-time monitoring and the need for multi-wavelength data to understand the nature of these events in further detail.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://arxiv.org/abs/2204.07587&quot; target=&quot;_blank&quot;&gt;The long-active afterglow of GRB 210204A: Detection of the most delayed flares in a Gamma-Ray Burst&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  Harsh Kumar&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt;  Rahul Gupta, Divita Saraogi, Tomás Ahumada, Igor Andreoni, G.C. Anupama, Amar Aryan, Sudhanshu Barway, Varun Bhalerao, Poonam Chandra, Michael W. Coughlin, Dimple, Anirban Dutta, Ankur Ghosh, Anna Y. Q. Ho, E. C. Kool, Amit Kumar, Michael S. Medford, Kuntal Misra, Shashi B. Pandey, Daniel A. Perley, Reed Riddle, Amit Kumar Ror, Jason M. Setiadi &amp;amp; Yuhan Yao&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Technology Bombay (IITB);  Main Gate Rd, IIT Area, Powai, Mumbai, Maharashtra 400076&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Wed, 26 Jul 2023 00:00:00 +0530</pubDate>
+        <link>/ghost_of_a_star_harsh</link>
+        <guid isPermaLink="true">/ghost_of_a_star_harsh</guid>
+        
+        <category>GRBs</category>
+        
+        <category>Optical</category>
+        
+        <category>Black Hole</category>
+        
+        <category>Compact Objects</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Looking at five radio-quiet AGN through the polarization lens</title>
@@ -1006,227 +1250,6 @@ Figure 4. Scatter plots between the rise rate of the polar field with the rise r
         
         
         <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Nuclear Pasta in the crust of neutron star</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;The article discusses the structure of the neutron star crust. In the neutron star’s crust, exotic structures commonly known as “nuclear pasta” are believed to exist. The pasta structure impacts various structural, thermal and transport properties of the crust and therefore needs to be investigated. Using a simple nuclear model, the present article estimates the content of pasta structures in the crust and its implication on the neutron star properties.&lt;/p&gt;
-
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure1.jpg&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;Pictorial representation of the Crab Pulsar (PSR B0531+21) in the centre of the Crab Nebula (a remnant of the supernova SN 1054), which was discovered in 1968. Pulsars are rapidly spinning neutron stars with very strong magnetic fields which funnel jets of particles out along the two magnetic poles. The image combines optical data from Hubble (in red) and X-ray images from Chandra (in blue). Adopted from &lt;a href=&quot;https://science.nasa.gov/spinning-pulsar-crab-nebula&quot;&gt;NASA&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-&lt;p&gt;In 1934, a few years after the discovery of the neutron,  astronomers Baade and Zwicky, in their pioneering work, coined the term “supernova” and hypothesised the existence of neutron stars. It took another 30 years for astronomers to discover the first neutron star in 1968. The discovery of the neutron star unfolded a new era of science with nuclear astrophysics as its main focus. A neutron star is formed from the collapsed core of a massive star that has undergone a supernova explosion. The massive stars, during their lifetime, ignite their core elements up to the Iron (Fe), after which fusion stops as it is the most stable element in the periodic table. This results in the gravitational collapse of the star due to the unavailability of the fuel to counter gravity, giving rise to the supernova explosion. During the supernova, the outer layers of the star are blown away while the core collapses in on itself, causing the protons and electrons in the core to combine and form neutrons. This creates a dense, compact object consisting almost entirely of neutrons compressed into a radius of only about 10 km.  The density of a typical neutron star material is 10&lt;sup&gt;14&lt;/sup&gt; times that of water.&lt;/p&gt;
-
-&lt;p&gt;In recent years, the origin, structure and dynamics of neutron stars have played a central role in multi-messenger and gravitational-wave astronomy. It has provided us with the opportunity to understand the behaviour of fundamental forces, especially strong and weak nuclear forces, in extreme environmental situations. In the last few decades, enormous efforts have been applied to understand the structure of the neutron star, which is limited by our understating of nuclear many-body force. However, with the available variety of data from various astrophysical observations, we can now better constrain the neutron star observables such as mass, radius, tidal deformity (how deformable neutron star is) etc., and the behaviour of the equation of state (EoS) over a wide density range.&lt;/p&gt;
-
-&lt;h1 id=&quot;structure-of-neutron-star&quot;&gt;Structure of Neutron Star&lt;/h1&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Figure 1: Schematic diagram of a neutron star with its interior and surface. &lt;em&gt;Adopted from &lt;a href=&quot;https://www.nature.com/articles/nphys2663&quot;&gt;( Nature Physics  9, 396–397 (2013))&lt;/a&gt;&lt;/em&gt;
-&lt;/p&gt;
-
-&lt;p&gt;The structure of a typical neutron star can be divided into three distinct parts below its thin atmosphere:&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;1. Outer crust:-&lt;/strong&gt; The ground state of the outer crust of a neutron star  can be described by  a body-centred cubic (BCC) lattice of atomic nuclei embedded in the sea of electrons, making it globally charge neutral. With increasing star depth, more and more neutron-rich nuclei appear until the onset of the inner crust, where neutrons start dripping (i.e. nuclei are unbounded with respect to the neutron emission). The BCC structure is preferred due to its smallest lattice energy as compared to the face-centred cubic (FCC) and simple cubic (SC) lattices.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;2. Inner Crust:-&lt;/strong&gt; The inner crust is marked by the assembly of the clusters formed by neutrons and protons along with the unbound dripped neutrons making the neutron gas. The dripped neutrons stay confined in the unit cell due to the large gravitational pressure. Such a system is so extreme that it is not possible to mimic it in any laboratory on earth. The system is made neutral by the electron gas, which is distributed uniformly over the cluster and neutron gas. At high densities, i.e., near the crust-core transition density, the system becomes “frustrated” as a result of competition between the nuclear and Coulomb interactions. The frustration leads to the system arranging itself into various exotic geometries (spheres/gnocchi, rods/spaghetti, slabs/lasagna, cylindrical voids/anti-spaghetti and spherical voids/anti-gnocchi) commonly known as “nuclear pasta.”&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;3. Core:-&lt;/strong&gt; As the density increases, the size of the cluster in the inner crust increases, and at a density called transition density, the inhomogeneities disappear, and we enter the liquid core of the star. The core is further divided into the outer and inner cores. While the outer core consists of an admixture of neutrons and protons along with the leptons ensuring charge neutrality and β–equilibrium (the chemical potential of neutron equals the chemical potential of proton and electron), the exact composition of the inner core is not yet fully understood. Various estimations in the form of Quark plasma, Kaon condensate, etc., have been formulated for the inner core in the past.&lt;/p&gt;
-
-&lt;p&gt;While the core of the neutron star predominantly determines the global properties of a neutron star, it is hidden behind a thin shell in the form of the crust. Therefore, to accurately determine the core structure and dynamics, it is crucial to understand the physics of the crust. It is not only relevant in the context of neutron star physics but acts as a highly sophisticated  laboratory to test nuclear theories and models.&lt;/p&gt;
-
-&lt;p&gt;Out of various structural aspects of the crust, the presence of pasta in the denser region of the inner crust has long been debated. Although there exists no direct and robust observational evidence of nuclear pasta, various tantalising observations indicate its existence. These observations include the information of magnetic field decay of neutron stars, corresponding spin evolution, quasi-periodic oscillations (QPOs) in soft gamma repeaters (SGRs) (astronomical object which emits large bursts of gamma-rays and X-rays at irregular intervals), quasi-periodic oscillations in giant flares etc. The amount of these pasta structures in the inner crust plays a pivotal role in the explanation of various neutron star properties.&lt;/p&gt;
-
-&lt;h1 id=&quot;results-and-discussions&quot;&gt;Results and Discussions&lt;/h1&gt;
-&lt;p&gt;To investigate the possible presence of the pasta structures in the inner crust of a neutron star, we use the &lt;em&gt;Compressible Liquid Drop Model(CLDM)&lt;/em&gt; in association with the &lt;em&gt;Effective Relativistic Mean Field(E-RMF)&lt;/em&gt; theory. CLDM is a modified version of the conventional liquid drop model, which is one of the oldest, most groundbreaking and simplistic formalisms to explain the binding energy of an atomic nucleus. It takes the motivation from molecular physics, where the behaviour of a classical liquid drop is found to be analogous with the behaviour of an atomic nucleus. This is due to the fact that the forces binding both a liquid drop (Van-der Waals force)  and a nucleus (residual strong force) are qualitatively similar. Therefore assuming the nucleus to be incompressible, the energy of a nucleus can be simply written in the form of its volume, surface and Coulomb energy. The CLDM modifies it for the case of neutron star crust and  takes into account the compressibility of nuclear matter, negative lattice Coulomb energy, and the suppression of surface tension by the surrounding neutron gas. Using the Wigner-Seitz(WS) approximation, the energy of the system in the inner crust of a neutron star can simply be written as&lt;/p&gt;
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/nuclear_pasta_vishal/figure4.png&quot; /&gt;
-&lt;/p&gt;
-&lt;p&gt;In the above equation, the surface, curvature and the coulomb energy correspond to the finite size correction to the bulk energy, i.e. the volume energy in case of liquid drop model. The bulk energy of nuclear matter and energy of the neutron gas is extracted from E-RMF formalism which is a state-of-the-art framework based on quantum chromodynamics (QCD), which is the fundamental theory of strong nuclear interaction. The QCD itself cannot be applied to explain the nuclear matter at low-density, which is one of its unresolved limitations.&lt;/p&gt;
-
-&lt;p&gt;The parameter sets of E-RMF theory are designed to satisfy various ground state properties of atomic nuclei, such as binding energy, charge, radius, as well as constraints derived from astrophysical and laboratory observations  of mass and radius of  neutron stars, and flow data from &lt;em&gt;Heavy-Ion Collisions(HIC)&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;In our calculations, we use thirteen E-RMF sets, which satisfy the recent observational constraints on the maximum mass and radius of the neutron star. These sets differ in the bulk nuclear matter properties such as symmetry energy (characterises the variation of the binding energy as the neutron to proton ratio of a nuclear system is varied), incompressibility, the binding energy of infinite nuclear matter etc. These properties characterise a particular parameter set, and a large amount of research is undergoing to put stringent constraints on them. However, there are still uncertainties on their exact values, and therefore, the nuclear matter properties become model dependent. In this study, utilising various parameter sets gives us the flexibility to investigate these model dependencies on the existence of pasta structure in the inner crust of the neutron star.&lt;/p&gt;
-
-&lt;p&gt;Using the experience from molecular dynamics simulation, we consider five shapes of pasta structures, namely: spheres, rods, slabs, tubes and bubbles. At a given baryon density, energy minimization leads to the identification of the most favourable pasta structure. We see that the spheres occupy the shallower region of the inner crust and are subsequently accompanied by rods, slabs, tubes and bubbles. The number of unique pasta structures occurring in the inner crust of the neutron star depends essentially on the equation of state or the nuclear model considered. Out of various bulk matter properties, the symmetry energy governs the pasta content in the crust. An equation of state with larger symmetry energy in the subsaturation density  regions (⍴&amp;lt; 0.1 fm&lt;sup&gt;-3&lt;/sup&gt;) estimate a thicker crust with more unique pasta layers. The transition (transition from heterogeneous crust to the homogenous core) pressure and density also depend on the symmetry energy. These parameters are crucial inputs to calculate the crust profile of the neutron star. Accurate knowledge of these parameters, in association with the determination of symmetry energy from various Heavy Ion Collision  experiments, can give us the opportunity to understand nuclear interaction in more detail.&lt;/p&gt;
-
-&lt;p&gt;The typical thickness of the inner crust of a neutron star is approximately 1 km. We see that pasta layers constitute almost 50% of the crust mass and account for 20% of its thickness. These results are important as the pasta structure impacts various phenomena in the neutron star crust, such as its cooling, rotation, Quasiperiodic Oscillations (QPOs) etc. QPOs (related to the vibrations of the neutron star crust) provide us with much-needed information on the neutron star crust structure.  In our calculations, we found that the pasta structure significantly impacts the fundamental frequency mode of these oscillations. In addition, they also alter the shear response of the crust. The pasta structure does not affect the global properties of the neutron star, yet it profoundly impacts the microphysics of the crust.&lt;/p&gt;
-
-&lt;p&gt;The results of the present work need to be confirmed by future measurements of neutron star observables. Moreover, modern theoretical Bayesian analysis methods also serve as an aid in determining these results, and our results are in agreement with them.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://doi.org/10.1103/PhysRevD.106.023031&quot; target=&quot;_blank&quot;&gt; Pasta properties of the neutron star within effective relativistic mean-field model&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Vishal Parmar&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; H. C. Das, Ankit Kumar, Ankit Kumar, M. K. Sharma, P. Arumugam, and S. K. Patra&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Thapar Institute of Engineering and Technology, Patiala 147004, India&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Wed, 12 Apr 2023 00:00:00 +0530</pubDate>
-        <link>/nuclear_pasta_vishal</link>
-        <guid isPermaLink="true">/nuclear_pasta_vishal</guid>
-        
-        <category>Neutron star crust</category>
-        
-        <category>Pasta Structure</category>
-        
-        
-        <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>Imploding Cometary Clouds: An Astronomer&apos;s Perspective</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;The interstellar molecular clouds are the high-density regions between the stars having elements in the molecular phase. These clouds usually come up with different structures based on the influence of nearby massive ionizing stars. Also, these stars can either hinder or trigger the star formation in the molecular clouds. The ambient magnetic field towards these clouds also found to regulate the star formation and structural evolution. In our work we study the magnetic field structure (projected on the plane -of-sky) of a molecular cloud shaped as a comet in the Orion region of the sky. We found the evidence that the magnetic field is dragged away by the pressure of the nearby massive ionizing source and shaping the curvy structure of the cloud.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
-
-&lt;p&gt;The region in between the stars is called the interstellar medium which is mainly composed of clouds of gas and dust. In interstellar clouds, starlight cannot pass through the highly dense area, which is why hydrogen can preserve its molecular state (H&lt;sub&gt;2&lt;/sub&gt;). Also, other chemical elements, for example, carbon monoxide (CO), ammonia (NH&lt;sub&gt;3&lt;/sub&gt;), water (H&lt;sub&gt;2&lt;/sub&gt;O), etc. exist in the form of molecules. Therefore, high-density interstellar clouds are called molecular clouds. Typically, the molecular clouds have an average density of 100-300 molecules cm&lt;sup&gt;-3&lt;/sup&gt;. These molecular clouds are considered to be the potential sites of birth of young stellar objects (YSOs), through collapse under the influence of gravitational force, which tends to drive the cloud material inward towards the center of gravity.&lt;/p&gt;
-
-&lt;p&gt;Massive OB stars (Mass &amp;gt;= 8M&lt;sub&gt;sun&lt;/sub&gt;, with spectral types O and B) are considered to affect their surrounding molecular clouds significantly. The energetic photons emitted from these massive stars promptly ionize the immediate vicinities, resulting in a shock which eventually results in non-uniform cloud structures, such as Bright-Rimmed Clouds (BRCs), Cometary Globules (CGs), the Elephant’s Trunk Nebula, etc (examples are shown in Figure 1) based on their appearances. BRCs consist of a compact, dusty edge similar to a narrow, bright-rimmed head along with a faint elongated tail-like structure extending from the head, which is towards the side of the nearby massive OB stars. Many of the BRCs display more collimated structure, looking like a comet, which are named as CGs. Also, we can see elongated structures resembling an elephant’s head and trunk, which are designated as Elephant’s Trunk Nebula. Despite their structures, these clouds are invariably aligned with their long axes almost parallel to the direction of the ionizing sources, for example, nearby OB stars.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-&lt;div class=&quot;row&quot;&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure1.png&quot; alt=&quot;figure1&quot; height=&quot;200&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure2.png&quot; alt=&quot;figure2&quot; height=&quot;200&quot; /&gt;
-  &lt;/div&gt;
-  &lt;div class=&quot;column&quot;&gt;
-    &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure3.jpg&quot; alt=&quot;figure3&quot; height=&quot;200&quot; /&gt;
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Figure 1: (Left) Bright-rimmed cloud named SFO 18, &lt;em&gt;Credit: Jim Thommes&lt;/em&gt;, (Middle) Cometary globule named CG 12, &lt;em&gt;Credit: Sebastian Volmer&lt;/em&gt;, (Right) Elephant’s Trunck nebula named IC 1396A, &lt;em&gt;Credit: Spitzer space telescope&lt;/em&gt;. 
-&lt;/p&gt;
-
-&lt;p&gt;The shocks taking place in these cloud structures can trigger the star formation, by possibly compressing the inner dense cores and eventually tend to gravitational collapse. The evolution of these elongated molecular clouds and the star formation in them are found to be regulated by the orientation and strength of the ambient magnetic fields. An initially perpendicular magnetic field of weak and medium strengths is dragged and made to orient following the cloud structure during the dynamical evolution of the globule by the photoionizing radiation from the nearby ionizing source (see Figure 2). However, a strong perpendicular field remains in its initial alignment. Therefore, an investigation of the magnetic field geometry surrounding the molecular clouds is important to study the structures and the dynamics of the globules. Polarimetry (a tool to measure the polarization of the electromagnetic wave, e.g., starlight) is a great tool that is widely used to investigate the magnetic field structure projected on the plane-of-sky (B&lt;sub&gt;POS&lt;/sub&gt;) around the molecular clouds.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Figure 2: Illustration of a photoevaporating magnetized molecular cloud. The purple lines are the magnetic field lines (with an orientation of ∼80&lt;sup&gt;◦&lt;/sup&gt; to the direction of ionizing photons). The molecular cloud is shown in green. The ionized gas is also presented in red. &lt;em&gt;Credit: &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2009MNRAS.398..157H/abstract&quot;&gt;Henney et al. (2009)&lt;/a&gt;&lt;/em&gt;. 
-&lt;/p&gt;
-
-&lt;h1 id=&quot;the-source-studied-in-this-work&quot;&gt;The source studied in this work&lt;/h1&gt;
-
-&lt;p&gt;We focused on a CG named L1616, that resides at an angular distance of about 8&lt;sup&gt;◦&lt;/sup&gt; west of the Orion OB1 associations, which is a group of massive OB stars at the Orion constellation. It shows evidence of ongoing star formation activity. An older population towards the north–eastern edge of the cloud (directed towards the Ori OB1 association) and a younger population towards the head region has been noticed, which means a trend of small-scale sequential star formation is present towards L1616. In Figure 3, we show the locations of L1616 and the nearby massive OB stars.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure5.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Figure 3: Positions of the bright Orion stars near L1616 plotted over the Planck 10&lt;sup&gt;◦&lt;/sup&gt; × 12&lt;sup&gt;◦&lt;/sup&gt; 857 GHz image. Area of our study of L1616 is indicated by a red colored box of size 1.5&lt;sup&gt;◦&lt;/sup&gt; × 1.5&lt;sup&gt;◦&lt;/sup&gt;. The x and y axes show the right ascension (RA) and declination (Dec) of this region, respectively, which are used to mark the position of any object in the equitorial coordinate system. Details can be found &lt;a href=&quot;https://astronomy.swin.edu.au/cosmos/e/equatorial+coordinate+system&quot;&gt;here&lt;/a&gt;. &lt;em&gt;Image credit:&lt;a href=&quot;https://academic.oup.com/mnras/article/513/2/2039/6580586&quot;&gt; Saha et al. (2022)&lt;/a&gt;&lt;/em&gt;. 
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/imploding_cometary_clouds_piyali/figure6.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Figure 4: The optical polarization vectors (yellow lines) plotted over the color-composite image using the Wide-field Infrared Survey Explorer (WISE) 3.5 (blue), 4.6 (green), and 12 (red) micron images of 1.5&lt;sup&gt;◦&lt;/sup&gt; × 1.5&lt;sup&gt;◦&lt;/sup&gt; size. The reference vector with 2% polarization is also shown. The x and y axes show the right ascension (RA) and declination (Dec) of this region, respectively. &lt;em&gt;Image credit: &lt;a href=&quot;https://academic.oup.com/mnras/article/513/2/2039/6580586&quot;&gt; Saha et al. (2022)&lt;/a&gt;&lt;/em&gt;. 
-&lt;/p&gt;
-
-&lt;h1 id=&quot;results-and-discussion&quot;&gt;Results and Discussion&lt;/h1&gt;
-&lt;p&gt;In order to study the B&lt;sub&gt;POS&lt;/sub&gt; towards L1616, we carried out optical polarimetric observations of this cloud using ARIES IMaging POLarimeter (AIMPOL) attached with 104 cm Sampurnanand Telescope, located at Aryabhatta Research Institute of observational sciencES (ARIES), India &lt;a href=&quot;https://www.aries.res.in/jeewan/Reprints/RautelaBS_2004_BASI_32_159.pdf&quot;&gt;(see this link for details)&lt;/a&gt;. In Figure 4, we show our optical polarimetric results. The orientation of the yellow polarization vectors indicates the angle of B&lt;sub&gt;POS&lt;/sub&gt; from the celestial north (the point about which all the stars in the northern hemisphere are seen to revolve). A curvature in the B&lt;sub&gt;POS&lt;/sub&gt; can be noticed in the head region of L1616. Also, the polarization vectors are found to show the trend of being twisted along the curvy tail. Overall, the B&lt;sub&gt;POS&lt;/sub&gt; is found to be more chaotic in the head region, which might be a result of the disintegration of cloud material by the energy input from the associated young stars. The presence of the massive OB stars can also impact the B&lt;sub&gt;POS&lt;/sub&gt;. From our results we conclude that possibly the ambient B&lt;sub&gt;POS&lt;/sub&gt; had an initial alignment perpendicular to the major axis of L1616. This alignment might be dragged away from the source of ionization following the structure of the globule, resulting in the twist of B&lt;sub&gt;POS&lt;/sub&gt; in the head area of the globule.&lt;/p&gt;
-
-&lt;p&gt;We have also made an attempt to investigate the pressure and the extent of the impact of the massive stars on L1616. The pressure exerted by epsilon Ori (the most massive star among the others in the Orion OB1 association) is estimated to be the highest, therefore epsilon Ori seems to be the main source to influence L1616. Also, the proper motion (motion of the objects projected on the sky plane) of the associated YSOs with respect to epsilon Ori shows evidence that most of them are moving away from the direction of epsilon Ori (main ionizing source). Based on the assumption that the motion of the YSOs follow the motion of the parental cloud, we can say that the cloud L1616 is currently being pushed away by the impact of epsilon Ori.&lt;/p&gt;
-
-&lt;p&gt;This work has been published in the Monthly Notices of the Royal Astronomical Society.&lt;/p&gt;
-
-&lt;h1 id=&quot;acknowledgments&quot;&gt;Acknowledgments&lt;/h1&gt;
-&lt;p&gt;The authors sincerely thank the reviewer, Dr. Davide Gandolfi, for his constructive remarks which significantly improved the manuscript. The authors acknowledge all the supporting staff at ARIES, Nainital, who made the polarimetric observations possible. The authors also thank the CosmicVarta team for showing interest in this work and invitation to write about it.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
-&lt;a href=&quot;https://academic.oup.com/mnras/article/513/2/2039/6580586&quot; target=&quot;_blank&quot;&gt; Magnetic fields and young stellar objects in cometary cloud L1616&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt; Piyali Saha&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt; Archana Soam, Tapas Baug, Maheswar Gopinathan, Soumen Mondal and Tuhin Ghosh&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Satyendra Nath Bose National Centre for Basic Sciences (SNBNCBS), Salt Lake, Kolkata 700 106, India (former)
-National Astronomical Observatory of Japan (NAOJ), Mitaka, Tokyo 181 8588, Japan (current)&lt;/p&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Wed, 12 Apr 2023 00:00:00 +0530</pubDate>
-        <link>/imploding_cometary_clouds_piyali</link>
-        <guid isPermaLink="true">/imploding_cometary_clouds_piyali</guid>
-        
-        
-        <category>Astrophysics of Galaxies</category>
         
       </item>
     

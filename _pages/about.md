@@ -29,6 +29,9 @@ Come join us on a journey which will take you to the wonderful world of stars, g
 
 Allow us to introduce ourselves :)
 
+---
+---
+
 
 <p align="center">
   <img src="assets/images/lakshitha.jpg" height="250" width="260" style="border-radius:50%">
@@ -52,7 +55,6 @@ Hello. My name is Lakshitha Nama. I am a PhD student at Christ (Deemed to be Uni
 I am a PhD student at CHRIST (Deemed to be University). Field of Instrumentation has always fascinated me and it has been my primary research interest. However, while working with various astronomy instruments, I also got interested in learning about the underlying physical phenomenon these instruments try to study. I have previously worked in optical and radio instrumentation. I am currently part of the instrumentation team at RRI and we are building an X-ray polarimeter approved to be launched on ISRO's dedicated satellite mission XPOSAT. I also study accretion powered pulsars which will be one of the primary scientific targets of our X-RAY polarimeter. I am very much interested in science popularization. Although not involved in any such activity right now, I love to talk to people about my research (and not bore them hopefully). I love to listen/read about fascinating research other researchers are doing. I also love football!
 
 
-
 ---
 ---
 
@@ -67,8 +69,6 @@ Hi there! I am Vishal Upendran, graduate student at the Inter University Centre 
 ---
 ---
 
-
----
 
 <p align="center">
   <img src="assets/images/shridharan.jpg" height="300" width="300" style="border-radius:50%">
@@ -150,6 +150,19 @@ I am a researcher at the Indian Institute of Astrophysics (IIA), Bengaluru. I am
 
 
 Hello! My name is Sadaf Iqbal Ansari. Currently, I am a research assistant, working on a project to study storm time radiation belt dynamics using multi-point observation for solar cycle 24, at the University of Nizwa, Oman. When I am not working, I challenge my existential ennui by reading Kurt Vonnegut and Ayn Rand, to name a few. I also like to photograph nature. 
+
+---
+---
+
+<p align="center">
+  <img src="assets/images/srinivas_rao_about_us.jpg" height="300" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Srinivas M Rao</span></h2>
+
+
+I am a PhD student at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital. My research is on cataclysmic variables and the accretion mechanisms involved with it. In my free time, I enjoy playing various games such as badminton, reading books, and have an immense love for anime. I am an avid reader and enjoy immersing myself in different worlds through books. My love for anime allows me to explore new cultures and perspectives.
 
 ---
 ---

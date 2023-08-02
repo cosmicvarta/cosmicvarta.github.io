@@ -502,6 +502,33 @@ authors:
         twitter: 
         description: "I am a Masters graduate from CHRIST (Deemed to be University). I am interning as a Project Intern in an ISRO funded project to study the elemental abundance of the surface of the moon using Chandrayaan-2. I have prior research experience in machine learning and stellar astrophysics"
 
+ Harsh Kumar:
+        name: Harsh Kumar
+        display_name: Harsh Kumar
+        avatar: 'assets/images/harsh_kumar.JPG'
+        email: harsh.kumar@iitb.ac.in
+        web: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0003-0871-4641&sort=date+desc
+        twitter: 
+        description: "I am Harsh Kumar, a final year PhD candidate at STAR Lab in the Department of Physics, IIT Bombay. Here at IIT Bombay, I work on various aspects of Astrophysics. My primary interests revolve around the study of transients, including the optical counterpart of Gravitational Waves, the study of Gamma-ray bursts afterglows and other fast-decaying transients in the optical regime."
+
+ Saugata Barat:
+        name: Saugata Barat
+        display_name: Saugata Barat
+        avatar: 'assets/images/saugata_barat.jpg'
+        email: saugatabarat500@gmail.com
+        web: https://twitter.com/barat_saugata
+        twitter: 
+        description: "I am Saugata Barat, currently working as a third year PhD student at the University of Amsterdam. My current research focuses on the atmospheric characterization of young exoplanets to constrain planet formation theories and early evolutionary processes for planetary systems. However, the research paper reviewed here was a part of my Master’s research work at Presidency University, Kolkata."
+
+ Dr. Sumanjit Chakraborty:
+        name: Dr. Sumanjit Chakraborty
+        display_name: Dr. Sumanjit Chakraborty
+        avatar: 'assets/images/sumanjit_chakraborty.jpg'
+        email: sumanjit11@gmail.com
+        web: https://sumanjit11.wixsite.com/dr-sumanjit
+        twitter: 
+        description: "I, Dr. Sumanjit Chakraborty, am presently a Post Doctoral Fellow at the Space and Atmospheric Sciences Division of Physical Research Laboratory (PRL), Ahmedabad, India. I completed my Doctoral studies on 2021 from the Department of Astronomy, Astrophysics and Space Engineering of the Indian Institute of Technology Indore, India. My research focuses on understanding the physical processes and associated dynamics involving interplanteary physics and coupling between the solar wind and the terrestrial magnetosphere-ionosphere system."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
