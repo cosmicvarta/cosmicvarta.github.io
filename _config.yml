@@ -529,6 +529,15 @@ authors:
         twitter: 
         description: "I, Dr. Sumanjit Chakraborty, am presently a Post Doctoral Fellow at the Space and Atmospheric Sciences Division of Physical Research Laboratory (PRL), Ahmedabad, India. I completed my Doctoral studies on 2021 from the Department of Astronomy, Astrophysics and Space Engineering of the Indian Institute of Technology Indore, India. My research focuses on understanding the physical processes and associated dynamics involving interplanteary physics and coupling between the solar wind and the terrestrial magnetosphere-ionosphere system."
 
+ Arpit, Janmejoy and Prateek:
+        name: Arpit, Janmejoy and Prateek
+        display_name: Arpit, Janmejoy and Prateek
+        avatar: 
+        email: 
+        web: 
+        twitter: 
+        description: "The article has been jointly authored by Arpit Kumar Shrivastav of ARIES, Nainital, Janmejoy Sarkar of IUCAA, Pune and Tezpur University, along with Prateek Mayank of IIT Indore. Arpit primarily works on the observations of magnetohydrodynamic waves in the solar corona. Janmejoy is a research fellow and was responsible for the optical alignment, mechanical integration, calibration and complete optical testing of the SUIT payload onboard Aditya-L1. Prateek, a Prime Minister's Research Fellow working on the MHD simulation of solar wind and CME, extends his gratitude for the invaluable support received from Dr. Dibyendu Chakrabarty of PRL, Ahmedabad, the Principal Investigator of ASPEX. We are also thankful to Abhilash Sarwade of the Space Astronomy Group, URSC, ISRO, one of the prime members of the SoLEXS team, for helping us with critical information about SoLEXS and HEL1OS."
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

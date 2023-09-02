@@ -7,8 +7,8 @@ categories: [General]
 tags: [Proceedings, seminar, national level seminar]
 class: [Proceedings]
 image: assets/images/proceedings_report_nsaassr_robin/image_cover.png
-featured: True
-hidden: True
+featured: False
+hidden: False
 review: False
 ---
 >
