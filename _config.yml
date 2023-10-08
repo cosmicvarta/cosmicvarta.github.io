@@ -536,7 +536,25 @@ authors:
         email: 
         web: 
         twitter: 
-        description: "The article has been jointly authored by Arpit Kumar Shrivastav of ARIES, Nainital, Janmejoy Sarkar of IUCAA, Pune and Tezpur University, along with Prateek Mayank of IIT Indore. Arpit primarily works on the observations of magnetohydrodynamic waves in the solar corona. Janmejoy is a research fellow and was responsible for the optical alignment, mechanical integration, calibration and complete optical testing of the SUIT payload onboard Aditya-L1. Prateek, a Prime Minister's Research Fellow working on the MHD simulation of solar wind and CME, extends his gratitude for the invaluable support received from Dr. Dibyendu Chakrabarty of PRL, Ahmedabad, the Principal Investigator of ASPEX. We are also thankful to Abhilash Sarwade of the Space Astronomy Group, URSC, ISRO, one of the prime members of the SoLEXS team, for helping us with critical information about SoLEXS and HEL1OS."
+        description: "The article has been jointly authored by Arpit Kumar Shrivastav of ARIES, Nainital, Janmejoy Sarkar of IUCAA, Pune and Tezpur University, along with Prateek Mayank of IIT Indore. Arpit primarily works on the observations of magnetohydrodynamic waves in the solar corona. Janmejoy is a research fellow and was responsible for the optical alignment, mechanical integration, calibration and complete optical testing of the SUIT payload onboard Aditya-L1. Prateek, a Prime Minister's Research Fellow, specializes in MHD simulation of solar wind and CME."
+
+ Piyali Saha:
+        name: Piyali Saha
+        display_name: Piyali Saha
+        avatar: 'assets/images/piyali_saha.jpeg'
+        email: s.piyali16@gmail.com
+        web: 
+        twitter: 
+        description: "I am currently working as a postdoc at the National Astronomical Observatory of Japan (NAOJ). I completed my Ph.D. from Indian Institute of Astrophysics (IIA), India. During PhD, my main research area was focused on star formation, especially identification and characterization of young stars. After exploring various star-forming regions and the associated young stars in optical and near-infrared wavelengths, I am currently working on the same field in radio wavelength, using the Atacama Large Millimeter/submillimeter Array (ALMA)."
+
+ Raveena Khan:
+        name: Raveena Khan
+        display_name: Raveena Khan
+        avatar: 'assets/images/raveena_khan.png'
+        email: raveena.khan@iiap.res.in
+        web: https://orcid.org/0000-0001-6104-8938
+        twitter: 
+        description: "Raveena is a PhD student at the Indian Institute of Astrophysics. She is currently visiting the High Altitude Observatory as a Newkirk Fellow. Her research work includes forward modeling and instrumentation related to solar spectropolarimetry, especially in the extreme-ultraviolet spectral range."
 
 plugins:
   - jekyll-paginate

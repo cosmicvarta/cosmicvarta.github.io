@@ -5,9 +5,222 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sun, 10 Sep 2023 21:25:41 +0530</pubDate>
-    <lastBuildDate>Sun, 10 Sep 2023 21:25:41 +0530</lastBuildDate>
+    <pubDate>Sun, 08 Oct 2023 15:55:22 +0530</pubDate>
+    <lastBuildDate>Sun, 08 Oct 2023 15:55:22 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>Revealing the mysteries of the Sun&apos;s coronal Magnetic Field using high energy spectropolarimetry</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;This article explains the importance of the Sun’s coronal magnetic field. In view of this, this article elaborates the capability of spectral lines emitted in the extreme-ultraviolet and delineates the promising technique of the Hanle effect in deriving the coronal magnetic field.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Our Sun has one of the most complex magnetic systems, but at the same time it is also the most accessible star to study and model through observations via space-based and ground-based solar telescopes. Being the nearest star to us, the Sun acts as a reference for most of the stars in the universe in terms of luminosity, radius, temperature etc. The part/surface of the Sun that we see from the Earth is called the photosphere, which is actually a giant ball of hot plasma. Above the Sun’s photosphere lies the chromosphere, which is a thin transition region and the extensive corona (corona means “crown”). During the full solar eclipses, the crown-shape of the corona is highly conspicuous from the Earth. However, direct viewing is extremely hazardous to the eyes and therefore, should only be observed using eclipse glasses.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/high_energy_spectropolarimetry_raveena/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: The black spots are called the sunspots which were observed on July 14, 2023 using the instrument Helioseismic and Magnetic Imager (HMI) on board the Solar Dynamics Observatory (SDO) [Credit: SDO]
+&lt;/p&gt;
+
+&lt;p&gt;Presently, the Sun is undergoing the phase of solar maxima and therefore prominent features like sunspots can be seen (Figure 1). Giant explosions of energy and particles are commonly detected during this phase such as Solar flares and Coronal Mass Ejections (CME). The highly energetic particles propagate towards the Earth and, when they interact with the Earth’s outer atmosphere, result in the formation of the beautiful Northern lights, sometimes, also named as aurora borealis (Figure 2). Usually, high-latitude places, like Norway and Iceland, witness the aurorae. But recently, there was a rare sighting of the aurorae at the Indian Astronomical Observatory, Hanle (visit &lt;a href=&quot;https://www.iiap.res.in/?q=centres_iao.htm&quot;&gt;here&lt;/a&gt;), around 23 April 2023, which occurred due to a powerful CME that hit the Earth. These energetic events are strongly driven by the coronal magnetic field, which also affects the Space weather. Therefore, it is important to measure the magnetic field vector and its evolution in the solar atmosphere, especially in the solar corona and beyond.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/high_energy_spectropolarimetry_raveena/image2.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Aurorae captured at Fairbanks, Alaska [Credit: Wikipedia]
+&lt;/p&gt;
+
+&lt;p&gt;There is also an open question in solar physics: why is the solar corona, despite being the outermost layer, hotter than the other inner layers of the Sun? The answer(s) to this question is (are) yet to be determined. One of the potential explanations may be related to the magnetic field. However, there are very few attempts till today to directly measure the magnetic field at the solar corona (&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/1999A%26A...345..999R/abstract&quot;&gt;Raouafi et al. 1999&lt;/a&gt; and &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2002A%26A...390..691R/abstract&quot;&gt;2002&lt;/a&gt;). Although the radiation from the Sun’s corona constitutes only 1% of the total radiation of the Sun, there is a treasure of highly ionized wavelengths which originate from the corona (&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2004A%26A...427.1045C/abstract&quot;&gt;Curdt et al. 2004&lt;/a&gt;).&lt;/p&gt;
+
+&lt;p&gt;Therefore, scientists believe that building instruments, to observe the Sun at shorter wavelengths below 1200 Å, will help in revealing the secrets of those uncharted regions which have remained hidden in these wavelengths. Extreme ultraviolet (EUV; 100 to 1200 Å) and far-ultraviolet (FUV; 1200 to 2000 Å) radiation do not reach us on the Earth but constitute a major part of the coronal emissions. Therefore, we need to send instruments to space for observing the Sun at these shorter wavelengths.&lt;/p&gt;
+
+&lt;p&gt;Over the past few decades, there have been significant advances in EUV solar astronomy, thanks in part to the development of new observational techniques and instrumentation. One of the most important instruments for EUV solar astronomy is the Extreme Ultraviolet Imaging Telescope (&lt;a href=&quot;https://sci.esa.int/web/soho/-/12359-soho-eit&quot;&gt;EIT&lt;/a&gt;), which was launched aboard the Solar and Heliospheric Observatory (&lt;a href=&quot;https://soho.nascom.nasa.gov/&quot;&gt;SOHO&lt;/a&gt;) spacecraft in 1995. The EIT has provided high-resolution images of the Sun’s corona and has allowed astronomers to study the dynamics of the solar wind and the formation of CMEs. Another important development in EUV solar astronomy has been the use of spectroscopy to study the Sun’s EUV emissions. Spectroscopy allows astronomers to measure the wavelengths of light emitted by the Sun and to identify the elements and ions that are present in the Sun’s atmosphere. High-resolution spectroscopic observations by instruments such as, Solar Ultraviolet Measurements of Emitted radiation (SUMER) and the Coronal Diagnostic Spectrometer (CDS) onboard SOHO, have shown a treasure of spectral lines in EUV and FUV which are emitted by the corona. This triggered our interest in studying the magnetic sensitivity of the lines, in terms of the Zeeman effect (interested readers may refer to page 49 of &lt;a href=&quot;https://www.iiap.res.in/files/IIA_DOOT_Magazine_Issue_1.pdf&quot;&gt;my article&lt;/a&gt;) and the Hanle effect, to probe the coronal magnetic field.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/high_energy_spectropolarimetry_raveena/image3_SUMER_instrument.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Pre-launch image of Solar Ultraviolet Measurements of Emitted radiation (&lt;a href=&quot;https://www2.mps.mpg.de/projects/soho/sumer/&quot;&gt;SUMER&lt;/a&gt;) instrument on board the ESA/NASA spacecraft Solar and Heliospheric Observatory (SOHO). [Credit: &lt;a href=&quot;https://www.mps.mpg.de/en&quot;&gt;Max Planck Institute for Solar System Research&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;p&gt;Before understanding the Hanle effect, we must understand the polarization of light.  Light consists of oscillating electric field vectors. When the electric field vector oscillates in all directions in a plane perpendicular to the direction of propagation, such type of light is known as unpolarized light. However, when unpolarized light passes through a filter as shown in Figure 4, the oscillations are confined along one line only. This phenomenon is known as polarization of light, or light is said to be linearly polarized. Now the Hanle effect occurs when, in the presence of an external weak magnetic field, there is a change in this linear polarization.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/high_energy_spectropolarimetry_raveena/image4.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 4: Unpolarized light becomes polarized after passing through a filter. [Credit: &lt;a href=&quot;https://www.sciencefacts.net/polarization-of-light.html&quot;&gt;sciencefacts.net&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;p&gt;From our recent study, it is found that the circular polarization (refers to electric field oscillation in a circular path) signal due to the Zeeman effect is very poor (in the order of 10&lt;sup&gt;-4&lt;/sup&gt; to 10&lt;sup&gt;-5&lt;/sup&gt;) and is beyond the detection capability of the currently available instruments.  Therefore, we studied and identified the spectral lines which are sensitive to the Hanle effect. Due to the stronger linear polarization signals in the order of 10&lt;sup&gt;-1&lt;/sup&gt; to 10&lt;sup&gt;-3&lt;/sup&gt;, the Hanle sensitive lines are capable of diagnosing the coronal magnetic field. In order to identify these lines, we estimated essential parameters, such as, the lifetime of the upper atomic level and the polarizability coefficients (defined as the fraction of the linear polarization produced from the incoming light). Each of these calculated parameters have a characteristic value associated with each of the Hanle sensitive lines. Based on these parameters, we sorted out only those lines which are Hanle sensitive and have enough intensity so as to be detected by the future instruments in the weak coronal magnetic field strengths  (~ 1 to 100 Gauss). Figure 5 summarizes the magnetic sensitivity of the Hanle sensitive lines which can be used to calculate the coronal magnetic fields.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/high_energy_spectropolarimetry_raveena/image5.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 5: Graphical representation of magnetic sensitivity of the spectral lines in the domain of Hanle effect. The domains are shown in rectangular boxes, each of which covers an approximate temperature range along the X-axis and magnetic field strength from 0.1 B&lt;sub&gt;H&lt;/sub&gt; to 5 B&lt;sub&gt;H&lt;/sub&gt; along the Y-axis (Not to be scaled). The middle of each rectangular box along the X-axis represents the peak line formation temperature. FUV spectral lines, having best estimated Stokes V signal, are shown using solid circles at a coronal field of 10 Gauss. [Credit: &lt;a href=&quot;https://link.springer.com/article/10.1007/s11207-022-02024-2&quot;&gt;this work&lt;/a&gt;]
+&lt;/p&gt;
+
+&lt;p&gt;There are many challenges in building a space-based instrument which need to be addressed with caution. Our study has helped in narrowing down the huge data set to only those magnetically sensitive lines which exist in the typical coronal temperatures of 0.3 to 4 million Kelvin. Most importantly, our work has helped in advancing towards the development of a spectropolarimeter in the EUV and FUV wavelengths, which will allow the entire solar community to tap into many of the unanswered questions about the Sun.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://link.springer.com/article/10.1007/s11207-022-02024-2&quot; target=&quot;_blank&quot;&gt;Spectral Lines in FUV and EUV for Diagnosing Coronal Magnetic Field&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  Raveena Khan&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt;   K. Nagaraju&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Indian Institute of Astrophysics, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+</description>
+        <pubDate>Sat, 07 Oct 2023 00:00:00 +0530</pubDate>
+        <link>/high_energy_spectropolarimetry_raveena</link>
+        <guid isPermaLink="true">/high_energy_spectropolarimetry_raveena</guid>
+        
+        <category>Extreme-ultraviolet polarimeter</category>
+        
+        <category>Hanle effect</category>
+        
+        <category>coronal magnetism</category>
+        
+        
+        <category>Solar and Stellar Astrophysics</category>
+        
+      </item>
+    
+      <item>
+        <title>Rockets in the Interstellar Medium</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;Space vehicles are propelled by rocket engines that generate thrust by expelling exhaust at extremely rapid speeds. As Newton’s third law states “For every action, there is an equal and opposite reaction”, the engines help to accelerate the rockets forward by the effect of the thrust. Interestingly, we can see a phenomenon similar to the motion of a rocket in the sky. The dense and cold molecular clouds are found to show the rocket effect in the presence of the nearby massive ionising stars. The ultraviolet photons emitted from the massive stars ionise the surfaces of the surrounding molecular clouds facing the stars. The hot and ionised material tends to photo-evaporate away from the clouds, accelerating them in the opposite direction, similar to the motion of a rocket. In this work, we found evidence of the rocket effect in several bright-rimmed clouds in the plane of sky.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;The motion of a rocket is solely based on Newton’s third law: “For every action, there is an equal and opposite reaction”. The engines propel rockets forward by expelling exhaust in the opposite direction at extremely rapid speeds. As the rocket engines ignite, the thrust from the rocket helps the rocket to ascend. Figure 1 (top) shows a rocket launching as an example.&lt;/p&gt;
+
+&lt;p&gt;Now, not only man-made rockets, one can visualise a phenomenon similar to the motion of a rocket in the interstellar medium (ISM), too. ISM is the area between the stars that often consists of dense clouds in molecular form. These molecular clouds can transform themselves into the birthplaces of young stellar objects (YSOs) through rapid contraction by the dominance of gravity.&lt;/p&gt;
+
+&lt;p&gt;The birth and evolution of massive stars (mass &amp;gt;= 8M&lt;sub&gt;ⵙ&lt;/sub&gt;) can immensely affect the immediate ISM. Their strong stellar winds or supernova explosions at the end stage of life can compress nearby molecular clouds, turning into a shock that eventually develops non-uniform cloud structures, for example, Bright-Rimmed Clouds (BRCs), cometary globules (CGs), pillars, etc. The heating of the surface layer of the dense cold molecular clouds by the nearby massive star/s has a profound dynamical impact. If the temperature (T) of the surface rises by a factor of 100, the pressure (p) will also increase by the same for a fixed density (ρ), as P ∝ ρ and T. Because of this enhanced pressure the hot and ionised surface of the cloud would try to expand. The expansion will be stopped soon along the direction away from the massive star/s by a large amount of dense material because the density towards that direction is even higher. In contrast, along the direction towards the massive star/s, the cloud surface can “see” a low-density (low-pressure) medium. Therefore, the hot and ionised cloud material starts to flow out of the cloud surface towards the massive star/s, which is known as photo-evaporation flow. As a back reaction of the expelled ionised gas, the cloud starts escalating away from the massive ionising star/s, which is typically known as the ‘Rocket Effect’ (RE). In Figure 1 (bottom), we show an example of the rocket effect in the molecular cloud “Eagle Nebula”. We can see that the surface of the cloud facing the nearby ionising star is relatively bright because of the photo-evaporation, causing the cloud to propel away from the direction of the ionising star, similar to a rocket.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/rockets_in_interstellar_medium_piyali/image1.png&quot; /&gt;
+    &lt;img src=&quot;../assets/images/rockets_in_interstellar_medium_piyali/image2.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: (Top) An example of a rocket launch PSLV C-51 by ISRO from the Sriharikota spaceport. Image credit: &lt;em&gt;Twitter/@ISRO&lt;/em&gt;. (Bottom) An example rocket effect in the molecular cloud, Eagle Nebula. The bright surface facing the massive stars is being ionised and heated up, therefore photo-evaporating away from the cloud. Image credit: &lt;em&gt;NASA, ESA/Hubble and the Hubble Heritage Team&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;The YSOs forming within these accelerating clouds should share the kinematics similar to the clouds. Therefore, the YSOs would also accelerate radially away from the nearby massive star/s, which is/are responsible for ionising the cloud and triggering the star formation in it.&lt;/p&gt;
+
+&lt;p&gt;Figure 2 shows a cartoon diagram of a system consisting of a BRC and one ionising source, where we depict the angles used in our analysis. θ&lt;sub&gt;ip&lt;/sub&gt; and θ&lt;sub&gt;pm&lt;/sub&gt; represent the angle of ionising photons and the angle of the relative proper motion (PM) of YSOs, respectively. By relative proper motion, we mean the motion of the YSOs in the plane of the sky with respect to the ionising massive star/s. The θ&lt;sub&gt;pm&lt;/sub&gt; is estimated by the median angle made by the relative proper motion of the candidate YSOs, starting from the celestial north (the point about which all the stars in the northern hemisphere are seen to revolve) and increasing eastward. We estimate the θ&lt;sub&gt;ip&lt;/sub&gt; as the angle made by the line joining the ionising source and the central IRAS source residing in each BRC. The θ&lt;sub&gt;ip&lt;/sub&gt; values are also measured following the same convention as it was done for θ&lt;sub&gt;pm&lt;/sub&gt;. Considering an ideal RE scenario, θ&lt;sub&gt;ip&lt;/sub&gt; is expected to be similar to θ&lt;sub&gt;pm&lt;/sub&gt;, i.e. &lt;span style=&quot;white-space: nowrap;&quot;&gt;| θ&lt;sub&gt;ip&lt;/sub&gt; − θ&lt;sub&gt;pm&lt;/sub&gt; |~ 0&lt;sup&gt;◦&lt;/sup&gt;&lt;/span&gt;, on the sky plane.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/rockets_in_interstellar_medium_piyali/image3.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: An illustration of a system consisting of a BRC (blue cloud with a thick yellow-coloured rim) and an ionising source (blue star) (not to scale). The YSOs distributed towards the BRC are presented using red star symbols. The direction of photoevaporation flow of the cloud material is shown using yellow-coloured arrows. The black-coloured arrow, making an angle θip with respect to the north and directing away from the ionising star, is the direction of ionising photons. Another black-coloured arrow making an angle θpm with respect to the same and directing away from the YSOs presents the angle of their relative PM. Image credit:&lt;em&gt;&lt;a href=&quot;https://academic.oup.com/mnras/article/513/2/2039/6580586&quot;&gt; Saha et al. (2022)&lt;/a&gt;&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;h1 id=&quot;the-sources-studied-in-this-work&quot;&gt;The sources studied in this work&lt;/h1&gt;
+&lt;p&gt;From the catalogue of &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1991ApJS...77...59S&quot;&gt; Sugitani et al. 1991&lt;/a&gt; and &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1994ApJS...92..163S&quot;&gt; Sugitani et al. 1994&lt;/a&gt;, we collected a total of 89 BRCs. Among them, we selected 22 BRCs that are suitable for our analysis (please see &lt;a href=&quot;https://academic.oup.com/mnras/article/510/2/2644/6460503&quot;&gt; Saha et al. 2021&lt;/a&gt; and &lt;a href=&quot;https://academic.oup.com/mnrasl/article/515/1/L67/6640430?login=true&quot;&gt; Saha et al. 2022&lt;/a&gt; for selection details). We conducted a pilot study in &lt;a href=&quot;https://academic.oup.com/mnras/article/510/2/2644/6460503&quot;&gt; Saha et al. 2021&lt;/a&gt; to investigate the θ&lt;sub&gt;ip&lt;/sub&gt; and θ&lt;sub&gt;pm&lt;/sub&gt; in BRC 18 as it is one of the closest BRCs and also a well-studied candidate. The YSOs towards BRC 18 are collated from literature, and their distances and proper motions were obtained from a space-based telescope named Gaia (for details, see &lt;a href=&quot;https://solarsystem.nasa.gov/missions/gaia/in-depth/&quot;&gt; here&lt;/a&gt;). We performed the same analysis for other BRCs in &lt;a href=&quot;https://academic.oup.com/mnrasl/article/515/1/L67/6640430?login=true&quot;&gt; Saha et al. 2022&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;results-and-discussion&quot;&gt;Results and Discussion&lt;/h1&gt;
+&lt;p&gt;In Figure 3, we show the relative proper motions of the YSOs in BRC 18 on the Wide-field Infrared Survey Explorer (WISE) colour composite image using 3.6 (blue), 4.5 (green), and 12 (red) μm images. The arrows in yellow represent the relative proper motion vectors of the candidate YSOs with respect to the ionising source λ Ori. The dashed line in cyan represents the direction of the ionising radiation from λ Ori with respect to the IRAS (Infrared Astronomical Satellite) source (‘ + ’ symbol in green) embedded in BRC 18. The median value of the relative proper motions of the candidate YSOs (i.e. θ&lt;sub&gt;pm&lt;/sub&gt;) and the direction of ionising photons (i.e. θ&lt;sub&gt;ip&lt;/sub&gt;) are indicated using vectors in green and white, respectively. All the angles are measured from the celestial north.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/rockets_in_interstellar_medium_piyali/image3.png&quot; /&gt;
+&lt;/p&gt;
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: The relative proper motion properties of the YSOs in BRC 18 on the WISE colour composite image using 3.6 (blue), 4.5 (green), and 12 (red) μm images. The arrows in yellow represent the relative proper motion vectors of the candidate YSOs with respect to λ Ori. The dashed line in cyan represents the direction of the ionising radiation with respect to the IRAS source (‘ + ’ symbol in green) embedded in BRC 18. The median value of the relative proper motions of the candidate YSOs and the direction of ionising photons are indicated using vectors in green and white, respectively, in the lower right corner (not to scale). Figure credit: &lt;em&gt;&lt;a href=&quot;https://academic.oup.com/mnras/article/510/2/2644/6460503&quot;&gt; Saha et al. (2021)&lt;/a&gt;&lt;/em&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;We found &lt;span style=&quot;white-space: nowrap;&quot;&gt;|θ&lt;sub&gt;ip&lt;/sub&gt; − θ&lt;sub&gt;pm&lt;/sub&gt;|=1&lt;sup&gt;◦&lt;/sup&gt; ± 14&lt;sup&gt;◦&lt;/sup&gt;&lt;/span&gt; in BRC 18, i.e. the directions of the ionising photons and the median relative proper motion of the YSOs are almost parallel. Motivated by this result, we tried to perform the same analysis on the remaining BRCs. As discussed in the previous section, we studied 21 more BRCs, excluding BRC 18.&lt;/p&gt;
+
+&lt;p&gt;Our analysis found that ∼64% of the BRCs show &lt;span style=&quot;white-space: nowrap;&quot;&gt;| θ&lt;sub&gt;ip&lt;/sub&gt; − θ&lt;sub&gt;pm&lt;/sub&gt; |≤ 45&lt;sup&gt;◦&lt;/sup&gt;&lt;/span&gt;. This is to note that, as the proper motion of the YSOs is along the plane of the sky, we miss the information of motion along the line of sight (radial component). Therefore, the &lt;span style=&quot;white-space: nowrap;&quot;&gt;| θ&lt;sub&gt;ip&lt;/sub&gt; − θ&lt;sub&gt;pm&lt;/sub&gt; |∼ 0&lt;sup&gt;◦&lt;/sup&gt;&lt;/span&gt; might not always be satisfied because of the possible presence of a significant component of motion of the YSOs in the BRCs/ionising sources along the line of sight.&lt;/p&gt;
+
+&lt;p&gt;Despite the lack of information about radial motion of the YSOs/ionising sources, we found that most of the BRCs follow our assumption, confirming the presence of the “Rocket Effect”.&lt;/p&gt;
+
+&lt;p&gt;This work has been published in the Letter of Monthly Notices of the Royal Astronomical Society.&lt;/p&gt;
+
+&lt;h1 id=&quot;acknowledgements&quot;&gt;Acknowledgements&lt;/h1&gt;
+&lt;p&gt;The authors sincerely thank the reviewer, Dr. Alexander Slater Binks, for his constructive remarks, which significantly improved the manuscript. The authors also thank the CosmicVarta team for showing interest in this work and invitation to write about it.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://academic.oup.com/mnrasl/article/515/1/L67/6640430&quot; target=&quot;_blank&quot;&gt;Investigation of rocket effect in bright-rimmed clouds using Gaia EDR3&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  Piyali Saha&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Co-authors:&lt;/strong&gt;  G Maheswar, D K Ojha, Tapas Baug, Sharma Neha&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; Satyendra Nath Bose National Centre for Basic Sciences, Salt Lake, Kolkata 700 106, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+</description>
+        <pubDate>Sat, 07 Oct 2023 00:00:00 +0530</pubDate>
+        <link>/rockets_in_interstellar_medium_piyali</link>
+        <guid isPermaLink="true">/rockets_in_interstellar_medium_piyali</guid>
+        
+        
+        <category>Astrophysics of Galaxies</category>
+        
+      </item>
     
       <item>
         <title>Collisions between galaxies: A frequent phenomenon than we expected earlier</title>
@@ -284,7 +497,7 @@ VELC can also provide thermal and non-thermal components of velocities from spec
 
 &lt;hr /&gt;
 
-&lt;p&gt;&lt;strong&gt;Acknowledgements:&lt;/strong&gt; The article has been jointly authored by Arpit Kumar Shrivastav of ARIES, Nainital, Janmejoy Sarkar of IUCAA, Pune and Tezpur University, along with Prateek Mayank of IIT Indore. Arpit primarily works on the observations of magnetohydrodynamic waves in the solar corona. Janmejoy is a research fellow and was responsible for the optical alignment, mechanical integration, calibration and complete optical testing of the SUIT payload onboard Aditya-L1. Prateek, a Prime Minister’s Research Fellow working on the MHD simulation of solar wind and CME, extends his gratitude for the invaluable support received from Dr. Dibyendu Chakrabarty of PRL, Ahmedabad, the Principal Investigator of ASPEX. We are also thankful to Abhilash Sarwade of the Space Astronomy Group, URSC, ISRO, one of the prime members of the SoLEXS team, for helping us with critical information about SoLEXS and HEL1OS.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Acknowledgements:&lt;/strong&gt; The authors are thankful to Abhilash Sarwade of the Space Astronomy Group, URSC, ISRO, one of the prime members of the SoLEXS team, for helping them with critical information about SoLEXS and HEL1OS. Prateek extends his gratitude for the invaluable support received from Dr. Dibyendu Chakrabarty of PRL, Ahmedabad, the Principal Investigator of ASPEX.&lt;/p&gt;
 
 &lt;hr /&gt;
 
@@ -1123,229 +1336,6 @@ To answer this question, we have evaluated the Joule heating (which is like the 
         
         
         <category>Solar and Stellar Astrophysics</category>
-        
-      </item>
-    
-      <item>
-        <title>&apos;Where’s the Shadow?&apos; - A workshop in preparation for Zero Shadow Day</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;The Cosmology Education and Research Training Centre (COSMOS) is an upcoming state-of-the-art planetarium, along with a data training centre and resource centre in Mysuru. The Indian Institute of Astrophysics (IIA) has formed an Education and Public Outreach Committee (EPOC) for COSMOS. In this article, the author has given a brief account of a unique workshop organised for both students and parents in preparation for Zero Shadow Day (ZSD). The article also highlights the various factors involved in a science outreach activity.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;The &lt;a href=&quot;https://twitter.com/cosmosmysuru&quot; target=&quot;_blank&quot;&gt;Cosmology Education and Research Training Center (COSMOS)&lt;/a&gt; is an upcoming state-of-the-art planetarium along with a data training centre and resource center in Mysuru. The planetarium will come up at the Sri Jayachamaraja Wadiyar Center for Higher Learning (JWCHL) campus of the University of Mysore (UoM) at the foot of Chamundi Hill in Mysuru.&lt;/p&gt;
-
-&lt;p&gt;The project is funded by the MPLAD funds of Hon’ble FM Nirmala Sitharaman, the Department of Science and Technology and the Department of Atomic Energy, Government of India. The project is steered by the Principal Scientific Advisor, Government of India, and is managed by the &lt;a href=&quot;https://www.iiap.res.in/&quot; target=&quot;_blank&quot;&gt;Indian Institute of Astrophysics&lt;/a&gt;, under an MoU between the &lt;a href=&quot;http://uni-mysore.ac.in/english-version/&quot; target=&quot;_blank&quot;&gt;University of Mysore&lt;/a&gt; and the Indian Institute of Astrophysics.&lt;/p&gt;
-
-&lt;p&gt;The Indian Institute of Astrophysics (IIA) has formed an Education and Public Outreach Committee (EPOC) for COSMOS consisting of science communicators and researchers across the country. IIA has hired two employees who are posted at Mysuru, who work to ensure the successful implementation of the outreach activities. The author is the Project Associate who coordinates all outreach activities on the ground. A Project Assistant has also been hired for a project to locate, digitise, and analyse astronomy content in Kannada. Both of them work in coordination with the EPO committee.&lt;/p&gt;
-
-&lt;p&gt;This year’s Zero Shadow Day was the first one for “COSMOS”. The outreach team of COSMOS, in association with the IIA, the University of Mysore (UoM), and Kutulali, came up with the idea of organising a workshop in preparation for Zero Shadow Day for the school students and their parents. Some people might be wondering, Why parents? In fact, that’s a valid question to ask! Considering the modern-day trends of parents getting involved in the activities of their children at school, music class, dance, karate, etc., we thought, why not give them a chance to involve themselves actively in a workshop? So, we sent out the posters to very few WhatsApp groups, asking interested people to register for the workshop and mentioning the fact that one of the parents should accompany the student on the day of the workshop. Interestingly, the response was overwhelmingly positive, with registrations from neighbouring cities and parents expressing their eagerness to attend the workshop over phone calls.&lt;/p&gt;
-
-&lt;p&gt;I should also mention the fact that because it was the summer holidays and the state election was around the corner, we could not access teachers and schools to participate in the workshop.&lt;/p&gt;
-
-&lt;p&gt;The workshop was held on April 17, 2023, at Vijnana Bhavan, University of Mysore, Mysuru. The program began with a talk by Ravinder Banyal, Associate Professor, IIA, on the necessity of studying the ‘Sun’ and then he discussed topics such as the various activities of the sun’s atmosphere, the formation of the sun, space weather, etc. Dr. Banyal successfully captured the attention of both parents and students by discussing the various topics in a language that they could comprehend. This was followed by a talk by Niruj Mohan Ramanujam on the science behind Zero Shadow Day. He went a step ahead and invited the students to the dias to involve them actively in the various aspects of the talk. Mr. Kollegala Sharma, PI-Kutuhali, who is a famous science writer and communicator in Kannada, was also present in the workshop and helped us reach the students and the parents in the local language, which is indeed a very important aspect of science communication in our country. Then we took the students and parents to the terrace of Vijnana Bhavan to do hands-on experiments. To be precise, this was the real-action time of the workshop.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/wheres_the_shadow_amogh/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Image 1: Dr. Ravinder Banyal (on left) and Mr. Kollegala Sharma (on right) interacting with the participants. [&lt;em&gt;PC: Amoghavarsha. N&lt;/em&gt;]
-&lt;/p&gt;
-
-&lt;p&gt;We had arranged three important experimental setups for the kids. The first one was a projection of the sun’s image onto the wall with the help of two IIA-made 4-inch reflector-type telescopes. The second one was finding the length of the shadow made by the Gnomon (Sanskrit/Kannada: Shankhu Yantra). The third and final one was the ball-mirror experiment. To our surprise, parents were engaging themselves in all the activities and experiments, matching the enthusiasm of an 8-year-old kid who was the youngest participant in our workshop!&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/wheres_the_shadow_amogh/image2.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Image 2: Dr. Niruj Mohan Ramanujam explaining the science behind Zero Shadow Day to the young participants. [&lt;em&gt;PC: Dr. Chrisphin Karthik&lt;/em&gt;]
-&lt;/p&gt;
-
-&lt;p&gt;With the above three experimental setups, the participants could witness important scientific phenomena, which are mentioned below.&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Observation of Sunspots: The students were given a chance to fiddle with the telescopes (of course, with proper instructions) to try and get an image of the sun on the screen. After proper focusing, sunspots were visible, and students had fun counting the number of spots.&lt;/li&gt;
-  &lt;li&gt;Movement of the Earth: As soon as the image was projected onto a screen, some students very distinctively noticed the movement of the sun’s image without any disturbance in the set-up. This helped in having a productive discussion regarding the earth’s movement around the sun.&lt;/li&gt;
-  &lt;li&gt;Angular Size of the Sun: Students and parents were briefed on how to calculate the angular separation of the sun in the sky by measuring the diameter of the circle of the sun’s projection.&lt;/li&gt;
-  &lt;li&gt;Solar Energy: Some small kids picked up some waste paper and placed it in front of the eyepiece to observe the phenomenon of the conversion of solar energy to heat energy. They were very happy when they were able to completely burn the paper.&lt;/li&gt;
-  &lt;li&gt;True North of Earth: With the help of Gnomon, the students were asked to note down the length of the shadow made by Gnomon every 10 minutes. The shortest shadow was observed at the local noon, and kids reported to us that after that point the shadow’s direction changed (you should know “why?”)! Using the points touching the concentric circles and drawing perpendicular to one of those circles, they could convince themselves that what they had found out was indeed the true direction of ‘North’. Please refer to image 4 for more details.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/wheres_the_shadow_amogh/image3.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Image 3: The participants measuring the length of the shadow made by the Gnomon (Shankhu Yantra) [&lt;em&gt;PC: Ms. Bhavani Joshi&lt;/em&gt;]
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/wheres_the_shadow_amogh/image4.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Image 4: Finding the true north of Earth using Shankhu Yantra / the method of equal altitudes [&lt;em&gt;Credits: &lt;a href=&quot;https://www.mysundial.ca/tsp/true_north_south.html&quot; target=&quot;_blank&quot;&gt;The Sundial Primer&lt;/a&gt;&lt;/em&gt;]
-&lt;/p&gt;
-
-&lt;p&gt;The program concluded with a wonderful feedback session from both the parents and students. The participants were also informed about the past and future activities of ‘COSMOS’ in and around the city before the dispersal. The Zero Shadow Day for Mysuru was on 23rd April 2023 at 12.22 PM.&lt;/p&gt;
-
-&lt;p&gt;I think I should also mention the fact that most of the experiments that were done on the workshop day were low-cost, self-made ones (which made me run very often to the local stationary shops), unlike the usual fancy stuff. For example, the Gnomon was a pencil which was glued to a thermocol (Polystyrene) sheet.&lt;/p&gt;
-
-&lt;p&gt;I feel that (and I assume most of the people who are reading this will agree with me on this) we should encourage and promote more and more low-cost and self-doable experimental arrangements to be relevant to all sections of students and people in society. It must be realised that science communication and outreach activities are much more than putting a presentation through a projector! And also, doing science-related activities in non-metropolitan cities, rural areas, and remote places takes much more effort compared to those done in metropolitan cities due to various degrees of constraints.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/wheres_the_shadow_amogh/image5.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-    Image 5: Participants doing the Ball-mirror experiment [&lt;em&gt;PC: Ms. Bhavani Joshi&lt;/em&gt;]
-&lt;/p&gt;
-
-&lt;p&gt;I would like to thank Dr. Niruj Mohan Ramanujam, SCOPE Head, IIA, for giving me enough freedom, constant support, and new ideas to carry out science communication and public outreach activities in Mysuru under the ‘COSMOS’ and IIA roofs. I also thank Prof. Annapurni Subramaniam, Director, IIA, for her encouragement and support. I must thank my friends and colleagues, Mr. Vikranth Pulamathi (SCOPE Associate, IIA), Mr. Vishaak K. B. (Intern at SCOPE, IIA), Mr. Punith. R. (Project Assistant, COSMOS), Ms. Bhavani (Intern at COSMOS, IIA), and all the volunteers of ‘COSMOS’ in Mysuru.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;For more details, you can follow us on &lt;a href=&quot;https://www.instagram.com/cosmosmysuru/?hl=en&quot; target=&quot;_blank&quot;&gt;Instagram&lt;/a&gt;, Facebook [@Cosmos Mysuru] and Twitter. I hope you will also listen to our podcast on &lt;a href=&quot;https://open.spotify.com/show/4GmBrSmrXuxgd0y0cj11XQ&quot; target=&quot;_blank&quot;&gt;Spotify&lt;/a&gt;. Thank you for your time and patience!&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Thu, 11 May 2023 00:00:00 +0530</pubDate>
-        <link>/wheres_the_shadow_amogh</link>
-        <guid isPermaLink="true">/wheres_the_shadow_amogh</guid>
-        
-        <category>zeroshadowday</category>
-        
-        <category>outreach</category>
-        
-        <category>COSMOS Mysuru</category>
-        
-        
-        <category>General</category>
-        
-      </item>
-    
-      <item>
-        <title>India’s expanding Cosmology community</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;‘Frontiers in Cosmology’ was a five-day international conference held at Raman Research Institute (RRI) during February 20 – 24, 2023. More than 100 participants including researchers, scientists, students and faculties from around the world attended the meet.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/proceedings_rri_cosmology_anjali/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Speakers at the &apos;Frontiers in Cosmology&apos; conference. &lt;em&gt;Credits:&lt;/em&gt; ESO/ M. Kornmesser, RRI Newsletter PJC Special Issue - I
-&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;India&lt;/b&gt; has seen a slow but steady growth in the number of researchers pursuing Astronomy and Astrophysics, particularly in cosmology and instrumentation, during the past three decades.&lt;/p&gt;
-
-&lt;p&gt;One such recent effort to unite the leading cosmologists was at the &lt;b&gt;‘Frontiers in Cosmology’&lt;/b&gt;, a five-day international conference held at the Raman Research Institute (RRI), Bengaluru, during February 20 – 24, 2023. The conference was one among the many celebrations to mark the platinum jubilee year of RRI, founded by Nobel laureate Sir CV Raman.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Frontiers in Cosmology&lt;/b&gt; saw a participation from over 100 subject experts including researchers, scientists, students and faculties and turned out to be a global platform to discuss, deliberate and share the latest from the field.&lt;/p&gt;
-
-&lt;p&gt;The conference offered five broad themes - Inflation and Cosmic Microwave Background (CMB), Cosmic Dawn and Epoch of Reionisation, Low Redshift Cosmology, the Evolving Universe and the Next Generation Experiments. Young researchers used this platform to showcase the findings of their research, the best 25 posters were on display here.&lt;/p&gt;
-
-&lt;p&gt;The conference hosted varied talks on CMB, characterization of galactic foregrounds, instrumentation, future astronomical facilities like the Simons Observatory, a ground-based CMB experiment located at Cerrro Toco in Chile, the Thirty Metre Telescope (TMT), the Square Kilometre Array (SKA), PRATUSH, some of which has active participation of RRI. Engaging and enlightening the audience about the telescope facilities like the South Pole Telescope (SPT) and the BICEP Array telescopes – both located in Antarctica – SARAS, CHIME, the young students got a flavour of the facilities, both existing and upcoming. The event saw serious deliberations revolving the ever-growing challenges faced by the astronomy community in getting land free from light pollution and human interferences. Experts stressed on the need for building improved instrumentation facilities and technological support besides designing facilities on larger and collaborative basis.&lt;/p&gt;
-
-&lt;p&gt;One of the speakers, Akito Kusaka, who spoke on ‘CMB – challenges and future prospects’, elaborated on the perfect conditions for installing the CMB detectors in the world. Further, his address highlighted the leakage of observations into polarization as one of the biggest hurdles in measuring CMB. The theories and scientific contributions of late Shivaramakrishnan Pancharatnam, (a noted student of Sir Raman), continue to be relevant even today, acknowledged Kusaka.&lt;/p&gt;
-
-&lt;p&gt;Giving elaborate details, contributions and challenges of operating, Maclean Rouble, in her talk titled ‘S&amp;amp;T of SPT : Past, Present and Future’, underlined the need for having sensitive detectors in order to improve the CMB mapping efforts. She touched upon the likely possibilities of telescopes post the operations of SPT, including the mm-line intensity mapping and the idea of developing kinetic inductance detectors. Another operational telescope in the Southern polar region is the BICEP Array telescopes, which are small aperture telescopes deployed to measure CMB with highest precision. Ritoban Basu Thakur in his talk informed about the heightened capacities of the upgraded BICEP Array telescope.&lt;/p&gt;
-
-&lt;p&gt;NenuFAR and the CoDEX Program initiated by the European Research Council were discussed.&lt;/p&gt;
-
-&lt;p&gt;Josh Dillon’s address on ‘Recent progress in 21cm Cosmology with the hydrogen epoch of reionization array’ detailed on the necessity for co-designing compact instruments with greater sensitivity for effective measurements. Nichole Barry elaborated on the difficulties in taking observations and working at the Murchison Widefield Array, especially for the epoch of reionization science in her address titled ‘The dangers of Whitefield Observations for the EoR 21cm measurements’.&lt;/p&gt;
-
-&lt;p&gt;Introducing the SARAS experiment setup ‘Constraining high redshift astrophysics with SARAS’, by Saurabh Singh enlisted the multiple challenges, especially the bright foregrounds, and the shrinking radio-quiet zones in India for conducting continued observations.&lt;/p&gt;
-
-&lt;p&gt;Introducing capabilities of CHIME, HIRAX and CHORD facilities, Shiv Sethi’s talk ‘Detecting HI in the post-reionizaiton’ suggested two potentially strong methods – stacking and cross-correction – that can produce good observations within the redshift 0.3 – 1.4 range. Hamsa Padmanabhan’s talk ‘A multi-messenger view of the baryonic Universe out to the Epoch Reionization’ underlined the requirement for strengthening the cross-co-relations for improving the 21cm HI intensity mapping in future.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/proceedings_rri_cosmology_anjali/image2.JPG&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Bringing together brilliant minds. Group photo of the conference attendees. &lt;em&gt;Credits:&lt;/em&gt; RRI
-&lt;/p&gt;
-
-&lt;p&gt;At a time when the country is sealing its position in Astronomy, senior scientists used this stage to inform the young attendees about the many next generation astronomy facilities, where India has major stakes. Yashwant Gupta spoke about the upgraded Giant Metrewave Radio Telescope (uGMRT) and presented an insight into the world’s largest radio telescope, the Square Kilometre Array (SKA). Another mega-science project participated by India, the Thirty Metre Telescope (TMT) – the proposed largest optical telescope – was spoken during a session by GC Anupama. She narrated the the numerous hardships faced in erecting the telescope at the designated Mauna Kea in Hawaii and years of continued efforts to locate a search alternate site, all for science!&lt;/p&gt;
-
-&lt;p&gt;Video recordings of the conference talks are available on the &lt;a href=&quot;https://www.youtube.com/playlist?list=PLOT8qUzmOGqovk12OtW3lBM7yEe759dyp&quot; target=&quot;_blank&quot;&gt; RRI YouTube channel.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;&lt;i&gt;Cover image credits: ESA - C. Carreau&lt;/i&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;acknowledgements&quot;&gt;Acknowledgements:&lt;/h2&gt;
-
-&lt;p&gt;CosmicVarta would like to thank the organizers of the “Frontiers in Cosmology” conference and Raman Research Institute (RRI) for their support and cooperation.&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Mon, 01 May 2023 00:00:00 +0530</pubDate>
-        <link>/proceedings_rri_cosmology_anjali</link>
-        <guid isPermaLink="true">/proceedings_rri_cosmology_anjali</guid>
-        
-        <category>Proceedings</category>
-        
-        <category>International</category>
-        
-        <category>Conference</category>
-        
-        <category>Cosmology</category>
-        
-        
-        <category>General</category>
         
       </item>
     
