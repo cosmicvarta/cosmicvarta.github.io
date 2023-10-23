@@ -141,6 +141,7 @@ I am a researcher at the Indian Institute of Astrophysics (IIA), Bengaluru. I am
 ---
 ---
 
+
 <p align="center">
   <img src="assets/images/sadaf_ansari_about_us.jpg" height="300" width="300" style="border-radius:50%">
 </p>
@@ -154,6 +155,7 @@ Hello! My name is Sadaf Iqbal Ansari. Currently, I am a research assistant, work
 ---
 ---
 
+
 <p align="center">
   <img src="assets/images/srinivas_rao_about_us.jpg" height="300" width="300" style="border-radius:50%">
 </p>
@@ -163,6 +165,20 @@ Hello! My name is Sadaf Iqbal Ansari. Currently, I am a research assistant, work
 
 
 I am a PhD student at Aryabhatta Research Institute of Observational Sciences (ARIES), Nainital. My research is on cataclysmic variables and the accretion mechanisms involved with it. In my free time, I enjoy playing various games such as badminton, reading books, and have an immense love for anime. I am an avid reader and enjoy immersing myself in different worlds through books. My love for anime allows me to explore new cultures and perspectives.
+
+---
+---
+
+
+<p align="center">
+  <img src="assets/images/himansh_about_us.JPG" height="300" width="300" style="border-radius:50%">
+</p>
+
+
+ <h2> <span style="color:blue">Himansh Rathore</span></h2>
+
+
+Hi ! My name is Himansh Rathore, and I am a PhD student at the Department of Astronomy & Steward Observatory, University of Arizona. My research falls under the broad categories of galaxy evolution and cosmology. Currently, I am focussing on building state-of-the-art hydrodynamic models for explaining the interactions between the satellite galaxies of the Milky Way. Outside of Astronomy, I enjoy trekking, playing sports, playing music and also breaking and fixing things (like my bicycle)! For more information, please visit my <a href="https://himanshrathore.github.io/">website</a>.
 
 ---
 ---
