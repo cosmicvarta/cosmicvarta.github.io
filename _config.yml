@@ -556,6 +556,16 @@ authors:
         twitter: 
         description: "Raveena is a PhD student at the Indian Institute of Astrophysics. She is currently visiting the High Altitude Observatory as a Newkirk Fellow. Her research work includes forward modeling and instrumentation related to solar spectropolarimetry, especially in the extreme-ultraviolet spectral range."
 
+ Harish Chandra Das:
+        name: Harish Chandra Das
+        display_name: Harish Chandra Das
+        avatar: 
+        email: harishdas.physics@gmail.com
+        web: 
+        twitter: 
+        description: 
+
+
 plugins:
   - jekyll-paginate
   - jekyll-sitemap

@@ -5,9 +5,137 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 14 Nov 2023 14:54:23 +0530</pubDate>
-    <lastBuildDate>Tue, 14 Nov 2023 14:54:23 +0530</lastBuildDate>
+    <pubDate>Sun, 24 Dec 2023 19:59:07 +0530</pubDate>
+    <lastBuildDate>Sun, 24 Dec 2023 19:59:07 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
+    
+      <item>
+        <title>I-Love-C universal relation for the anisotropic neutron stars</title>
+        <description>&lt;blockquote&gt;
+
+  &lt;p&gt;The neutron star is the most well known compact object in the Universe. It has several macroscopic properties such as mass (M), radius (R), compactness (C), tidal deformability (Λ), and moment of inertia (I), which can be observed using different telescopes and terrestrial detectors. Some of them have already been measured, and others can be done soon. However, there is another way to obtain the magnitude of such properties, which are difficult to measure using just observational techniques. One such way to do it is with the help of a universal relation between those properties. This article discusses one such relation known as I-Love-C for the anisotropic neutron star.&lt;/p&gt;
+
+  &lt;hr /&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;introduction&quot;&gt;Introduction&lt;/h1&gt;
+&lt;p&gt;Different stars are formed in a process called supernovae. It is mainly of two types: (i) Type-I and Type-II. A Type-I supernova occurs when a white dwarf, a dense remnant of a star, accumulates enough mass to reach a critical limit. This results in a sudden and complete explosion without any remaining stellar core. Type I supernovae do not involve the collapse of the core. However, Type-II supernovae occur when massive stars, typically at least eight times the mass of our Sun, reach the end of their life cycles. The core of the star collapses under its own gravity, leading to a massive explosion. Type-II supernovae are characterized by the presence of a collapsed core. Mainly, neutron stars (NS) and black holes are formed in this type.&lt;/p&gt;
+
+&lt;p&gt;After the formation of the NS, having its temperature of ~10&lt;sup&gt;14&lt;/sup&gt; K, it emits very high energy thermal photons and neutrinos, which cools the NS very fast, and its final temperature comes  to ~ 10&lt;sup&gt;9&lt;/sup&gt; − 10&lt;sup&gt;11&lt;/sup&gt; K. The internal composition of the NS is much more complex (see Fig. 1), which requires different areas of expertise such as nuclear physics, astrophysics, high energy physics, etc. It is a unique place in the Universe where four fundamental forces meet.&lt;/p&gt;
+
+&lt;p&gt;Besides their structural compositions, there are some exotic phenomena that happen, as mentioned in the following:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Hyperons Production&lt;/strong&gt;: Inside NSs, the intense pressure and density cause some of the building blocks of matter called “hyperons” to form. These hyperons are like exotic cousins of protons and neutrons (&lt;a href=&quot;https://iopscience.iop.org/article/10.1088/1742-6596/668/1/012031&quot; target=&quot;_blank&quot;&gt; reference&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Kaon Condensation&lt;/strong&gt;: NSs have so much matter squeezed into a tiny space that it can cause particles called “kaons” to clump together, creating a kind of condensed state.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Phase Transitions (Nucleon to Quarks)&lt;/strong&gt;: Deep inside neutron stars, the pressure is so extreme that protons and neutrons can change into even smaller particles called “quarks.”&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;strong&gt;Very High Magnetic Fields (10&lt;sup&gt;17&lt;/sup&gt; − 10&lt;sup&gt;19&lt;/sup&gt; G)&lt;/strong&gt;: Neutron stars have insanely powerful magnetic fields because they are the remnants of massive stars that collapsed. These fields are billions of times stronger than Earth’s magnetic field.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Due to those processes, the difference arises between the magnitude of radial (P&lt;sub&gt;||&lt;/sub&gt;) and tangential (P&lt;sub&gt;⟂&lt;/sub&gt;) pressure in the local region inside the star (see Fig. 1). Therefore, it is defined as the pressure anisotropy inside the star is a more realistic case than the isotropic one. In this article, we discuss the properties of such compact objects having anisotropic pressure inside their core.&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/i_love_c_universal_relation_harish/image1.jpg&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 1: Schematic figure for the neutron star. It is taken from this &lt;a href=&quot;https://www.astro.umd.edu/~miller/Images/NStarInt.jpeg&quot; target=&quot;_blank&quot;&gt; URL&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/i_love_c_universal_relation_harish/image2.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 2: Variation of pressure (scaled with the no-field value P0) in directions parallel and perpendicular to the magnetic field at 4 times nuclear saturation density. This image is taken from the &lt;a href=&quot;https://iopscience.iop.org/article/10.3847/1538-4357/aba8fc&quot; target=&quot;_blank&quot;&gt; ApJ 900, 49 (2020)&lt;/a&gt;.
+&lt;/p&gt;
+
+&lt;p&gt;The properties such as mass (M), radius (R), compactness (C), &lt;a href=&quot;https://www.ligo.org/science/Publication-GW170817ModelSelection/index.php&quot; target=&quot;_blank&quot;&gt; tidal deformability (Λ)&lt;/a&gt;, and &lt;a href=&quot;https://articles.adsabs.harvard.edu/pdf/1994ApJ...424..846R&quot; target=&quot;_blank&quot;&gt; moment of inertia (I)&lt;/a&gt; of a star mainly depend on both internal compositions and processes that happen inside of it. One such relation, which takes into account all of these properties, is called the equation of state (EOS) of a star. The EOS is the main ingredient to obtain the magnitude of these properties of the anisotropic NS, and it depends on the model. Therefore, physicists around the globe are always trying to find a good EOS that includes all interactions and satisfies the various observational constraints available to date. However, work is still going in this direction.&lt;/p&gt;
+
+&lt;p&gt;Different observations have been done by various telescopes in space (like &lt;a href=&quot;https://www.et-gw.eu&quot; target=&quot;_blank&quot;&gt; Einstein telescope&lt;/a&gt;, &lt;a href=&quot;https://www.elisascience.org&quot; target=&quot;_blank&quot;&gt; LISA&lt;/a&gt;), and the detectors on Earth (such as  &lt;a href=&quot;https://www.ligo.caltech.edu&quot; target=&quot;_blank&quot;&gt; LIGO&lt;/a&gt;/&lt;a href=&quot;https://www.virgo-gw.eu&quot; target=&quot;_blank&quot;&gt; Virgo&lt;/a&gt;), etc. Using the &lt;a href=&quot;https://doi.org/10.1051/0004-6361/201015532&quot; target=&quot;_blank&quot;&gt; pulsar measurement data&lt;/a&gt; one can estimate both the mass and radius of the star. Gravitational wave measurements by &lt;a href=&quot;https://www.ligo.caltech.edu&quot; target=&quot;_blank&quot;&gt; LIGO&lt;/a&gt;/&lt;a href=&quot;https://www.virgo-gw.eu&quot; target=&quot;_blank&quot;&gt; Virgo&lt;/a&gt;/&lt;a href=&quot;https://gwcenter.icrr.u-tokyo.ac.jp/en/&quot; target=&quot;_blank&quot;&gt; KAGRA&lt;/a&gt; have in turn  measured the tidal deformability, which directly puts constraints on the EOS of the NS. However, the moment of inertia of the NS is still unobserved. Therefore, scientists looked for another way to estimate the moment of inertia of the NS with the help of the “Universal relation”.&lt;/p&gt;
+
+&lt;h1 id=&quot;methodology-and-results&quot;&gt;Methodology and Results&lt;/h1&gt;
+&lt;p&gt;In literature, there are several universal relations (URs) already proposed. The URs are &lt;a href=&quot;https://journals.aps.org/prd/abstract/10.1103/PhysRevD.88.023009#:~:text=On%20a%20gravitational%2Dwave%20front,large%20signal%2Dto%2Dnoise%20ratio&quot; target=&quot;_blank&quot;&gt; I−Love−Q&lt;/a&gt;, &lt;a href=&quot;https://journals.aps.org/prd/abstract/10.1103/PhysRevD.101.124006&quot; target=&quot;_blank&quot;&gt; I−Love−C&lt;/a&gt;, &lt;a href=&quot;http://dx.doi.org/10.1103/PhysRevD.90.124023&quot; target=&quot;_blank&quot;&gt; I − f − C&lt;/a&gt;, etc. The URs that have been obtained between any two properties are mainly EOS-independent, i.e., they do not depend on the internal structure mechanism. Therefore, if we find any of the quantities from observation, we can estimate the magnitude of the other one with the help of the corresponding UR.&lt;/p&gt;
+
+&lt;p&gt;The UR between the moment of inertia (Ī = I/M&lt;sup&gt;3&lt;/sup&gt;) and tidal deformability (Λ) is shown in Fig. 1. To get a relationship between them, we fit these data with the equation given in the following:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/i_love_c_universal_relation_harish/image3.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/i_love_c_universal_relation_harish/image4.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+Figure 3: Ī − Λ relation is shown for different values of anisotropy parameter λ&lt;sub&gt;BL&lt;/sub&gt; = 0 for 60 EOSs. The orange dashed line is fitted using the Eq. (1). The magenta-shaded region is the tidal deformability observational data taken from the GW170817 (Λ = 70 − 580). The lower panel is the residuals for the fitting calculated using the formula in Eq. (2). The figure is taken from &lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022PhRvD.106j3518D/abstract&quot; target=&quot;_blank&quot;&gt; Phys.Rev.D 106 (2022) 10, 103518&lt;/a&gt;. 
+&lt;/p&gt;
+
+&lt;p&gt;and the coefficients are a&lt;sub&gt;0&lt;/sub&gt;(10&lt;sup&gt;−1&lt;/sup&gt;, a&lt;sub&gt;1&lt;/sub&gt;(10&lt;sup&gt;−2&lt;/sup&gt;), a&lt;sub&gt;2&lt;/sub&gt;(10&lt;sup&gt;−2&lt;/sup&gt;)), a&lt;sub&gt;3&lt;/sub&gt;(10&lt;sup&gt;−3&lt;/sup&gt;), and a&lt;sub&gt;4&lt;/sub&gt;(10&lt;sup&gt;−4&lt;/sup&gt;) are 7.5026, 4.1857, 8.0495, -8.9478, and 5.4767 respectively. The residuals in the lower panel of the figure are computed with the formula:&lt;/p&gt;
+
+&lt;p align=&quot;center&quot;&gt;
+  &lt;img src=&quot;../assets/images/i_love_c_universal_relation_harish/image5.png&quot; /&gt;
+&lt;/p&gt;
+
+&lt;p&gt;where 𝛘&lt;sub&gt;r&lt;/sub&gt;&lt;sup&gt;2&lt;/sup&gt; the reduced chi-squared error is defined as equal to the ratio of the observed experimental variance divided by the theoretical variance.&lt;/p&gt;
+
+&lt;h1 id=&quot;methodology-and-results-1&quot;&gt;Methodology and Results&lt;/h1&gt;
+&lt;p&gt;In 2017, the LIGO/Virgo detected the gravitational waves from the merger of the two binary NSs. They inferred the tidal deformability value in the range of 70 to 580. We estimated the value of the moment of inertia (Ī&lt;sub&gt;1.4&lt;/sub&gt; = 1.77&lt;sub&gt;-0.09&lt;/sub&gt;&lt;sup&gt;+0.17&lt;/sup&gt; × 10&lt;sup&gt;45&lt;/sup&gt; g cm&lt;sup&gt;2&lt;/sup&gt;) with the help of the LIGO/Virgo data by inserting the value in Eq. 1. In this case, we choose the NS with no anisotropic pressure. However, one can estimate the value of the moment of inertia for different values of anisotropy inside the star.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h1&gt;
+&lt;p&gt;In conclusion, we calculated some macroscopic properties of the anisotropic NS with different models. We choose the different degrees of anisotropy inside the star with the help of the BL-model. The universal relation is studied in between the moment of inertia and the tidal deformability of the star. With the help of the GW170817 tidal deformability data, we estimated the magnitude of the moment of inertia for the star. Like the moment of inertia, one can also estimate the magnitude of other properties, such as compactness (mass/radius), frequency of the oscillations, etc., with the help of other URs that are not detectable by the detectors. Therefore, the URs are very crucial, which help us to study the different properties of the star.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Original paper:&lt;/strong&gt;
+&lt;a href=&quot;https://ui.adsabs.harvard.edu/abs/2022PhRvD.106j3518D/abstract&quot; target=&quot;_blank&quot;&gt;I-Love-C relation for an anisotropic neutron star&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First Author:&lt;/strong&gt;  H. C. Das&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;First author’s Institution:&lt;/strong&gt; 1) Institute of Physics, Bhubaneswar,India 2) Homi Bhabha National Institute, Mumbai, India&lt;/p&gt;
+
+&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
+&lt;script&gt;
+    /**
+    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
+    /*
+    var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
+    };
+    */
+    (function() { // DON&apos;T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement(&apos;script&apos;);
+    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
+    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+&lt;/script&gt;
+
+&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
+
+</description>
+        <pubDate>Wed, 06 Dec 2023 00:00:00 +0530</pubDate>
+        <link>/i_love_c_universal_relation_harish</link>
+        <guid isPermaLink="true">/i_love_c_universal_relation_harish</guid>
+        
+        <category>General Relativity and Quantum Cosmology</category>
+        
+        <category>Nuclear Theory</category>
+        
+        
+        <category>High Energy Astrophysical Phenomena</category>
+        
+      </item>
     
       <item>
         <title>Bending/Flipping/Reorienting: Superheated plasma outflow from supermassive blackhole producing ‘X’-like fountains</title>
@@ -25,7 +153,7 @@
 &lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-Fig. 1: Artist&apos;s impression of what a black hole, its accretion system, and the ejected jets of plasma matter might look like. The black hole is presented in black as no light can escape its gravitational influence beyond a certain point known as the event horizon. The black hole accretes surrounding gas through an accretion disc, and some of the material flowing in this disk is thrown along the black hole&apos;s spinning axis in the form of jets (matter captured from outside the event horizon). The &apos;innermost stable orbit&apos; and &apos;photon sphere&apos; are the last stable orbits around a black hole where matter and light can remain in stable orbits without falling into the black hole, respectively. [Credit: &lt;a href=&quot;https://www.esa.int/&quot;&gt;ESO&lt;/a&gt; ]
+Fig. 1: Artist&apos;s impression of what a black hole, its accretion system, and the ejected jets of plasma matter might look like. The black hole is presented in black as no light can escape its gravitational influence beyond a certain point known as the event horizon. The black hole accretes surrounding gas through an accretion disc, and some of the material flowing in this disk is thrown along the black hole&apos;s spinning axis in the form of jets (matter captured from outside the event horizon). The &apos;innermost stable orbit&apos; and &apos;photon sphere&apos; are the last stable orbits around a black hole where matter and light can remain in stable orbits without falling into the black hole, respectively (Not to scale). [Credit: &lt;a href=&quot;https://www.esa.int/&quot;&gt;ESO&lt;/a&gt; ]
 &lt;/p&gt;
 
 &lt;p&gt;Now, let’s discuss the environment through which these jets travel. As mentioned earlier, these jets can cover distances of several million light-years, surpassing the extent of their host galaxies. So, the jets enter into a region known as the intergalactic medium, which lies between galaxies. These mediums are an integral part of the ‘galaxy groups’ or ‘galaxy clusters’, spanning sizes 10-100 times larger than a typical galaxy and housing tens of galaxies within them. In addition to galaxies, these cluster or group mediums are primarily filled with superheated gas, which is incredibly sparse (about 10&lt;sup&gt;-25&lt;/sup&gt; times less dense than Earth’s air). It’s important to emphasize here that the density of the jets is even lower than that of such surrounding medium. Therefore, when a jet travels through such a medium, it undergoes a significant collision and has to drill through it. This gas in clusters or groups exists in the form of superheated plasma at temperatures of around several million Kelvin, causing it to emit X-rays, which are at the high-energy end of the electromagnetic spectrum. Therefore, to detect their presence, we require X-ray telescopes. Whereas, the plasma outflow from the black hole primarily emits low-energy radio waves, and this emission occurs through a process called synchrotron radiation. In this process, plasma particles revolve around magnetic fields, producing electromagnetic radiation primarily in the form of radio waves.&lt;br /&gt;
@@ -1164,111 +1292,6 @@ Figure 5: Same as Figure 4, but for J1430+1339.
         
         
         <category>Astrophysics of Galaxies</category>
-        
-      </item>
-    
-      <item>
-        <title>Chandrayaan-3 : A 14 day lunar cruise</title>
-        <description>&lt;blockquote&gt;
-
-  &lt;p&gt;India’s ambitious space program reaches new heights as Chandrayaan-3, the eagerly anticipated lunar exploration mission, prepares for launch. Get ready to witness history in the making as India embarks again on an extraordinary journey towards the Moon, marking a remarkable milestone for the nation and igniting a wave of excitement across the country.&lt;/p&gt;
-
-  &lt;hr /&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;&lt;b&gt;Chandrayaan-3&lt;/b&gt; is the planned 3rd lunar exploration mission by the Indian Space Research Organisation (ISRO), with the aim of demonstrating the end-to-end capability in safe landing and roving on the lunar surface along with the development and demonstration of new technologies intended towards inter-planetary missions. The developed system for the mission consists of an indigenous Lander module (Vikram), a Rover (Pragyan) and a Propulsion module.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/chandrayaan_3_cysil/image1.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 1: A schematic illustration of the Integrated Module. &lt;em&gt;Credits:&lt;/em&gt; ISRO
-&lt;/p&gt;
-
-&lt;p&gt;The launcher identified for Chandrayaan-3 is LVM3-M4 (Launch Mark 3 - Mission 4), which will place the integrated module in an Elliptic Parking Orbit (EPO). The pri- mary function of the Propulsion module is to transport the Lander from the launch vehicle injection till its entry into the lunar polar orbit at an altitude of 100 kms from the lunar surface, after which the Lander separates from the Propulsion module and begins its descent. The Lander is equipped with the capability to perform a soft land at a specified lunar site (69.367621 S, 32.348126 E) and deploy the Rover which will then carry out in-situ chemical analysis of the lunar surface during the course of its planned lifetime of 14 Earth days (1 Lunar Day). The Propulsion Module also has one scientific payload as a secondary function which will be operated post separation of Lander module.&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/chandrayaan_3_cysil/image2a.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-  &lt;img src=&quot;../assets/images/chandrayaan_3_cysil/image2b.png&quot; /&gt;
-&lt;/p&gt;
-
-&lt;p align=&quot;center&quot;&gt;
-Figure 2: A schematic illustration of the Chandrayaan-3 Lander (Top) and Rover (Bottom). &lt;em&gt;Credits:&lt;/em&gt; ISRO
-&lt;/p&gt;
-
-&lt;p&gt;The mission objectives of Chandrayaan-3 are:&lt;/p&gt;
-&lt;ol&gt;
-  &lt;li&gt;To demonstrate Safe and Soft Landing on Lunar Surface&lt;/li&gt;
-  &lt;li&gt;To demonstrate Rover roving on the moon&lt;/li&gt;
-  &lt;li&gt;To conduct in-situ scientific experiments&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;The Propulsion module, the Lander and the Rover hosts a total of 7 scientific payloads
-in order to carry out experiments on the lunar surface and atmosphere. They are listed
-below.&lt;/p&gt;
-
-&lt;ol&gt;
-  &lt;li&gt;&lt;b&gt;Radio Anatomy of Moon Bound Hypersensitive ionosphere and Atmosphere
-(RAMBHA)&lt;/b&gt; - [Lander] - This experiment makes use of a Langmuir Probe in order to measure the near surface plasma density and its changes with time.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Chandra’s Surface Thermo physical Experiment (ChaSTE)&lt;/b&gt; - [Lander] - To measure the thermal conductivity and temperature of the lunar surface.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Instrument for Lunar Seismic Activity (ILSA)&lt;/b&gt; - [Lander] - An experiment to measure the seismicity of the lunar surface and delineating the structure of the lunar crust and mantle.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Laser Retroreflector Array (LRA)&lt;/b&gt; - [Lander] - A passive experiment to understand the dynamics of Moon system.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Alpha Particle X-Ray Spectrometer (APXS)&lt;/b&gt; - [Rover] - To determine the elemental composition of the surface in the immediate vicinity of the landing site.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Laser Induced Breakdown Spectroscope (LIBS)&lt;/b&gt; - [Rover] - To infer the mineralogical composition of the lunar surface through elemental analysis.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;Spectro-polarimetry of HAbitable Planet Earth (SHAPE)&lt;/b&gt; - [Propulsion module] - To observe the Earth in reflected light in an attempt to decipher future discoveries of Exo-planets which would qualify for habitability.&lt;/li&gt;
-&lt;/ol&gt;
-
-&lt;p&gt;Within the predecessors to the Chandrayaan-3, Chandrayaan-2 boasted a ‘significant technological leap’ compared to the Chandrayaan-1. The Vikram Lander onboard the Chandrayaan-2 accomplished its intended descent trajectory, smoothly transitioning from an orbit of 35 km to a position slightly below 2 km above the lunar surface. During this phase, all systems and sensors of the Lander operated flawlessly, demonstrating the successful utilization of groundbreaking technologies, such as the innovative variable thrust propulsion system. Unfortunately, communication with the Lander was lost during the final descent phase. Subsequent investigations confirmed that the lander experienced a hard landing on the lunar surface, resulting in the loss of the lander itself. Chandrayaan-3 aims to address the challenges of its predecessors and enhance the current understanding of the Moon. On successful landing at the specified site, India will immortalise herself as the fourth country to land its spacecraft on the surface of the Moon and the first country to land near the South Pole of the Moon.&lt;/p&gt;
-
-&lt;p&gt;The launch of Chandrayaan-3 has been scheduled for &lt;b&gt;July 14, 2023, at 2:35 pm IST&lt;/b&gt; from the &lt;b&gt;Satish Dhawan Space Centre, Sriharikota&lt;/b&gt;. The spacecraft is expected to reach the moon by the 23rd − 24th August.&lt;/p&gt;
-
-&lt;p&gt;Live telecast of the launch can be viewed on the &lt;a href=&quot;https://www.youtube.com/live/q2ueCg9bvvQ?feature=share&quot; target=&quot;_blank&quot;&gt; official ISRO YouTube channel.&lt;/a&gt;&lt;/p&gt;
-
-&lt;hr /&gt;
-
-&lt;div id=&quot;disqus_thread&quot;&gt;&lt;/div&gt;
-&lt;script&gt;
-    /**
-    *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
-    *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables    */
-    /*
-    var disqus_config = function () {
-    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page&apos;s canonical URL variable
-    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page&apos;s unique identifier variable
-    };
-    */
-    (function() { // DON&apos;T EDIT BELOW THIS LINE
-    var d = document, s = d.createElement(&apos;script&apos;);
-    s.src = &apos;https://cosmicvarta-in.disqus.com/embed.js&apos;;
-    s.setAttribute(&apos;data-timestamp&apos;, +new Date());
-    (d.head || d.body).appendChild(s);
-    })();
-&lt;/script&gt;
-
-&lt;noscript&gt;Please enable JavaScript to view the &lt;a href=&quot;https://disqus.com/?ref_noscript&quot;&gt;comments powered by Disqus.&lt;/a&gt;&lt;/noscript&gt;
-</description>
-        <pubDate>Thu, 13 Jul 2023 00:00:00 +0530</pubDate>
-        <link>/chandrayaan_3_cysil</link>
-        <guid isPermaLink="true">/chandrayaan_3_cysil</guid>
-        
-        <category>International</category>
-        
-        <category>India</category>
-        
-        <category>ISRO</category>
-        
-        <category>Chandrayaan</category>
-        
-        <category>moon</category>
-        
-        <category>lunar exploration</category>
-        
-        
-        <category>General</category>
         
       </item>
     
