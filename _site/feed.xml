@@ -5,8 +5,8 @@
     <description> Platform for promoting Indian astronomy research to the public.</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 05 Jan 2024 22:34:37 +0530</pubDate>
-    <lastBuildDate>Fri, 05 Jan 2024 22:34:37 +0530</lastBuildDate>
+    <pubDate>Fri, 05 Jan 2024 22:47:43 +0530</pubDate>
+    <lastBuildDate>Fri, 05 Jan 2024 22:47:43 +0530</lastBuildDate>
     <generator>Jekyll v4.2.0</generator>
     
       <item>
@@ -25,7 +25,7 @@
 &lt;h2 id=&quot;x-ray-astronomy&quot;&gt;X-ray Astronomy&lt;/h2&gt;
 
 &lt;p&gt;Extremely energetic objects, such as &lt;a href=&quot;https://imagine.gsfc.nasa.gov/science/toolbox/xray_astronomy1.html&quot; target=&quot;_blank&quot;&gt;supernova remnants, hot gases in galaxy clusters, black holes, and neutron stars, emit high-energy radiations like X-rays and gamma rays&lt;/a&gt;. Unlike visible light or radio waves, X-rays from celestial sources do not reach Earth’s surface due to atmospheric attenuations. Thus, humans engineered space telescopes, placed beyond our planet’s protective shield, offering a view of the high-energy Universe.
-Since the advent of the first X-ray instruments in the 1960s, the temporal variability and spectroscopic properties of various cosmic X-ray sources have been extensively studied. Temporal variability tells us about the behavior of a source on different time scales, whereas spectroscopy reveals its relative brightness in different energies/wavelengths - both these parameters contain a wealth of information about the source. India’s first dedicated astronomy satellite, &lt;a href=&quot;&quot; target=&quot;_blank&quot;&gt;AstroSat&lt;/a&gt;, has significantly contributed to advancing this endeavor. The data from these telescopes have notably enhanced our understanding of these extreme cosmic objects. However, we have reached a point where our timing and spectroscopy abilities alone cannot resolve some of the degeneracies within our theoretical understanding.&lt;/p&gt;
+Since the advent of the first X-ray instruments in the 1960s, the temporal variability and spectroscopic properties of various cosmic X-ray sources have been extensively studied. Temporal variability tells us about the behavior of a source on different time scales, whereas spectroscopy reveals its relative brightness in different energies/wavelengths - both these parameters contain a wealth of information about the source. India’s first dedicated astronomy satellite, &lt;a href=&quot;https://www.isro.gov.in/AstroSat.html&quot; target=&quot;_blank&quot;&gt;AstroSat&lt;/a&gt;, has significantly contributed to advancing this endeavor. The data from these telescopes have notably enhanced our understanding of these extreme cosmic objects. However, we have reached a point where our timing and spectroscopy abilities alone cannot resolve some of the degeneracies within our theoretical understanding.&lt;/p&gt;
 
 &lt;h2 id=&quot;x-ray-polarimetry&quot;&gt;X-ray polarimetry&lt;/h2&gt;
 
@@ -40,7 +40,7 @@ Since the advent of the first X-ray instruments in the 1960s, the temporal varia
 &lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-Figure 01: XPoSat (Credits: &lt;a href=&quot;chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.isro.gov.in/media_isro/pdf/Missions/PSLV_C58/PSLV_C58_Brochure.pdf&quot; target=&quot;_blank&quot;&gt;ISRO&lt;/a&gt;)
+Figure 01: XPoSat (Credits: &lt;a href=&quot;https://www.isro.gov.in/XPoSat.html&quot; target=&quot;_blank&quot;&gt;ISRO&lt;/a&gt;)
 &lt;/p&gt;
 
 &lt;h2 id=&quot;polix&quot;&gt;POLIX&lt;/h2&gt;
@@ -64,7 +64,7 @@ NASA’s &lt;a href=&quot;https://ixpe.msfc.nasa.gov/&quot; target=&quot;_blank&
 &lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-Figure 03: POLIX Payload (Credits: &lt;a href=&quot;chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.isro.gov.in/media_isro/pdf/Missions/PSLV_C58/PSLV_C58_Brochure.pdf&quot; target=&quot;_blank&quot;&gt;ISRO&lt;/a&gt;)
+Figure 03: POLIX Payload (Credits: &lt;a href=&quot;https://www.isro.gov.in/XPoSat.html&quot; target=&quot;_blank&quot;&gt;ISRO&lt;/a&gt;)
 &lt;/p&gt;
 
 &lt;h2 id=&quot;xspect&quot;&gt;XSPECT&lt;/h2&gt;
@@ -81,10 +81,9 @@ Moreover, polarization detection, being an extremely photon-hungry technique, re
 &lt;/p&gt;
 
 &lt;p align=&quot;center&quot;&gt;
-Figure 04: XSPECT Payload (Credits: &lt;a href=&quot;chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.isro.gov.in/media_isro/pdf/Missions/PSLV_C58/PSLV_C58_Brochure.pdf&quot; target=&quot;_blank&quot;&gt;ISRO&lt;/a&gt;)
+Figure 04: XSPECT Payload (Credits: &lt;a href=&quot;https://www.isro.gov.in/XPoSat.html&quot; target=&quot;_blank&quot;&gt;ISRO&lt;/a&gt;)
 &lt;/p&gt;
 
-&lt;hr /&gt;
 &lt;hr /&gt;
 
 &lt;p&gt;&lt;b&gt;XPoSat would serve as the first space-based observatory to perform X-ray spectro-polarimetry (simultaneous spectroscopy and polarimetry) from bright cosmic sources. X-ray polarization measurements, along with timing and spectroscopy-based observations, hold the potential to significantly improve and enrich our understanding of the physics of extreme celestial sources.&lt;/b&gt;&lt;/p&gt;
