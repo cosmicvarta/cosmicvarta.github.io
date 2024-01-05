@@ -2,11 +2,11 @@
 layout: post
 title:  "XpoSat: India's venture into the new frontier of X-ray astronomy"
 author: Ketan Rikame, Rwitika Chatterjee
-permalink: exposat_ketan_rwitija
+permalink: exposat_ketan_rwitika
 categories: [General]
 tags: [International, India, ISRO, XPoSat, pulsars, neutron stars, black holes]
 class: [Featured]
-image: assets/images/exposat_ketan_rwitija/image_cover.png
+image: assets/images/exposat_ketan_rwitika/image_cover.png
 featured: True
 hidden: True
 review: False
@@ -34,7 +34,7 @@ The emission mechanism from various astronomical sources such as <a href="https:
 India unveiled a new frontier in high-energy astrophysics with the launch of its first <a href="https://www.isro.gov.in/XPoSat.html" target="_blank">X-Ray Polarimeter Satellite (XPoSat)</a> on January 1st, 2024. XPoSat was launched into a low Earth orbit of 650 km altitude and 6 degrees inclination by ISRO's workhorse - the <a href="https://www.isro.gov.in/PSLV_CON.html" target="_blank">PSLV</a> rocket. It is the first-ever mission designed to measure the X-ray polarization of medium energy X-rays (8-30 keV) with an X-ray Polarimeter (POLIX) instrument. The X-ray SPECtroscopy and Timing (XSPECT) instrument onboard provides simultaneous X-ray spectroscopic measurements in the 0.8-15 keV energy range. The XPoSat aims to study about 50 bright X-ray sources, including pulsars, black hole X-ray binaries, active galactic nuclei, etc.
 
 <p align="center">
-  <img src="../assets/images/exposat_ketan_rwitija/image01.png">
+  <img src="../assets/images/exposat_ketan_rwitika/image01.png">
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@ Figure 01: XPoSat (Credits: <a href="chrome-extension://efaidnbmnnnibpcajpcglcle
 , developed by <a href="https://www.rri.res.in/" target="_blank">Raman Research Institute (Bengaluru)</a>, is the principal scientific payload onboard XPoSat. When X-ray photons interact with matter, part of them scatter in various directions. In the direction perpendicular to the incident photons, the scattering for polarized X-ray photons is non-uniform, unlike for unpolarized X-ray photons. This phenomenon, called Thomson scattering, is a dominant photon-matter interaction within the POLIX energy range. (See Figure 02).
 
 <p align="center">
-  <img src="../assets/images/exposat_ketan_rwitija/image02.jpg">
+  <img src="../assets/images/exposat_ketan_rwitika/image02.jpg">
 </p>
 
 <p align="center">
@@ -58,7 +58,7 @@ The field of view for incoming X-ray photons is limited to 3 degrees by 3 degree
 NASA’s <a href="https://ixpe.msfc.nasa.gov/" target="_blank">Imaging X-ray Polarimetry Explorer (IXPE)</a> has the capability to measure the polarization of X-ray photons in the 2-8 keV range, which complements the POLIX energy range. Both instruments together will enhance our overall understanding of X-ray sources across broader energy ranges.
 
 <p align="center">
-  <img src="../assets/images/exposat_ketan_rwitija/image03.jpg">
+  <img src="../assets/images/exposat_ketan_rwitika/image03.jpg">
 </p>
 
 <p align="center">
@@ -75,7 +75,7 @@ Due to faster readout, XSPECT can observe much brighter sources such as Sco X-1,
 Moreover, polarization detection, being an extremely photon-hungry technique, requires long ‘stare’ durations for every source. Since the field-of-view of XSPECT is co-aligned with that of POLIX, this allows XSPECT to carry out long-term spectral and temporal variability studies of the sources, which is also a valuable input to augment the polarization studies.
 
 <p align="center">
-  <img src="../assets/images/exposat_ketan_rwitija/image04.jpg">
+  <img src="../assets/images/exposat_ketan_rwitika/image04.jpg">
 </p>
 
 <p align="center">
