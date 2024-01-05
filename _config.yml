@@ -565,6 +565,15 @@ authors:
         twitter: 
         description: 
 
+ Ketan Rikame, Rwitika Chatterjee:
+        name: Ketan Rikame, Rwitika Chatterjee
+        display_name: Ketan Rikame, Rwitika Chatterjee
+        avatar: 
+        email: 
+        web: 
+        twitter: 
+        description: "Ketan is a member of the POLIX instrumentation team at RRI, Bangalore. His primary research interests are astronomy instrumentation and data analysis.
+Rwitika was involved in the testing, calibration and development of the data analysis software for XSPECT payload on-board XPoSat. Her primary research area is the study of neutron stars in X-rays."
 
 plugins:
   - jekyll-paginate
